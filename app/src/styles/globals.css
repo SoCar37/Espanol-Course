@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Poppins', system-ui, sans-serif;
+    background-color: #0f172a;
+    color: #f1f5f9;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Focus ring — WCAG AA compliant */
+  *:focus-visible {
+    outline: 2px solid #6366f1;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* Minimum touch target size — WCAG AA */
+  button, a, [role="button"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Prevent iOS font size adjustment */
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Gradient text utility */
+  .gradient-text {
+    background: linear-gradient(135deg, #6366f1, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Card base */
+  .card {
+    @apply bg-surface-card rounded-2xl p-6 shadow-lg;
+  }
+
+  /* Primary button */
+  .btn-primary {
+    @apply px-6 py-3 bg-gradient-to-r from-brand-primary to-brand-secondary
+           text-white font-medium rounded-full transition-all duration-300
+           hover:-translate-y-0.5 hover:shadow-lg hover:shadow-indigo-500/25
+           active:translate-y-0 focus-visible:ring-2 focus-visible:ring-indigo-500;
+  }
+
+  /* Secondary button */
+  .btn-secondary {
+    @apply px-6 py-3 bg-surface-card text-content-primary font-medium rounded-full
+           transition-all duration-300 hover:bg-surface-hover
+           focus-visible:ring-2 focus-visible:ring-indigo-500;
+  }
+
+  /* Pill tab */
+  .tab-pill {
+    @apply px-6 py-2.5 rounded-full font-medium text-sm transition-all duration-300
+           bg-surface-card text-content-secondary border-2 border-transparent
+           hover:bg-surface-hover cursor-pointer;
+  }
+
+  .tab-pill.active {
+    @apply bg-gradient-to-r from-brand-primary to-brand-secondary
+           text-white border-brand-primary;
+  }
+
+  /* Example sentence block */
+  .example-block {
+    @apply bg-indigo-500/10 border-l-4 border-brand-primary rounded-r-xl
+           p-4 my-3 italic text-content-secondary;
+  }
+
+  /* Progress bar */
+  .progress-bar {
+    @apply w-full h-3 bg-surface-main rounded-full overflow-hidden;
+  }
+
+  .progress-fill {
+    @apply h-full bg-gradient-to-r from-brand-primary to-brand-accent
+           rounded-full transition-all duration-500;
+  }
+}

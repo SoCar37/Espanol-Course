@@ -1,0 +1,72 @@
+{
+  "id": "A1-U01-Q",
+  "title": "Unit 1 Checkpoint Quiz",
+  "passing_score": 70,
+  "version": "0.1.0",
+  "questions": [
+    {
+      "id": "A1-U01-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which greeting is used in the afternoon?",
+      "options": ["Buenos días", "Buenas noches", "Buenas tardes", "Hola"],
+      "answer": 2,
+      "explanation": "Buenas tardes is used from noon until sunset — roughly 12pm to 7pm."
+    },
+    {
+      "id": "A1-U01-Q002",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'Nice to meet you' in Spanish?",
+      "options": ["De nada", "Por favor", "Mucho gusto", "Hasta luego"],
+      "answer": 2,
+      "explanation": "Mucho gusto means 'nice to meet you' and is used when meeting someone for the first time."
+    },
+    {
+      "id": "A1-U01-Q003",
+      "type": "multiple_choice",
+      "prompt": "Your colleague is your boss's age. Which form do you use to ask how they are?",
+      "options": ["¿Cómo estás?", "¿Cómo está usted?", "¿Qué tal?", "¿Cómo te va?"],
+      "answer": 1,
+      "explanation": "¿Cómo está usted? uses the formal usted form, appropriate for elders, strangers, and authority figures."
+    },
+    {
+      "id": "A1-U01-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'nos vemos' mean?",
+      "options": ["Good night", "You're welcome", "See you / We'll see each other", "How are you?"],
+      "answer": 2,
+      "explanation": "Nos vemos is a casual farewell meaning 'see you' or literally 'we'll see each other' — very common in Mexican Spanish."
+    },
+    {
+      "id": "A1-U01-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete the introduction: 'Hola, ___ llamo Sofía.'",
+      "options": ["te", "se", "me", "le"],
+      "answer": 2,
+      "explanation": "Me llamo means 'my name is' — using the reflexive pronoun me (myself). So: Hola, me llamo Sofía."
+    },
+    {
+      "id": "A1-U01-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'de nada' mean?",
+      "options": ["Please", "Thank you", "Goodbye", "You're welcome"],
+      "answer": 3,
+      "explanation": "De nada means 'you're welcome' — it's the standard response to gracias in Spanish."
+    },
+    {
+      "id": "A1-U01-Q007",
+      "type": "multiple_choice",
+      "prompt": "In Mexico, what does simply saying 'buenas' to someone mean?",
+      "options": ["Goodbye", "A general informal greeting at any time of day", "Good night only", "Thank you"],
+      "answer": 1,
+      "explanation": "Buenas is a casual abbreviated greeting used at any time of day in Mexico — a shortcut for buenos días, buenas tardes, or buenas noches."
+    },
+    {
+      "id": "A1-U01-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'take care' as a farewell?",
+      "options": ["Hasta mañana", "Por favor", "Cuídate", "Bien"],
+      "answer": 2,
+      "explanation": "Cuídate means 'take care of yourself' — a warm, friendly farewell commonly used in Mexico."
+    }
+  ]
+}
