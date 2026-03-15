@@ -26,11 +26,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Copy content into app/public before build
-        run: |
-          mkdir -p app/public/content
-          cp -r content/* app/public/content/
-
       - name: Install dependencies
         working-directory: ./app
         run: npm install

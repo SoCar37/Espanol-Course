@@ -6,8 +6,8 @@ app/node_modules/
 docs/
 app/dist/
 
-# Content copied into public for local dev (generated — not committed)
-app/public/content/
+# Build output only
+app/dist/
 
 # Environment variables
 .env

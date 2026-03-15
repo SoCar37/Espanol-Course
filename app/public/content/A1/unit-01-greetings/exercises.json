@@ -1,0 +1,68 @@
+[
+  {
+    "id": "A1-U01-E001",
+    "type": "multiple_choice",
+    "prompt": "How do you say 'Good morning' in Mexican Spanish?",
+    "options": ["Buenas noches", "Buenos días", "Buenas tardes", "Hasta luego"],
+    "answer": 1,
+    "explanation": "Buenos días is used from sunrise until around noon. Buenas tardes is afternoon, and buenas noches is evening/night."
+  },
+  {
+    "id": "A1-U01-E002",
+    "type": "fill_in_blank",
+    "prompt": "___, me llamo Carlos. ¿Y tú? (Hello, my name is Carlos. And you?)",
+    "answer": "Hola",
+    "acceptable_answers": ["Hola"],
+    "hint": "The most common and versatile Spanish greeting",
+    "explanation": "Hola is the universal Spanish greeting, used at any time of day in any informal situation."
+  },
+  {
+    "id": "A1-U01-E003",
+    "type": "translation",
+    "prompt": "Translate to Spanish: 'Nice to meet you.'",
+    "answer": "Mucho gusto.",
+    "acceptable_answers": ["Mucho gusto", "Mucho gusto.", "Es un placer."],
+    "explanation": "Mucho gusto (literally 'much pleasure') is the standard phrase when meeting someone for the first time in Mexican Spanish."
+  },
+  {
+    "id": "A1-U01-E004",
+    "type": "multiple_choice",
+    "prompt": "Your friend asks: '¿Cómo estás?' — What does this mean?",
+    "options": ["What is your name?", "Where are you from?", "How are you?", "Do you speak Spanish?"],
+    "answer": 2,
+    "explanation": "¿Cómo estás? literally means 'How are you?' It uses the informal tú form, appropriate for friends and peers."
+  },
+  {
+    "id": "A1-U01-E005",
+    "type": "multiple_choice",
+    "prompt": "Which is the most casual, typically Mexican way to say goodbye?",
+    "options": ["Adiós", "Hasta luego", "Nos vemos", "Hasta pronto"],
+    "answer": 2,
+    "explanation": "Nos vemos (literally 'we'll see each other') is a very common casual farewell in Mexico, especially among friends."
+  },
+  {
+    "id": "A1-U01-E006",
+    "type": "fill_in_blank",
+    "prompt": "—Gracias. —___ nada. (—Thank you. —You're welcome.)",
+    "answer": "De",
+    "acceptable_answers": ["De", "de"],
+    "hint": "Two words together mean 'you're welcome'",
+    "explanation": "De nada means 'you're welcome' in Spanish. Literally it means 'of nothing' — similar to 'don't mention it' in English."
+  },
+  {
+    "id": "A1-U01-E007",
+    "type": "translation",
+    "prompt": "Translate to Spanish: 'Good evening, how are you?' (formal)",
+    "answer": "Buenas noches, ¿cómo está usted?",
+    "acceptable_answers": ["Buenas noches, ¿cómo está usted?", "Buenas noches, ¿cómo está?"],
+    "explanation": "Buenas noches for 'good evening' and ¿cómo está usted? for the formal version of 'how are you?' — using usted instead of tú."
+  },
+  {
+    "id": "A1-U01-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to say: 'Hello, my name is María.'",
+    "words": ["Hola,", "me", "llamo", "María."],
+    "answer": "Hola, me llamo María.",
+    "explanation": "Me llamo literally means 'I call myself' and is the most natural way to introduce your name in Spanish."
+  }
+]

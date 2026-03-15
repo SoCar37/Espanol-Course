@@ -1,0 +1,167 @@
+[
+  {
+    "id": "A1-U01-V001",
+    "word": "hola",
+    "translation": "hello / hi",
+    "pronunciation_hint": "OH-lah",
+    "part_of_speech": "interjection",
+    "example_sentence": "Hola, ¿cómo estás?",
+    "example_translation": "Hello, how are you?",
+    "audio_file": "A1/unit-01/hola.mp3",
+    "tags": ["greeting", "essential", "informal"]
+  },
+  {
+    "id": "A1-U01-V002",
+    "word": "buenos días",
+    "translation": "good morning",
+    "pronunciation_hint": "BWEH-nos DEE-as",
+    "part_of_speech": "phrase",
+    "example_sentence": "Buenos días, señora García.",
+    "example_translation": "Good morning, Mrs. García.",
+    "audio_file": "A1/unit-01/buenos-dias.mp3",
+    "tags": ["greeting", "essential", "formal", "morning"]
+  },
+  {
+    "id": "A1-U01-V003",
+    "word": "buenas tardes",
+    "translation": "good afternoon",
+    "pronunciation_hint": "BWEH-nas TAR-des",
+    "part_of_speech": "phrase",
+    "example_sentence": "Buenas tardes, ¿cómo le va?",
+    "example_translation": "Good afternoon, how are you doing?",
+    "audio_file": "A1/unit-01/buenas-tardes.mp3",
+    "tags": ["greeting", "essential", "afternoon"]
+  },
+  {
+    "id": "A1-U01-V004",
+    "word": "buenas noches",
+    "translation": "good evening / good night",
+    "pronunciation_hint": "BWEH-nas NO-ches",
+    "part_of_speech": "phrase",
+    "example_sentence": "Buenas noches, hasta mañana.",
+    "example_translation": "Good night, see you tomorrow.",
+    "audio_file": "A1/unit-01/buenas-noches.mp3",
+    "tags": ["greeting", "essential", "evening", "farewell"]
+  },
+  {
+    "id": "A1-U01-V005",
+    "word": "¿cómo estás?",
+    "translation": "how are you? (informal)",
+    "pronunciation_hint": "KO-mo es-TAS",
+    "part_of_speech": "phrase",
+    "example_sentence": "Hola, ¿cómo estás?",
+    "example_translation": "Hi, how are you?",
+    "audio_file": "A1/unit-01/como-estas.mp3",
+    "tags": ["question", "essential", "informal"]
+  },
+  {
+    "id": "A1-U01-V006",
+    "word": "me llamo",
+    "translation": "my name is",
+    "pronunciation_hint": "meh YA-mo",
+    "part_of_speech": "phrase",
+    "example_sentence": "Me llamo Ana, ¿y tú?",
+    "example_translation": "My name is Ana, and you?",
+    "audio_file": "A1/unit-01/me-llamo.mp3",
+    "tags": ["introduction", "essential"]
+  },
+  {
+    "id": "A1-U01-V007",
+    "word": "mucho gusto",
+    "translation": "nice to meet you",
+    "pronunciation_hint": "MOO-cho GOOS-to",
+    "part_of_speech": "phrase",
+    "example_sentence": "Mucho gusto, soy Carlos.",
+    "example_translation": "Nice to meet you, I'm Carlos.",
+    "audio_file": "A1/unit-01/mucho-gusto.mp3",
+    "tags": ["introduction", "courtesy", "essential"]
+  },
+  {
+    "id": "A1-U01-V008",
+    "word": "gracias",
+    "translation": "thank you",
+    "pronunciation_hint": "GRA-syas",
+    "part_of_speech": "interjection",
+    "example_sentence": "Muchas gracias, muy amable.",
+    "example_translation": "Thank you very much, very kind.",
+    "audio_file": "A1/unit-01/gracias.mp3",
+    "tags": ["courtesy", "essential"]
+  },
+  {
+    "id": "A1-U01-V009",
+    "word": "de nada",
+    "translation": "you're welcome",
+    "pronunciation_hint": "de NA-da",
+    "part_of_speech": "phrase",
+    "example_sentence": "—Gracias. —De nada.",
+    "example_translation": "—Thank you. —You're welcome.",
+    "audio_file": "A1/unit-01/de-nada.mp3",
+    "tags": ["courtesy", "essential", "response"]
+  },
+  {
+    "id": "A1-U01-V010",
+    "word": "hasta luego",
+    "translation": "see you later / goodbye",
+    "pronunciation_hint": "AS-ta LWEH-go",
+    "part_of_speech": "phrase",
+    "example_sentence": "Hasta luego, que te vaya bien.",
+    "example_translation": "See you later, take care.",
+    "audio_file": "A1/unit-01/hasta-luego.mp3",
+    "tags": ["farewell", "essential"]
+  },
+  {
+    "id": "A1-U01-V011",
+    "word": "por favor",
+    "translation": "please",
+    "pronunciation_hint": "por fa-BOR",
+    "part_of_speech": "phrase",
+    "example_sentence": "¿Me ayudas, por favor?",
+    "example_translation": "Can you help me, please?",
+    "audio_file": "A1/unit-01/por-favor.mp3",
+    "tags": ["courtesy", "essential"]
+  },
+  {
+    "id": "A1-U01-V012",
+    "word": "nos vemos",
+    "translation": "see you / we'll see each other",
+    "pronunciation_hint": "nos BEH-mos",
+    "part_of_speech": "phrase",
+    "example_sentence": "Nos vemos mañana.",
+    "example_translation": "See you tomorrow.",
+    "audio_file": "A1/unit-01/nos-vemos.mp3",
+    "tags": ["farewell", "mexican", "casual"]
+  },
+  {
+    "id": "A1-U01-V013",
+    "word": "¿qué tal?",
+    "translation": "what's up? / how's it going?",
+    "pronunciation_hint": "keh TAL",
+    "part_of_speech": "phrase",
+    "example_sentence": "¡Hola! ¿Qué tal todo?",
+    "example_translation": "Hi! How's everything?",
+    "audio_file": "A1/unit-01/que-tal.mp3",
+    "tags": ["greeting", "casual", "mexican"]
+  },
+  {
+    "id": "A1-U01-V014",
+    "word": "bien",
+    "translation": "well / good / fine",
+    "pronunciation_hint": "byen",
+    "part_of_speech": "adverb",
+    "example_sentence": "Estoy bien, gracias.",
+    "example_translation": "I am well, thank you.",
+    "audio_file": "A1/unit-01/bien.mp3",
+    "tags": ["response", "essential"]
+  },
+  {
+    "id": "A1-U01-V015",
+    "word": "cuídate",
+    "translation": "take care",
+    "pronunciation_hint": "KWEE-da-teh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Adiós, cuídate mucho.",
+    "example_translation": "Goodbye, take good care.",
+    "audio_file": "A1/unit-01/cuidate.mp3",
+    "tags": ["farewell", "warm", "casual"]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "A1-U01",
+  "title": "Greetings and Introductions",
+  "level": "A1",
+  "unit": 1,
+  "slug": "greetings",
+  "estimated_minutes": 20,
+  "topics": ["greetings", "introductions", "farewells", "courtesy phrases"],
+  "prereqs": [],
+  "cefr_skills": ["speaking", "listening", "reading"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.1.0"
+}
