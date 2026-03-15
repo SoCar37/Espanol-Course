@@ -1,132 +1,168 @@
-import { useState, useEffect, useCallback } from 'react'
+// src/hooks/useProgress.js
+import { useState, useCallback } from 'react';
 
-const STORAGE_KEY = 'espanol-course-progress'
+const STORAGE_KEY = 'espanol-course-progress';
 
-const DEFAULT_PROGRESS = {
-  version: '0.1.0',
+const defaultProgress = {
   xp: 0,
   streak: 0,
-  lastStudyDate: null,
   longestStreak: 0,
-  units: {},       // keyed by "A1-unit-01" etc.
-  vocab: {},       // keyed by vocab id, stores SM-2 data
-  quizScores: {},  // keyed by unit id
-}
+  lastActiveDate: null,
+  completedLessons: [],   // array of unit slugs
+  completedExercises: [], // array of unit slugs — exercises done, quiz unlocked
+  completedQuizzes: [],   // array of unit slugs — quiz passed
+  quizScores: {},         // { unitSlug: highScore }
+  exerciseScores: {},     // { unitSlug: { score, total } }
+};
 
 function loadProgress() {
   try {
-    const stored = localStorage.getItem(STORAGE_KEY)
-    if (!stored) return DEFAULT_PROGRESS
-    return { ...DEFAULT_PROGRESS, ...JSON.parse(stored) }
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return defaultProgress;
+    return { ...defaultProgress, ...JSON.parse(raw) };
   } catch {
-    return DEFAULT_PROGRESS
+    return defaultProgress;
   }
 }
 
-function saveProgress(progress) {
+function saveProgress(data) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress))
-  } catch (e) {
-    console.warn('Could not save progress to localStorage:', e)
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  } catch {
+    console.warn('Could not save progress to localStorage');
   }
 }
 
 export function useProgress() {
-  const [progress, setProgress] = useState(loadProgress)
+  const [progress, setProgress] = useState(loadProgress);
 
-  // Persist on every change
-  useEffect(() => {
-    saveProgress(progress)
-  }, [progress])
+  const updateProgress = useCallback((updater) => {
+    setProgress((prev) => {
+      const next = updater(prev);
+      saveProgress(next);
+      return next;
+    });
+  }, []);
 
-  // Update streak on load
-  useEffect(() => {
-    const today = new Date().toDateString()
-    if (progress.lastStudyDate === today) return
+  // Call when user clicks "Lesson Complete"
+  const completeLesson = useCallback(
+    (unitSlug, xpAmount = 50) => {
+      updateProgress((prev) => {
+        const alreadyDone = prev.completedLessons.includes(unitSlug);
+        const today = new Date().toISOString().split('T')[0];
+        const lastDate = prev.lastActiveDate;
 
-    setProgress(prev => {
-      const yesterday = new Date()
-      yesterday.setDate(yesterday.getDate() - 1)
-      const wasYesterday = prev.lastStudyDate === yesterday.toDateString()
-      const newStreak = wasYesterday ? prev.streak + 1 : 1
-      return {
-        ...prev,
-        streak: newStreak,
-        longestStreak: Math.max(prev.longestStreak, newStreak),
-        lastStudyDate: today,
-      }
-    })
-  }, [])
+        let streak = prev.streak;
+        let longestStreak = prev.longestStreak;
 
-  const getUnitProgress = useCallback((unitKey) => {
-    return progress.units[unitKey] || null
-  }, [progress.units])
+        if (!alreadyDone) {
+          if (lastDate === today) {
+            // same day, no streak change
+          } else {
+            const yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
+            const yStr = yesterday.toISOString().split('T')[0];
+            if (lastDate === yStr) {
+              streak += 1;
+            } else {
+              streak = 1;
+            }
+            longestStreak = Math.max(longestStreak, streak);
+          }
+        }
 
-  const markLessonComplete = useCallback((unitKey) => {
-    setProgress(prev => ({
-      ...prev,
-      xp: prev.xp + 10,
-      units: {
-        ...prev.units,
-        [unitKey]: {
-          ...prev.units[unitKey],
-          lessonComplete: true,
-          percent: Math.max(prev.units[unitKey]?.percent || 0, 25),
-        },
-      },
-    }))
-  }, [])
+        return {
+          ...prev,
+          xp: alreadyDone ? prev.xp : prev.xp + xpAmount,
+          streak,
+          longestStreak,
+          lastActiveDate: today,
+          completedLessons: alreadyDone
+            ? prev.completedLessons
+            : [...prev.completedLessons, unitSlug],
+        };
+      });
+    },
+    [updateProgress]
+  );
 
-  const markExercisesComplete = useCallback((unitKey, score) => {
-    setProgress(prev => ({
-      ...prev,
-      xp: prev.xp + 20,
-      units: {
-        ...prev.units,
-        [unitKey]: {
-          ...prev.units[unitKey],
-          exercisesComplete: true,
-          exerciseScore: score,
-          percent: Math.max(prev.units[unitKey]?.percent || 0, 60),
-        },
-      },
-    }))
-  }, [])
+  // Call when user finishes the exercise set
+  const completeExercises = useCallback(
+    (unitSlug, score, total, xpEarned) => {
+      updateProgress((prev) => {
+        const alreadyDone = prev.completedExercises.includes(unitSlug);
+        const today = new Date().toISOString().split('T')[0];
+        return {
+          ...prev,
+          xp: prev.xp + (alreadyDone ? 0 : xpEarned),
+          lastActiveDate: today,
+          completedExercises: alreadyDone
+            ? prev.completedExercises
+            : [...prev.completedExercises, unitSlug],
+          exerciseScores: {
+            ...prev.exerciseScores,
+            [unitSlug]: { score, total },
+          },
+        };
+      });
+    },
+    [updateProgress]
+  );
 
-  const markQuizComplete = useCallback((unitKey, score) => {
-    const passed = score >= 70
-    setProgress(prev => ({
-      ...prev,
-      xp: prev.xp + (passed ? 50 : 10),
-      quizScores: { ...prev.quizScores, [unitKey]: score },
-      units: {
-        ...prev.units,
-        [unitKey]: {
-          ...prev.units[unitKey],
-          quizComplete: passed,
-          quizScore: score,
-          complete: passed,
-          percent: passed ? 100 : Math.max(prev.units[unitKey]?.percent || 0, 80),
-        },
-      },
-    }))
-  }, [])
+  // Call when user passes the quiz
+  const completeQuiz = useCallback(
+    (unitSlug, score, total, xpEarned = 100) => {
+      updateProgress((prev) => {
+        const prevBest = prev.quizScores[unitSlug] || 0;
+        const pct = Math.round((score / total) * 100);
+        const alreadyPassed = prev.completedQuizzes.includes(unitSlug);
+        const today = new Date().toISOString().split('T')[0];
+        return {
+          ...prev,
+          xp: alreadyPassed ? prev.xp : prev.xp + xpEarned,
+          lastActiveDate: today,
+          completedQuizzes: alreadyPassed
+            ? prev.completedQuizzes
+            : [...prev.completedQuizzes, unitSlug],
+          quizScores: {
+            ...prev.quizScores,
+            [unitSlug]: Math.max(prevBest, pct),
+          },
+        };
+      });
+    },
+    [updateProgress]
+  );
 
-  const addXP = useCallback((amount) => {
-    setProgress(prev => ({ ...prev, xp: prev.xp + amount }))
-  }, [])
+  // Helpers
+  const isLessonComplete = useCallback(
+    (unitSlug) => progress.completedLessons.includes(unitSlug),
+    [progress]
+  );
 
-  const resetProgress = useCallback(() => {
-    setProgress(DEFAULT_PROGRESS)
-  }, [])
+  const isExercisesComplete = useCallback(
+    (unitSlug) => progress.completedExercises.includes(unitSlug),
+    [progress]
+  );
+
+  const isQuizComplete = useCallback(
+    (unitSlug) => progress.completedQuizzes.includes(unitSlug),
+    [progress]
+  );
+
+  const isQuizUnlocked = useCallback(
+    (unitSlug) => progress.completedExercises.includes(unitSlug),
+    [progress]
+  );
 
   return {
     progress,
-    getUnitProgress,
-    markLessonComplete,
-    markExercisesComplete,
-    markQuizComplete,
-    addXP,
-    resetProgress,
-  }
+    completeLesson,
+    completeExercises,
+    completeQuiz,
+    isLessonComplete,
+    isExercisesComplete,
+    isQuizComplete,
+    isQuizUnlocked,
+  };
 }

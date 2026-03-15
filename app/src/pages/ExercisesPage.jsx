@@ -1,150 +1,131 @@
-import { useState } from 'react'
-import { Link } from 'react-router-dom'
-
-// Sample exercise for scaffold — full engine in v0.2.0
-const SAMPLE_EXERCISE = {
-  id: 'A1-U01-E001',
-  type: 'multiple_choice',
-  prompt: 'How do you say "Good morning" in Mexican Spanish?',
-  options: ['Buenas noches', 'Buenos días', 'Buenas tardes', 'Hasta luego'],
-  answer: 1,
-  explanation: 'Buenos días is used from sunrise until around noon. It\'s one of the most common greetings in Mexican Spanish.',
-}
+// src/pages/ExercisesPage.jsx
+import { useState, useEffect } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
+import ExerciseEngine from '../components/exercises/ExerciseEngine';
+import { useProgress } from '../hooks/useProgress';
 
 export default function ExercisesPage() {
-  const [selected, setSelected] = useState(null)
-  const [submitted, setSubmitted] = useState(false)
+  const { level, unit } = useParams();
+  const navigate = useNavigate();
+  const { completeExercises, isExercisesComplete } = useProgress();
 
-  const isCorrect = selected === SAMPLE_EXERCISE.answer
+  const [exercises, setExercises] = useState([]);
+  const [meta, setMeta] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
-  function handleSelect(index) {
-    if (submitted) return
-    setSelected(index)
-  }
+  // Fallback when no route params — default to A1 unit-01-greetings
+  const resolvedLevel = level || 'A1';
+  const resolvedUnit = unit || 'unit-01-greetings';
 
-  function handleSubmit() {
-    if (selected === null) return
-    setSubmitted(true)
-  }
+  useEffect(() => {
+    setLoading(true);
+    setError(null);
 
-  function handleReset() {
-    setSelected(null)
-    setSubmitted(false)
-  }
+    const base = `/Espanol-Course/content/${resolvedLevel}/${resolvedUnit}`;
 
-  return (
-    <div className="max-w-2xl mx-auto animate-fade-in">
+    Promise.all([
+      fetch(`${base}/exercises.json`).then((r) => {
+        if (!r.ok) throw new Error(`exercises.json not found (${r.status})`);
+        return r.json();
+      }),
+      fetch(`${base}/meta.json`).then((r) => {
+        if (!r.ok) throw new Error(`meta.json not found (${r.status})`);
+        return r.json();
+      }),
+    ])
+      .then(([exData, metaData]) => {
+        setExercises(exData);
+        setMeta(metaData);
+        setLoading(false);
+      })
+      .catch((err) => {
+        setError(err.message);
+        setLoading(false);
+      });
+  }, [resolvedLevel, resolvedUnit]);
 
-      <div className="text-center mb-8">
-        <h1 className="text-2xl font-bold gradient-text mb-1">Exercises</h1>
-        <p className="text-content-secondary text-sm">
-          Practice what you've learned
-        </p>
+  const handleComplete = (score, total, xpEarned) => {
+    completeExercises(resolvedUnit, score, total, xpEarned);
+  };
+
+  const handleStartQuiz = () => {
+    navigate(`/quiz/${resolvedLevel}/${resolvedUnit}`);
+  };
+
+  // ── Loading state ────────────────────────────────────────────
+  if (loading) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4">
+        <div className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin" />
+        <p className="text-slate-400 font-medium">Loading exercises…</p>
       </div>
+    );
+  }
 
-      {/* Sample exercise */}
-      <div className="card mb-6">
-
-        {/* Question header */}
-        <div className="flex items-center gap-2 mb-6">
-          <span className="bg-gradient-to-r from-brand-primary to-brand-secondary text-white text-xs font-bold px-3 py-1 rounded-full">
-            Multiple choice
-          </span>
-          <span className="text-content-secondary text-sm">A1 · Unit 1</span>
-        </div>
-
-        {/* Question */}
-        <p className="text-content-primary text-lg font-medium mb-6" role="heading" aria-level={2}>
-          {SAMPLE_EXERCISE.prompt}
-        </p>
-
-        {/* Options */}
-        <div
-          className="space-y-3"
-          role="radiogroup"
-          aria-label="Answer options"
+  // ── Error state ──────────────────────────────────────────────
+  if (error) {
+    return (
+      <div className="max-w-md mx-auto px-4 py-12 text-center space-y-4">
+        <p className="text-4xl">😕</p>
+        <h2 className="text-xl font-bold text-white">Couldn't load exercises</h2>
+        <p className="text-slate-400 text-sm font-mono bg-slate-800 rounded-lg px-3 py-2">{error}</p>
+        <button
+          onClick={() => navigate(-1)}
+          className="px-6 py-2 rounded-xl bg-indigo-600 text-white font-medium hover:bg-indigo-500 transition-colors"
         >
-          {SAMPLE_EXERCISE.options.map((option, index) => {
-            let stateClass = 'border-white/10 hover:border-brand-primary bg-surface-main'
-            if (submitted) {
-              if (index === SAMPLE_EXERCISE.answer) {
-                stateClass = 'border-brand-success bg-green-500/10 text-green-400'
-              } else if (index === selected && !isCorrect) {
-                stateClass = 'border-red-500 bg-red-500/10 text-red-400 animate-shake'
-              } else {
-                stateClass = 'border-white/5 bg-surface-main opacity-50'
-              }
-            } else if (selected === index) {
-              stateClass = 'border-brand-primary bg-indigo-500/10'
-            }
-
-            return (
-              <button
-                key={index}
-                onClick={() => handleSelect(index)}
-                disabled={submitted}
-                className={`w-full text-left px-5 py-4 rounded-xl border-2 transition-all duration-200 font-medium ${stateClass}`}
-                role="radio"
-                aria-checked={selected === index}
-                aria-label={`Option ${index + 1}: ${option}`}
-              >
-                <span className="mr-3 text-content-secondary text-sm">
-                  {String.fromCharCode(65 + index)}.
-                </span>
-                {option}
-                {submitted && index === SAMPLE_EXERCISE.answer && (
-                  <span className="ml-2" aria-hidden="true">✓</span>
-                )}
-              </button>
-            )
-          })}
-        </div>
-
-        {/* Explanation */}
-        {submitted && (
-          <div
-            className={`mt-6 p-4 rounded-xl border-l-4 ${isCorrect ? 'bg-green-500/10 border-green-500' : 'bg-red-500/10 border-red-500'}`}
-            role="alert"
-            aria-live="polite"
-          >
-            <p className={`font-semibold mb-1 ${isCorrect ? 'text-green-400' : 'text-red-400'}`}>
-              {isCorrect ? '🎉 Correct!' : '❌ Not quite'}
-            </p>
-            <p className="text-content-secondary text-sm">
-              {SAMPLE_EXERCISE.explanation}
-            </p>
-          </div>
-        )}
-
-        {/* Action buttons */}
-        <div className="mt-6 flex gap-3">
-          {!submitted ? (
-            <button
-              onClick={handleSubmit}
-              disabled={selected === null}
-              className={`btn-primary ${selected === null ? 'opacity-50 cursor-not-allowed' : ''}`}
-              aria-disabled={selected === null}
-            >
-              Check answer
-            </button>
-          ) : (
-            <button onClick={handleReset} className="btn-secondary">
-              Try again
-            </button>
-          )}
-        </div>
-
+          Go back
+        </button>
       </div>
+    );
+  }
 
-      {/* Coming soon notice */}
-      <div className="card text-center">
-        <p className="text-content-secondary text-sm">
-          🔧 <strong className="text-content-primary">Full exercise engine coming in v0.2.0</strong> — 
-          fill-in-the-blank, translation, sentence assembly, error correction, and listening exercises
-          will all be available once A1 Unit 1 content is complete.
+  // ── Main ─────────────────────────────────────────────────────
+  return (
+    <div className="max-w-2xl mx-auto px-4 py-6 pb-24 space-y-6">
+      {/* Header */}
+      <div className="space-y-1">
+        <div className="flex items-center gap-2 text-xs font-semibold text-slate-500 uppercase tracking-widest">
+          <button
+            onClick={() => navigate(`/lesson/${resolvedLevel}/${resolvedUnit}`)}
+            className="hover:text-slate-300 transition-colors"
+          >
+            {meta?.title || resolvedUnit}
+          </button>
+          <span>›</span>
+          <span className="text-indigo-400">Exercises</span>
+        </div>
+        <h1 className="text-2xl font-bold text-white">Practice</h1>
+        <p className="text-slate-400 text-sm">
+          Answer all {exercises.length} exercises to unlock the quiz. Wrong answers must be corrected before moving on.
         </p>
       </div>
 
+      {/* Already completed notice */}
+      {isExercisesComplete(resolvedUnit) && (
+        <div className="flex items-center gap-3 px-4 py-3 rounded-xl bg-green-500/10 border border-green-500/30">
+          <span className="text-green-400">✓</span>
+          <div>
+            <p className="text-green-300 font-semibold text-sm">Exercises already completed</p>
+            <p className="text-green-400/70 text-xs">Quiz is unlocked — you can retake these for practice</p>
+          </div>
+          <button
+            onClick={handleStartQuiz}
+            className="ml-auto px-3 py-1.5 rounded-lg bg-green-500/20 border border-green-500/40 text-green-300 text-xs font-semibold hover:bg-green-500/30 transition-colors whitespace-nowrap"
+          >
+            Go to Quiz
+          </button>
+        </div>
+      )}
+
+      {/* Engine */}
+      <ExerciseEngine
+        exercises={exercises}
+        level={resolvedLevel}
+        unit={resolvedUnit}
+        onComplete={handleComplete}
+        onStartQuiz={handleStartQuiz}
+      />
     </div>
-  )
+  );
 }
