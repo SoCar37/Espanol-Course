@@ -1,12 +1,13 @@
 // src/App.jsx
-import { Routes, Route, Navigate } from 'react-router-dom';
-import Layout from './components/layout/Layout';
-import CourseMapPage from './pages/CourseMapPage';
-import LessonPage from './pages/LessonPage';
-import FlashcardsPage from './pages/FlashcardsPage';
-import ExercisesPage from './pages/ExercisesPage';
-import QuizPage from './pages/QuizPage';
-import ProgressPage from './pages/ProgressPage';
+import { Routes, Route, Navigate } from 'react-router-dom'
+import Layout from './components/layout/Layout'
+import CourseMapPage from './pages/CourseMapPage'
+import LessonPage from './pages/LessonPage'
+import FlashcardsPage from './pages/FlashcardsPage'
+import ExercisesPage from './pages/ExercisesPage'
+import QuizPage from './pages/QuizPage'
+import ProgressPage from './pages/ProgressPage'
+import PlacementTestPage from './pages/PlacementTestPage'
 
 export default function App() {
   return (
@@ -14,6 +15,9 @@ export default function App() {
       <Routes>
         {/* Course map — home */}
         <Route path="/" element={<CourseMapPage />} />
+
+        {/* Placement test */}
+        <Route path="/placement" element={<PlacementTestPage />} />
 
         {/* Lesson */}
         <Route path="/lesson/:level/:unit" element={<LessonPage />} />
@@ -38,5 +42,5 @@ export default function App() {
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Layout>
-  );
+  )
 }

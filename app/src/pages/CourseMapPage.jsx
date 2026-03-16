@@ -1,3 +1,4 @@
+// src/pages/CourseMapPage.jsx
 import { Link } from 'react-router-dom'
 import { useProgress } from '../hooks/useProgress'
 
@@ -86,25 +87,46 @@ const COURSE_STRUCTURE = [
     description: 'Nuanced writing, literature & media, regional variation, professional Spanish',
     color: 'from-orange-500 to-amber-500',
     units: [
-      { id: 'unit-01-advanced-grammar',   title: 'Advanced Grammar Consolidation' },
-      { id: 'unit-02-stylistics',         title: 'Stylistics & Written Register' },
-      { id: 'unit-03-rhetoric',           title: 'Rhetoric & Advanced Argumentation' },
-      { id: 'unit-04-mexican-history',    title: 'Mexican History & Politics' },
+      { id: 'unit-01-advanced-grammar',    title: 'Advanced Grammar Consolidation' },
+      { id: 'unit-02-stylistics',          title: 'Stylistics & Written Register' },
+      { id: 'unit-03-rhetoric',            title: 'Rhetoric & Advanced Argumentation' },
+      { id: 'unit-04-mexican-history',     title: 'Mexican History & Politics' },
       { id: 'unit-05-literature-advanced', title: 'Advanced Literary Analysis' },
-      { id: 'unit-06-media-analysis',     title: 'Media Analysis & Critical Reading' },
+      { id: 'unit-06-media-analysis',      title: 'Media Analysis & Critical Reading' },
       { id: 'unit-07-professional-writing', title: 'Professional & Academic Writing' },
-      { id: 'unit-08-translation',        title: 'Translation & Interpretation Skills' },
-      { id: 'unit-09-regional-variation', title: 'Regional Variation & Dialects' },
-      { id: 'unit-10-review',             title: 'C1 Review & Final Checkpoint' },
+      { id: 'unit-08-translation',         title: 'Translation & Interpretation Skills' },
+      { id: 'unit-09-regional-variation',  title: 'Regional Variation & Dialects' },
+      { id: 'unit-10-review',              title: 'C1 Review & Final Checkpoint' },
     ],
   },
 ]
 
 export default function CourseMapPage() {
-  const { getUnitProgress } = useProgress()
+  const { getUnitProgress, progress } = useProgress()
 
   return (
     <div className="animate-fade-in">
+
+      {/* Placement test prompt — shown until placement is completed */}
+      {!progress.placementComplete && (
+        <div className="card mb-6 flex flex-col sm:flex-row items-center gap-4 border-indigo-500/30 bg-indigo-500/5">
+          <div className="text-4xl shrink-0" aria-hidden="true">🎯</div>
+          <div className="flex-1 text-center sm:text-left">
+            <h2 className="font-bold text-content-primary mb-1">Not sure where to start?</h2>
+            <p className="text-content-secondary text-sm">
+              Take a 35-question placement test and jump straight to the right level.
+              Skips the content you already know.
+            </p>
+          </div>
+          <Link
+            to="/placement"
+            className="btn-primary shrink-0 px-5 py-2.5 text-sm font-semibold whitespace-nowrap"
+          >
+            Take placement test →
+          </Link>
+        </div>
+      )}
+
       <div className="text-center mb-10">
         <h1 className="text-3xl md:text-4xl font-bold gradient-text mb-3">Your Spanish Journey</h1>
         <p className="text-content-secondary text-lg max-w-xl mx-auto">From complete beginner to near-native fluency — anchored in Mexican Spanish.</p>

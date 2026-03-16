@@ -1,4 +1,6 @@
-import { NavLink, useLocation } from 'react-router-dom'
+// src/components/layout/Layout.jsx
+import { NavLink, useLocation, Link } from 'react-router-dom'
+import { useProgress } from '../../hooks/useProgress'
 
 const NAV_ITEMS = [
   { path: '/',           label: 'Course',     icon: '📚', ariaLabel: 'Course map' },
@@ -9,6 +11,14 @@ const NAV_ITEMS = [
 
 export default function Layout({ children }) {
   const location = useLocation()
+  const { progress } = useProgress()
+
+  // Show the placement banner when:
+  // 1. User has never completed the placement test
+  // 2. We're not already on the placement test page
+  const showPlacementBanner =
+    !progress.placementComplete &&
+    location.pathname !== '/placement'
 
   return (
     <div className="min-h-screen bg-surface-main text-content-primary flex flex-col">
@@ -48,6 +58,29 @@ export default function Layout({ children }) {
         <span className="text-xl mr-2" aria-hidden="true">🇲🇽</span>
         <span className="font-bold gradient-text">Espanol-Course</span>
       </header>
+
+      {/* Placement test banner — shown until test is completed */}
+      {showPlacementBanner && (
+        <div className="bg-indigo-500/10 border-b border-indigo-500/20">
+          <div className="max-w-7xl mx-auto px-4 md:px-8 py-2.5 flex items-center justify-between gap-4">
+            <div className="flex items-center gap-2 min-w-0">
+              <span className="text-base shrink-0" aria-hidden="true">🎯</span>
+              <p className="text-sm text-content-primary truncate">
+                <span className="font-semibold text-indigo-300">New here?</span>
+                <span className="text-content-secondary ml-1.5 hidden sm:inline">
+                  Take a quick placement test to find your level.
+                </span>
+              </p>
+            </div>
+            <Link
+              to="/placement"
+              className="shrink-0 text-xs font-semibold px-3 py-1.5 rounded-full bg-indigo-500 hover:bg-indigo-400 text-white transition-colors"
+            >
+              Take test →
+            </Link>
+          </div>
+        </div>
+      )}
 
       {/* Main content */}
       <main
