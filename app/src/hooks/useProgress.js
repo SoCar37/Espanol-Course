@@ -1,5 +1,6 @@
 // src/hooks/useProgress.js
 import { useState, useEffect, useCallback } from 'react'
+import { sm2, isDue, getTodayString } from '../utils/sm2'
 
 const STORAGE_KEY = 'espanol-course-progress'
 
@@ -9,8 +10,8 @@ const DEFAULT_PROGRESS = {
   streak: 0,
   lastStudyDate: null,
   longestStreak: 0,
-  units: {},       // keyed by "A1-unit-01-greetings" — { lessonComplete, exercisesComplete, quizComplete, percent, exerciseScore, quizScore }
-  vocab: {},       // keyed by vocab id, stores SM-2 data (v0.2.0)
+  units: {},       // keyed by "A1-unit-01-greetings"
+  vocab: {},       // keyed by vocab id, stores SM-2 data
   quizScores: {},  // keyed by unit id
 }
 
@@ -58,7 +59,7 @@ export function useProgress() {
     })
   }, [])
 
-  // ── Original functions — unchanged so all existing pages keep working ──
+  // ── Unit progress ──────────────────────────────────────────────
 
   const getUnitProgress = useCallback((unitKey) => {
     return progress.units[unitKey] || null
@@ -114,16 +115,7 @@ export function useProgress() {
     }))
   }, [])
 
-  const addXP = useCallback((amount) => {
-    setProgress(prev => ({ ...prev, xp: prev.xp + amount }))
-  }, [])
-
-  const resetProgress = useCallback(() => {
-    setProgress(DEFAULT_PROGRESS)
-  }, [])
-
-  // ── New functions for exercise engine (v0.1.4) ──
-
+  // Called by ExerciseEngine when all exercises are completed
   const completeExercises = useCallback((unitKey, score, total, xpEarned) => {
     const pct = Math.round((score / total) * 100)
     setProgress(prev => ({
@@ -149,6 +141,46 @@ export function useProgress() {
     return !!progress.units[unitKey]?.exercisesComplete
   }, [progress.units])
 
+  const addXP = useCallback((amount) => {
+    setProgress(prev => ({ ...prev, xp: prev.xp + amount }))
+  }, [])
+
+  const resetProgress = useCallback(() => {
+    setProgress(DEFAULT_PROGRESS)
+  }, [])
+
+  // ── SM-2 Vocab / Flashcard functions ───────────────────────────
+
+  // Get SM-2 data for a single vocab item
+  const getVocabData = useCallback((vocabId) => {
+    return progress.vocab[vocabId] || null
+  }, [progress.vocab])
+
+  // Rate a card after review — updates SM-2 schedule in localStorage
+  const rateVocabCard = useCallback((vocabId, rating) => {
+    setProgress(prev => {
+      const existing = prev.vocab[vocabId] || {}
+      const updated = sm2(existing, rating)
+      return {
+        ...prev,
+        vocab: {
+          ...prev.vocab,
+          [vocabId]: updated,
+        },
+      }
+    })
+  }, [])
+
+  // Returns array of vocab ids that are due today from a given vocab array
+  const getDueVocab = useCallback((vocabArray) => {
+    return vocabArray.filter(item => isDue(progress.vocab[item.id]))
+  }, [progress.vocab])
+
+  // Returns count of cards due today for a unit
+  const getDueCount = useCallback((vocabArray) => {
+    return vocabArray.filter(item => isDue(progress.vocab[item.id])).length
+  }, [progress.vocab])
+
   return {
     progress,
     getUnitProgress,
@@ -160,5 +192,9 @@ export function useProgress() {
     isQuizUnlocked,
     addXP,
     resetProgress,
+    getVocabData,
+    rateVocabCard,
+    getDueVocab,
+    getDueCount,
   }
 }
