@@ -5,6 +5,7 @@ import CourseMapPage from './pages/CourseMapPage';
 import LessonPage from './pages/LessonPage';
 import FlashcardsPage from './pages/FlashcardsPage';
 import ExercisesPage from './pages/ExercisesPage';
+import QuizPage from './pages/QuizPage';
 import ProgressPage from './pages/ProgressPage';
 
 export default function App() {
@@ -14,18 +15,17 @@ export default function App() {
         {/* Course map — home */}
         <Route path="/" element={<CourseMapPage />} />
 
-        {/* Lesson: /lesson/A1/unit-01-greetings */}
+        {/* Lesson */}
         <Route path="/lesson/:level/:unit" element={<LessonPage />} />
-        {/* Legacy route without params — redirect to A1 Unit 1 */}
         <Route path="/lesson" element={<Navigate to="/lesson/A1/unit-01-greetings" replace />} />
 
-        {/* Exercises: /exercises/A1/unit-01-greetings */}
+        {/* Exercises */}
         <Route path="/exercises/:level/:unit" element={<ExercisesPage />} />
-        {/* Legacy route without params */}
         <Route path="/exercises" element={<Navigate to="/exercises/A1/unit-01-greetings" replace />} />
 
-        {/* Quiz: /quiz/A1/unit-01-greetings (stub — will be built in v0.2.0 next) */}
-        <Route path="/quiz/:level/:unit" element={<ExercisesPage />} />
+        {/* Quiz */}
+        <Route path="/quiz/:level/:unit" element={<QuizPage />} />
+        <Route path="/quiz" element={<Navigate to="/quiz/A1/unit-01-greetings" replace />} />
 
         {/* Flashcards */}
         <Route path="/flashcards" element={<FlashcardsPage />} />

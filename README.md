@@ -3,7 +3,7 @@
 **The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
 🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-📦 **Version:** v0.1.4  
+📦 **Version:** v0.1.5  
 📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
@@ -22,10 +22,12 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 | A1 Unit 1 — Greetings lesson | ✅ Complete |
 | Exercise engine (all 4 types) | ✅ Working |
 | Flashcard engine with SM-2 | ✅ Working |
-| Progress tracking (XP, streak) | ✅ Working |
-| Quiz engine | 🔜 v0.2.0 |
-| A1 Units 2–10 content | 🔜 v0.2.0 |
-| Audio (Google TTS Neural2) | 🔜 v0.2.0 |
+| Quiz engine | ✅ Working |
+| Full learning loop (Lesson → Exercises → Quiz) | ✅ Complete |
+| A1 Units 2–10 content | 🔜 v0.1.6 |
+| Unit unlock logic | 🔜 v0.1.6 |
+| App icons | 🔜 v0.1.6 |
+| Audio (Google TTS Neural2) | 🔜 v0.5.0 |
 | A2–C1 content | 🔜 v1.0+ |
 
 ---
@@ -79,7 +81,7 @@ content/A1/unit-01-greetings/
 └── quiz.json        ← 8-question checkpoint quiz, 70% passing score
 ```
 
-When adding a new unit, files must be placed in **both** `/content/A1/unit-XX-slug/` and `/app/public/content/A1/unit-XX-slug/`. See `CONTRIBUTING.md` for full schema reference.
+Files must exist in both `/content/A1/unit-XX-slug/` and `/app/public/content/A1/unit-XX-slug/`.
 
 ---
 
@@ -89,10 +91,11 @@ See [CHANGELOG.md](CHANGELOG.md) for full history.
 
 | Version | Milestone |
 |---|---|
+| v0.1.5 | Full quiz engine — complete learning loop working end to end |
 | v0.1.4 | Exercise engine + flashcard engine with SM-2 |
 | v0.1.0 | Initial scaffold |
-| v0.2.0 | Quiz engine + A1 content complete *(planned)* |
-| v1.0.0 | Public launch — A1+A2 complete, placement test *(planned)* |
+| v0.2.0 | A1 content complete + unit unlock logic *(planned)* |
+| v1.0.0 | Public launch *(planned)* |
 
 ---
 
