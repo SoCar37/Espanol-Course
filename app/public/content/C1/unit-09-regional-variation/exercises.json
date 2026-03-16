@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U09-E001",
+    "type": "multiple_choice",
+    "prompt": "What is the sociolinguistic definition of a 'dialect'?",
+    "options": [
+      "A degraded or incorrect form of a standard language",
+      "A fully rule-governed language variety with its own phonology, vocabulary, and grammar",
+      "Any non-standard pronunciation of a language",
+      "The informal register used by uneducated speakers"
+    ],
+    "answer": 1,
+    "explanation": "A dialect is a fully rule-governed variety of a language — not degraded or incorrect. The prestige standard is itself one dialect elevated for social, not linguistic, reasons."
+  },
+  {
+    "id": "C1-U09-E002",
+    "type": "multiple_choice",
+    "prompt": "Which Indigenous language contributed words like 'tomate', 'chocolate', and 'aguacate' to Spanish?",
+    "options": [
+      "Maya",
+      "Zapotec",
+      "Nahuatl",
+      "Tzotzil"
+    ],
+    "answer": 2,
+    "explanation": "Nahuatl — the language of the Aztecs — contributed these and hundreds of other words now used globally. 'Tomatl', 'chocolatl', and 'ahuacatl' are Nahuatl origins."
+  },
+  {
+    "id": "C1-U09-E003",
+    "type": "multiple_choice",
+    "prompt": "What linguistic feature of Yucatecan Spanish is attributed to Mayan influence?",
+    "options": [
+      "Use of English loanwords",
+      "Dropping of syllable-final 's'",
+      "Glottalization of certain sounds",
+      "Use of 'vosotros' instead of 'ustedes'"
+    ],
+    "answer": 2,
+    "explanation": "Glottalization — a brief closure of the glottis producing a distinctive sound quality — is a phonetic feature of Yucatecan Spanish directly attributed to the influence of the Mayan language."
+  },
+  {
+    "id": "C1-U09-E004",
+    "type": "multiple_choice",
+    "prompt": "The term 'chilango/a' refers to:",
+    "options": [
+      "A person from Guadalajara",
+      "A person from Mexico City",
+      "A person from the northern border region",
+      "A person from Oaxaca"
+    ],
+    "answer": 1,
+    "explanation": "'Chilango/a' is the informal — sometimes affectionate, sometimes pejorative — term for a person from Mexico City. The speech variety of Mexico City is considered the de facto prestige standard."
+  },
+  {
+    "id": "C1-U09-E005",
+    "type": "multiple_choice",
+    "prompt": "Code-switching refers to:",
+    "options": [
+      "Switching from formal to informal register within a conversation",
+      "Alternating between two languages or varieties within a single conversation",
+      "Using slang words in a formal context",
+      "Translating a text from one language to another"
+    ],
+    "answer": 1,
+    "explanation": "Code-switching is the practice of alternating between two languages or language varieties within a single conversation — common in bilingual border communities and Indigenous language communities."
+  },
+  {
+    "id": "C1-U09-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the Nahuatl-origin word: 'Los domingos voy al _______ a comprar frutas y verduras.' (outdoor market)",
+    "options": [
+      "mercado",
+      "supermercado",
+      "tianguis",
+      "plaza"
+    ],
+    "answer": 2,
+    "explanation": "'El tianguis' comes from the Nahuatl word 'tianquiztli' meaning market. It refers specifically to an informal outdoor market — a distinctly Mexican term not used in most other Spanish-speaking countries."
+  },
+  {
+    "id": "C1-U09-E007",
+    "type": "translation",
+    "prompt": "Translate: 'The prestige variety of a language is not linguistically superior — it is simply socially dominant.'",
+    "options": [
+      "La variedad de prestigio es la mejor forma del idioma porque es la más correcta.",
+      "La variedad de prestigio de una lengua no es lingüísticamente superior, sino simplemente socialmente dominante.",
+      "El dialecto estándar es el que hablan las personas educadas y cultas.",
+      "Todas las variedades del español son iguales en calidad."
+    ],
+    "answer": 1,
+    "explanation": "The correct translation preserves the sociolinguistic distinction: 'no es lingüísticamente superior, sino simplemente socialmente dominante' — the contrast is between linguistic and social value."
+  },
+  {
+    "id": "C1-U09-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct sentence about Nahuatl:",
+    "words": ["El", "náhuatl", "tiene", "aproximadamente", "1.7", "millones", "de", "hablantes", "en", "México"],
+    "answer": "El náhuatl tiene aproximadamente 1.7 millones de hablantes en México",
+    "explanation": "Nahuatl is the most widely spoken Indigenous language in Mexico with approximately 1.7 million speakers — it is very much a living language."
+  }
+]

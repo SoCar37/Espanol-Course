@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U10-V001",
+    "word": "la fluidez",
+    "translation": "fluency",
+    "pronunciation_hint": "floo-ee-DES",
+    "part_of_speech": "noun",
+    "example_sentence": "La fluidez no se logra de un día para otro; requiere práctica constante.",
+    "example_translation": "Fluency is not achieved overnight; it requires constant practice.",
+    "audio_file": "C1/unit-10/la_fluidez.mp3",
+    "tags": ["language learning", "C1", "review"]
+  },
+  {
+    "id": "C1-U10-V002",
+    "word": "consolidar",
+    "translation": "to consolidate",
+    "pronunciation_hint": "kon-so-lee-DAR",
+    "part_of_speech": "verb",
+    "example_sentence": "Este repaso te ayudará a consolidar todo lo aprendido en el nivel C1.",
+    "example_translation": "This review will help you consolidate everything learned at C1 level.",
+    "audio_file": "C1/unit-10/consolidar.mp3",
+    "tags": ["review", "learning", "advanced"]
+  },
+  {
+    "id": "C1-U10-V003",
+    "word": "el dominio",
+    "translation": "mastery / command (of a language)",
+    "pronunciation_hint": "do-MEE-nyo",
+    "part_of_speech": "noun",
+    "example_sentence": "Alcanzar el dominio del español requiere años de estudio y práctica.",
+    "example_translation": "Achieving mastery of Spanish requires years of study and practice.",
+    "audio_file": "C1/unit-10/el_dominio.mp3",
+    "tags": ["language learning", "advanced", "review"]
+  },
+  {
+    "id": "C1-U10-V004",
+    "word": "la competencia comunicativa",
+    "translation": "communicative competence",
+    "pronunciation_hint": "kom-peh-TEN-sya ko-moo-nee-kah-TEE-vah",
+    "part_of_speech": "phrase",
+    "example_sentence": "La competencia comunicativa incluye no solo gramática sino también pragmática cultural.",
+    "example_translation": "Communicative competence includes not just grammar but also cultural pragmatics.",
+    "audio_file": "C1/unit-10/la_competencia_comunicativa.mp3",
+    "tags": ["linguistics", "language learning", "C1"]
+  },
+  {
+    "id": "C1-U10-V005",
+    "word": "el hablante nativo",
+    "translation": "native speaker",
+    "pronunciation_hint": "ah-BLAN-teh NAH-tee-vo",
+    "part_of_speech": "phrase",
+    "example_sentence": "A nivel C1, puedes comunicarte con hablantes nativos sin esfuerzo para ninguno.",
+    "example_translation": "At C1 level, you can communicate with native speakers without strain for either party.",
+    "audio_file": "C1/unit-10/el_hablante_nativo.mp3",
+    "tags": ["language learning", "C1", "review"]
+  },
+  {
+    "id": "C1-U10-V006",
+    "word": "la pragmática",
+    "translation": "pragmatics (language in context)",
+    "pronunciation_hint": "prag-MAH-tee-kah",
+    "part_of_speech": "noun",
+    "example_sentence": "La pragmática estudia cómo el contexto afecta el significado de un enunciado.",
+    "example_translation": "Pragmatics studies how context affects the meaning of an utterance.",
+    "audio_file": "C1/unit-10/la_pragmatica.mp3",
+    "tags": ["linguistics", "advanced", "language"]
+  },
+  {
+    "id": "C1-U10-V007",
+    "word": "implícito/a",
+    "translation": "implicit",
+    "pronunciation_hint": "eem-PLEE-see-to",
+    "part_of_speech": "adjective",
+    "example_sentence": "El significado implícito de un texto a veces es más importante que el explícito.",
+    "example_translation": "The implicit meaning of a text is sometimes more important than the explicit one.",
+    "audio_file": "C1/unit-10/implicito.mp3",
+    "tags": ["advanced", "reading", "C1"]
+  },
+  {
+    "id": "C1-U10-V008",
+    "word": "la proeficiencia",
+    "translation": "proficiency",
+    "pronunciation_hint": "pro-fee-SYEN-sya",
+    "part_of_speech": "noun",
+    "example_sentence": "El Marco Común Europeo define seis niveles de proeficiencia lingüística.",
+    "example_translation": "The Common European Framework defines six levels of language proficiency.",
+    "audio_file": "C1/unit-10/la_proeficiencia.mp3",
+    "tags": ["language learning", "CEFR", "advanced"]
+  },
+  {
+    "id": "C1-U10-V009",
+    "word": "espontáneo/a",
+    "translation": "spontaneous",
+    "pronunciation_hint": "es-pon-TAH-neh-o",
+    "part_of_speech": "adjective",
+    "example_sentence": "A nivel C1, la expresión oral es fluida y espontánea.",
+    "example_translation": "At C1 level, oral expression is fluent and spontaneous.",
+    "audio_file": "C1/unit-10/espontaneo.mp3",
+    "tags": ["language learning", "C1", "speaking"]
+  },
+  {
+    "id": "C1-U10-V010",
+    "word": "matizar",
+    "translation": "to nuance / to qualify a statement",
+    "pronunciation_hint": "mah-tee-SAR",
+    "part_of_speech": "verb",
+    "example_sentence": "Es importante matizar las afirmaciones categóricas en un debate académico.",
+    "example_translation": "It is important to nuance categorical statements in an academic debate.",
+    "audio_file": "C1/unit-10/matizar.mp3",
+    "tags": ["advanced", "academic", "rhetoric"]
+  },
+  {
+    "id": "C1-U10-V011",
+    "word": "la inferencia",
+    "translation": "inference",
+    "pronunciation_hint": "een-feh-REN-sya",
+    "part_of_speech": "noun",
+    "example_sentence": "La lectura crítica requiere hacer inferencias a partir del texto.",
+    "example_translation": "Critical reading requires making inferences from the text.",
+    "audio_file": "C1/unit-10/la_inferencia.mp3",
+    "tags": ["reading", "critical thinking", "advanced"]
+  },
+  {
+    "id": "C1-U10-V012",
+    "word": "la lengua viva",
+    "translation": "living language",
+    "pronunciation_hint": "LEN-gwah VEE-vah",
+    "part_of_speech": "phrase",
+    "example_sentence": "El español es una lengua viva que cambia y se adapta constantemente.",
+    "example_translation": "Spanish is a living language that constantly changes and adapts.",
+    "audio_file": "C1/unit-10/la_lengua_viva.mp3",
+    "tags": ["language", "culture", "C1"]
+  }
+]

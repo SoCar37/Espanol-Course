@@ -1,0 +1,15 @@
+{
+  "id": "C1-U09",
+  "title": "Regional Variation & Dialects",
+  "level": "C1",
+  "unit": 9,
+  "slug": "regional-variation",
+  "estimated_minutes": 45,
+  "topics": ["Mexican regional dialects", "sociolinguistic variation", "Indigenous language influence", "border Spanish", "register vs dialect"],
+  "prereqs": ["C1-U08"],
+  "cefr_skills": ["listening", "speaking", "reading"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.6.0"
+}

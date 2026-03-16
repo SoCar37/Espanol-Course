@@ -1,0 +1,111 @@
+{
+  "id": "C1-U09-Q",
+  "title": "Unit 9 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U09-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which statement about dialects is correct from a sociolinguistic perspective?",
+      "options": [
+        "Standard varieties are linguistically superior to regional dialects",
+        "Dialects are degraded forms of the standard language",
+        "All dialects are fully rule-governed varieties; no dialect is linguistically superior",
+        "Dialects only exist in uneducated or rural communities"
+      ],
+      "answer": 2,
+      "explanation": "All dialects are fully rule-governed — the standard variety is socially dominant, not linguistically superior. This is a foundational principle of sociolinguistics."
+    },
+    {
+      "id": "C1-U09-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which Mexican regional variety is most influenced by proximity to the United States?",
+      "options": [
+        "El español yucateco",
+        "El español norteño",
+        "El español chilango",
+        "El español veracruzano"
+      ],
+      "answer": 1,
+      "explanation": "Norteño Spanish (spoken in Chihuahua, Sonora, Nuevo León, and border regions) is most influenced by proximity to the US, featuring English loanwords, border slang (caló fronterizo), and Spanglish mixing."
+    },
+    {
+      "id": "C1-U09-Q003",
+      "type": "multiple_choice",
+      "prompt": "The word 'papalote' (kite) comes from which Indigenous language?",
+      "options": [
+        "Maya",
+        "Zapotec",
+        "Nahuatl",
+        "Mixtec"
+      ],
+      "answer": 2,
+      "explanation": "'Papalote' derives from the Nahuatl word 'papalotl'. It is used in Mexico for 'kite', while other Spanish-speaking countries use 'cometa' or 'barrilete'."
+    },
+    {
+      "id": "C1-U09-Q004",
+      "type": "multiple_choice",
+      "prompt": "How many national languages does Mexico officially recognize?",
+      "options": [
+        "12",
+        "32",
+        "56",
+        "68"
+      ],
+      "answer": 3,
+      "explanation": "Mexico officially recognizes 68 national languages alongside Spanish. Nahuatl is the most widely spoken with approximately 1.7 million speakers."
+    },
+    {
+      "id": "C1-U09-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which institution works to document and promote Mexico's Indigenous languages?",
+      "options": [
+        "La Real Academia Española",
+        "La Academia Mexicana de la Lengua",
+        "El Instituto Nacional de Lenguas Indígenas (INALI)",
+        "La UNAM"
+      ],
+      "answer": 2,
+      "explanation": "INALI (Instituto Nacional de Lenguas Indígenas) is the Mexican government body specifically dedicated to documenting, promoting, and protecting Indigenous languages of Mexico."
+    },
+    {
+      "id": "C1-U09-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is the key difference between 'dialectal variation' and 'register'?",
+      "options": [
+        "They are synonymous terms in sociolinguistics",
+        "Dialectal variation refers to regional/social differences in the language itself; register refers to formal vs. informal usage",
+        "Register is geographical; dialectal variation is social",
+        "Dialectal variation only applies to pronunciation; register only applies to vocabulary"
+      ],
+      "answer": 1,
+      "explanation": "Dialectal variation refers to differences between regional or social varieties of a language. Register refers to formal vs. informal usage within any given dialect. Both dimensions exist independently."
+    },
+    {
+      "id": "C1-U09-Q007",
+      "type": "multiple_choice",
+      "prompt": "Syllable-final 's' weakening or aspiration (e.g., 'estos' → 'ehtoh') is characteristic of which Mexican variety?",
+      "options": [
+        "Mexico City Spanish",
+        "Norteño Spanish",
+        "Yucatecan Spanish",
+        "Coastal/Veracruz Spanish"
+      ],
+      "answer": 3,
+      "explanation": "Syllable-final 's' weakening or aspiration is a feature of coastal varieties, particularly Veracruz Spanish, influenced by Caribbean Spanish patterns."
+    },
+    {
+      "id": "C1-U09-Q008",
+      "type": "multiple_choice",
+      "prompt": "The informal term for a person from Mexico City is:",
+      "options": [
+        "Norteño",
+        "Tapatío",
+        "Chilango",
+        "Jarocho"
+      ],
+      "answer": 2,
+      "explanation": "'Chilango/a' is the informal term for a person from Mexico City. 'Tapatío' is from Guadalajara, 'jarocho' is from Veracruz, and 'norteño' refers to people from northern Mexico generally."
+    }
+  ]
+}

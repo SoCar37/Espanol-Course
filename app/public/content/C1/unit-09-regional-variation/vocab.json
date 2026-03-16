@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U09-V001",
+    "word": "el dialecto",
+    "translation": "dialect",
+    "pronunciation_hint": "dya-LEK-to",
+    "part_of_speech": "noun",
+    "example_sentence": "El dialecto yucateco tiene una musicalidad influenciada por el maya.",
+    "example_translation": "The Yucatecan dialect has a musicality influenced by Maya.",
+    "audio_file": "C1/unit-09/el_dialecto.mp3",
+    "tags": ["linguistics", "dialect", "advanced"]
+  },
+  {
+    "id": "C1-U09-V002",
+    "word": "la variación dialectal",
+    "translation": "dialectal variation",
+    "pronunciation_hint": "vah-rya-SYON dya-lek-TAL",
+    "part_of_speech": "phrase",
+    "example_sentence": "La variación dialectal en México refleja siglos de historia e influencias indígenas.",
+    "example_translation": "Dialectal variation in Mexico reflects centuries of history and Indigenous influences.",
+    "audio_file": "C1/unit-09/la_variacion_dialectal.mp3",
+    "tags": ["linguistics", "dialect", "advanced"]
+  },
+  {
+    "id": "C1-U09-V003",
+    "word": "el code-switching",
+    "translation": "code-switching (alternating languages)",
+    "pronunciation_hint": "kód swi-ching",
+    "part_of_speech": "noun",
+    "example_sentence": "El code-switching es común en comunidades bilingües de la frontera.",
+    "example_translation": "Code-switching is common in bilingual border communities.",
+    "audio_file": "C1/unit-09/el_code_switching.mp3",
+    "tags": ["sociolinguistics", "bilingualism", "advanced"]
+  },
+  {
+    "id": "C1-U09-V004",
+    "word": "el tianguis",
+    "translation": "outdoor market (from Nahuatl)",
+    "pronunciation_hint": "TYAN-ghees",
+    "part_of_speech": "noun",
+    "example_sentence": "Los domingos hay un tianguis enorme en el centro del pueblo.",
+    "example_translation": "On Sundays there is a huge outdoor market in the town center.",
+    "audio_file": "C1/unit-09/el_tianguis.mp3",
+    "tags": ["Nahuatl", "Mexican Spanish", "culture"]
+  },
+  {
+    "id": "C1-U09-V005",
+    "word": "el papalote",
+    "translation": "kite (Mexican Spanish, from Nahuatl)",
+    "pronunciation_hint": "pah-pah-LO-teh",
+    "part_of_speech": "noun",
+    "example_sentence": "Los niños vuelan papalotes en el parque los fines de semana.",
+    "example_translation": "Children fly kites in the park on weekends.",
+    "audio_file": "C1/unit-09/el_papalote.mp3",
+    "tags": ["Nahuatl", "Mexican Spanish", "culture"]
+  },
+  {
+    "id": "C1-U09-V006",
+    "word": "chilango/a",
+    "translation": "person from Mexico City (informal)",
+    "pronunciation_hint": "chee-LAN-go",
+    "part_of_speech": "noun/adjective",
+    "example_sentence": "Como chilango, le costó adaptarse al ritmo más tranquilo de provincia.",
+    "example_translation": "As a chilango, he found it hard to adapt to the calmer provincial pace.",
+    "audio_file": "C1/unit-09/chilango.mp3",
+    "tags": ["Mexican slang", "regional", "identity"]
+  },
+  {
+    "id": "C1-U09-V007",
+    "word": "norteño/a",
+    "translation": "northern (person or style from northern Mexico)",
+    "pronunciation_hint": "nor-TEH-nyo",
+    "part_of_speech": "adjective/noun",
+    "example_sentence": "El acento norteño suena distinto al del centro del país.",
+    "example_translation": "The northern accent sounds different from that of central Mexico.",
+    "audio_file": "C1/unit-09/norteno.mp3",
+    "tags": ["regional", "Mexican Spanish", "dialect"]
+  },
+  {
+    "id": "C1-U09-V008",
+    "word": "la lengua indígena",
+    "translation": "Indigenous language",
+    "pronunciation_hint": "LEN-gwah een-DEE-heh-nah",
+    "part_of_speech": "phrase",
+    "example_sentence": "México reconoce 68 lenguas indígenas como lenguas nacionales.",
+    "example_translation": "Mexico recognizes 68 Indigenous languages as national languages.",
+    "audio_file": "C1/unit-09/la_lengua_indigena.mp3",
+    "tags": ["linguistics", "Indigenous", "Mexico"]
+  },
+  {
+    "id": "C1-U09-V009",
+    "word": "el náhuatl",
+    "translation": "Nahuatl (Aztec language)",
+    "pronunciation_hint": "NAH-watl",
+    "part_of_speech": "noun",
+    "example_sentence": "El náhuatl tiene aproximadamente 1.7 millones de hablantes en México.",
+    "example_translation": "Nahuatl has approximately 1.7 million speakers in Mexico.",
+    "audio_file": "C1/unit-09/el_nahuatl.mp3",
+    "tags": ["Indigenous language", "Nahuatl", "Mexico"]
+  },
+  {
+    "id": "C1-U09-V010",
+    "word": "la variedad de prestigio",
+    "translation": "prestige variety (of a language)",
+    "pronunciation_hint": "vah-rye-DAD deh preh-STEE-hyo",
+    "part_of_speech": "phrase",
+    "example_sentence": "La variedad de prestigio no es lingüísticamente superior, sino socialmente dominante.",
+    "example_translation": "The prestige variety is not linguistically superior, but socially dominant.",
+    "audio_file": "C1/unit-09/la_variedad_de_prestigio.mp3",
+    "tags": ["sociolinguistics", "dialect", "advanced"]
+  },
+  {
+    "id": "C1-U09-V011",
+    "word": "el caló fronterizo",
+    "translation": "border slang / Spanglish-influenced speech",
+    "pronunciation_hint": "kah-LO fron-teh-REE-so",
+    "part_of_speech": "phrase",
+    "example_sentence": "El caló fronterizo mezcla inglés y español de maneras creativas.",
+    "example_translation": "Border slang mixes English and Spanish in creative ways.",
+    "audio_file": "C1/unit-09/el_calo_fronterizo.mp3",
+    "tags": ["dialect", "border", "Mexican Spanish"]
+  },
+  {
+    "id": "C1-U09-V012",
+    "word": "la glotalización",
+    "translation": "glottalization (phonetic feature)",
+    "pronunciation_hint": "glo-tah-lee-sah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La glotalización es una característica fonética del español yucateco influenciada por el maya.",
+    "example_translation": "Glottalization is a phonetic feature of Yucatecan Spanish influenced by Maya.",
+    "audio_file": "C1/unit-09/la_globalizacion.mp3",
+    "tags": ["phonetics", "dialect", "Yucatan"]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "C1-U10",
+  "title": "C1 Review & Final Checkpoint",
+  "level": "C1",
+  "unit": 10,
+  "slug": "review",
+  "estimated_minutes": 60,
+  "topics": ["advanced grammar review", "stylistics review", "rhetoric review", "cultural knowledge review", "literary and media analysis review"],
+  "prereqs": ["C1-U09"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.6.0"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "C1-U10-Q",
+  "title": "C1 Final Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U10-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which construction is correct for a formal academic recommendation?",
+      "options": [
+        "Yo recomiendo que revises el informe.",
+        "Se recomienda que el equipo revise el informe.",
+        "Recomendamos que el equipo revisará el informe.",
+        "Es recomendado que el equipo revisa el informe."
+      ],
+      "answer": 1,
+      "explanation": "Formal academic recommendations use impersonal constructions ('Se recomienda que') followed by the subjunctive ('revise'). First person and indicative forms are inappropriate in this register."
+    },
+    {
+      "id": "C1-U10-Q002",
+      "type": "multiple_choice",
+      "prompt": "The phrase 'de ahí que' always requires which mood?",
+      "options": [
+        "Indicative",
+        "Conditional",
+        "Subjunctive",
+        "Infinitive"
+      ],
+      "answer": 2,
+      "explanation": "'De ahí que' (hence / that is why) always triggers the subjunctive: 'De ahí que sea necesario actuar.'"
+    },
+    {
+      "id": "C1-U10-Q003",
+      "type": "multiple_choice",
+      "prompt": "Juan Rulfo's 'Pedro Páramo' is a foundational text of which literary tradition?",
+      "options": [
+        "El naturalismo latinoamericano",
+        "El existencialismo mexicano",
+        "Lo real maravilloso",
+        "El modernismo hispanoamericano"
+      ],
+      "answer": 2,
+      "explanation": "'Pedro Páramo' (1955) is a foundational work of magical realism ('lo real maravilloso'), treating the supernatural as an ordinary part of rural Mexican reality."
+    },
+    {
+      "id": "C1-U10-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which Mexican historical era is associated with Benito Juárez and the separation of church and state?",
+      "options": [
+        "La Conquista",
+        "El Porfiriato",
+        "La Reforma",
+        "La Revolución"
+      ],
+      "answer": 2,
+      "explanation": "La Reforma (1855–1876) was led by Benito Juárez and achieved the separation of church and state, establishing liberal institutions in Mexico. His phrase 'El respeto al derecho ajeno es la paz' remains iconic."
+    },
+    {
+      "id": "C1-U10-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which sentence contains an incorrect use of the gerund as a modifier?",
+      "options": [
+        "Siguió hablando toda la tarde.",
+        "Llevo dos horas esperando.",
+        "Recibí un mensaje explicando los cambios.",
+        "Entró corriendo a la sala."
+      ],
+      "answer": 2,
+      "explanation": "In Spanish, the gerund cannot modify a noun the way it can in English. 'Un mensaje explicando los cambios' is incorrect; the correct form is 'un mensaje que explica los cambios'."
+    },
+    {
+      "id": "C1-U10-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does the rhetorical device 'anáfora' involve?",
+      "options": [
+        "Juxtaposing contrasting ideas in parallel structure",
+        "Repetition of a word or phrase at the start of successive clauses",
+        "Arranging ideas in ascending order of intensity",
+        "Posing a question that does not expect an answer"
+      ],
+      "answer": 1,
+      "explanation": "Anáfora (anaphora) is the repetition of a word or phrase at the beginning of successive clauses for rhetorical emphasis and rhythm."
+    },
+    {
+      "id": "C1-U10-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is the most widely spoken Indigenous language in Mexico?",
+      "options": [
+        "Maya",
+        "Zapotec",
+        "Nahuatl",
+        "Mixtec"
+      ],
+      "answer": 2,
+      "explanation": "Nahuatl is the most widely spoken Indigenous language in Mexico with approximately 1.7 million speakers. It contributed words like 'tomate', 'chocolate', and 'aguacate' to Spanish and global languages."
+    },
+    {
+      "id": "C1-U10-Q008",
+      "type": "multiple_choice",
+      "prompt": "At C1 level, a learner can:",
+      "options": [
+        "Use basic phrases and understand simple questions",
+        "Describe experiences and give opinions with simple linking",
+        "Express ideas fluently and spontaneously for social, academic, and professional purposes",
+        "Understand and use only familiar everyday expressions"
+      ],
+      "answer": 2,
+      "explanation": "C1 (Effective Operational Proficiency) means the learner can express themselves fluently and spontaneously, produce clear detailed text on complex subjects, and engage with demanding content without strain."
+    }
+  ]
+}

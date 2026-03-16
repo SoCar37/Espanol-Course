@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U10-E001",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses the past perfect subjunctive in an unrealized hypothetical?",
+    "options": [
+      "Si tendría más tiempo, estudiaría más.",
+      "Si tuviera más tiempo, estudiaría más.",
+      "Si hubiera tenido más tiempo, habría estudiado más.",
+      "Si había tenido más tiempo, habría estudiado más."
+    ],
+    "answer": 2,
+    "explanation": "An unrealized past hypothetical uses past perfect subjunctive ('hubiera tenido') in the si-clause and conditional perfect ('habría estudiado') in the main clause."
+  },
+  {
+    "id": "C1-U10-E002",
+    "type": "multiple_choice",
+    "prompt": "Which cohesion device introduces a consequence or result?",
+    "options": [
+      "No obstante",
+      "Asimismo",
+      "Por ende",
+      "Aunque"
+    ],
+    "answer": 2,
+    "explanation": "'Por ende' (therefore / consequently) introduces a result or consequence. 'No obstante' signals contrast, 'asimismo' signals addition, and 'aunque' signals concession."
+  },
+  {
+    "id": "C1-U10-E003",
+    "type": "multiple_choice",
+    "prompt": "The false friend 'sensible' in Spanish means:",
+    "options": [
+      "Sensible (reasonable)",
+      "Sensitive",
+      "Sensational",
+      "Perceptive"
+    ],
+    "answer": 1,
+    "explanation": "'Sensible' in Spanish means sensitive — not sensible (reasonable). The correct Spanish for 'sensible' in the English sense is 'sensato/a'."
+  },
+  {
+    "id": "C1-U10-E004",
+    "type": "multiple_choice",
+    "prompt": "Which reporting verb implies the speaker is making an unverified claim?",
+    "options": [
+      "Señalar",
+      "Reconocer",
+      "Alegar",
+      "Admitir"
+    ],
+    "answer": 2,
+    "explanation": "'Alegar' (to allege) signals an unverified claim — the journalist reports it without endorsing it. 'Reconocer' implies prior denial, 'admitir' implies reluctance, 'señalar' is neutral."
+  },
+  {
+    "id": "C1-U10-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'la sobremesa' refer to?",
+    "options": [
+      "A formal tablecloth",
+      "Post-meal conversation at the table",
+      "A type of traditional Mexican dessert",
+      "The bill at the end of a meal"
+    ],
+    "answer": 1,
+    "explanation": "'La sobremesa' is the time spent talking at the table after the meal has ended — a cherished social ritual with no clean English equivalent."
+  },
+  {
+    "id": "C1-U10-E006",
+    "type": "fill_in_blank",
+    "prompt": "Complete the formal recommendation: 'Se recomienda que el equipo _______ el informe antes del viernes.'",
+    "options": [
+      "revisa",
+      "revisará",
+      "revise",
+      "revisaría"
+    ],
+    "answer": 2,
+    "explanation": "'Se recomienda que' always triggers the subjunctive. 'Revise' is the present subjunctive of 'revisar' — the correct form here."
+  },
+  {
+    "id": "C1-U10-E007",
+    "type": "translation",
+    "prompt": "Translate analytically: 'The author makes use of irony to reveal the hypocrisy of the institution.'",
+    "options": [
+      "El autor usa ironía para mostrar que la institución es hipócrita.",
+      "El autor se vale de la ironía para poner de manifiesto la hipocresía de la institución.",
+      "Con ironía, el autor nos dice que la institución es mala.",
+      "La ironía del autor critica a la institución."
+    ],
+    "answer": 1,
+    "explanation": "'El autor se vale de... para...' and 'poner de manifiesto' are the precise literary analysis phrases from Unit 5. This option uses both correctly in a single well-formed analytical sentence."
+  },
+  {
+    "id": "C1-U10-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form the classic concession-rebuttal structure:",
+    "words": ["Si", "bien", "es", "cierto", "que", "X", "no", "es", "menos", "cierto", "que", "Y"],
+    "answer": "Si bien es cierto que X no es menos cierto que Y",
+    "explanation": "'Si bien es cierto que X, no es menos cierto que Y' is the classic concession-rebuttal structure: 'While it is true that X, it is no less true that Y.'"
+  }
+]

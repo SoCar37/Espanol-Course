@@ -5,6 +5,13 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-03-16
+
+### Added
+- C1 Units 9–10 content — C1 now fully complete (10/10 units)
+  - Unit 9 — Regional Variation & Dialects (`unit-09-regional-variation`)
+  - Unit 10 — C1 Review & Final Checkpoint (`unit-10-review`)
+
 ## [0.5.2] - 2026-03-16
 
 ### Added
