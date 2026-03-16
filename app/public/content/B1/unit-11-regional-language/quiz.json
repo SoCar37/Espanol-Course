@@ -1,0 +1,111 @@
+{
+  "id": "B1-U11-Q",
+  "title": "Unit 11 Checkpoint Quiz — Regional Language & Slang",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U11-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is 'mande' and why is it culturally important?",
+      "options": [
+        "A uniquely Mexican polite way to say 'pardon?' — more respectful than '¿qué?'",
+        "A formal command form",
+        "A northern Mexican greeting",
+        "A way to call a waiter"
+      ],
+      "answer": 0,
+      "explanation": "'Mande' (from mandar = to command) is uniquely Mexican. Using it instead of '¿Qué?' to say 'pardon?' is considered more polite and respectful. It immediately signals cultural awareness."
+    },
+    {
+      "id": "B1-U11-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'chilango/a' refer to?",
+      "options": [
+        "A person from Mexico City (CDMX)",
+        "A person from Guadalajara",
+        "A person from the north",
+        "A type of street food"
+      ],
+      "answer": 0,
+      "explanation": "'Chilango/a' = a person from Mexico City (CDMX). The term can be used neutrally or with affectionate teasing depending on context. CDMX residents may also call themselves chilangos proudly."
+    },
+    {
+      "id": "B1-U11-Q003",
+      "type": "multiple_choice",
+      "prompt": "How are diminutives (-ito/-ita) used in Mexican Spanish?",
+      "options": [
+        "Much more than in other Spanish-speaking countries — to show affection and warmth, not just smallness",
+        "Only to describe small things",
+        "Only in children's speech",
+        "The same way as in all other Spanish-speaking countries"
+      ],
+      "answer": 0,
+      "explanation": "Mexicans use diminutives far more than any other Spanish-speaking country. 'Cafecito' isn't necessarily a small coffee — it's a warm, friendly way to ask for coffee. Diminutives soften requests and show affection."
+    },
+    {
+      "id": "B1-U11-Q004",
+      "type": "multiple_choice",
+      "prompt": "If someone says 'ese producto es muy chafa,' what do they mean?",
+      "options": [
+        "That product is really low quality / junk.",
+        "That product is very expensive.",
+        "That product is from abroad.",
+        "That product is delicious."
+      ],
+      "answer": 0,
+      "explanation": "'Chafa' = low quality, poorly made, shoddy. It's used nationwide in Mexico to describe things that are cheap in the bad sense — not just inexpensive, but poorly made."
+    },
+    {
+      "id": "B1-U11-Q005",
+      "type": "multiple_choice",
+      "prompt": "What does 'está cañón' mean?",
+      "options": [
+        "It's tough / intense / difficult",
+        "It's a canyon",
+        "It's very good quality",
+        "It's very cheap"
+      ],
+      "answer": 0,
+      "explanation": "'Está cañón' is widely used Mexican slang meaning something is tough, intense, or crazy. 'El tráfico está cañón' = traffic is brutal. 'El examen estuvo cañón' = the exam was rough."
+    },
+    {
+      "id": "B1-U11-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is a 'fuereño'?",
+      "options": [
+        "An outsider / someone from outside the local area",
+        "A foreigner from another country",
+        "Someone from Mexico City",
+        "A northern Mexican"
+      ],
+      "answer": 0,
+      "explanation": "'Fuereño/a' = outsider / from out of town. It can be warm or teasing: 'Se te nota que eres fuereño' = You can tell you're not from here. Not necessarily a foreigner — just someone from another region."
+    },
+    {
+      "id": "B1-U11-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'a poco' express in CDMX slang?",
+      "options": [
+        "Really? / No way! — surprise or disbelief",
+        "A little bit",
+        "Slowly",
+        "Sometimes"
+      ],
+      "answer": 0,
+      "explanation": "'A poco' in Mexico City = Really? / No way! '— Me casé. — ¡A poco!' = 'I got married. — No way!' It expresses genuine surprise. Don't confuse with 'un poco' (a little bit)."
+    },
+    {
+      "id": "B1-U11-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which of these is associated with Guadalajara / Jalisco (tapatío culture)?",
+      "options": [
+        "Mariachi and tequila",
+        "Pozole and pulque",
+        "Mole negro and chocolate",
+        "Henequén and hammocks"
+      ],
+      "answer": 0,
+      "explanation": "Mariachi music and tequila are both from Jalisco — the heartland of tapatío culture. Guadalajara is also the birthplace of the Mexican Hat Dance (El Jarabe Tapatío). Mole negro is from Oaxaca; henequén is from Yucatán."
+    }
+  ]
+}

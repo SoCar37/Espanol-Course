@@ -1,0 +1,96 @@
+[
+  {
+    "id": "B1-U11-E001",
+    "type": "multiple_choice",
+    "prompt": "Someone calls your name and you don't hear what they said next. What's the most polite Mexican response?",
+    "options": ["¿Mande?", "¿Qué?", "¿Cómo?", "¿Qué dijiste?"],
+    "answer": 0,
+    "explanation": "'¿Mande?' is uniquely Mexican and considered the most polite way to say 'pardon?' or 'what did you say?' Using '¿Qué?' alone can sound abrupt. '¿Mande?' immediately marks you as culturally aware."
+  },
+  {
+    "id": "B1-U11-E002",
+    "type": "multiple_choice",
+    "prompt": "What does it mean when a Mexican calls something 'chafa'?",
+    "options": [
+      "Low quality / cheap / poorly made",
+      "Very expensive",
+      "Delicious",
+      "Very far away"
+    ],
+    "answer": 0,
+    "explanation": "'Chafa' = low quality, cheap, shoddy. 'Ese producto es chafa' = that product is junk. It's used for things that break easily, look cheap, or don't work well."
+  },
+  {
+    "id": "B1-U11-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'a poco' express in Mexico City slang?",
+    "options": [
+      "Really? / No way! (surprise or disbelief)",
+      "A little bit",
+      "Far away",
+      "Later"
+    ],
+    "answer": 0,
+    "explanation": "'A poco' in CDMX = Really? / No way! It expresses surprise or disbelief. '— Me casé. — ¡A poco!' = I got married. — No way! Don't confuse with 'un poco' (a little bit)."
+  },
+  {
+    "id": "B1-U11-E004",
+    "type": "multiple_choice",
+    "prompt": "What does 'está cañón' mean in Mexican Spanish?",
+    "options": [
+      "It's tough / intense / difficult / wild",
+      "It's a canyon (geographical feature)",
+      "It's very cheap",
+      "It's very delicious"
+    ],
+    "answer": 0,
+    "explanation": "'Está cañón' = it's tough, intense, or wild. 'El examen estuvo cañón' = the exam was brutal. 'El tráfico está cañón' = traffic is crazy. Very common in CDMX and widely understood nationally."
+  },
+  {
+    "id": "B1-U11-E005",
+    "type": "translation",
+    "prompt": "Translate using a diminutive: 'Can I have a little coffee, please?'",
+    "options": [
+      "¿Me da un cafecito, por favor?",
+      "¿Me da un café pequeño, por favor?",
+      "¿Me da un poco de café, por favor?",
+      "¿Me da café, por favor?"
+    ],
+    "answer": 0,
+    "explanation": "'Cafecito' (diminutive of café) is the most natural, warm Mexican way to ask for coffee. The diminutive softens the request and adds warmth — not necessarily meaning a small coffee, just a friendly way to ask."
+  },
+  {
+    "id": "B1-U11-E006",
+    "type": "multiple_choice",
+    "prompt": "If someone is described as 'fresa' in Mexico, they are:",
+    "options": [
+      "Preppy / snobby / upper-class in attitude",
+      "From a strawberry-growing region",
+      "A very good cook",
+      "From the north of Mexico"
+    ],
+    "answer": 0,
+    "explanation": "'Fresa' (literally: strawberry) = preppy, snobby, or upper-class. It can describe a person or neighborhood. 'Es muy fresa' = he/she is very preppy/snobby. Used nationwide but especially in CDMX."
+  },
+  {
+    "id": "B1-U11-E007",
+    "type": "multiple_choice",
+    "prompt": "Which region is 'tapatío/a' associated with?",
+    "options": [
+      "Guadalajara / Jalisco",
+      "Mexico City",
+      "Monterrey",
+      "Veracruz"
+    ],
+    "answer": 0,
+    "explanation": "'Tapatío/a' refers to someone from Guadalajara or the state of Jalisco — home of mariachi, tequila, and the Mexican Hat Dance. It's one of the most used regional identity terms in Mexico."
+  },
+  {
+    "id": "B1-U11-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a sentence about regional identity:",
+    "words": ["Se", "nota", "que", "eres", "fuereño", "porque", "usas", "palabras", "que", "no", "usamos", "aquí."],
+    "answer": "Se nota que eres fuereño porque usas palabras que no usamos aquí.",
+    "explanation": "'Fuereño' = outsider / from out of town. 'Se nota' = it's noticeable (impersonal se). 'Palabras que no usamos aquí' = words we don't use here — a relative clause using 'que'. This is a natural observation about regional language differences."
+  }
+]

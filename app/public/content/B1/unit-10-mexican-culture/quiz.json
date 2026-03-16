@@ -1,0 +1,101 @@
+{
+  "id": "B1-U10-Q",
+  "title": "Unit 10 Checkpoint Quiz — Mexican Culture & Traditions",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U10-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is Día de Muertos?",
+      "options": [
+        "A joyful Mexican celebration (Nov 1–2) welcoming deceased loved ones back with altars, flowers, and their favorite food",
+        "A solemn day of mourning similar to a funeral",
+        "A Mexican Halloween with costumes and trick-or-treating",
+        "A religious fast day"
+      ],
+      "answer": 0,
+      "explanation": "Día de Muertos (Nov 1–2) is a celebration, not a day of mourning. Families build ofrendas (altars) to welcome deceased loved ones back. The atmosphere is festive — full of color, marigolds, music, and food."
+    },
+    {
+      "id": "B1-U10-Q002",
+      "type": "multiple_choice",
+      "prompt": "What do you say when someone near you sits down to eat?",
+      "options": ["¡Provecho!", "¡Salud!", "¡Felicidades!", "¡Buen viaje!"],
+      "answer": 0,
+      "explanation": "'¡Provecho!' = Enjoy your meal! It's standard Mexican courtesy — said to anyone eating, even strangers. Not saying it when you pass someone eating can seem rude."
+    },
+    {
+      "id": "B1-U10-Q003",
+      "type": "multiple_choice",
+      "prompt": "What are Las Posadas?",
+      "options": [
+        "Nine nights of Christmas celebrations (Dec 16–24) with piñatas, ponche, and songs",
+        "The nine days after Christmas",
+        "A type of traditional Mexican inn",
+        "A Día de Muertos ritual"
+      ],
+      "answer": 0,
+      "explanation": "Las Posadas are nine nights of celebration from December 16–24, reenacting Mary and Joseph's search for shelter. Each night features singing, a piñata, ponche (hot fruit punch), and buñuelos."
+    },
+    {
+      "id": "B1-U10-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the significance of la quinceañera?",
+      "options": [
+        "A girl's 15th birthday — a major cultural milestone celebrating her transition to womanhood",
+        "A boy's 15th birthday celebration",
+        "A wedding anniversary celebration",
+        "A graduation party"
+      ],
+      "answer": 0,
+      "explanation": "La quinceañera celebrates a girl's 15th birthday and her transition to womanhood. It's one of the most important celebrations in Mexican family life — often involving a Catholic mass, formal waltz, and large party."
+    },
+    {
+      "id": "B1-U10-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is the role of family (la familia) in Mexican culture?",
+      "options": [
+        "The center of social life — extended family is closely involved in daily life and major decisions",
+        "Less important than in other cultures",
+        "Primarily the nuclear family (parents and children only)",
+        "Important only for celebrations and holidays"
+      ],
+      "answer": 0,
+      "explanation": "Family is the cornerstone of Mexican culture. Extended family — grandparents, aunts, uncles, cousins — often live nearby or together. Major life decisions frequently involve the whole family."
+    },
+    {
+      "id": "B1-U10-Q006",
+      "type": "multiple_choice",
+      "prompt": "What happens on the night of September 15 in Mexico?",
+      "options": [
+        "El Grito de Independencia — the president reenacts the Cry of Independence",
+        "Las Posadas begin",
+        "Día de Muertos begins",
+        "The quinceañera season opens"
+      ],
+      "answer": 0,
+      "explanation": "September 15 is the night of El Grito. The president gives the Cry of Independence from the National Palace. Mexicans gather nationwide to shout '¡Viva México!' and celebrate with fireworks, food, and music."
+    },
+    {
+      "id": "B1-U10-Q007",
+      "type": "multiple_choice",
+      "prompt": "Many everyday Spanish words come from Nahuatl (the Aztec language). Which of these is a Nahuatl-origin word?",
+      "options": ["chocolate", "casa", "libro", "ciudad"],
+      "answer": 0,
+      "explanation": "'Chocolate' comes from the Nahuatl word 'xocolatl'. Other Nahuatl-origin words in Spanish include: tomate, aguacate, chile, coyote, cacao, and many more — evidence of the deep indigenous roots of Mexican culture."
+    },
+    {
+      "id": "B1-U10-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does the Nahuatl word 'nepantla' mean, as used to describe Mexican culture?",
+      "options": [
+        "In between / caught between two worlds — describing Mexico's blend of indigenous and Spanish heritage",
+        "The land of the sun",
+        "The heart of the people",
+        "A type of traditional ceremony"
+      ],
+      "answer": 0,
+      "explanation": "'Nepantla' (Nahuatl: in between) describes the uniquely Mexican experience of living between indigenous and Spanish worlds — creating something entirely new. This blending is visible in language, food, religion, and art."
+    }
+  ]
+}

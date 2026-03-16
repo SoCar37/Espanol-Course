@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U12-V001",
+    "word": "el que persevera, alcanza",
+    "translation": "he who perseveres, succeeds / persistence pays off",
+    "pronunciation_hint": "el keh pehr-seh-BEH-rah al-KAN-sah",
+    "part_of_speech": "proverb",
+    "example_sentence": "Sigue estudiando — el que persevera, alcanza.",
+    "example_translation": "Keep studying — persistence pays off.",
+    "audio_file": "B1/unit-12/el-que-persevera.mp3",
+    "tags": ["proverb", "motivation", "mexico"]
+  },
+  {
+    "id": "B1-U12-V002",
+    "word": "valer la pena",
+    "translation": "to be worth it",
+    "pronunciation_hint": "bah-LEHR lah PEH-nah",
+    "part_of_speech": "expression",
+    "example_sentence": "El viaje fue difícil, pero valió la pena.",
+    "example_translation": "The trip was difficult, but it was worth it.",
+    "audio_file": "B1/unit-12/valer-la-pena.mp3",
+    "tags": ["expression", "essential", "review"]
+  },
+  {
+    "id": "B1-U12-V003",
+    "word": "el anfitrión / la anfitriona",
+    "translation": "the host",
+    "pronunciation_hint": "el an-fee-TRYON",
+    "part_of_speech": "noun",
+    "example_sentence": "Los tapatíos son famosos por ser excelentes anfitriones.",
+    "example_translation": "People from Guadalajara are famous for being excellent hosts.",
+    "audio_file": "B1/unit-12/anfitrion.mp3",
+    "tags": ["noun", "culture", "hospitality"]
+  },
+  {
+    "id": "B1-U12-V004",
+    "word": "tardar",
+    "translation": "to take time / to take long",
+    "pronunciation_hint": "tar-DAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Tardé dos horas en llegar por el tráfico.",
+    "example_translation": "It took me two hours to arrive because of traffic.",
+    "audio_file": "B1/unit-12/tardar.mp3",
+    "tags": ["verb", "time", "essential"]
+  },
+  {
+    "id": "B1-U12-V005",
+    "word": "resultar",
+    "translation": "to turn out / to result",
+    "pronunciation_hint": "rreh-soul-TAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Resultó que ella conocía a mi hermano.",
+    "example_translation": "It turned out she knew my brother.",
+    "audio_file": "B1/unit-12/resultar.mp3",
+    "tags": ["verb", "storytelling", "essential"]
+  },
+  {
+    "id": "B1-U12-V006",
+    "word": "el anfitrión perfecto",
+    "translation": "the perfect host",
+    "pronunciation_hint": "el an-fee-TRYON pehr-FEK-toh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Nuestros amigos fueron el anfitrión perfecto — había comida para todos.",
+    "example_translation": "Our friends were the perfect hosts — there was food for everyone.",
+    "audio_file": "B1/unit-12/anfitrion-perfecto.mp3",
+    "tags": ["phrase", "culture", "hospitality"]
+  },
+  {
+    "id": "B1-U12-V007",
+    "word": "superar",
+    "translation": "to overcome / to surpass",
+    "pronunciation_hint": "soo-peh-RAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Con práctica, superarás cualquier dificultad.",
+    "example_translation": "With practice, you will overcome any difficulty.",
+    "audio_file": "B1/unit-12/superar.mp3",
+    "tags": ["verb", "motivation"]
+  },
+  {
+    "id": "B1-U12-V008",
+    "word": "conectar",
+    "translation": "to connect",
+    "pronunciation_hint": "koh-nek-TAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Aprender español me ayudó a conectar con personas increíbles.",
+    "example_translation": "Learning Spanish helped me connect with incredible people.",
+    "audio_file": "B1/unit-12/conectar.mp3",
+    "tags": ["verb", "language-learning"]
+  },
+  {
+    "id": "B1-U12-V009",
+    "word": "el buñuelo",
+    "translation": "the buñuelo (crispy fried dough — a Christmas treat)",
+    "pronunciation_hint": "el boo-NYWE-loh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "En las posadas siempre hay buñuelos con piloncillo.",
+    "example_translation": "At posadas there are always buñuelos with piloncillo syrup.",
+    "audio_file": "B1/unit-12/bunuelo.mp3",
+    "tags": ["food", "christmas", "culture"]
+  },
+  {
+    "id": "B1-U12-V010",
+    "word": "esforzarse",
+    "translation": "to make an effort / to try hard",
+    "pronunciation_hint": "es-for-SAHR-seh",
+    "part_of_speech": "reflexive verb (o→ue)",
+    "example_sentence": "Si te esfuerzas, hablarás español con fluidez.",
+    "example_translation": "If you make an effort, you'll speak Spanish fluently.",
+    "audio_file": "B1/unit-12/esforzarse.mp3",
+    "tags": ["verb", "motivation", "reflexive"]
+  },
+  {
+    "id": "B1-U12-V011",
+    "word": "la fluidez",
+    "translation": "fluency",
+    "pronunciation_hint": "lah floo-ee-DES",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "Lograr fluidez requiere práctica constante y exposición al idioma.",
+    "example_translation": "Achieving fluency requires constant practice and exposure to the language.",
+    "audio_file": "B1/unit-12/fluidez.mp3",
+    "tags": ["noun", "language-learning"]
+  },
+  {
+    "id": "B1-U12-V012",
+    "word": "¡ándale, sí se puede!",
+    "translation": "come on, yes you can! / you've got this!",
+    "pronunciation_hint": "AN-dah-leh see seh PWEH-deh",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Ándale, sí se puede! Ya casi terminas el nivel B1.",
+    "example_translation": "Come on, you've got this! You're almost done with B1.",
+    "audio_file": "B1/unit-12/andale-si-se-puede.mp3",
+    "tags": ["expression", "motivation", "mexico", "essential"]
+  }
+]

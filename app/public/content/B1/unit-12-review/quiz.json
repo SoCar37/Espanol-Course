@@ -1,0 +1,101 @@
+{
+  "id": "B1-U12-Q",
+  "title": "B1 Level Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U12-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the subjunctive?",
+      "options": [
+        "Espero que haya buena comida.",
+        "Espero que hay buena comida.",
+        "Espero haya buena comida.",
+        "Espero que habrá buena comida."
+      ],
+      "answer": 0,
+      "explanation": "'Esperar que' triggers subjunctive. 'Haber' → subjunctive: haya (there is/are). 'Hay' is indicative (wrong after subjunctive trigger). 'Habrá' is future indicative (also wrong here)."
+    },
+    {
+      "id": "B1-U12-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct future form: Mañana ___ que trabajar más tarde. (tener, yo)",
+      "options": ["tendré", "tendrá", "tendría", "tengo"],
+      "answer": 0,
+      "explanation": "'Tener' has irregular future stem 'tendr-'. Yo form: tendré. 'Tendría' is conditional (would have). 'Tengo' is present. 'Tendrá' is él/ella form."
+    },
+    {
+      "id": "B1-U12-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses por and para correctly?",
+      "options": [
+        "Lo hice para ti por amor.",
+        "Lo hice por ti para amor.",
+        "Lo hice para ti para amor.",
+        "Lo hice por ti por amor."
+      ],
+      "answer": 0,
+      "explanation": "'Para ti' = for you (recipient → para). 'Por amor' = out of love / for love (reason/cause → por). This is the correct combination. A gift given for love TO someone."
+    },
+    {
+      "id": "B1-U12-Q004",
+      "type": "multiple_choice",
+      "prompt": "'¿Quisiera algo más?' — what tense is 'quisiera' and why is it used here?",
+      "options": [
+        "Conditional of querer — used for a polite request ('Would you like anything else?')",
+        "Imperfect of querer",
+        "Subjunctive of querer",
+        "Future of querer"
+      ],
+      "answer": 0,
+      "explanation": "'Quisiera' is the conditional of 'querer'. The conditional is used here for extreme politeness. '¿Quisiera algo más?' = Would you like anything else? — more polite than '¿Quiere algo más?'"
+    },
+    {
+      "id": "B1-U12-Q005",
+      "type": "multiple_choice",
+      "prompt": "What does 'Se me cayó el café' mean?",
+      "options": [
+        "I dropped my coffee (accidentally — it fell on me)",
+        "I drank my coffee",
+        "My coffee fell off a table (nothing to do with me)",
+        "I threw my coffee"
+      ],
+      "answer": 0,
+      "explanation": "Accidental se: 'Se me cayó' = it fell on me (accidentally). The 'me' makes it personal — it happened TO me. It implies it was unintentional. This is one of the most used accidental se constructions."
+    },
+    {
+      "id": "B1-U12-Q006",
+      "type": "multiple_choice",
+      "prompt": "Complete: ___ es importante es que sigas practicando.",
+      "options": ["Lo que", "Que", "El que", "Donde"],
+      "answer": 0,
+      "explanation": "'Lo que' = what / that which — the neuter relative pronoun. 'Lo que es importante' = What is important. It introduces a clause referring to an idea, not a specific noun."
+    },
+    {
+      "id": "B1-U12-Q007",
+      "type": "multiple_choice",
+      "prompt": "How do you express 'the food is great in Oaxaca' using impersonal se?",
+      "options": [
+        "En Oaxaca se come muy bien.",
+        "En Oaxaca comen muy bien.",
+        "En Oaxaca fue comido bien.",
+        "En Oaxaca están comiendo bien."
+      ],
+      "answer": 0,
+      "explanation": "Impersonal se: 'Se come bien' = one eats well / the food is good. It's a general statement about what 'one does' in a place. Always third-person singular with impersonal se."
+    },
+    {
+      "id": "B1-U12-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'valer la pena' mean?",
+      "options": [
+        "To be worth it",
+        "To cost a lot",
+        "To be in pain",
+        "To be worth nothing"
+      ],
+      "answer": 0,
+      "explanation": "'Valer la pena' = to be worth it (literally: to be worth the pain/effort). 'Valió la pena' = it was worth it. 'Vale la pena' = it's worth it. One of the most essential expressions in Mexican Spanish."
+    }
+  ]
+}

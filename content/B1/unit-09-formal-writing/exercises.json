@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B1-U09-E001",
+    "type": "multiple_choice",
+    "prompt": "You're writing a formal email to a doctor you don't know personally. Which salutation is most appropriate?",
+    "options": [
+      "Estimada Dra. Martínez:",
+      "¡Hola doctora!",
+      "Querida doctora:",
+      "Buenos días doctora Martínez,"
+    ],
+    "answer": 0,
+    "explanation": "'Estimada Dra. Martínez:' is the standard formal salutation. 'Estimado/a' = Dear (formal). Include the title (Dra.) and use a colon, not a comma, in formal Spanish correspondence."
+  },
+  {
+    "id": "B1-U09-E002",
+    "type": "multiple_choice",
+    "prompt": "Which phrase is the most appropriate formal opening for an email?",
+    "options": [
+      "Me dirijo a usted para solicitar información sobre el programa.",
+      "Hola, quiero saber sobre el programa.",
+      "Necesito información sobre el programa.",
+      "¿Qué onda? Tengo una pregunta."
+    ],
+    "answer": 0,
+    "explanation": "'Me dirijo a usted para...' is the standard formal opening. It uses 'usted' (formal you) and is polite without being excessively stiff. The informal alternatives would be inappropriate in professional correspondence."
+  },
+  {
+    "id": "B1-U09-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete the formal request: Le ___ que me enviara los documentos antes del viernes.",
+    "options": ["agradecería", "gustaría", "pediría", "rogaría"],
+    "answer": 0,
+    "explanation": "'Le agradecería que...' = I would be grateful if you... is the most polished and widely used formal request structure. It uses the conditional (agradecería) + subjunctive (enviara)."
+  },
+  {
+    "id": "B1-U09-E004",
+    "type": "multiple_choice",
+    "prompt": "What does 'Lic.' stand for in Mexican professional correspondence?",
+    "options": [
+      "Licenciado/a — a person with a university degree",
+      "Lieutenant",
+      "Licensed translator only",
+      "A medical doctor"
+    ],
+    "answer": 0,
+    "explanation": "In Mexico, 'Lic.' (Licenciado/a) is a title for anyone with a university degree — far broader than in English. It's extremely common and omitting it when writing to someone who holds it is considered disrespectful."
+  },
+  {
+    "id": "B1-U09-E005",
+    "type": "translation",
+    "prompt": "Translate: 'I remain at your service for any questions.'",
+    "options": [
+      "Quedo a sus órdenes para cualquier duda.",
+      "Estoy aquí si tiene preguntas.",
+      "Llámeme si necesita algo.",
+      "Puede preguntarme lo que quiera."
+    ],
+    "answer": 0,
+    "explanation": "'Quedo a sus órdenes para cualquier duda' is the formal expression. 'Quedo a sus órdenes' (I remain at your service) is a standard formal closing statement in Mexican professional writing."
+  },
+  {
+    "id": "B1-U09-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sign-off is most common in formal Mexican emails?",
+    "options": [
+      "Atentamente,",
+      "Besos,",
+      "Hasta luego,",
+      "Cuídate,"
+    ],
+    "answer": 0,
+    "explanation": "'Atentamente' (sincerely/attentively) is the gold standard formal email closing in Mexico. 'Besos' and 'Cuídate' are personal/informal. 'Hasta luego' is conversational, not written."
+  },
+  {
+    "id": "B1-U09-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete the formal transition: ___, le solicito que confirme su asistencia antes del lunes.",
+    "options": ["Asimismo", "O sea", "Pues", "Bueno"],
+    "answer": 0,
+    "explanation": "'Asimismo' = likewise / additionally — a formal written connector used to add another point. 'O sea', 'pues', and 'bueno' are informal spoken fillers, not appropriate in formal writing."
+  },
+  {
+    "id": "B1-U09-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a complete formal email closing:",
+    "words": ["En", "espera", "de", "su", "respuesta,", "quedo", "a", "sus", "órdenes.", "Atentamente,"],
+    "answer": "En espera de su respuesta, quedo a sus órdenes. Atentamente,",
+    "explanation": "This is a complete, standard formal email closing. 'En espera de su respuesta' (awaiting your response) + 'quedo a sus órdenes' (I remain at your service) + 'Atentamente,' (sincerely) — all three elements together form the polished close."
+  }
+]

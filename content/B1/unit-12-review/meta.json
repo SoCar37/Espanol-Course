@@ -1,0 +1,15 @@
+{
+  "id": "B1-U12",
+  "title": "B1 Review & Checkpoint",
+  "level": "B1",
+  "unit": 12,
+  "slug": "review",
+  "estimated_minutes": 40,
+  "topics": ["review", "subjunctive", "future", "conditional", "por vs para", "relative clauses", "passive se", "idiomatic verbs", "opinions", "culture"],
+  "prereqs": ["B1-U11"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "B1-U10-E001",
+    "type": "multiple_choice",
+    "prompt": "What is 'la ofrenda' in Mexican culture?",
+    "options": [
+      "An altar built for Día de Muertos with photos, flowers, and offerings for the deceased",
+      "A traditional Mexican dance",
+      "A type of street food",
+      "A Catholic prayer"
+    ],
+    "answer": 0,
+    "explanation": "'La ofrenda' is the altar built during Día de Muertos (November 1–2) to welcome deceased loved ones back. It typically includes photos, marigolds (cempasúchil), food, and personal items."
+  },
+  {
+    "id": "B1-U10-E002",
+    "type": "multiple_choice",
+    "prompt": "Someone sits down to eat near you in Mexico. What do you say?",
+    "options": [
+      "¡Provecho!",
+      "¡Salud!",
+      "¡Felicidades!",
+      "¡Que Dios te bendiga!"
+    ],
+    "answer": 0,
+    "explanation": "'¡Provecho!' = Enjoy your meal / Bon appétit! — said to anyone you see eating. It's standard Mexican courtesy and expected even from strangers passing by someone eating."
+  },
+  {
+    "id": "B1-U10-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'Don' or 'Doña' before a name indicate?",
+    "options": [
+      "Respectful address for an older or distinguished person",
+      "A military rank",
+      "A professional title like doctor or engineer",
+      "That the person is a foreigner"
+    ],
+    "answer": 0,
+    "explanation": "'Don' and 'Doña' are titles of respect used before the first name of older or distinguished adults. Don Miguel, Doña Carmen. They convey warmth and respect simultaneously."
+  },
+  {
+    "id": "B1-U10-E004",
+    "type": "multiple_choice",
+    "prompt": "What happens on September 15 in Mexico?",
+    "options": [
+      "El Grito de Independencia — the president shouts the Cry of Independence",
+      "Día de Muertos celebrations begin",
+      "Las posadas begin",
+      "La quinceañera season starts"
+    ],
+    "answer": 0,
+    "explanation": "September 15 is the night of El Grito — the president reenacts the Cry of Independence from the National Palace balcony. People across Mexico gather in their town squares to shout '¡Viva México!'"
+  },
+  {
+    "id": "B1-U10-E005",
+    "type": "translation",
+    "prompt": "Translate: 'Every family has their own mole recipe.'",
+    "options": [
+      "Cada familia tiene su propia receta de mole.",
+      "Todas las familias tienen la misma receta de mole.",
+      "Cada familia quiere un mole diferente.",
+      "Ninguna familia tiene receta de mole."
+    ],
+    "answer": 0,
+    "explanation": "'Cada familia' = every family / each family. 'Su propia receta' = their own recipe (propia = own). This sentence captures an important cultural truth — mole recipes are closely guarded family traditions."
+  },
+  {
+    "id": "B1-U10-E006",
+    "type": "multiple_choice",
+    "prompt": "What is 'la quinceañera'?",
+    "options": [
+      "A celebration of a girl's 15th birthday marking her transition to womanhood",
+      "A Mexican Christmas celebration",
+      "A type of folk dance",
+      "A national holiday"
+    ],
+    "answer": 0,
+    "explanation": "La quinceañera celebrates a girl's 15th birthday — a major cultural milestone. It typically includes a Catholic mass, a formal waltz, and a large party. It's often as elaborate (and expensive) as a wedding."
+  },
+  {
+    "id": "B1-U10-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: El aroma del ___ guía a los difuntos de regreso a casa durante el Día de Muertos.",
+    "options": ["cempasúchil", "pozole", "mole", "ponche"],
+    "answer": 0,
+    "explanation": "The cempasúchil (marigold) is the iconic flower of Día de Muertos. Its bright orange color and strong scent are believed to guide the spirits of the deceased back to their families."
+  },
+  {
+    "id": "B1-U10-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a sentence about Mexican hospitality:",
+    "words": ["En", "México,", "cuando", "llegas", "a", "casa", "de", "alguien,", "siempre", "te", "dicen:", "¡Ándale,", "siéntate,", "que", "hay", "de", "todo!"],
+    "answer": "En México, cuando llegas a casa de alguien, siempre te dicen: ¡Ándale, siéntate, que hay de todo!",
+    "explanation": "This captures the essence of Mexican hospitality — the insistence on feeding guests. '¡Ándale, siéntate!' = Come on, sit down! '¡Que hay de todo!' = There's plenty of everything!"
+  }
+]

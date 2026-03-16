@@ -1,0 +1,15 @@
+{
+  "id": "B1-U11",
+  "title": "Regional Language & Slang",
+  "level": "B1",
+  "unit": 11,
+  "slug": "regional-language",
+  "estimated_minutes": 30,
+  "topics": ["regional Spanish", "Mexican slang", "CDMX", "Norteño", "Tapatío", "Jarocho", "Chilango", "dialects"],
+  "prereqs": ["B1-U10"],
+  "cefr_skills": ["speaking", "listening"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

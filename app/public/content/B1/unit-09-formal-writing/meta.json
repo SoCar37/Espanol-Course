@@ -1,0 +1,15 @@
+{
+  "id": "B1-U09",
+  "title": "Formal Writing & Email",
+  "level": "B1",
+  "unit": 9,
+  "slug": "formal-writing",
+  "estimated_minutes": 30,
+  "topics": ["formal writing", "email", "letters", "salutations", "closings", "professional Spanish", "register"],
+  "prereqs": ["B1-U08"],
+  "cefr_skills": ["reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

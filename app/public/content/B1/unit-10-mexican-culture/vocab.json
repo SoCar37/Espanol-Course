@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U10-V001",
+    "word": "la ofrenda",
+    "translation": "the altar / offering (Día de Muertos)",
+    "pronunciation_hint": "lah oh-FREN-dah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "La ofrenda tiene flores de cempasúchil y fotos de los difuntos.",
+    "example_translation": "The altar has marigold flowers and photos of the deceased.",
+    "audio_file": "B1/unit-10/ofrenda.mp3",
+    "tags": ["culture", "dia-de-muertos", "essential"]
+  },
+  {
+    "id": "B1-U10-V002",
+    "word": "el cempasúchil",
+    "translation": "the marigold flower (used in Día de Muertos)",
+    "pronunciation_hint": "el sem-pah-SOO-cheel",
+    "part_of_speech": "noun (masculine, from Nahuatl)",
+    "example_sentence": "El aroma del cempasúchil guía a los difuntos de regreso.",
+    "example_translation": "The scent of marigolds guides the deceased back.",
+    "audio_file": "B1/unit-10/cempasuchil.mp3",
+    "tags": ["culture", "dia-de-muertos", "nahuatl"]
+  },
+  {
+    "id": "B1-U10-V003",
+    "word": "¡provecho!",
+    "translation": "enjoy your meal! / bon appétit!",
+    "pronunciation_hint": "proh-BEH-choh",
+    "part_of_speech": "interjection",
+    "example_sentence": "— ¡Provecho! — Gracias.",
+    "example_translation": "— Enjoy your meal! — Thank you.",
+    "audio_file": "B1/unit-10/provecho.mp3",
+    "tags": ["expression", "food", "culture", "essential"]
+  },
+  {
+    "id": "B1-U10-V004",
+    "word": "Don / Doña",
+    "translation": "respectful title for older adults",
+    "pronunciation_hint": "don / DOH-nyah",
+    "part_of_speech": "title",
+    "example_sentence": "Don Miguel siempre nos da buenos consejos.",
+    "example_translation": "Don Miguel always gives us good advice.",
+    "audio_file": "B1/unit-10/don-dona.mp3",
+    "tags": ["title", "respect", "culture", "essential"]
+  },
+  {
+    "id": "B1-U10-V005",
+    "word": "la quinceañera",
+    "translation": "the 15th birthday celebration (coming-of-age for girls)",
+    "pronunciation_hint": "lah keen-seh-ah-NYEH-rah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "La quinceañera de mi prima fue más grande que una boda.",
+    "example_translation": "My cousin's quinceañera was bigger than a wedding.",
+    "audio_file": "B1/unit-10/quinceanera.mp3",
+    "tags": ["culture", "celebration", "essential"]
+  },
+  {
+    "id": "B1-U10-V006",
+    "word": "el grito",
+    "translation": "the Cry (of Independence — September 15)",
+    "pronunciation_hint": "el GREE-toh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Fuimos al zócalo a escuchar el grito del presidente.",
+    "example_translation": "We went to the town square to hear the president's cry of independence.",
+    "audio_file": "B1/unit-10/el-grito.mp3",
+    "tags": ["culture", "fiestas-patrias", "essential"]
+  },
+  {
+    "id": "B1-U10-V007",
+    "word": "la posada",
+    "translation": "the Christmas pre-celebration (Dec 16–24)",
+    "pronunciation_hint": "lah poh-SAH-dah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "En las posadas siempre hay piñata y ponche.",
+    "example_translation": "At posadas there's always a piñata and ponche.",
+    "audio_file": "B1/unit-10/posada.mp3",
+    "tags": ["culture", "christmas", "tradition"]
+  },
+  {
+    "id": "B1-U10-V008",
+    "word": "el antojito",
+    "translation": "the street food snack",
+    "pronunciation_hint": "el an-toh-HEE-toh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Los tacos, las garnachas y el elote son antojitos típicos.",
+    "example_translation": "Tacos, garnachas, and corn on the cob are typical street snacks.",
+    "audio_file": "B1/unit-10/antojito.mp3",
+    "tags": ["food", "culture", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U10-V009",
+    "word": "¡que Dios te bendiga!",
+    "translation": "God bless you! (sincere expression)",
+    "pronunciation_hint": "keh DYOHS teh ben-DEE-gah",
+    "part_of_speech": "expression",
+    "example_sentence": "Al despedirse, mi abuela siempre dice: ¡Que Dios te bendiga!",
+    "example_translation": "When saying goodbye, my grandmother always says: God bless you!",
+    "audio_file": "B1/unit-10/que-dios-te-bendiga.mp3",
+    "tags": ["expression", "culture", "religion", "farewell"]
+  },
+  {
+    "id": "B1-U10-V010",
+    "word": "nepantla",
+    "translation": "in between / caught between two worlds (Nahuatl concept)",
+    "pronunciation_hint": "neh-PAN-tlah",
+    "part_of_speech": "noun (from Nahuatl)",
+    "example_sentence": "La cultura mexicana vive en nepantla entre lo indígena y lo español.",
+    "example_translation": "Mexican culture lives in nepantla between indigenous and Spanish heritage.",
+    "audio_file": "B1/unit-10/nepantla.mp3",
+    "tags": ["culture", "nahuatl", "identity"]
+  },
+  {
+    "id": "B1-U10-V011",
+    "word": "el pozole",
+    "translation": "hominy stew (served at celebrations)",
+    "pronunciation_hint": "el poh-SOH-leh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "En las Fiestas Patrias siempre comemos pozole rojo.",
+    "example_translation": "During Independence celebrations we always eat red pozole.",
+    "audio_file": "B1/unit-10/pozole.mp3",
+    "tags": ["food", "culture", "celebration"]
+  },
+  {
+    "id": "B1-U10-V012",
+    "word": "¡ándale, siéntate!",
+    "translation": "come on, sit down! (warm hospitality invitation)",
+    "pronunciation_hint": "AN-dah-leh SYEN-tah-teh",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Ándale, siéntate que hay de todo y ya está listo!",
+    "example_translation": "Come on, sit down — there's plenty and it's ready!",
+    "audio_file": "B1/unit-10/andale-sientate.mp3",
+    "tags": ["expression", "hospitality", "mexico", "essential"]
+  }
+]

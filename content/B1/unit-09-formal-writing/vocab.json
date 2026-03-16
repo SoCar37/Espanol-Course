@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U09-V001",
+    "word": "estimado/a",
+    "translation": "dear (formal salutation)",
+    "pronunciation_hint": "es-tee-MAH-doh",
+    "part_of_speech": "adjective (formal salutation)",
+    "example_sentence": "Estimada Dra. López:",
+    "example_translation": "Dear Dr. López:",
+    "audio_file": "B1/unit-09/estimado.mp3",
+    "tags": ["formal", "writing", "email", "essential"]
+  },
+  {
+    "id": "B1-U09-V002",
+    "word": "atentamente",
+    "translation": "sincerely / attentively (formal closing)",
+    "pronunciation_hint": "ah-ten-tah-MEN-teh",
+    "part_of_speech": "adverb (formal closing)",
+    "example_sentence": "Atentamente, Ing. Carlos Vega",
+    "example_translation": "Sincerely, Engineer Carlos Vega",
+    "audio_file": "B1/unit-09/atentamente.mp3",
+    "tags": ["formal", "writing", "email", "essential"]
+  },
+  {
+    "id": "B1-U09-V003",
+    "word": "me dirijo a usted para",
+    "translation": "I am writing to you to / I address you to",
+    "pronunciation_hint": "meh dee-REE-hoh ah oos-TED PAH-rah",
+    "part_of_speech": "formal opening phrase",
+    "example_sentence": "Me dirijo a usted para solicitar información sobre el curso.",
+    "example_translation": "I am writing to you to request information about the course.",
+    "audio_file": "B1/unit-09/me-dirijo.mp3",
+    "tags": ["formal", "writing", "opening", "essential"]
+  },
+  {
+    "id": "B1-U09-V004",
+    "word": "le agradecería que",
+    "translation": "I would be grateful if you (+ subjunctive)",
+    "pronunciation_hint": "leh ah-grah-deh-seh-REE-ah keh",
+    "part_of_speech": "formal request phrase",
+    "example_sentence": "Le agradecería que me enviara los documentos.",
+    "example_translation": "I would be grateful if you would send me the documents.",
+    "audio_file": "B1/unit-09/le-agradeceria.mp3",
+    "tags": ["formal", "writing", "request", "essential"]
+  },
+  {
+    "id": "B1-U09-V005",
+    "word": "quedo a sus órdenes",
+    "translation": "I remain at your service",
+    "pronunciation_hint": "KEH-doh ah soos OR-deh-nes",
+    "part_of_speech": "formal closing phrase",
+    "example_sentence": "Quedo a sus órdenes para cualquier aclaración.",
+    "example_translation": "I remain at your service for any clarification.",
+    "audio_file": "B1/unit-09/quedo-a-sus-ordenes.mp3",
+    "tags": ["formal", "writing", "closing", "essential"]
+  },
+  {
+    "id": "B1-U09-V006",
+    "word": "asimismo",
+    "translation": "likewise / additionally / also",
+    "pronunciation_hint": "ah-see-MEES-moh",
+    "part_of_speech": "adverb (formal connector)",
+    "example_sentence": "Asimismo, le solicito que confirme su asistencia.",
+    "example_translation": "Additionally, I request that you confirm your attendance.",
+    "audio_file": "B1/unit-09/asimismo.mp3",
+    "tags": ["formal", "writing", "connector"]
+  },
+  {
+    "id": "B1-U09-V007",
+    "word": "Lic.",
+    "translation": "Licenciado/a — university graduate (common Mexican title)",
+    "pronunciation_hint": "lee-SEN-syah-doh",
+    "part_of_speech": "title abbreviation",
+    "example_sentence": "Estimado Lic. Hernández:",
+    "example_translation": "Dear Mr. Hernández (university graduate):",
+    "audio_file": "B1/unit-09/lic.mp3",
+    "tags": ["title", "formal", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U09-V008",
+    "word": "en espera de su respuesta",
+    "translation": "awaiting your response",
+    "pronunciation_hint": "en es-PEH-rah deh soo rres-PWES-tah",
+    "part_of_speech": "formal closing phrase",
+    "example_sentence": "En espera de su respuesta, me despido atentamente.",
+    "example_translation": "Awaiting your response, I bid you farewell sincerely.",
+    "audio_file": "B1/unit-09/en-espera.mp3",
+    "tags": ["formal", "writing", "closing"]
+  },
+  {
+    "id": "B1-U09-V009",
+    "word": "por medio de la presente",
+    "translation": "by means of this (letter/email)",
+    "pronunciation_hint": "por MEH-dyoh deh lah preh-SEN-teh",
+    "part_of_speech": "formal opening phrase",
+    "example_sentence": "Por medio de la presente, me permito informarle que...",
+    "example_translation": "By means of this letter, I take the liberty of informing you that...",
+    "audio_file": "B1/unit-09/por-medio-de.mp3",
+    "tags": ["formal", "writing", "opening"]
+  },
+  {
+    "id": "B1-U09-V010",
+    "word": "cabe mencionar que",
+    "translation": "it is worth mentioning that / it should be noted that",
+    "pronunciation_hint": "KAH-beh men-syoh-NAHR keh",
+    "part_of_speech": "formal transition phrase",
+    "example_sentence": "Cabe mencionar que el plazo vence el próximo viernes.",
+    "example_translation": "It is worth mentioning that the deadline is next Friday.",
+    "audio_file": "B1/unit-09/cabe-mencionar.mp3",
+    "tags": ["formal", "writing", "transition"]
+  },
+  {
+    "id": "B1-U09-V011",
+    "word": "cordialmente",
+    "translation": "cordially / warm regards",
+    "pronunciation_hint": "kor-dyahl-MEN-teh",
+    "part_of_speech": "adverb (semi-formal closing)",
+    "example_sentence": "Cordialmente, Mtra. Ana Pérez",
+    "example_translation": "Cordially, Teacher Ana Pérez",
+    "audio_file": "B1/unit-09/cordialmente.mp3",
+    "tags": ["formal", "writing", "closing"]
+  },
+  {
+    "id": "B1-U09-V012",
+    "word": "a quien corresponda",
+    "translation": "to whom it may concern",
+    "pronunciation_hint": "ah KYEN koh-rres-PON-dah",
+    "part_of_speech": "formal salutation phrase",
+    "example_sentence": "A quien corresponda: Por medio de la presente...",
+    "example_translation": "To whom it may concern: By means of this letter...",
+    "audio_file": "B1/unit-09/a-quien-corresponda.mp3",
+    "tags": ["formal", "writing", "salutation"]
+  }
+]

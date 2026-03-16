@@ -1,0 +1,15 @@
+{
+  "id": "B1-U10",
+  "title": "Mexican Culture & Traditions",
+  "level": "B1",
+  "unit": 10,
+  "slug": "mexican-culture",
+  "estimated_minutes": 30,
+  "topics": ["Mexican culture", "traditions", "holidays", "food culture", "family", "Día de Muertos", "fiestas"],
+  "prereqs": ["B1-U09"],
+  "cefr_skills": ["speaking", "listening", "reading"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

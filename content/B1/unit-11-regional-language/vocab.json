@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U11-V001",
+    "word": "mande",
+    "translation": "pardon? / what did you say? (polite Mexican expression)",
+    "pronunciation_hint": "MAN-deh",
+    "part_of_speech": "interjection",
+    "example_sentence": "— María. — ¿Mande? — ¿Puedes ayudarme?",
+    "example_translation": "— María. — Pardon? — Can you help me?",
+    "audio_file": "B1/unit-11/mande.mp3",
+    "tags": ["slang", "polite", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U11-V002",
+    "word": "chilango/a",
+    "translation": "person from Mexico City",
+    "pronunciation_hint": "chee-LAN-goh",
+    "part_of_speech": "noun / adjective",
+    "example_sentence": "Los chilangos hablan muy rápido.",
+    "example_translation": "People from Mexico City speak very fast.",
+    "audio_file": "B1/unit-11/chilango.mp3",
+    "tags": ["regional", "cdmx", "identity"]
+  },
+  {
+    "id": "B1-U11-V003",
+    "word": "tapatío/a",
+    "translation": "person from Guadalajara / Jalisco",
+    "pronunciation_hint": "tah-pah-TEE-oh",
+    "part_of_speech": "noun / adjective",
+    "example_sentence": "El tequila y el mariachi son tradiciones tapatías.",
+    "example_translation": "Tequila and mariachi are Jalisco traditions.",
+    "audio_file": "B1/unit-11/tapatio.mp3",
+    "tags": ["regional", "guadalajara", "identity"]
+  },
+  {
+    "id": "B1-U11-V004",
+    "word": "chafa",
+    "translation": "low quality / cheap / shoddy",
+    "pronunciation_hint": "CHAH-fah",
+    "part_of_speech": "adjective (Mexican slang)",
+    "example_sentence": "Ese celular es muy chafa, se descompuso al mes.",
+    "example_translation": "That phone is really cheap quality — it broke after a month.",
+    "audio_file": "B1/unit-11/chafa.mp3",
+    "tags": ["slang", "mexico", "quality"]
+  },
+  {
+    "id": "B1-U11-V005",
+    "word": "fresa",
+    "translation": "preppy / snobby / upper-class (person or thing)",
+    "pronunciation_hint": "FREH-sah",
+    "part_of_speech": "adjective / noun (Mexican slang)",
+    "example_sentence": "Ese barrio es muy fresa, todos van en carro nuevo.",
+    "example_translation": "That neighborhood is very preppy — everyone drives a new car.",
+    "audio_file": "B1/unit-11/fresa.mp3",
+    "tags": ["slang", "mexico", "social-class"]
+  },
+  {
+    "id": "B1-U11-V006",
+    "word": "a poco",
+    "translation": "really? / no way! / is that so?",
+    "pronunciation_hint": "ah POH-koh",
+    "part_of_speech": "expression (CDMX slang)",
+    "example_sentence": "— Me gané la lotería. — ¡A poco!",
+    "example_translation": "— I won the lottery. — No way!",
+    "audio_file": "B1/unit-11/a-poco.mp3",
+    "tags": ["slang", "cdmx", "expression"]
+  },
+  {
+    "id": "B1-U11-V007",
+    "word": "chale",
+    "translation": "no way / that's messed up / ugh (Northern Mexican)",
+    "pronunciation_hint": "CHAH-leh",
+    "part_of_speech": "interjection (Northern slang)",
+    "example_sentence": "¡Chale! Se canceló el concierto.",
+    "example_translation": "No way! The concert got cancelled.",
+    "audio_file": "B1/unit-11/chale.mp3",
+    "tags": ["slang", "northern-mexico", "expression"]
+  },
+  {
+    "id": "B1-U11-V008",
+    "word": "crudo/a",
+    "translation": "hungover",
+    "pronunciation_hint": "KROO-doh",
+    "part_of_speech": "adjective (Mexican slang)",
+    "example_sentence": "Estoy muy crudo hoy, no salí bien ayer.",
+    "example_translation": "I'm very hungover today — yesterday didn't go well.",
+    "audio_file": "B1/unit-11/crudo.mp3",
+    "tags": ["slang", "mexico"]
+  },
+  {
+    "id": "B1-U11-V009",
+    "word": "fuereño/a",
+    "translation": "outsider / person from out of town",
+    "pronunciation_hint": "fweh-REH-nyoh",
+    "part_of_speech": "noun / adjective",
+    "example_sentence": "Se nota que eres fuereño por cómo hablas.",
+    "example_translation": "You can tell you're from out of town by how you speak.",
+    "audio_file": "B1/unit-11/fuereño.mp3",
+    "tags": ["regional", "identity", "mexico"]
+  },
+  {
+    "id": "B1-U11-V010",
+    "word": "regio/a",
+    "translation": "person from Monterrey / Nuevo León",
+    "pronunciation_hint": "RREH-hyoh",
+    "part_of_speech": "noun / adjective",
+    "example_sentence": "Los regios son muy trabajadores y orgullosos de su ciudad.",
+    "example_translation": "People from Monterrey are very hardworking and proud of their city.",
+    "audio_file": "B1/unit-11/regio.mp3",
+    "tags": ["regional", "monterrey", "identity"]
+  },
+  {
+    "id": "B1-U11-V011",
+    "word": "-ito / -ita (diminutivo)",
+    "translation": "diminutive suffix — shows affection, makes things smaller or cuter",
+    "pronunciation_hint": "EE-toh / EE-tah",
+    "part_of_speech": "suffix",
+    "example_sentence": "¿Me da un cafecito, por favor?",
+    "example_translation": "Can I have a (little) coffee, please?",
+    "audio_file": "B1/unit-11/diminutivo.mp3",
+    "tags": ["grammar", "diminutive", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U11-V012",
+    "word": "está cañón",
+    "translation": "it's tough / intense / difficult / wild",
+    "pronunciation_hint": "es-TAH kah-NYON",
+    "part_of_speech": "expression (CDMX / Mexican)",
+    "example_sentence": "El tráfico en la CDMX está cañón a las ocho.",
+    "example_translation": "The traffic in Mexico City is intense at eight.",
+    "audio_file": "B1/unit-11/esta-canon.mp3",
+    "tags": ["slang", "cdmx", "expression", "essential"]
+  }
+]

@@ -54,9 +54,11 @@ const COURSE_STRUCTURE = [
       { id: 'unit-06-passive-voice',     title: 'Passive Voice & Se Constructions' },
       { id: 'unit-07-idiomatic-verbs',   title: 'Idiomatic Verbs' },
       { id: 'unit-08-opinion-debate',    title: 'Expressing Opinions & Debate' },
+      { id: 'unit-09-formal-writing',    title: 'Formal Writing & Email' },
+      { id: 'unit-10-mexican-culture',   title: 'Mexican Culture & Traditions' },
+      { id: 'unit-11-regional-language', title: 'Regional Language & Slang' },
+      { id: 'unit-12-review',            title: 'B1 Review & Checkpoint' },
     ],
-    comingSoon: false,
-    partialContent: true,
   },
   { level: 'B2', title: 'Advanced Expression', description: 'Subjunctive mastery, complex grammar, cultural context, debate & persuasion', color: 'from-rose-500 to-orange-500', units: [], comingSoon: true },
   { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
@@ -85,7 +87,6 @@ export default function CourseMapPage() {
                   </div>
                 </div>
                 {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
-                {levelData.partialContent && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">More units coming soon</span>}
               </div>
               {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">

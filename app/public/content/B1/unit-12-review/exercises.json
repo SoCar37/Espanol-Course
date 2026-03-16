@@ -1,0 +1,76 @@
+[
+  {
+    "id": "B1-U12-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct subjunctive: Ojalá que todos ___ a la fiesta. (venir)",
+    "options": ["vengan", "vienen", "vendrán", "vinieron"],
+    "answer": 0,
+    "explanation": "Review B1-U01: 'Ojalá que' always triggers the subjunctive. 'Venir' → yo vengo → veng- → vengan (ellos subjunctive). 'Vienen' is indicative; 'vendrán' is future; 'vinieron' is preterite."
+  },
+  {
+    "id": "B1-U12-E002",
+    "type": "multiple_choice",
+    "prompt": "Choose por or para: Compré este regalo ___ ti ___ solo cien pesos.",
+    "options": ["para / por", "por / para", "para / para", "por / por"],
+    "answer": 0,
+    "explanation": "Review B1-U04: 'Para ti' = for you (recipient → para). 'Por cien pesos' = for a hundred pesos (exchange → por). Both prepositions used correctly in the same sentence."
+  },
+  {
+    "id": "B1-U12-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the conditional: Con más tiempo, yo ___ por toda América Latina. (viajar)",
+    "options": ["viajaría", "viajé", "viajaré", "viajara"],
+    "answer": 0,
+    "explanation": "Review B1-U03: The conditional expresses what WOULD happen. 'Viajar' is regular in the conditional: viaj- + aría = viajaría. This describes a hypothetical situation."
+  },
+  {
+    "id": "B1-U12-E004",
+    "type": "multiple_choice",
+    "prompt": "Complete with the correct relative pronoun: El café ___ nos conocimos ya cerró.",
+    "options": ["donde", "que", "quien", "lo que"],
+    "answer": 0,
+    "explanation": "Review B1-U05: 'Donde' = where — used for places. 'El café donde nos conocimos' = The café where we met. 'Que' would also work here in informal speech but 'donde' is more precise."
+  },
+  {
+    "id": "B1-U12-E005",
+    "type": "translation",
+    "prompt": "Translate using the accidental se: 'I ran out of money.'",
+    "options": [
+      "Se me acabó el dinero.",
+      "Acabé el dinero.",
+      "Se acabó mi dinero.",
+      "Me quedé sin dinero."
+    ],
+    "answer": 0,
+    "explanation": "Review B1-U06: Accidental se = Se + indirect object (me) + verb. 'Se me acabó el dinero' = the money ran out on me. Both A and D work, but A uses the exact accidental se construction taught."
+  },
+  {
+    "id": "B1-U12-E006",
+    "type": "multiple_choice",
+    "prompt": "Complete: ¿Te ___ si pongo un poco de música? (molestar)",
+    "options": ["molesta", "molestan", "duele", "parece"],
+    "answer": 0,
+    "explanation": "Review B1-U07: 'Molestar' follows the gustar pattern. 'La música' (if implied) is singular → molesta. '¿Te molesta si...?' = Does it bother you if...? A polite way to ask permission."
+  },
+  {
+    "id": "B1-U12-E007",
+    "type": "multiple_choice",
+    "prompt": "You want to politely disagree with a colleague. Which is most appropriate?",
+    "options": [
+      "Entiendo tu punto; sin embargo, yo lo vería de otra manera.",
+      "Estás completamente equivocado.",
+      "Eso no tiene sentido.",
+      "Mejor no digas nada más."
+    ],
+    "answer": 0,
+    "explanation": "Review B1-U08: Mexican professional disagreement values face-saving. Acknowledging the other point first ('entiendo tu punto') before introducing your alternative ('yo lo vería de otra manera') is the culturally appropriate approach."
+  },
+  {
+    "id": "B1-U12-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a B1-level sentence using multiple grammar points:",
+    "words": ["Ojalá", "que", "el", "año", "que", "viene", "puedas", "visitar", "el", "lugar", "donde", "nací,", "porque", "se", "come", "increíblemente", "bien."],
+    "answer": "Ojalá que el año que viene puedas visitar el lugar donde nací, porque se come increíblemente bien.",
+    "explanation": "This sentence uses: subjunctive (ojalá + puedas), future time expression (el año que viene), relative clause (donde nací), and impersonal se (se come bien). A true B1-level construction."
+  }
+]

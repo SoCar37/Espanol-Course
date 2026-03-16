@@ -1,0 +1,106 @@
+{
+  "id": "B1-U09-Q",
+  "title": "Unit 9 Checkpoint Quiz — Formal Writing & Email",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U09-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct format for a formal salutation in a Mexican professional email?",
+      "options": [
+        "Estimado Ing. García:",
+        "Querido Ing. García,",
+        "Hola Ing. García:",
+        "Buenos Ing. García,"
+      ],
+      "answer": 0,
+      "explanation": "Formal Mexican emails use 'Estimado/a' + title + last name + colon. The colon (not comma) is standard in Spanish formal correspondence. 'Querido' is too personal."
+    },
+    {
+      "id": "B1-U09-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'Me dirijo a usted para' signal in an email?",
+      "options": [
+        "The purpose of the email — 'I am writing to you to'",
+        "A closing statement",
+        "A greeting",
+        "A transition between paragraphs"
+      ],
+      "answer": 0,
+      "explanation": "'Me dirijo a usted para...' = I am writing to you to... It's the standard formal opening that states the purpose of the email upfront."
+    },
+    {
+      "id": "B1-U09-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which is the most common formal email closing in Mexico?",
+      "options": ["Atentamente,", "Saludos,", "Cuídate,", "Un abrazo,"],
+      "answer": 0,
+      "explanation": "'Atentamente' (sincerely/attentively) is the standard formal closing. 'Saludos' is semi-formal. 'Cuídate' and 'Un abrazo' are personal and inappropriate for professional correspondence."
+    },
+    {
+      "id": "B1-U09-Q004",
+      "type": "multiple_choice",
+      "prompt": "In Mexico, the title 'Lic.' is used for:",
+      "options": [
+        "Anyone with a university degree",
+        "Lawyers only",
+        "Licensed professionals (engineers, doctors)",
+        "Government officials only"
+      ],
+      "answer": 0,
+      "explanation": "'Lic.' (Licenciado/a) in Mexico refers to anyone holding a university degree — it's used much more broadly than in other countries. Not using it when addressing someone who holds it is considered disrespectful."
+    },
+    {
+      "id": "B1-U09-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which phrase makes a polite formal request?",
+      "options": [
+        "Le agradecería que me enviara la información.",
+        "Mándame la información.",
+        "Necesito la información ya.",
+        "Dame los datos pronto."
+      ],
+      "answer": 0,
+      "explanation": "'Le agradecería que...' (I would be grateful if you...) uses the conditional for politeness + subjunctive for the request. It's the gold standard for formal written requests in Mexican Spanish."
+    },
+    {
+      "id": "B1-U09-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is 'asimismo' used for in formal writing?",
+      "options": [
+        "To add another point — 'likewise / additionally'",
+        "To contradict a previous point",
+        "To close the email",
+        "To greet the recipient"
+      ],
+      "answer": 0,
+      "explanation": "'Asimismo' = likewise / additionally. It's a formal connector used to add another point or request in the same email, without using informal words like 'también' or 'y'."
+    },
+    {
+      "id": "B1-U09-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'quedo a sus órdenes' mean?",
+      "options": [
+        "I remain at your service",
+        "I await your orders",
+        "I am placing an order",
+        "I am ready to leave"
+      ],
+      "answer": 0,
+      "explanation": "'Quedo a sus órdenes' = I remain at your service — a formal expression of availability and helpfulness used as a closing statement in Mexican professional correspondence."
+    },
+    {
+      "id": "B1-U09-Q008",
+      "type": "multiple_choice",
+      "prompt": "Why do Mexican professional emails often begin with a brief pleasantry before the main point?",
+      "options": [
+        "Mexican professional culture values warmth — jumping straight to the request can seem brusque",
+        "It is required by Mexican law",
+        "It makes the email longer, which looks more professional",
+        "It is the only grammatically correct way to open an email"
+      ],
+      "answer": 0,
+      "explanation": "Mexican professional culture places high value on warmth and relationship-building. A brief pleasantry before the main request shows respect and consideration. A blunt, direct opening ('I need X') without any warm opening can be perceived as rude."
+    }
+  ]
+}
