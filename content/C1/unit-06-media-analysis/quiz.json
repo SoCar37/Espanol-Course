@@ -1,0 +1,111 @@
+{
+  "id": "C1-U06-Q",
+  "title": "Unit 6 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U06-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which Mexican outlet is known for investigative digital journalism?",
+      "options": [
+        "Televisa",
+        "Animal Político",
+        "Notimex",
+        "TV Azteca"
+      ],
+      "answer": 1,
+      "explanation": "Animal Político is a leading digital outlet known for investigative journalism in Mexico, alongside Aristegui Noticias and El País México."
+    },
+    {
+      "id": "C1-U06-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'el sesgo' mean in media analysis?",
+      "options": [
+        "Headline",
+        "Editorial line",
+        "Bias",
+        "Lead paragraph"
+      ],
+      "answer": 2,
+      "explanation": "'El sesgo' means bias — a systematic slant in how information is selected, framed, or presented."
+    },
+    {
+      "id": "C1-U06-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which reporting verb implies the speaker is maintaining a position against opposition?",
+      "options": [
+        "admitir",
+        "alegar",
+        "insistir en",
+        "reconocer"
+      ],
+      "answer": 2,
+      "explanation": "'Insistir en' (to insist on) implies repetition of a claim against resistance or skepticism — the speaker is holding their position under challenge."
+    },
+    {
+      "id": "C1-U06-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the difference between 'la nota informativa' and 'el editorial'?",
+      "options": [
+        "A nota informativa is longer; an editorial is shorter",
+        "A nota informativa is factual reporting; an editorial is the outlet's opinion",
+        "A nota informativa appears online; an editorial appears in print",
+        "They are the same type of journalistic text"
+      ],
+      "answer": 1,
+      "explanation": "'La nota informativa' is a factual news report. 'El editorial' expresses the opinion and position of the publication itself — a fundamental distinction in journalism."
+    },
+    {
+      "id": "C1-U06-Q005",
+      "type": "multiple_choice",
+      "prompt": "The phrase 'El gobierno atribuye el problema a...' signals:",
+      "options": [
+        "A verified fact established by independent sources",
+        "The journalist's own interpretation",
+        "The government's framing — not necessarily an established fact",
+        "A direct quote from a government official"
+      ],
+      "answer": 2,
+      "explanation": "'Atribuye' signals that this is the government's explanation or framing. The journalist is reporting their claim, not endorsing it as verified fact."
+    },
+    {
+      "id": "C1-U06-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'reconocer' imply when used as a reporting verb?",
+      "options": [
+        "The subject is making a new, unprompted disclosure",
+        "The subject is acknowledging something previously denied or concealed",
+        "The journalist doubts the claim being made",
+        "The claim has been independently verified"
+      ],
+      "answer": 1,
+      "explanation": "'Reconocer' (to acknowledge) implies that the subject is admitting something that was previously denied, hidden, or disputed — it suggests prior resistance to disclosure."
+    },
+    {
+      "id": "C1-U06-Q007",
+      "type": "multiple_choice",
+      "prompt": "The organization 'Artículo 19' mentioned in the lesson advocates for:",
+      "options": [
+        "Indigenous language rights",
+        "Press freedom and protection of journalists",
+        "Digital privacy and data protection",
+        "Access to public education"
+      ],
+      "answer": 1,
+      "explanation": "Artículo 19 (named after Article 19 of the Universal Declaration of Human Rights) documents attacks on journalists and advocates for press freedom in Mexico."
+    },
+    {
+      "id": "C1-U06-Q008",
+      "type": "multiple_choice",
+      "prompt": "When critically reading a media text, which question helps identify absent perspectives?",
+      "options": [
+        "¿Cuántas palabras tiene el artículo?",
+        "¿Qué voces están ausentes?",
+        "¿Cuál es el titular del artículo?",
+        "¿En qué página aparece la nota?"
+      ],
+      "answer": 1,
+      "explanation": "'¿Qué voces están ausentes?' (What voices are absent?) is one of the four key critical reading questions from the lesson — essential for identifying whose perspective a story omits."
+    }
+  ]
+}

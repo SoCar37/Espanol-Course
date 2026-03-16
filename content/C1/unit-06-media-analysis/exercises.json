@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U06-E001",
+    "type": "multiple_choice",
+    "prompt": "Which reporting verb implies that a claim has NOT been independently verified?",
+    "options": [
+      "afirmar",
+      "señalar",
+      "alegar",
+      "reconocer"
+    ],
+    "answer": 2,
+    "explanation": "'Alegar' (to allege) signals that the claim is unverified — it is what a person or party states, but the journalist is not endorsing it as fact. It is the appropriate verb for unconfirmed accusations."
+  },
+  {
+    "id": "C1-U06-E002",
+    "type": "multiple_choice",
+    "prompt": "What does 'la línea editorial' of a newspaper refer to?",
+    "options": [
+      "The font and layout style of the publication",
+      "The newspaper's political or ideological stance",
+      "The number of pages in each edition",
+      "The editorial team's names and titles"
+    ],
+    "answer": 1,
+    "explanation": "'La línea editorial' refers to the publication's consistent political or ideological orientation — the lens through which it selects, frames, and presents news."
+  },
+  {
+    "id": "C1-U06-E003",
+    "type": "multiple_choice",
+    "prompt": "The same event described as 'disturbios' vs 'marcha ciudadana' is an example of:",
+    "options": [
+      "Intertextualidad",
+      "El encuadre (framing)",
+      "La analepsis",
+      "El flujo de conciencia"
+    ],
+    "answer": 1,
+    "explanation": "Choosing 'disturbios' (disturbances) vs 'marcha ciudadana' (civic march) to describe the same event is a classic example of framing — how word choice shapes perception and interpretation."
+  },
+  {
+    "id": "C1-U06-E004",
+    "type": "multiple_choice",
+    "prompt": "'El funcionario admitió que los fondos no habían sido auditados.' The verb 'admitir' here implies:",
+    "options": [
+      "The official volunteered this information proactively",
+      "The information was publicly known already",
+      "The official made this concession under pressure or reluctantly",
+      "The journalist is skeptical of the claim"
+    ],
+    "answer": 2,
+    "explanation": "'Admitir' implies that the information was conceded reluctantly — under questioning or pressure — rather than volunteered. It carries a connotation of prior concealment or denial."
+  },
+  {
+    "id": "C1-U06-E005",
+    "type": "multiple_choice",
+    "prompt": "Which of these is a factual marker (indicating reported, verifiable information)?",
+    "options": [
+      "A juicio del analista...",
+      "Cabe interpretar este dato como...",
+      "Según datos del INEGI...",
+      "El gobierno atribuye el problema a..."
+    ],
+    "answer": 2,
+    "explanation": "'Según datos del INEGI' (according to INEGI data) attributes information to a specific, named source — a factual marker. The others signal opinion, interpretation, or a party's framing."
+  },
+  {
+    "id": "C1-U06-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the most appropriate reporting verb: 'La empresa _______ que no tenía conocimiento del fraude.' (The company claimed/insisted it had no knowledge of the fraud.)",
+    "options": [
+      "admitió",
+      "reconoció",
+      "alegó",
+      "señaló"
+    ],
+    "answer": 2,
+    "explanation": "'Alegó' (alleged) is most appropriate when a party makes a self-serving claim that has not been verified. The company is asserting its innocence — this is an allegation, not a confirmed fact."
+  },
+  {
+    "id": "C1-U06-E007",
+    "type": "translation",
+    "prompt": "Translate critically: 'In the view of several analysts, the government's framing of the crisis reflects its political interests.'",
+    "options": [
+      "Los analistas dicen que el gobierno miente sobre la crisis.",
+      "A juicio de varios analistas, el encuadre de la crisis por parte del gobierno refleja sus intereses políticos.",
+      "Según el gobierno, la crisis no es tan grave como dicen los analistas.",
+      "Varios analistas creen que la crisis es política."
+    ],
+    "answer": 1,
+    "explanation": "'A juicio de' correctly marks this as the analysts' opinion. 'El encuadre de la crisis por parte del gobierno' precisely renders 'the government's framing of the crisis' using the correct media analysis vocabulary."
+  },
+  {
+    "id": "C1-U06-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a critical reading question about media sources:",
+    "words": ["¿Cuál", "es", "la", "fuente", "y", "tiene", "intereses", "en", "el", "tema"],
+    "answer": "¿Cuál es la fuente y tiene intereses en el tema",
+    "explanation": "One of the four key critical reading questions from the lesson: 'What is the source and does it have interests in the matter?' — essential for evaluating journalistic credibility."
+  }
+]

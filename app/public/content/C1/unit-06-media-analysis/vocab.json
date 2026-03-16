@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U06-V001",
+    "word": "el sesgo",
+    "translation": "bias",
+    "pronunciation_hint": "SES-go",
+    "part_of_speech": "noun",
+    "example_sentence": "Todo medio tiene algún sesgo; lo importante es identificarlo.",
+    "example_translation": "Every outlet has some bias; what matters is identifying it.",
+    "audio_file": "C1/unit-06/el_sesgo.mp3",
+    "tags": ["media", "critical reading", "advanced"]
+  },
+  {
+    "id": "C1-U06-V002",
+    "word": "el encuadre",
+    "translation": "framing (of a news story)",
+    "pronunciation_hint": "en-KWAH-dreh",
+    "part_of_speech": "noun",
+    "example_sentence": "El encuadre de la noticia determina cómo la percibe el público.",
+    "example_translation": "The framing of the news story determines how the public perceives it.",
+    "audio_file": "C1/unit-06/el_encuadre.mp3",
+    "tags": ["media", "analysis", "advanced"]
+  },
+  {
+    "id": "C1-U06-V003",
+    "word": "la línea editorial",
+    "translation": "editorial line / political stance of an outlet",
+    "pronunciation_hint": "LEE-neh-ah eh-dee-to-RYAL",
+    "part_of_speech": "phrase",
+    "example_sentence": "Antes de citar una fuente, conviene conocer su línea editorial.",
+    "example_translation": "Before citing a source, it is worth knowing its editorial line.",
+    "audio_file": "C1/unit-06/la_linea_editorial.mp3",
+    "tags": ["media", "journalism", "advanced"]
+  },
+  {
+    "id": "C1-U06-V004",
+    "word": "alegar",
+    "translation": "to allege (unverified claim)",
+    "pronunciation_hint": "ah-leh-GAR",
+    "part_of_speech": "verb",
+    "example_sentence": "El acusado alega que no estaba presente en el momento de los hechos.",
+    "example_translation": "The accused alleges that he was not present at the time of the events.",
+    "audio_file": "C1/unit-06/alegar.mp3",
+    "tags": ["reporting verbs", "journalism", "advanced"]
+  },
+  {
+    "id": "C1-U06-V005",
+    "word": "admitir",
+    "translation": "to admit (reluctant concession)",
+    "pronunciation_hint": "ad-mee-TEER",
+    "part_of_speech": "verb",
+    "example_sentence": "La empresa admitió que los datos de usuarios habían sido filtrados.",
+    "example_translation": "The company admitted that user data had been leaked.",
+    "audio_file": "C1/unit-06/admitir.mp3",
+    "tags": ["reporting verbs", "journalism", "advanced"]
+  },
+  {
+    "id": "C1-U06-V006",
+    "word": "la desinformación",
+    "translation": "disinformation",
+    "pronunciation_hint": "deh-seen-for-mah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La desinformación en redes sociales complica el debate público.",
+    "example_translation": "Disinformation on social media complicates public debate.",
+    "audio_file": "C1/unit-06/la_desinformacion.mp3",
+    "tags": ["media", "digital", "advanced"]
+  },
+  {
+    "id": "C1-U06-V007",
+    "word": "el reportaje de investigación",
+    "translation": "investigative report",
+    "pronunciation_hint": "reh-por-TAH-heh de een-ves-tee-gah-SYON",
+    "part_of_speech": "phrase",
+    "example_sentence": "El reportaje de investigación expuso la red de corrupción en el municipio.",
+    "example_translation": "The investigative report exposed the corruption network in the municipality.",
+    "audio_file": "C1/unit-06/el_reportaje_de_investigacion.mp3",
+    "tags": ["journalism", "media", "advanced"]
+  },
+  {
+    "id": "C1-U06-V008",
+    "word": "la fuente",
+    "translation": "source (journalistic)",
+    "pronunciation_hint": "FWEN-teh",
+    "part_of_speech": "noun",
+    "example_sentence": "Un buen periodista siempre verifica la información con más de una fuente.",
+    "example_translation": "A good journalist always verifies information with more than one source.",
+    "audio_file": "C1/unit-06/la_fuente.mp3",
+    "tags": ["journalism", "media", "advanced"]
+  },
+  {
+    "id": "C1-U06-V009",
+    "word": "sostener",
+    "translation": "to maintain / to argue (a position)",
+    "pronunciation_hint": "sos-teh-NEHR",
+    "part_of_speech": "verb",
+    "example_sentence": "El secretario sostiene que las cifras oficiales son correctas.",
+    "example_translation": "The secretary maintains that the official figures are correct.",
+    "audio_file": "C1/unit-06/sostener.mp3",
+    "tags": ["reporting verbs", "journalism", "advanced"]
+  },
+  {
+    "id": "C1-U06-V010",
+    "word": "el titular",
+    "translation": "headline",
+    "pronunciation_hint": "tee-too-LAR",
+    "part_of_speech": "noun",
+    "example_sentence": "El titular sensacionalista no refleja con precisión el contenido del artículo.",
+    "example_translation": "The sensationalist headline does not accurately reflect the article's content.",
+    "audio_file": "C1/unit-06/el_titular.mp3",
+    "tags": ["media", "journalism", "advanced"]
+  },
+  {
+    "id": "C1-U06-V011",
+    "word": "a juicio de",
+    "translation": "in the judgment of / in the view of",
+    "pronunciation_hint": "ah HWEE-syo deh",
+    "part_of_speech": "phrase",
+    "example_sentence": "A juicio de varios analistas, la política económica es insostenible.",
+    "example_translation": "In the view of several analysts, the economic policy is unsustainable.",
+    "audio_file": "C1/unit-06/a_juicio_de.mp3",
+    "tags": ["opinion markers", "media", "advanced"]
+  },
+  {
+    "id": "C1-U06-V012",
+    "word": "reconocer",
+    "translation": "to acknowledge / to recognize (implies previous denial)",
+    "pronunciation_hint": "reh-ko-no-SEHR",
+    "part_of_speech": "verb",
+    "example_sentence": "El gobierno reconoció que los datos habían sido manipulados.",
+    "example_translation": "The government acknowledged that the data had been manipulated.",
+    "audio_file": "C1/unit-06/reconocer.mp3",
+    "tags": ["reporting verbs", "journalism", "advanced"]
+  }
+]

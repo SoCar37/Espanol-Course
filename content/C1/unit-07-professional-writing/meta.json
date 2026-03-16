@@ -1,0 +1,15 @@
+{
+  "id": "C1-U07",
+  "title": "Professional & Academic Writing",
+  "level": "C1",
+  "unit": 7,
+  "slug": "professional-writing",
+  "estimated_minutes": 45,
+  "topics": ["academic writing conventions", "professional correspondence", "reports and proposals", "abstract writing", "citation and attribution"],
+  "prereqs": ["C1-U06"],
+  "cefr_skills": ["writing", "reading"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.2"
+}

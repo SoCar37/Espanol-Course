@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U05-E001",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between 'el narrador' and 'el autor' in literary analysis?",
+    "options": [
+      "They are synonyms — the narrator is always the author speaking directly",
+      "The narrator is a constructed voice within the text; the author is the real person who wrote it",
+      "The narrator appears only in first-person novels; the author appears in all novels",
+      "The author writes the plot; the narrator writes the dialogue"
+    ],
+    "answer": 1,
+    "explanation": "The narrator is a constructed narrative voice within the text — a literary device. The author is the real person who wrote the work. Conflating them is a fundamental analytical error."
+  },
+  {
+    "id": "C1-U05-E002",
+    "type": "multiple_choice",
+    "prompt": "A narrator who knows all characters' thoughts and feelings is called:",
+    "options": [
+      "Narrador en primera persona",
+      "Narrador en segunda persona",
+      "Narrador omnisciente",
+      "Narrador en tercera persona limitada"
+    ],
+    "answer": 2,
+    "explanation": "An omniscient narrator ('narrador omnisciente') has unlimited access to all characters' inner lives, motivations, and thoughts — a god-like perspective on the story world."
+  },
+  {
+    "id": "C1-U05-E003",
+    "type": "multiple_choice",
+    "prompt": "Which narrative technique disrupts chronological order by returning to earlier events?",
+    "options": [
+      "La prolepsis",
+      "El flujo de conciencia",
+      "La intertextualidad",
+      "La analepsis"
+    ],
+    "answer": 3,
+    "explanation": "La analepsis (flashback) disrupts chronological order by returning to past events. La prolepsis is the opposite — a flash-forward to future events."
+  },
+  {
+    "id": "C1-U05-E004",
+    "type": "multiple_choice",
+    "prompt": "Which phrase is used to introduce a literary analysis argument in Spanish?",
+    "options": [
+      "O sea, el libro dice que...",
+      "El autor se vale de... para...",
+      "En mi opinión personal, creo que...",
+      "El libro es muy bueno porque..."
+    ],
+    "answer": 1,
+    "explanation": "'El autor se vale de... para...' (the author makes use of... in order to...) is a standard analytical phrase that focuses on technique and effect rather than personal opinion."
+  },
+  {
+    "id": "C1-U05-E005",
+    "type": "multiple_choice",
+    "prompt": "Juan Rulfo's 'Pedro Páramo' is associated with which literary technique?",
+    "options": [
+      "El naturalismo",
+      "El flujo de conciencia al estilo Joyce",
+      "Lo real maravilloso",
+      "El existencialismo francés"
+    ],
+    "answer": 2,
+    "explanation": "'Pedro Páramo' is a foundational text of 'lo real maravilloso' (magical realism) — the dead speak, time dissolves, and the supernatural is woven seamlessly into everyday reality."
+  },
+  {
+    "id": "C1-U05-E006",
+    "type": "fill_in_blank",
+    "prompt": "Complete: 'La elección del narrador en primera persona no es casual, sino que _______ la subjetividad de la visión del protagonista.' (highlights / underscores)",
+    "options": [
+      "ignora",
+      "contradice",
+      "subraya",
+      "elimina"
+    ],
+    "answer": 2,
+    "explanation": "'Subraya' (underscores / highlights) is the correct and precise analytical verb here. 'La elección de X no es casual, sino que subraya...' is a standard analytical construction."
+  },
+  {
+    "id": "C1-U05-E007",
+    "type": "translation",
+    "prompt": "Translate into analytical Spanish: 'This passage reveals the protagonist's sense of alienation from modern society.'",
+    "options": [
+      "En este parte, el protagonista se siente solo en la sociedad moderna.",
+      "Este pasaje pone de manifiesto el sentido de alienación del protagonista frente a la sociedad moderna.",
+      "El protagonista está alienado porque la sociedad moderna es mala.",
+      "Aquí vemos que el protagonista no le gusta la sociedad moderna."
+    ],
+    "answer": 1,
+    "explanation": "'Este pasaje pone de manifiesto' is the correct formal analytical phrase. 'El sentido de alienación del protagonista frente a' uses nominalization and precise preposition choice appropriate for literary analysis."
+  },
+  {
+    "id": "C1-U05-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct analytical sentence:",
+    "words": ["El", "simbolismo", "del", "agua", "representa", "la", "renovación", "y", "la", "muerte"],
+    "answer": "El simbolismo del agua representa la renovación y la muerte",
+    "explanation": "A clean analytical sentence identifying a symbol and its dual significance — a standard move in literary analysis."
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U08-E001",
+    "type": "multiple_choice",
+    "prompt": "A Spanish speaker says 'Estoy muy embarazada.' An English speaker might mistakenly translate this as 'I'm very embarrassed.' What does it actually mean?",
+    "options": [
+      "I am very embarrassed.",
+      "I am very pregnant.",
+      "I am very awkward.",
+      "I am very uncomfortable."
+    ],
+    "answer": 1,
+    "explanation": "'Embarazada' means pregnant, not embarrassed. This is one of the most common false friends between Spanish and English. 'Avergonzada' is the correct translation for 'embarrassed'."
+  },
+  {
+    "id": "C1-U08-E002",
+    "type": "multiple_choice",
+    "prompt": "What is the correct Spanish translation of 'I just realized I forgot my keys'?",
+    "options": [
+      "Justo realicé que olvidé mis llaves.",
+      "Acabo de darme cuenta de que olvidé mis llaves.",
+      "Acabo de realizar que olvidé mis llaves.",
+      "Justo me di cuenta que olvidé las llaves."
+    ],
+    "answer": 1,
+    "explanation": "'Realizar' is a false friend — it means to carry out or accomplish, not to realize mentally. 'Darse cuenta de' is the correct translation for 'to realize'. 'Acabo de darme cuenta de que...' is the complete, correct form."
+  },
+  {
+    "id": "C1-U08-E003",
+    "type": "multiple_choice",
+    "prompt": "What is the natural Mexican Spanish equivalent of 'It's raining cats and dogs'?",
+    "options": [
+      "Está lloviendo gatos y perros.",
+      "Hay mucha lluvia afuera.",
+      "Está lloviendo a cántaros.",
+      "Llueve muchísimo hoy."
+    ],
+    "answer": 2,
+    "explanation": "'Está lloviendo a cántaros' is the idiomatic Spanish equivalent — it means to pour heavily. Literal translation of English idioms almost always produces unnatural, sometimes comic results."
+  },
+  {
+    "id": "C1-U08-E004",
+    "type": "multiple_choice",
+    "prompt": "Which concept does 'la sobremesa' refer to?",
+    "options": [
+      "The tablecloth used during a formal meal",
+      "The time spent in conversation after a meal has ended",
+      "A type of traditional Mexican appetizer",
+      "The main course of a formal dinner"
+    ],
+    "answer": 1,
+    "explanation": "'La sobremesa' is the social ritual of lingering and talking at the table after the meal is finished. It has no clean English equivalent and reflects the importance of social connection in Mexican dining culture."
+  },
+  {
+    "id": "C1-U08-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'equivalencia dinámica' prioritize in translation?",
+    "options": [
+      "Word-for-word correspondence",
+      "Reproducing the same effect on the target reader as the original had on its reader",
+      "Preserving the grammatical structure of the source language",
+      "Using the most formal register possible"
+    ],
+    "answer": 1,
+    "explanation": "Dynamic equivalence prioritizes producing the same effect or impact on the target reader, even if that requires departing significantly from the literal wording of the source text."
+  },
+  {
+    "id": "C1-U08-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the false friend trap: 'The meeting will eventually take place next week.' A bad translation might use _______ instead of 'finalmente / con el tiempo'.",
+    "options": [
+      "actualmente",
+      "eventualmente",
+      "sensiblemente",
+      "realizadamente"
+    ],
+    "answer": 1,
+    "explanation": "'Eventualmente' is a false friend — in Spanish it means 'possibly' or 'at some point', not 'eventually' in the English sense of 'in the end / finally'. The correct translation of English 'eventually' is 'finalmente' or 'con el tiempo'."
+  },
+  {
+    "id": "C1-U08-E007",
+    "type": "translation",
+    "prompt": "Translate idiomatically: 'Stop beating around the bush and tell me what happened.'",
+    "options": [
+      "Para de golpear el arbusto y dime qué pasó.",
+      "Deja de dar rodeos y dime qué pasó.",
+      "No te andes por las ramas y dime qué pasó.",
+      "Both B and C are correct idiomatic translations."
+    ],
+    "answer": 3,
+    "explanation": "Both 'Deja de dar rodeos' and 'No te andes por las ramas' are natural idiomatic equivalents of 'stop beating around the bush'. In context, either works — option D correctly recognizes both as valid."
+  },
+  {
+    "id": "C1-U08-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a key principle of consecutive interpretation:",
+    "words": ["La", "interpretación", "no", "es", "traducción", "palabra", "por", "palabra"],
+    "answer": "La interpretación no es traducción palabra por palabra",
+    "explanation": "This is the opening of the key interpretation principle from the lesson: 'Interpretation is not word-for-word translation' — it transfers meaning, tone, and intention."
+  }
+]

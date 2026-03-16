@@ -1,0 +1,111 @@
+{
+  "id": "C1-U07-Q",
+  "title": "Unit 7 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U07-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which construction is most appropriate in a formal Mexican academic essay?",
+      "options": [
+        "En mi opinión, creo que los datos muestran...",
+        "Se argumenta que los datos muestran...",
+        "Yo pienso que los datos muestran...",
+        "Todos sabemos que los datos muestran..."
+      ],
+      "answer": 1,
+      "explanation": "Impersonal constructions ('Se argumenta que...') are standard in formal academic writing. First-person and universal claims ('todos sabemos') are avoided in academic register."
+    },
+    {
+      "id": "C1-U07-Q002",
+      "type": "multiple_choice",
+      "prompt": "In which section of a professional report would you find key findings summarized briefly?",
+      "options": [
+        "Marco teórico",
+        "Metodología",
+        "Resumen ejecutivo",
+        "Antecedentes"
+      ],
+      "answer": 2,
+      "explanation": "The 'resumen ejecutivo' (executive summary) presents key findings concisely at the beginning of a professional report, so readers can grasp the core conclusions without reading the full document."
+    },
+    {
+      "id": "C1-U07-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which tense/mood follows 'Se recomienda que' in a formal recommendation?",
+      "options": [
+        "Indicative present",
+        "Future tense",
+        "Subjunctive present",
+        "Conditional"
+      ],
+      "answer": 2,
+      "explanation": "'Se recomienda que' triggers the subjunctive: 'Se recomienda que el equipo revise el informe.' Impersonal recommendation expressions always take the subjunctive in the subordinate clause."
+    },
+    {
+      "id": "C1-U07-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the standard formal closing phrase for a Mexican business letter?",
+      "options": [
+        "Hasta pronto,",
+        "Con cariño,",
+        "Atentamente,",
+        "Besos y abrazos,"
+      ],
+      "answer": 2,
+      "explanation": "'Atentamente,' (Sincerely / Respectfully) is the standard formal closing for professional and official correspondence in Mexico."
+    },
+    {
+      "id": "C1-U07-Q005",
+      "type": "multiple_choice",
+      "prompt": "The phrase 'Por medio de la presente' is used to:",
+      "options": [
+        "Close a formal letter",
+        "Introduce the main topic of a formal letter",
+        "Cite a source in an academic paper",
+        "Make a recommendation in a report"
+      ],
+      "answer": 1,
+      "explanation": "'Por medio de la presente, me dirijo a usted para...' is a formal letter-opening phrase — it establishes the formal register and introduces the letter's purpose."
+    },
+    {
+      "id": "C1-U07-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which university is described as a major arbiter of academic writing standards in Mexican Spanish?",
+      "options": [
+        "Universidad de Guadalajara",
+        "Instituto Tecnológico de Monterrey",
+        "Universidad Nacional Autónoma de México (UNAM)",
+        "Universidad Iberoamericana"
+      ],
+      "answer": 2,
+      "explanation": "The UNAM is one of the largest and most prestigious universities in Latin America and a key arbiter of academic writing norms in Mexico through its style guides and journal publications."
+    },
+    {
+      "id": "C1-U07-Q007",
+      "type": "multiple_choice",
+      "prompt": "How is the abstract ('resumen') of an academic paper in Spanish typically written?",
+      "options": [
+        "In first person singular to show authorship",
+        "In impersonal constructions or third person",
+        "In second person to engage the reader",
+        "In past tense only"
+      ],
+      "answer": 1,
+      "explanation": "Academic abstracts in Spanish are written in impersonal constructions ('Se analizó...', 'Los resultados indican...') or third person — maintaining the formal, objective register of academic writing."
+    },
+    {
+      "id": "C1-U07-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'convendría + infinitivo' express?",
+      "options": [
+        "A strong obligation",
+        "A past action",
+        "A polite or formal recommendation",
+        "A hypothetical condition"
+      ],
+      "answer": 2,
+      "explanation": "'Convendría + infinitivo' (it would be advisable to...) is a polite, formal way to make a professional recommendation — softer than 'debe' but more formal than 'sería bueno'."
+    }
+  ]
+}

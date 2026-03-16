@@ -5,6 +5,25 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.5.2] - 2026-03-16
+
+### Added
+- C1 Units 5–8 content
+  - Unit 5 — Advanced Literary Analysis (`unit-05-literature-advanced`)
+  - Unit 6 — Media Analysis & Critical Reading (`unit-06-media-analysis`)
+  - Unit 7 — Professional & Academic Writing (`unit-07-professional-writing`)
+  - Unit 8 — Translation & Interpretation Skills (`unit-08-translation`)
+
+## [0.5.1] - 2026-03-16
+
+### Added
+- C1 Units 1–4 content
+  - Unit 1 — Advanced Grammar Consolidation (`unit-01-advanced-grammar`)
+  - Unit 2 — Stylistics & Written Register (`unit-02-stylistics`)
+  - Unit 3 — Rhetoric & Advanced Argumentation (`unit-03-rhetoric`)
+  - Unit 4 — Mexican History & Politics (`unit-04-mexican-history`)
+- `CourseMapPage.jsx` updated — C1 fully wired (10 units), `comingSoon` removed, C1 unlock gate added (gates on `B2-unit-12-review`)
+
 ## [0.5.0] - 2026-03-16
 
 ### Added

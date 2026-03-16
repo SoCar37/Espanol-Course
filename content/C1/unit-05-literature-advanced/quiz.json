@@ -1,0 +1,111 @@
+{
+  "id": "C1-U05-Q",
+  "title": "Unit 5 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U05-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'la focalización' refer to in narrative analysis?",
+      "options": [
+        "The physical setting of the story",
+        "Whose perspective filters the events of the narrative",
+        "The climax of the plot",
+        "The author's biography"
+      ],
+      "answer": 1,
+      "explanation": "Focalization refers to whose perspective or consciousness filters what the reader perceives — it is about the angle of vision, not just who is speaking."
+    },
+    {
+      "id": "C1-U05-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which term describes a recurring element that carries symbolic significance throughout a text?",
+      "options": [
+        "El desenlace",
+        "La trama",
+        "El motivo",
+        "El ambiente"
+      ],
+      "answer": 2,
+      "explanation": "'El motivo' is a recurring element — an image, phrase, or idea — that accumulates symbolic meaning across a text."
+    },
+    {
+      "id": "C1-U05-Q003",
+      "type": "multiple_choice",
+      "prompt": "Octavio Paz's 'El laberinto de la soledad' explores:",
+      "options": [
+        "The history of the Mexican Revolution",
+        "Mexican identity, solitude, and the public mask Mexicans wear",
+        "The geography of Latin America",
+        "The techniques of magical realism"
+      ],
+      "answer": 1,
+      "explanation": "'El laberinto de la soledad' (1950) is an essay by Octavio Paz exploring Mexican identity, national character, and the concept of 'la máscara' — the public mask that conceals authentic selfhood."
+    },
+    {
+      "id": "C1-U05-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is 'la intertextualidad'?",
+      "options": [
+        "A type of first-person narration",
+        "When a text references or responds to other texts",
+        "The internal monologue of a character",
+        "The use of regional dialects in literature"
+      ],
+      "answer": 1,
+      "explanation": "Intertextuality occurs when a text references, quotes, alludes to, or responds to other texts — creating a web of meaning between works."
+    },
+    {
+      "id": "C1-U05-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which author wrote 'La noche de Tlatelolco', a testimonial account of the 1968 student massacre?",
+      "options": [
+        "Juan Rulfo",
+        "Carlos Fuentes",
+        "Juan José Arreola",
+        "Elena Poniatowska"
+      ],
+      "answer": 3,
+      "explanation": "Elena Poniatowska wrote 'La noche de Tlatelolco' (1971), a testimonial blend of journalism and literature documenting the massacre of student protesters on October 2, 1968."
+    },
+    {
+      "id": "C1-U05-Q006",
+      "type": "multiple_choice",
+      "prompt": "A narrator who follows only one character's perspective in third person is called:",
+      "options": [
+        "Narrador omnisciente",
+        "Narrador en primera persona",
+        "Narrador en tercera persona limitada",
+        "Narrador en segunda persona"
+      ],
+      "answer": 2,
+      "explanation": "A third-person limited narrator ('narrador en tercera persona limitada') uses 'he/she/they' but is restricted to the knowledge and perspective of a single character."
+    },
+    {
+      "id": "C1-U05-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is the correct order of a literary analysis essay?",
+      "options": [
+        "Conclusión → desarrollo → introducción",
+        "Introducción → desarrollo con citas → conclusión",
+        "Trama → personajes → ambiente → tema",
+        "Citas → argumento → tesis → conclusión"
+      ],
+      "answer": 1,
+      "explanation": "A literary analysis follows: introducción (identifying text and analytical thesis) → desarrollo (arguments supported by textual citations) → conclusión (synthesis and broader context)."
+    },
+    {
+      "id": "C1-U05-Q008",
+      "type": "multiple_choice",
+      "prompt": "Gabriel García Márquez said he could recite which Mexican novel from memory?",
+      "options": [
+        "La región más transparente by Carlos Fuentes",
+        "El laberinto de la soledad by Octavio Paz",
+        "Pedro Páramo by Juan Rulfo",
+        "La noche de Tlatelolco by Elena Poniatowska"
+      ],
+      "answer": 2,
+      "explanation": "García Márquez famously said he could recite 'Pedro Páramo' from memory and credited it as a foundational influence on his own work, including 'Cien años de soledad'."
+    }
+  ]
+}

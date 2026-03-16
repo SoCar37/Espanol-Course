@@ -1,0 +1,15 @@
+{
+  "id": "C1-U08",
+  "title": "Translation & Interpretation Skills",
+  "level": "C1",
+  "unit": 8,
+  "slug": "translation",
+  "estimated_minutes": 45,
+  "topics": ["translation theory", "false friends", "idiomatic equivalence", "cultural untranslatables", "consecutive interpretation techniques"],
+  "prereqs": ["C1-U07"],
+  "cefr_skills": ["reading", "writing", "speaking", "listening"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.2"
+}

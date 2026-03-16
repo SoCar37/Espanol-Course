@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U07-V001",
+    "word": "el marco teórico",
+    "translation": "theoretical framework",
+    "pronunciation_hint": "MAR-ko teh-O-ree-ko",
+    "part_of_speech": "phrase",
+    "example_sentence": "El marco teórico del ensayo se basa en los estudios de Bourdieu.",
+    "example_translation": "The theoretical framework of the essay is based on Bourdieu's studies.",
+    "audio_file": "C1/unit-07/el_marco_teorico.mp3",
+    "tags": ["academic writing", "advanced", "university"]
+  },
+  {
+    "id": "C1-U07-V002",
+    "word": "el resumen ejecutivo",
+    "translation": "executive summary",
+    "pronunciation_hint": "reh-SOO-men eh-heh-koo-TEE-vo",
+    "part_of_speech": "phrase",
+    "example_sentence": "El resumen ejecutivo debe capturar los hallazgos clave en dos párrafos.",
+    "example_translation": "The executive summary should capture the key findings in two paragraphs.",
+    "audio_file": "C1/unit-07/el_resumen_ejecutivo.mp3",
+    "tags": ["professional writing", "reports", "advanced"]
+  },
+  {
+    "id": "C1-U07-V003",
+    "word": "los antecedentes",
+    "translation": "background / prior context",
+    "pronunciation_hint": "an-teh-seh-DEN-tehs",
+    "part_of_speech": "noun",
+    "example_sentence": "La sección de antecedentes contextualiza el problema de investigación.",
+    "example_translation": "The background section contextualizes the research problem.",
+    "audio_file": "C1/unit-07/los_antecedentes.mp3",
+    "tags": ["professional writing", "academic", "advanced"]
+  },
+  {
+    "id": "C1-U07-V004",
+    "word": "se recomienda que",
+    "translation": "it is recommended that (+ subjunctive)",
+    "pronunciation_hint": "seh reh-ko-MYEN-dah keh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Se recomienda que el comité revise los criterios de selección.",
+    "example_translation": "It is recommended that the committee review the selection criteria.",
+    "audio_file": "C1/unit-07/se_recomienda_que.mp3",
+    "tags": ["professional writing", "recommendations", "advanced"]
+  },
+  {
+    "id": "C1-U07-V005",
+    "word": "convendría",
+    "translation": "it would be advisable to",
+    "pronunciation_hint": "kon-ven-DREE-ah",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "Convendría revisar el contrato antes de firmar.",
+    "example_translation": "It would be advisable to review the contract before signing.",
+    "audio_file": "C1/unit-07/convendria.mp3",
+    "tags": ["professional writing", "recommendations", "formal"]
+  },
+  {
+    "id": "C1-U07-V006",
+    "word": "por medio de la presente",
+    "translation": "by means of this letter / hereby",
+    "pronunciation_hint": "por MEH-dyo deh lah preh-SEN-teh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Por medio de la presente, le comunico mi renuncia al cargo.",
+    "example_translation": "By means of this letter, I am informing you of my resignation.",
+    "audio_file": "C1/unit-07/por_medio_de_la_presente.mp3",
+    "tags": ["correspondence", "formal", "professional"]
+  },
+  {
+    "id": "C1-U07-V007",
+    "word": "atentamente",
+    "translation": "sincerely / respectfully (letter closing)",
+    "pronunciation_hint": "ah-ten-tah-MEN-teh",
+    "part_of_speech": "adverb",
+    "example_sentence": "Atentamente, Lic. María García Mendoza",
+    "example_translation": "Sincerely, Lic. María García Mendoza",
+    "audio_file": "C1/unit-07/atentamente.mp3",
+    "tags": ["correspondence", "formal", "professional"]
+  },
+  {
+    "id": "C1-U07-V008",
+    "word": "la hipótesis de trabajo",
+    "translation": "working hypothesis",
+    "pronunciation_hint": "ee-PO-teh-sees de trah-BAH-ho",
+    "part_of_speech": "phrase",
+    "example_sentence": "La hipótesis de trabajo propone una relación entre las dos variables.",
+    "example_translation": "The working hypothesis proposes a relationship between the two variables.",
+    "audio_file": "C1/unit-07/la_hipotesis_de_trabajo.mp3",
+    "tags": ["academic writing", "research", "advanced"]
+  },
+  {
+    "id": "C1-U07-V009",
+    "word": "de acuerdo con",
+    "translation": "in accordance with / according to",
+    "pronunciation_hint": "deh ah-KWER-do kon",
+    "part_of_speech": "phrase",
+    "example_sentence": "De acuerdo con los resultados, la hipótesis queda confirmada.",
+    "example_translation": "In accordance with the results, the hypothesis is confirmed.",
+    "audio_file": "C1/unit-07/de_acuerdo_con.mp3",
+    "tags": ["academic writing", "attribution", "formal"]
+  },
+  {
+    "id": "C1-U07-V010",
+    "word": "a partir de lo expuesto",
+    "translation": "based on the foregoing / from what has been presented",
+    "pronunciation_hint": "ah par-TEER deh lo eks-PWES-to",
+    "part_of_speech": "phrase",
+    "example_sentence": "A partir de lo expuesto, se puede concluir que el modelo es viable.",
+    "example_translation": "Based on the foregoing, it can be concluded that the model is viable.",
+    "audio_file": "C1/unit-07/a_partir_de_lo_expuesto.mp3",
+    "tags": ["academic writing", "conclusion phrases", "advanced"]
+  },
+  {
+    "id": "C1-U07-V011",
+    "word": "la metodología",
+    "translation": "methodology",
+    "pronunciation_hint": "meh-to-do-lo-HEE-ah",
+    "part_of_speech": "noun",
+    "example_sentence": "La metodología empleada combina análisis cuantitativo y cualitativo.",
+    "example_translation": "The methodology employed combines quantitative and qualitative analysis.",
+    "audio_file": "C1/unit-07/la_metodologia.mp3",
+    "tags": ["academic writing", "research", "advanced"]
+  },
+  {
+    "id": "C1-U07-V012",
+    "word": "quedo a sus órdenes",
+    "translation": "I remain at your service",
+    "pronunciation_hint": "KEH-do ah soos OR-deh-nes",
+    "part_of_speech": "phrase",
+    "example_sentence": "En espera de su respuesta, quedo a sus órdenes.",
+    "example_translation": "Awaiting your reply, I remain at your service.",
+    "audio_file": "C1/unit-07/quedo_a_sus_ordenes.mp3",
+    "tags": ["correspondence", "formal", "closing formulas"]
+  }
+]

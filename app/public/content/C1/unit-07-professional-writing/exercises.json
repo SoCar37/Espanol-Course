@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U07-E001",
+    "type": "multiple_choice",
+    "prompt": "Which construction is preferred in formal Mexican academic writing over first person?",
+    "options": [
+      "Yo argumento que...",
+      "Nosotros observamos que...",
+      "Se puede observar que...",
+      "Tú puedes ver que..."
+    ],
+    "answer": 2,
+    "explanation": "Impersonal constructions like 'Se puede observar que...' are strongly preferred in formal academic writing. First-person singular or plural feels too informal and subjective."
+  },
+  {
+    "id": "C1-U07-E002",
+    "type": "multiple_choice",
+    "prompt": "Which section of an academic essay reviews existing theory and prior research?",
+    "options": [
+      "El resumen ejecutivo",
+      "Los antecedentes / el marco teórico",
+      "Las conclusiones",
+      "La metodología"
+    ],
+    "answer": 1,
+    "explanation": "The 'marco teórico' (theoretical framework) or 'antecedentes' section reviews existing literature and theory that contextualizes the research — it shows the academic conversation the paper is entering."
+  },
+  {
+    "id": "C1-U07-E003",
+    "type": "multiple_choice",
+    "prompt": "Complete the recommendation: 'Se recomienda que el equipo _______ el informe antes del viernes.'",
+    "options": [
+      "revisa",
+      "revisará",
+      "revise",
+      "revisaba"
+    ],
+    "answer": 2,
+    "explanation": "'Se recomienda que' requires the subjunctive. 'Revise' is the present subjunctive of 'revisar'. Recommendations, suggestions, and orders all trigger the subjunctive in the subordinate clause."
+  },
+  {
+    "id": "C1-U07-E004",
+    "type": "multiple_choice",
+    "prompt": "Which is the correct formal opening for a business letter in Mexican Spanish?",
+    "options": [
+      "Hola, te escribo porque...",
+      "Buenas tardes, quería preguntarte...",
+      "Estimado Lic. Ramírez: Por medio de la presente, me dirijo a usted para...",
+      "Oye, te mando este correo para..."
+    ],
+    "answer": 2,
+    "explanation": "'Estimado [título] [apellido]:' followed by 'Por medio de la presente, me dirijo a usted para...' is the standard formal opening in Mexican professional correspondence."
+  },
+  {
+    "id": "C1-U07-E005",
+    "type": "multiple_choice",
+    "prompt": "What does an abstract ('resumen') in academic Spanish typically cover?",
+    "options": [
+      "Only the conclusion of the research",
+      "A complete reproduction of the introduction",
+      "Objective, methods, key findings, and conclusions in 150–250 words",
+      "A list of all sources cited in the paper"
+    ],
+    "answer": 2,
+    "explanation": "An academic abstract covers objective, methodology, key results, and conclusions — all in a condensed form (150–250 words), written impersonally or in third person."
+  },
+  {
+    "id": "C1-U07-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the correct attribution phrase: '_______ García (2021), los resultados son concluyentes.' (According to García (2021), the results are conclusive.)",
+    "options": [
+      "A juicio de",
+      "Según",
+      "De acuerdo a lo que dice",
+      "Como alega"
+    ],
+    "answer": 1,
+    "explanation": "'Según [autor] ([año])' is the standard academic attribution formula in Spanish. 'A juicio de' implies opinion; 'como alega' implies skepticism — neither is appropriate for citing research neutrally."
+  },
+  {
+    "id": "C1-U07-E007",
+    "type": "translation",
+    "prompt": "Translate into formal professional Spanish: 'It would be advisable to review the budget before approving the proposal.'",
+    "options": [
+      "Sería bueno ver el presupuesto antes de aprobar la propuesta.",
+      "Hay que revisar el presupuesto porque si no habrá problemas.",
+      "Convendría revisar el presupuesto antes de aprobar la propuesta.",
+      "Te recomiendo que revises el presupuesto antes de aprobar."
+    ],
+    "answer": 2,
+    "explanation": "'Convendría + infinitivo' is the precise formal construction for 'it would be advisable to'. It is impersonal, formal, and appropriately hedged — unlike the more direct or informal alternatives."
+  },
+  {
+    "id": "C1-U07-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct academic conclusion phrase:",
+    "words": ["A", "partir", "de", "lo", "expuesto", "se", "puede", "concluir", "que", "el", "modelo", "es", "viable"],
+    "answer": "A partir de lo expuesto se puede concluir que el modelo es viable",
+    "explanation": "'A partir de lo expuesto, se puede concluir que...' is a standard academic conclusion phrase meaning 'Based on the foregoing, it can be concluded that...'"
+  }
+]

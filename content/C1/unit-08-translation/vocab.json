@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U08-V001",
+    "word": "la equivalencia dinámica",
+    "translation": "dynamic equivalence",
+    "pronunciation_hint": "eh-kee-vah-LEN-sya dee-NAH-mee-kah",
+    "part_of_speech": "phrase",
+    "example_sentence": "La equivalencia dinámica busca reproducir el efecto del original en el lector meta.",
+    "example_translation": "Dynamic equivalence seeks to reproduce the original's effect on the target reader.",
+    "audio_file": "C1/unit-08/la_equivalencia_dinamica.mp3",
+    "tags": ["translation", "theory", "advanced"]
+  },
+  {
+    "id": "C1-U08-V002",
+    "word": "el falso amigo",
+    "translation": "false friend (false cognate)",
+    "pronunciation_hint": "FAL-so ah-MEE-go",
+    "part_of_speech": "phrase",
+    "example_sentence": "La palabra 'sensible' es un falso amigo — significa sensible, no sensato.",
+    "example_translation": "The word 'sensible' is a false friend — it means sensitive, not sensible.",
+    "audio_file": "C1/unit-08/el_falso_amigo.mp3",
+    "tags": ["translation", "false friends", "advanced"]
+  },
+  {
+    "id": "C1-U08-V003",
+    "word": "la localización",
+    "translation": "localization (linguistic/cultural adaptation)",
+    "pronunciation_hint": "lo-kah-lee-sah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La localización va más allá de la traducción e incluye adaptación cultural.",
+    "example_translation": "Localization goes beyond translation and includes cultural adaptation.",
+    "audio_file": "C1/unit-08/la_localizacion.mp3",
+    "tags": ["translation", "localization", "advanced"]
+  },
+  {
+    "id": "C1-U08-V004",
+    "word": "la madrugada",
+    "translation": "the small hours / early morning (approx. 1–5am)",
+    "pronunciation_hint": "mah-droo-GAH-dah",
+    "part_of_speech": "noun",
+    "example_sentence": "Llegó a casa de madrugada, cuando todos dormían.",
+    "example_translation": "He arrived home in the small hours, when everyone was asleep.",
+    "audio_file": "C1/unit-08/la_madrugada.mp3",
+    "tags": ["untranslatables", "culture", "advanced"]
+  },
+  {
+    "id": "C1-U08-V005",
+    "word": "la sobremesa",
+    "translation": "post-meal conversation / lingering at the table after eating",
+    "pronunciation_hint": "so-breh-MEH-sah",
+    "part_of_speech": "noun",
+    "example_sentence": "La sobremesa puede durar más que la comida misma en muchas familias mexicanas.",
+    "example_translation": "The post-meal conversation can last longer than the meal itself in many Mexican families.",
+    "audio_file": "C1/unit-08/la_sobremesa.mp3",
+    "tags": ["untranslatables", "culture", "Mexican Spanish"]
+  },
+  {
+    "id": "C1-U08-V006",
+    "word": "el antojo",
+    "translation": "craving (with emotional dimension)",
+    "pronunciation_hint": "an-TO-ho",
+    "part_of_speech": "noun",
+    "example_sentence": "Tengo un antojo de tamales que no me puedo quitar.",
+    "example_translation": "I have a craving for tamales that I can't shake.",
+    "audio_file": "C1/unit-08/el_antojo.mp3",
+    "tags": ["untranslatables", "culture", "Mexican Spanish"]
+  },
+  {
+    "id": "C1-U08-V007",
+    "word": "andarse por las ramas",
+    "translation": "to beat around the bush",
+    "pronunciation_hint": "an-DAR-seh por las RAH-mahs",
+    "part_of_speech": "idiom",
+    "example_sentence": "No te andes por las ramas — dime directamente qué pasó.",
+    "example_translation": "Don't beat around the bush — tell me directly what happened.",
+    "audio_file": "C1/unit-08/andarse_por_las_ramas.mp3",
+    "tags": ["idioms", "translation", "advanced"]
+  },
+  {
+    "id": "C1-U08-V008",
+    "word": "llover a cántaros",
+    "translation": "to rain cats and dogs / to pour",
+    "pronunciation_hint": "yo-VEHR ah KAN-tah-ros",
+    "part_of_speech": "idiom",
+    "example_sentence": "Cancelamos el partido porque estaba lloviendo a cántaros.",
+    "example_translation": "We cancelled the game because it was pouring.",
+    "audio_file": "C1/unit-08/llover_a_cantaros.mp3",
+    "tags": ["idioms", "translation", "advanced"]
+  },
+  {
+    "id": "C1-U08-V009",
+    "word": "darse cuenta de",
+    "translation": "to realize (mentally)",
+    "pronunciation_hint": "DAR-seh KWEN-tah deh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Me di cuenta de que había cometido un error.",
+    "example_translation": "I realized that I had made a mistake.",
+    "audio_file": "C1/unit-08/darse_cuenta_de.mp3",
+    "tags": ["false friends", "translation", "advanced"]
+  },
+  {
+    "id": "C1-U08-V010",
+    "word": "la reformulación",
+    "translation": "reformulation (in interpretation)",
+    "pronunciation_hint": "reh-for-moo-lah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La reformulación es la clave de una buena interpretación consecutiva.",
+    "example_translation": "Reformulation is the key to good consecutive interpretation.",
+    "audio_file": "C1/unit-08/la_reformulacion.mp3",
+    "tags": ["interpretation", "translation", "advanced"]
+  },
+  {
+    "id": "C1-U08-V011",
+    "word": "la confianza",
+    "translation": "trust / confidence (with intimacy)",
+    "pronunciation_hint": "kon-FYAN-sah",
+    "part_of_speech": "noun",
+    "example_sentence": "La confianza entre ellos va mucho más allá de la simple amistad.",
+    "example_translation": "The trust between them goes far beyond simple friendship.",
+    "audio_file": "C1/unit-08/la_confianza.mp3",
+    "tags": ["untranslatables", "culture", "advanced"]
+  },
+  {
+    "id": "C1-U08-V012",
+    "word": "quemar las naves",
+    "translation": "to burn one's bridges / to burn one's boats",
+    "pronunciation_hint": "keh-MAR las NAH-ves",
+    "part_of_speech": "idiom",
+    "example_sentence": "Al renunciar sin aviso, quemó las naves con su ex empleador.",
+    "example_translation": "By quitting without notice, he burned his bridges with his former employer.",
+    "audio_file": "C1/unit-08/quemar_las_naves.mp3",
+    "tags": ["idioms", "translation", "Mexican Spanish"]
+  }
+]

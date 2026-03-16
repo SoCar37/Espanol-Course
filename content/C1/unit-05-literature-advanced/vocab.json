@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U05-V001",
+    "word": "el narrador",
+    "translation": "narrator",
+    "pronunciation_hint": "nah-rah-DOR",
+    "part_of_speech": "noun",
+    "example_sentence": "El narrador en primera persona ofrece una visión subjetiva de los hechos.",
+    "example_translation": "The first-person narrator offers a subjective view of events.",
+    "audio_file": "C1/unit-05/el_narrador.mp3",
+    "tags": ["literature", "analysis", "advanced"]
+  },
+  {
+    "id": "C1-U05-V002",
+    "word": "la trama",
+    "translation": "plot",
+    "pronunciation_hint": "TRAH-mah",
+    "part_of_speech": "noun",
+    "example_sentence": "La trama de la novela se desarrolla en tres tiempos distintos.",
+    "example_translation": "The plot of the novel unfolds across three different time periods.",
+    "audio_file": "C1/unit-05/la_trama.mp3",
+    "tags": ["literature", "narrative", "advanced"]
+  },
+  {
+    "id": "C1-U05-V003",
+    "word": "el desenlace",
+    "translation": "denouement / resolution",
+    "pronunciation_hint": "deh-sen-LAH-seh",
+    "part_of_speech": "noun",
+    "example_sentence": "El desenlace sorprendente recontextualiza todos los eventos anteriores.",
+    "example_translation": "The surprising resolution recontextualizes all previous events.",
+    "audio_file": "C1/unit-05/el_desenlace.mp3",
+    "tags": ["literature", "narrative", "advanced"]
+  },
+  {
+    "id": "C1-U05-V004",
+    "word": "la focalización",
+    "translation": "focalization (narrative perspective)",
+    "pronunciation_hint": "fo-kah-lee-sah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La focalización interna limita al lector al conocimiento de un solo personaje.",
+    "example_translation": "Internal focalization limits the reader to the knowledge of a single character.",
+    "audio_file": "C1/unit-05/la_focalizacion.mp3",
+    "tags": ["literature", "analysis", "advanced"]
+  },
+  {
+    "id": "C1-U05-V005",
+    "word": "la analepsis",
+    "translation": "flashback / analepsis",
+    "pronunciation_hint": "ah-nah-LEP-sees",
+    "part_of_speech": "noun",
+    "example_sentence": "La analepsis revela el origen del conflicto entre los personajes.",
+    "example_translation": "The flashback reveals the origin of the conflict between the characters.",
+    "audio_file": "C1/unit-05/la_analepsis.mp3",
+    "tags": ["literature", "narrative technique", "advanced"]
+  },
+  {
+    "id": "C1-U05-V006",
+    "word": "la intertextualidad",
+    "translation": "intertextuality",
+    "pronunciation_hint": "een-tehr-teks-twah-lee-DAD",
+    "part_of_speech": "noun",
+    "example_sentence": "La intertextualidad entre estas dos novelas enriquece la lectura de ambas.",
+    "example_translation": "The intertextuality between these two novels enriches the reading of both.",
+    "audio_file": "C1/unit-05/la_intertextualidad.mp3",
+    "tags": ["literature", "analysis", "advanced"]
+  },
+  {
+    "id": "C1-U05-V007",
+    "word": "lo real maravilloso",
+    "translation": "magical realism (Latin American tradition)",
+    "pronunciation_hint": "lo reh-AL mah-rah-VEE-yo-so",
+    "part_of_speech": "phrase",
+    "example_sentence": "Lo real maravilloso trata lo sobrenatural como parte ordinaria de la realidad.",
+    "example_translation": "Magical realism treats the supernatural as an ordinary part of reality.",
+    "audio_file": "C1/unit-05/lo_real_maravilloso.mp3",
+    "tags": ["literature", "Latin American", "advanced"]
+  },
+  {
+    "id": "C1-U05-V008",
+    "word": "el flujo de conciencia",
+    "translation": "stream of consciousness",
+    "pronunciation_hint": "FLOO-ho de kon-SYEN-sya",
+    "part_of_speech": "phrase",
+    "example_sentence": "El flujo de conciencia reproduce los pensamientos sin filtrar del personaje.",
+    "example_translation": "Stream of consciousness reproduces the character's unfiltered thoughts.",
+    "audio_file": "C1/unit-05/el_flujo_de_conciencia.mp3",
+    "tags": ["literature", "narrative technique", "advanced"]
+  },
+  {
+    "id": "C1-U05-V009",
+    "word": "poner de manifiesto",
+    "translation": "to reveal / to make manifest",
+    "pronunciation_hint": "po-NEHR de mah-nee-FYES-to",
+    "part_of_speech": "phrase",
+    "example_sentence": "Este pasaje pone de manifiesto la soledad del protagonista.",
+    "example_translation": "This passage reveals the protagonist's loneliness.",
+    "audio_file": "C1/unit-05/poner_de_manifiesto.mp3",
+    "tags": ["analysis phrases", "literature", "advanced"]
+  },
+  {
+    "id": "C1-U05-V010",
+    "word": "la cita textual",
+    "translation": "textual citation / direct quote",
+    "pronunciation_hint": "SEE-tah teks-TWAL",
+    "part_of_speech": "phrase",
+    "example_sentence": "Todo argumento analítico debe apoyarse en citas textuales del texto.",
+    "example_translation": "Every analytical argument must be supported by textual citations.",
+    "audio_file": "C1/unit-05/la_cita_textual.mp3",
+    "tags": ["literature", "academic writing", "advanced"]
+  },
+  {
+    "id": "C1-U05-V011",
+    "word": "el simbolismo",
+    "translation": "symbolism",
+    "pronunciation_hint": "seem-bo-LEES-mo",
+    "part_of_speech": "noun",
+    "example_sentence": "El simbolismo del agua en la novela representa la vida y la muerte simultáneamente.",
+    "example_translation": "The symbolism of water in the novel represents life and death simultaneously.",
+    "audio_file": "C1/unit-05/el_simbolismo.mp3",
+    "tags": ["literature", "analysis", "advanced"]
+  },
+  {
+    "id": "C1-U05-V012",
+    "word": "valerse de",
+    "translation": "to make use of / to avail oneself of",
+    "pronunciation_hint": "vah-LEHR-seh deh",
+    "part_of_speech": "phrase",
+    "example_sentence": "El autor se vale de la ironía para criticar las instituciones sociales.",
+    "example_translation": "The author makes use of irony to criticize social institutions.",
+    "audio_file": "C1/unit-05/valerse_de.mp3",
+    "tags": ["analysis phrases", "literature", "advanced"]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "C1-U06",
+  "title": "Media Analysis & Critical Reading",
+  "level": "C1",
+  "unit": 6,
+  "slug": "media-analysis",
+  "estimated_minutes": 45,
+  "topics": ["media vocabulary", "critical reading strategies", "bias and framing", "Mexican media landscape", "fact vs opinion"],
+  "prereqs": ["C1-U05"],
+  "cefr_skills": ["reading", "listening", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.2"
+}

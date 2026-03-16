@@ -1,0 +1,15 @@
+{
+  "id": "C1-U05",
+  "title": "Advanced Literary Analysis",
+  "level": "C1",
+  "unit": 5,
+  "slug": "literature-advanced",
+  "estimated_minutes": 45,
+  "topics": ["literary analysis vocabulary", "narrative techniques", "point of view", "Mexican literary tradition", "close reading"],
+  "prereqs": ["C1-U04"],
+  "cefr_skills": ["reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.2"
+}

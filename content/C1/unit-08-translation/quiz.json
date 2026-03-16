@@ -1,0 +1,111 @@
+{
+  "id": "C1-U08-Q",
+  "title": "Unit 8 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U08-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'embarazada' mean in Spanish?",
+      "options": [
+        "Embarrassed",
+        "Pregnant",
+        "Awkward",
+        "Uncomfortable"
+      ],
+      "answer": 1,
+      "explanation": "'Embarazada' means pregnant — not embarrassed. This is one of the most notorious false friends between Spanish and English. 'Avergonzada' is the correct translation for 'embarrassed'."
+    },
+    {
+      "id": "C1-U08-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is 'traducción libre'?",
+      "options": [
+        "Word-for-word translation",
+        "Translation that prioritizes natural expression in the target language over formal correspondence",
+        "Translation of texts that are in the public domain",
+        "Unauthorized translation without permission"
+      ],
+      "answer": 1,
+      "explanation": "'Traducción libre' (free translation) prioritizes natural meaning and expression in the target language over literal correspondence to the source text."
+    },
+    {
+      "id": "C1-U08-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct Spanish equivalent of 'to beat around the bush'?",
+      "options": [
+        "Golpear alrededor del arbusto",
+        "Andarse por las ramas",
+        "Quemar las naves",
+        "Llover a cántaros"
+      ],
+      "answer": 1,
+      "explanation": "'Andarse por las ramas' (to go around the branches) is the idiomatic Spanish equivalent of 'to beat around the bush' — to avoid getting to the point."
+    },
+    {
+      "id": "C1-U08-Q004",
+      "type": "multiple_choice",
+      "prompt": "The Spanish word 'actual' is a false friend. What does it really mean?",
+      "options": [
+        "Actual / real",
+        "Current / present",
+        "Factual",
+        "Recent"
+      ],
+      "answer": 1,
+      "explanation": "'Actual' in Spanish means current or present — not actual in the English sense of real or genuine. 'Real' or 'verdadero' translates English 'actual'."
+    },
+    {
+      "id": "C1-U08-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is 'localization' ('localización') in the context of translation?",
+      "options": [
+        "Translating a text word for word",
+        "Finding the physical location of a text's author",
+        "Adapting content linguistically and culturally for a specific market",
+        "Adding footnotes to explain cultural references"
+      ],
+      "answer": 2,
+      "explanation": "Localization goes beyond translation to adapt content for a specific cultural market — including vocabulary choices (e.g., 'computadora' vs 'ordenador'), units, date formats, and cultural references."
+    },
+    {
+      "id": "C1-U08-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is 'la sobremesa'?",
+      "options": [
+        "A formal tablecloth used at dinner",
+        "The post-meal ritual of lingering and talking at the table",
+        "A traditional Mexican appetizer",
+        "The bill at the end of a restaurant meal"
+      ],
+      "answer": 1,
+      "explanation": "'La sobremesa' is the time spent in conversation after the meal has ended — a cherished social ritual with no clean English equivalent."
+    },
+    {
+      "id": "C1-U08-Q007",
+      "type": "multiple_choice",
+      "prompt": "Mexico legally recognizes how many national languages alongside Spanish?",
+      "options": [
+        "12",
+        "32",
+        "68",
+        "104"
+      ],
+      "answer": 2,
+      "explanation": "Mexico recognizes 68 national languages alongside Spanish. Indigenous defendants have the right to an interpreter in court under Mexican law — translation between these languages and Spanish is a legal right."
+    },
+    {
+      "id": "C1-U08-Q008",
+      "type": "multiple_choice",
+      "prompt": "In consecutive interpretation, what does 'reformulación' involve?",
+      "options": [
+        "Translating the speaker word by word in real time",
+        "Reconstructing the meaning naturally in the target language rather than translating literally",
+        "Summarizing the speaker's main points without full translation",
+        "Writing down the full speech before translating"
+      ],
+      "answer": 1,
+      "explanation": "Reformulation means reconstructing the speaker's meaning in natural target-language expression — not translating word for word, but transferring the meaning, tone, and intention faithfully."
+    }
+  ]
+}
