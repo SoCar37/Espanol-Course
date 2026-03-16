@@ -271,15 +271,12 @@ export function useProgress() {
         // (A2 unit 1 unlocks when A1 unit 10 is complete, etc.)
         // So we only need to mark the last unit of the previous level complete.
       } else {
-        // Mark all units in lower levels complete so the unlock chain fires
+        // Mark all units in lower levels as placementUnlocked only.
+        // This drives isAvailable in CourseMapPage without setting complete:true,
+        // so the user doesn't see false ✅ badges on units they never did.
         units.forEach(unitSlug => {
           const key = `${lvl}-${unitSlug}`
           unitsToMark[key] = {
-            lessonComplete: true,
-            exercisesComplete: true,
-            quizComplete: true,
-            complete: true,
-            percent: 100,
             placementUnlocked: true,
           }
         })

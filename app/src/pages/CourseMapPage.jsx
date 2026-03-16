@@ -154,23 +154,23 @@ export default function CourseMapPage() {
                     let isAvailable = false
                     if (levelData.level === 'A2' && index === 0) {
                       const lastA1Progress = getUnitProgress('A1-unit-10-review')
-                      isAvailable = !!lastA1Progress?.complete
+                      isAvailable = !!(lastA1Progress?.complete || lastA1Progress?.placementUnlocked)
                     } else if (levelData.level === 'B1' && index === 0) {
                       const lastA2Progress = getUnitProgress('A2-unit-12-review')
-                      isAvailable = !!lastA2Progress?.complete
+                      isAvailable = !!(lastA2Progress?.complete || lastA2Progress?.placementUnlocked)
                     } else if (levelData.level === 'B2' && index === 0) {
                       const lastB1Progress = getUnitProgress('B1-unit-12-review')
-                      isAvailable = !!lastB1Progress?.complete
+                      isAvailable = !!(lastB1Progress?.complete || lastB1Progress?.placementUnlocked)
                     } else if (levelData.level === 'C1' && index === 0) {
                       const lastB2Progress = getUnitProgress('B2-unit-12-review')
-                      isAvailable = !!lastB2Progress?.complete
+                      isAvailable = !!(lastB2Progress?.complete || lastB2Progress?.placementUnlocked)
                     } else if (index === 0) {
                       isAvailable = true
                     } else {
                       const prevUnit = levelData.units[index - 1]
                       const prevKey = `${levelData.level}-${prevUnit.id}`
                       const prevProgress = getUnitProgress(prevKey)
-                      isAvailable = !!prevProgress?.complete
+                      isAvailable = !!(prevProgress?.complete || prevProgress?.placementUnlocked)
                     }
 
                     return (

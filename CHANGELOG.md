@@ -5,6 +5,12 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.1] - 2026-03-16
+
+### Fixed
+- Placement test no longer marks lower-level units as `complete` — they are now marked `placementUnlocked` only, so users don't see false ✅ badges on units they never did
+- `CourseMapPage.jsx` — all 5 `isAvailable` checks now accept `placementUnlocked` in addition to `complete`, so the sequential unlock chain still fires correctly after placement
+
 ## [0.7.0] - 2026-03-16
 
 ### Added
