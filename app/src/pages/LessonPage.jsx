@@ -1,16 +1,20 @@
 import { useState, useEffect } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useNavigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import { useProgress } from '../hooks/useProgress'
 
 export default function LessonPage() {
   const { level, unit } = useParams()
+  const navigate = useNavigate()
   const [lessonContent, setLessonContent] = useState('')
   const [meta, setMeta] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const { markLessonComplete, getUnitProgress } = useProgress()
 
+  // unit slug is just the folder name e.g. "unit-01-greetings"
+  // unitKey includes level for getUnitProgress e.g. "A1-unit-01-greetings"
+  const unitSlug = unit
   const unitKey = `${level?.toUpperCase()}-${unit}`
   const unitProgress = getUnitProgress(unitKey)
 
@@ -19,7 +23,6 @@ export default function LessonPage() {
       setLoading(true)
       setError(null)
       try {
-        // Load lesson markdown
         const lessonRes = await fetch(
           `/Espanol-Course/content/${level?.toUpperCase()}/${unit}/lesson.md`
         )
@@ -27,7 +30,6 @@ export default function LessonPage() {
         const text = await lessonRes.text()
         setLessonContent(text)
 
-        // Load meta
         const metaRes = await fetch(
           `/Espanol-Course/content/${level?.toUpperCase()}/${unit}/meta.json`
         )
@@ -45,7 +47,9 @@ export default function LessonPage() {
   }, [level, unit])
 
   function handleLessonComplete() {
-    markLessonComplete(unitKey)
+    // Pass plain slug — no level prefix — so it matches what getUnitProgress looks up
+    markLessonComplete(unitSlug)
+    navigate(`/exercises/${level?.toUpperCase()}/${unit}`)
   }
 
   if (loading) return <LoadingState />
@@ -85,10 +89,7 @@ export default function LessonPage() {
       )}
 
       {/* Lesson content */}
-      <article
-        className="prose-lesson"
-        aria-label="Lesson content"
-      >
+      <article className="prose-lesson" aria-label="Lesson content">
         <ReactMarkdown
           components={{
             h2: ({children}) => (
@@ -132,7 +133,7 @@ export default function LessonPage() {
         </ReactMarkdown>
       </article>
 
-      {/* Lesson complete button */}
+      {/* Bottom navigation */}
       <div className="mt-10 pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
         <Link to="/" className="btn-secondary text-sm">
           ← Back to course map
@@ -147,7 +148,7 @@ export default function LessonPage() {
           </button>
         ) : (
           <Link
-            to={`/exercises`}
+            to={`/exercises/${level?.toUpperCase()}/${unit}`}
             className="btn-primary"
             aria-label="Go to exercises"
           >
