@@ -5,6 +5,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.3] - 2026-03-16
+
+### Changed
+- `CONTRIBUTING.md` rewritten for public launch — corrected exercise schema examples (fill_in_blank and translation now show correct 4-option + integer answer format), removed outdated branching workflow, updated project structure to reflect all 56 units complete, added two-location content serving note, added schema rules table
+
 ## [0.7.2] - 2026-03-16
 
 ### Fixed
