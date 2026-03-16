@@ -5,6 +5,18 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-03-16
+
+### Added
+- Placement test — 35 MCQ questions spanning A1–B2 (`PlacementTestPage.jsx`)
+  - Scores into A1 (<40%), A2 (40–59%), B1 (60–79%), or B2 (≥80%)
+  - Unlocks all units below placed level; user starts fresh at placed level
+  - Intro screen, per-question feedback, and result screen with placed level + score
+- `useProgress.js` — `unlockLevel(level)` and `setPlacementComplete(level)` functions
+- `App.jsx` — `/placement` route
+- `Layout.jsx` — placement banner shown on all pages until test is completed
+- `CourseMapPage.jsx` — placement prompt card shown at top of course map until test is completed
+
 ## [0.6.0] - 2026-03-16
 
 ### Added
