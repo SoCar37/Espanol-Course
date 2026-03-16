@@ -134,6 +134,28 @@ export function useProgress() {
     [updateProgress]
   );
 
+  // getUnitProgress — used by CourseMapPage to get per-unit status
+  // Returns { complete, percent } for a given unit key (e.g. "A1-unit-01-greetings")
+  const getUnitProgress = useCallback(
+    (unitKey) => {
+      // unitKey comes in as "A1-unit-01-greetings" from CourseMapPage
+      // Strip the level prefix to get the plain slug used in our arrays
+      const slug = unitKey.replace(/^[A-C][12]-/, '');
+      const lessonDone = progress.completedLessons.includes(slug);
+      const exercisesDone = progress.completedExercises.includes(slug);
+      const quizDone = progress.completedQuizzes.includes(slug);
+
+      // Calculate a rough % for the progress bar on the unit card
+      const steps = [lessonDone, exercisesDone, quizDone];
+      const doneCount = steps.filter(Boolean).length;
+      const percent = Math.round((doneCount / steps.length) * 100);
+      const complete = quizDone;
+
+      return { complete, percent, lessonDone, exercisesDone, quizDone };
+    },
+    [progress]
+  );
+
   // Helpers
   const isLessonComplete = useCallback(
     (unitSlug) => progress.completedLessons.includes(unitSlug),
@@ -164,5 +186,6 @@ export function useProgress() {
     isExercisesComplete,
     isQuizComplete,
     isQuizUnlocked,
+    getUnitProgress,
   };
 }
