@@ -1,0 +1,111 @@
+{
+  "id": "B1-U06-Q",
+  "title": "Unit 6 Checkpoint Quiz — Passive Voice & Se Constructions",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U06-Q001",
+      "type": "multiple_choice",
+      "prompt": "What are the three types of 'se' constructions covered in this unit?",
+      "options": [
+        "Passive se, impersonal se, accidental se",
+        "Reflexive se, passive se, future se",
+        "Passive se, conditional se, reflexive se",
+        "Impersonal se, subjunctive se, past se"
+      ],
+      "answer": 0,
+      "explanation": "The three se constructions: (1) Passive se — actions without a stated agent (se venden tamales), (2) Impersonal se — general 'one/people' statements (se come bien), (3) Accidental se — unplanned events (se me olvidó)."
+    },
+    {
+      "id": "B1-U06-Q002",
+      "type": "multiple_choice",
+      "prompt": "A sign reads 'Se busca cocinera.' What does it mean?",
+      "options": [
+        "Cook wanted / We're looking for a cook.",
+        "The cook left.",
+        "Cooking is prohibited.",
+        "A cook is for sale."
+      ],
+      "answer": 0,
+      "explanation": "'Se busca' = someone/something is being looked for (passive se). 'Se busca cocinera' = Cook wanted. This is a very common Mexican classified ad or sign format."
+    },
+    {
+      "id": "B1-U06-Q003",
+      "type": "multiple_choice",
+      "prompt": "In passive se, how does the verb agree?",
+      "options": [
+        "With the grammatical subject (the thing being done)",
+        "Always third-person singular",
+        "With the agent (who does it)",
+        "It doesn't agree — always singular"
+      ],
+      "answer": 0,
+      "explanation": "In passive se, the verb agrees with the subject. 'Se vende casa' (singular) vs. 'Se venden casas' (plural). This is unlike the impersonal se, which is always singular."
+    },
+    {
+      "id": "B1-U06-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'Se me fue el camión' mean?",
+      "options": [
+        "I missed the bus (it left on me — accidental).",
+        "I took the bus.",
+        "The bus is for sale.",
+        "I drove the bus."
+      ],
+      "answer": 0,
+      "explanation": "Accidental se: 'Se me fue el camión' = the bus left on me = I missed the bus. The 'me' makes it personal (it happened to ME). It implies you didn't intend to miss it."
+    },
+    {
+      "id": "B1-U06-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which is the impersonal se construction?",
+      "options": [
+        "En México se cena a las nueve.",
+        "Se le olvidó el nombre.",
+        "Se venden tortas aquí.",
+        "Se construyó en 1900."
+      ],
+      "answer": 0,
+      "explanation": "'Se cena a las nueve' = people eat dinner at nine / one dines at nine — a general statement about customs. The impersonal se describes what people/one does in general, always third-person singular."
+    },
+    {
+      "id": "B1-U06-Q006",
+      "type": "multiple_choice",
+      "prompt": "When would you use the TRUE passive (ser + past participle) instead of se?",
+      "options": [
+        "When you want to mention who performed the action ('by someone')",
+        "In casual everyday conversation",
+        "When talking about accidents",
+        "Never — it's not used in modern Spanish"
+      ],
+      "answer": 0,
+      "explanation": "The true passive (ser + past participle) is used when you state who did the action: 'La carta fue escrita por Pablo' = The letter was written by Pablo. When there's no agent, se is preferred."
+    },
+    {
+      "id": "B1-U06-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the best translation: 'I accidentally dropped my phone.'",
+      "options": [
+        "Se me cayó el celular.",
+        "Caí el celular.",
+        "Tiré el celular.",
+        "Dejé caer el celular intencionalmente."
+      ],
+      "answer": 0,
+      "explanation": "Accidental se: 'Se me cayó el celular' = my phone dropped on me (accidentally). 'Tiré el celular' implies intentional throwing. The accidental se is the perfect structure for unintended events."
+    },
+    {
+      "id": "B1-U06-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does a Mexican sign reading 'Se hacen copias' mean?",
+      "options": [
+        "Copies made here.",
+        "Copies are prohibited.",
+        "Copies for sale (already made).",
+        "We need copies."
+      ],
+      "answer": 0,
+      "explanation": "'Se hacen copias' = copies are made here / we make copies. The passive se ('se hacen') expresses the service offered without mentioning who does it."
+    }
+  ]
+}

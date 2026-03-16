@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U07-V001",
+    "word": "encantar",
+    "translation": "to love / to delight (follows gustar pattern)",
+    "pronunciation_hint": "en-kan-TAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "Me encanta la música de mariachi.",
+    "example_translation": "I love mariachi music.",
+    "audio_file": "B1/unit-07/encantar.mp3",
+    "tags": ["idiomatic-verb", "essential"]
+  },
+  {
+    "id": "B1-U07-V002",
+    "word": "doler",
+    "translation": "to hurt / to ache (follows gustar pattern)",
+    "pronunciation_hint": "doh-LEHR",
+    "part_of_speech": "verb (idiomatic, o→ue, like gustar)",
+    "example_sentence": "Me duele mucho la cabeza hoy.",
+    "example_translation": "My head hurts a lot today.",
+    "audio_file": "B1/unit-07/doler.mp3",
+    "tags": ["idiomatic-verb", "health", "essential"]
+  },
+  {
+    "id": "B1-U07-V003",
+    "word": "faltar",
+    "translation": "to be missing / to need / to lack",
+    "pronunciation_hint": "fal-TAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "Me faltan veinte pesos para el camión.",
+    "example_translation": "I'm twenty pesos short for the bus.",
+    "audio_file": "B1/unit-07/faltar.mp3",
+    "tags": ["idiomatic-verb", "essential"]
+  },
+  {
+    "id": "B1-U07-V004",
+    "word": "quedar",
+    "translation": "to have left / to fit (clothing) / to be located",
+    "pronunciation_hint": "keh-DAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "Me quedan dos días de vacaciones.",
+    "example_translation": "I have two vacation days left.",
+    "audio_file": "B1/unit-07/quedar.mp3",
+    "tags": ["idiomatic-verb", "essential"]
+  },
+  {
+    "id": "B1-U07-V005",
+    "word": "molestar",
+    "translation": "to bother / to annoy",
+    "pronunciation_hint": "moh-les-TAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "¿Te molesta si pongo música?",
+    "example_translation": "Does it bother you if I put on music?",
+    "audio_file": "B1/unit-07/molestar.mp3",
+    "tags": ["idiomatic-verb", "polite"]
+  },
+  {
+    "id": "B1-U07-V006",
+    "word": "parecer",
+    "translation": "to seem / to appear / to think (opinion)",
+    "pronunciation_hint": "pah-reh-SEHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "¿Qué te parece si vamos a comer?",
+    "example_translation": "What do you think about going to eat?",
+    "audio_file": "B1/unit-07/parecer.mp3",
+    "tags": ["idiomatic-verb", "opinion", "essential"]
+  },
+  {
+    "id": "B1-U07-V007",
+    "word": "sobrar",
+    "translation": "to have leftover / to have too much",
+    "pronunciation_hint": "soh-BRAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "Nos sobró mucha comida después de la reunión.",
+    "example_translation": "We had a lot of food left over after the meeting.",
+    "audio_file": "B1/unit-07/sobrar.mp3",
+    "tags": ["idiomatic-verb", "food"]
+  },
+  {
+    "id": "B1-U07-V008",
+    "word": "interesar",
+    "translation": "to interest / to be interested in",
+    "pronunciation_hint": "een-teh-reh-SAHR",
+    "part_of_speech": "verb (idiomatic, like gustar)",
+    "example_sentence": "Me interesa mucho aprender sobre la cultura maya.",
+    "example_translation": "I'm very interested in learning about Mayan culture.",
+    "audio_file": "B1/unit-07/interesar.mp3",
+    "tags": ["idiomatic-verb"]
+  },
+  {
+    "id": "B1-U07-V009",
+    "word": "¿qué te parece?",
+    "translation": "what do you think? / how does it seem to you?",
+    "pronunciation_hint": "keh teh pah-REH-seh",
+    "part_of_speech": "expression",
+    "example_sentence": "¿Qué te parece si salimos a las siete?",
+    "example_translation": "What do you think about leaving at seven?",
+    "audio_file": "B1/unit-07/que-te-parece.mp3",
+    "tags": ["expression", "opinion", "essential", "mexico"]
+  },
+  {
+    "id": "B1-U07-V010",
+    "word": "caerle pesado",
+    "translation": "to sit heavy (food) / to be hard to digest",
+    "pronunciation_hint": "kah-EHR-leh peh-SAH-doh",
+    "part_of_speech": "expression (idiomatic)",
+    "example_sentence": "La carne asada me cae un poco pesada de noche.",
+    "example_translation": "Carne asada sits a bit heavy on me at night.",
+    "audio_file": "B1/unit-07/caerle-pesado.mp3",
+    "tags": ["expression", "food", "mexico"]
+  },
+  {
+    "id": "B1-U07-V011",
+    "word": "me duele el alma",
+    "translation": "it breaks my heart / my soul hurts",
+    "pronunciation_hint": "meh DWEH-leh el AL-mah",
+    "part_of_speech": "expression (idiomatic, doler)",
+    "example_sentence": "Me duele el alma ver tanta pobreza.",
+    "example_translation": "It breaks my heart to see so much poverty.",
+    "audio_file": "B1/unit-07/me-duele-el-alma.mp3",
+    "tags": ["expression", "emotion", "idiomatic-verb"]
+  },
+  {
+    "id": "B1-U07-V012",
+    "word": "me queda bien / mal",
+    "translation": "it fits me well / badly (clothing or situation)",
+    "pronunciation_hint": "meh KEH-dah BYEN / MAHL",
+    "part_of_speech": "expression (quedar)",
+    "example_sentence": "Esta camisa me queda perfecta.",
+    "example_translation": "This shirt fits me perfectly.",
+    "audio_file": "B1/unit-07/me-queda-bien.mp3",
+    "tags": ["expression", "clothing", "essential"]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B1-U06-E001",
+    "type": "multiple_choice",
+    "prompt": "A sign on a shop reads 'Se venden zapatos.' What does it mean?",
+    "options": [
+      "Shoes are sold here / Shoes for sale.",
+      "Shoes are wanted.",
+      "The shoe seller went out.",
+      "Shoes are prohibited."
+    ],
+    "answer": 0,
+    "explanation": "'Se venden zapatos' is a passive se construction. 'Venden' is plural because 'zapatos' is plural. It means shoes are sold here — a very common type of Mexican shop sign."
+  },
+  {
+    "id": "B1-U06-E002",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct form: ___ tacos de canasta en esta esquina.",
+    "options": ["Se venden", "Se vende", "Se vendió", "Se venderán"],
+    "answer": 0,
+    "explanation": "Passive se verb agrees with the subject. 'Tacos' is plural → 'se venden'. If it were 'Se vende un taco', it would be singular."
+  },
+  {
+    "id": "B1-U06-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete the accidental se: ___ el dinero antes de llegar al mercado. (to us, acabar)",
+    "options": ["Se nos acabó", "Se me acabó", "Se les acabó", "Se acabó"],
+    "answer": 0,
+    "explanation": "'Se nos acabó' = we ran out of (it ran out on us). 'Nos' = to us (indirect object). The accidental se removes blame — the money ran out; it wasn't intentional."
+  },
+  {
+    "id": "B1-U06-E004",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between 'Rompí el vaso' and 'Se me rompió el vaso'?",
+    "options": [
+      "Rompí = I broke it (intentionally or not); Se me rompió = It broke on me (accident, not my fault)",
+      "They mean exactly the same thing",
+      "Rompí = it broke accidentally; Se me rompió = I broke it on purpose",
+      "Se me rompió is only used for glasses and cups"
+    ],
+    "answer": 0,
+    "explanation": "The accidental se ('se me rompió') implies the event happened to you rather than being your action. It removes agency and blame. Mexicans use this constantly to describe accidents."
+  },
+  {
+    "id": "B1-U06-E005",
+    "type": "translation",
+    "prompt": "Translate: 'In Mexico, dinner is eaten late.'",
+    "options": [
+      "En México se cena tarde.",
+      "En México cenan tarde.",
+      "En México fue cenado tarde.",
+      "En México se cena tardemente."
+    ],
+    "answer": 0,
+    "explanation": "The impersonal se ('se cena') makes a general statement about what people do. 'Se cena tarde' = dinner is eaten late / people eat dinner late. The verb is third-person singular."
+  },
+  {
+    "id": "B1-U06-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sign would you see on a door that doesn't allow entry?",
+    "options": [
+      "Se prohíbe el paso.",
+      "Se vende el paso.",
+      "Se habla el paso.",
+      "Se renta el paso."
+    ],
+    "answer": 0,
+    "explanation": "'Se prohíbe' = it is prohibited. 'Se prohíbe el paso' = No entry (passage is prohibited). This is the standard formal sign for restricted areas in Mexico."
+  },
+  {
+    "id": "B1-U06-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¿___ entrar sin zapatos al restaurante?",
+    "options": ["Se puede", "Se vende", "Se habla", "Se prohíbe"],
+    "answer": 0,
+    "explanation": "'Se puede' = one can / is it possible to. '¿Se puede entrar sin zapatos?' = Can one enter without shoes? / Is it possible to enter without shoes? This is the impersonal se with poder."
+  },
+  {
+    "id": "B1-U06-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a natural sentence using the accidental se:",
+    "words": ["Ay,", "se", "me", "olvidó", "el", "celular", "en", "el", "camión", "otra", "vez."],
+    "answer": "Ay, se me olvidó el celular en el camión otra vez.",
+    "explanation": "'Se me olvidó' = I forgot (it forgot itself to me) — accidental se. 'El celular' is the subject (singular → olvidó). 'Otra vez' = again. 'Ay' is a very Mexican expression of mild frustration."
+  }
+]

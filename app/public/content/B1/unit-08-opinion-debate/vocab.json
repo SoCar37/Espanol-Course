@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U08-V001",
+    "word": "creo que",
+    "translation": "I think / I believe that",
+    "pronunciation_hint": "KREH-oh keh",
+    "part_of_speech": "expression",
+    "example_sentence": "Creo que deberíamos hablar con el director.",
+    "example_translation": "I think we should talk to the director.",
+    "audio_file": "B1/unit-08/creo-que.mp3",
+    "tags": ["opinion", "essential"]
+  },
+  {
+    "id": "B1-U08-V002",
+    "word": "estoy de acuerdo",
+    "translation": "I agree",
+    "pronunciation_hint": "es-TOY deh ah-KWEHR-doh",
+    "part_of_speech": "expression",
+    "example_sentence": "Estoy completamente de acuerdo contigo.",
+    "example_translation": "I completely agree with you.",
+    "audio_file": "B1/unit-08/estoy-de-acuerdo.mp3",
+    "tags": ["agreement", "essential"]
+  },
+  {
+    "id": "B1-U08-V003",
+    "word": "no estoy de acuerdo",
+    "translation": "I disagree / I don't agree",
+    "pronunciation_hint": "noh es-TOY deh ah-KWEHR-doh",
+    "part_of_speech": "expression",
+    "example_sentence": "No estoy de acuerdo con esa decisión.",
+    "example_translation": "I don't agree with that decision.",
+    "audio_file": "B1/unit-08/no-estoy-de-acuerdo.mp3",
+    "tags": ["disagreement", "essential"]
+  },
+  {
+    "id": "B1-U08-V004",
+    "word": "sin embargo",
+    "translation": "however / nevertheless",
+    "pronunciation_hint": "seen em-BAHR-goh",
+    "part_of_speech": "discourse marker",
+    "example_sentence": "Es una buena idea; sin embargo, necesitamos más tiempo.",
+    "example_translation": "It's a good idea; however, we need more time.",
+    "audio_file": "B1/unit-08/sin-embargo.mp3",
+    "tags": ["discourse-marker", "essential"]
+  },
+  {
+    "id": "B1-U08-V005",
+    "word": "además",
+    "translation": "furthermore / also / in addition",
+    "pronunciation_hint": "ah-deh-MAHS",
+    "part_of_speech": "discourse marker",
+    "example_sentence": "Es caro y, además, está muy lejos.",
+    "example_translation": "It's expensive and, furthermore, it's very far.",
+    "audio_file": "B1/unit-08/ademas.mp3",
+    "tags": ["discourse-marker", "essential"]
+  },
+  {
+    "id": "B1-U08-V006",
+    "word": "o sea",
+    "translation": "I mean / that is / like (Mexican filler)",
+    "pronunciation_hint": "oh SEH-ah",
+    "part_of_speech": "discourse marker (very Mexican)",
+    "example_sentence": "O sea, no entiendo por qué lo hiciste así.",
+    "example_translation": "I mean, I don't understand why you did it that way.",
+    "audio_file": "B1/unit-08/o-sea.mp3",
+    "tags": ["discourse-marker", "mexico", "essential", "colloquial"]
+  },
+  {
+    "id": "B1-U08-V007",
+    "word": "de hecho",
+    "translation": "in fact / actually",
+    "pronunciation_hint": "deh EH-choh",
+    "part_of_speech": "discourse marker",
+    "example_sentence": "De hecho, ya lo intentamos antes y no funcionó.",
+    "example_translation": "In fact, we already tried it before and it didn't work.",
+    "audio_file": "B1/unit-08/de-hecho.mp3",
+    "tags": ["discourse-marker", "essential"]
+  },
+  {
+    "id": "B1-U08-V008",
+    "word": "por otro lado",
+    "translation": "on the other hand",
+    "pronunciation_hint": "por OH-troh LAH-doh",
+    "part_of_speech": "discourse marker",
+    "example_sentence": "El plan es bueno; por otro lado, es muy costoso.",
+    "example_translation": "The plan is good; on the other hand, it's very costly.",
+    "audio_file": "B1/unit-08/por-otro-lado.mp3",
+    "tags": ["discourse-marker", "debate"]
+  },
+  {
+    "id": "B1-U08-V009",
+    "word": "con todo respeto",
+    "translation": "with all due respect",
+    "pronunciation_hint": "kon TOH-doh rres-PEH-toh",
+    "part_of_speech": "expression",
+    "example_sentence": "Con todo respeto, creo que hay un error en ese dato.",
+    "example_translation": "With all due respect, I think there's an error in that data.",
+    "audio_file": "B1/unit-08/con-todo-respeto.mp3",
+    "tags": ["disagreement", "polite", "formal"]
+  },
+  {
+    "id": "B1-U08-V010",
+    "word": "a fin de cuentas",
+    "translation": "at the end of the day / when all is said and done",
+    "pronunciation_hint": "ah feen deh KWEN-tahs",
+    "part_of_speech": "discourse marker",
+    "example_sentence": "A fin de cuentas, lo que importa es que todos estén bien.",
+    "example_translation": "At the end of the day, what matters is that everyone is okay.",
+    "audio_file": "B1/unit-08/a-fin-de-cuentas.mp3",
+    "tags": ["discourse-marker", "essential"]
+  },
+  {
+    "id": "B1-U08-V011",
+    "word": "¿qué opinas?",
+    "translation": "what do you think? / what's your opinion?",
+    "pronunciation_hint": "keh oh-PEE-nahs",
+    "part_of_speech": "question expression",
+    "example_sentence": "¿Qué opinas sobre el nuevo gobierno?",
+    "example_translation": "What do you think about the new government?",
+    "audio_file": "B1/unit-08/que-opinas.mp3",
+    "tags": ["opinion", "question", "essential"]
+  },
+  {
+    "id": "B1-U08-V012",
+    "word": "pues, no sé",
+    "translation": "well, I don't know (Mexican polite disagreement signal)",
+    "pronunciation_hint": "pwes noh seh",
+    "part_of_speech": "expression",
+    "example_sentence": "— ¿Te parece buena idea? — Pues, no sé...",
+    "example_translation": "— Does it seem like a good idea to you? — Well, I don't know...",
+    "audio_file": "B1/unit-08/pues-no-se.mp3",
+    "tags": ["expression", "mexico", "disagreement", "polite"]
+  }
+]

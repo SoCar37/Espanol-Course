@@ -1,0 +1,15 @@
+{
+  "id": "B1-U06",
+  "title": "Passive Voice & Se Constructions",
+  "level": "B1",
+  "unit": 6,
+  "slug": "passive-voice",
+  "estimated_minutes": 30,
+  "topics": ["passive voice", "se pasivo", "se impersonal", "ser + past participle", "passive se"],
+  "prereqs": ["B1-U05"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B1-U07-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct form: Me ___ mucho los tacos de canasta.",
+    "options": ["gustan", "gusta", "gusto", "gustas"],
+    "answer": 0,
+    "explanation": "'Los tacos de canasta' is the subject (plural) — so the verb must be plural: 'gustan'. The indirect object 'me' tells us who likes them. 'Me gustan' = tacos please me = I like tacos."
+  },
+  {
+    "id": "B1-U07-E002",
+    "type": "multiple_choice",
+    "prompt": "How do you say 'My back hurts'?",
+    "options": [
+      "Me duele la espalda.",
+      "Duelo la espalda.",
+      "Mi espalda duele a mí.",
+      "Me duelo la espalda."
+    ],
+    "answer": 0,
+    "explanation": "'Doler' follows the gustar pattern. 'La espalda' is the subject (singular) → 'duele'. 'Me' = the pain affects me. 'Me duele la espalda' = my back hurts (lit: the back pains me)."
+  },
+  {
+    "id": "B1-U07-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: No tengo suficiente para el taxi. Me ___ cincuenta pesos.",
+    "options": ["faltan", "falta", "falto", "faltan"],
+    "answer": 0,
+    "explanation": "'Cincuenta pesos' is plural → 'faltan' (plural). 'Me faltan cincuenta pesos' = I'm fifty pesos short (fifty pesos are lacking to me)."
+  },
+  {
+    "id": "B1-U07-E004",
+    "type": "multiple_choice",
+    "prompt": "What does '¿Qué te parece si vamos al cine?' mean?",
+    "options": [
+      "What do you think about going to the cinema?",
+      "Do you seem to go to the cinema?",
+      "Where does the cinema appear to you?",
+      "Do you want to go to the cinema alone?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Qué te parece?' = what do you think? / how does it seem to you? It's a very common way to propose an idea and ask for someone's opinion in Mexican Spanish."
+  },
+  {
+    "id": "B1-U07-E005",
+    "type": "translation",
+    "prompt": "Translate: 'We have three pieces of cake left over.'",
+    "options": [
+      "Nos sobran tres pedazos de pastel.",
+      "Nos faltan tres pedazos de pastel.",
+      "Nos gustan tres pedazos de pastel.",
+      "Nos quedan tres pedazos de pastel. (also correct)"
+    ],
+    "answer": 3,
+    "explanation": "Both 'sobran' and 'quedan' can express having leftovers — 'sobrar' emphasizes excess, 'quedar' emphasizes what remains. Both are correct. 'Nos sobran/quedan tres pedazos' = We have three pieces left."
+  },
+  {
+    "id": "B1-U07-E006",
+    "type": "multiple_choice",
+    "prompt": "A friend tries on a shirt. You say '¡Te queda perfecta!' What do you mean?",
+    "options": [
+      "It fits you perfectly!",
+      "You're missing a shirt!",
+      "The shirt is perfect for a gift!",
+      "You left the shirt perfectly!"
+    ],
+    "answer": 0,
+    "explanation": "'Quedar' can mean to fit clothing. '¿Cómo te queda?' = How does it fit you? '¡Te queda perfecta!' = It fits you perfectly! The shirt is the subject, 'te' = to you."
+  },
+  {
+    "id": "B1-U07-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¿Te ___ si abro la ventana? Hace mucho calor.",
+    "options": ["molesta", "molestan", "duele", "parece"],
+    "answer": 0,
+    "explanation": "'La ventana' is singular → 'molesta'. '¿Te molesta si...?' = Does it bother you if...? This is a polite way to ask permission in Mexican Spanish."
+  },
+  {
+    "id": "B1-U07-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a sentence using idiomatic verbs:",
+    "words": ["A", "mí", "me", "encanta", "el", "mole,", "pero", "a", "veces", "me", "cae", "un", "poco", "pesado."],
+    "answer": "A mí me encanta el mole, pero a veces me cae un poco pesado.",
+    "explanation": "'A mí me encanta' = I love (emphatic). 'El mole' is singular → 'encanta'. 'Me cae pesado' = it sits heavy on me (idiomatic expression using the gustar pattern with 'caer')."
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "B1-U07-Q",
+  "title": "Unit 7 Checkpoint Quiz — Idiomatic Verbs",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U07-Q001",
+      "type": "multiple_choice",
+      "prompt": "In the gustar pattern, what determines whether the verb is singular or plural?",
+      "options": [
+        "The subject (the thing liked or the thing doing the action)",
+        "The indirect object pronoun (me, te, le, etc.)",
+        "The person who likes something",
+        "The tense of the sentence"
+      ],
+      "answer": 0,
+      "explanation": "In gustar-type verbs, the grammatical subject is the THING being described. The verb agrees with that subject: 'Me gusta el taco' (singular taco) vs. 'Me gustan los tacos' (plural tacos)."
+    },
+    {
+      "id": "B1-U07-Q002",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'She loves dancing'?",
+      "options": [
+        "Le encanta bailar.",
+        "Le encantan bailar.",
+        "Ella encanta bailar.",
+        "A ella le gustan bailar."
+      ],
+      "answer": 0,
+      "explanation": "'Encantar' follows gustar pattern. 'Bailar' is an infinitive (always singular) → 'encanta'. 'Le' = to her. 'Le encanta bailar' = dancing delights her = she loves dancing."
+    },
+    {
+      "id": "B1-U07-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'Me faltan dos semanas de clases' mean?",
+      "options": [
+        "I have two weeks of class left / I'm two weeks of class short.",
+        "I missed two weeks of class.",
+        "I need two weeks of vacation.",
+        "I took two classes."
+      ],
+      "answer": 0,
+      "explanation": "'Faltar' = to be missing / still needed. 'Me faltan dos semanas' = two weeks are still lacking to me = I have/still need two weeks left. 'Semanas' is plural → 'faltan'."
+    },
+    {
+      "id": "B1-U07-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the difference between 'Me gusta' and 'Me encanta'?",
+      "options": [
+        "Me gusta = I like it; Me encanta = I love it (stronger than gusta)",
+        "They mean exactly the same thing",
+        "Me gusta = I love it; Me encanta = I somewhat like it",
+        "Me encanta is only for food"
+      ],
+      "answer": 0,
+      "explanation": "'Gustar' expresses liking; 'encantar' expresses loving or being delighted. 'Me gusta el cine' = I like cinema. 'Me encanta el cine' = I love cinema. 'Encantar' is stronger."
+    },
+    {
+      "id": "B1-U07-Q005",
+      "type": "multiple_choice",
+      "prompt": "Your head hurts. How do you say this in Spanish?",
+      "options": [
+        "Me duele la cabeza.",
+        "Duelo la cabeza.",
+        "Me duelen la cabeza.",
+        "Mi cabeza me duele a mí."
+      ],
+      "answer": 0,
+      "explanation": "'Doler' follows gustar pattern. 'La cabeza' is the subject (singular) → 'duele'. 'Me' = the pain affects me. This is by far the most natural way to say 'my head hurts' in Spanish."
+    },
+    {
+      "id": "B1-U07-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you ask a friend's opinion about a plan?",
+      "options": [
+        "¿Qué te parece?",
+        "¿Qué te molesta?",
+        "¿Qué te falta?",
+        "¿Qué te sobra?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Qué te parece?' = What do you think? / How does it seem to you? It's the most natural way to ask for someone's opinion in Mexican Spanish. Used constantly in everyday conversation."
+    },
+    {
+      "id": "B1-U07-Q007",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'The noise bothers me'?",
+      "options": [
+        "Me molesta el ruido.",
+        "Me molestan el ruido.",
+        "Molesto el ruido.",
+        "El ruido me molesto."
+      ],
+      "answer": 0,
+      "explanation": "'Molestar' follows gustar pattern. 'El ruido' is singular → 'molesta'. 'Me' = it affects me. 'Me molesta el ruido' = the noise bothers me."
+    },
+    {
+      "id": "B1-U07-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'caerle pesado' mean when talking about food?",
+      "options": [
+        "To sit heavy on your stomach / to be hard to digest",
+        "To be dropped on the floor",
+        "To be very inexpensive",
+        "To be served in large portions"
+      ],
+      "answer": 0,
+      "explanation": "'Caerle pesado' (to fall heavy on someone) is a Mexican idiomatic expression meaning food that's hard to digest or sits heavy in your stomach. It follows the same pattern as gustar: 'me cae pesado' = it sits heavy on me."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "B1-U07",
+  "title": "Idiomatic Verbs",
+  "level": "B1",
+  "unit": 7,
+  "slug": "idiomatic-verbs",
+  "estimated_minutes": 30,
+  "topics": ["gustar", "encantar", "doler", "faltar", "quedar", "molestar", "parecer", "sobrar"],
+  "prereqs": ["B1-U06"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

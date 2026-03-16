@@ -1,0 +1,91 @@
+[
+  {
+    "id": "B1-U08-E001",
+    "type": "multiple_choice",
+    "prompt": "You want to give your opinion politely. Which phrase is most appropriate?",
+    "options": [
+      "En mi opinión, deberíamos esperar.",
+      "Esperen todos porque yo digo.",
+      "Tienen que hacer lo que yo digo.",
+      "No saben nada del tema."
+    ],
+    "answer": 0,
+    "explanation": "'En mi opinión' introduces a personal view politely and clearly. It signals that what follows is your perspective, not a universal fact — important for respectful disagreement."
+  },
+  {
+    "id": "B1-U08-E002",
+    "type": "multiple_choice",
+    "prompt": "Your friend makes a point you agree with. What do you say?",
+    "options": [
+      "Tienes razón, así es.",
+      "No estoy de acuerdo para nada.",
+      "Pues, no sé...",
+      "Con todo respeto, lo veo diferente."
+    ],
+    "answer": 0,
+    "explanation": "'Tienes razón' = you're right. 'Así es' = that's how it is. Together they strongly confirm agreement. 'Pues, no sé' and 'lo veo diferente' signal disagreement."
+  },
+  {
+    "id": "B1-U08-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete this debate structure: El plan es bueno; ___, va a costar demasiado.",
+    "options": ["sin embargo", "además", "de hecho", "o sea"],
+    "answer": 0,
+    "explanation": "'Sin embargo' = however/nevertheless — used to introduce a contrasting point after acknowledging something positive. It's the most natural connector for this kind of 'yes, but' structure."
+  },
+  {
+    "id": "B1-U08-E004",
+    "type": "multiple_choice",
+    "prompt": "Your colleague proposes something you disagree with. What's the politest response?",
+    "options": [
+      "Entiendo tu punto, sin embargo yo lo vería de otra manera.",
+      "Eso está completamente mal.",
+      "No tienes razón en absoluto.",
+      "Eso es imposible."
+    ],
+    "answer": 0,
+    "explanation": "Acknowledging the other person's point ('entiendo tu punto') before disagreeing is culturally important in Mexican professional settings. 'Sin embargo yo lo vería de otra manera' = however I would see it differently."
+  },
+  {
+    "id": "B1-U08-E005",
+    "type": "translation",
+    "prompt": "Translate: 'In fact, we've already tried that and it didn't work.'",
+    "options": [
+      "De hecho, ya lo intentamos y no funcionó.",
+      "En hecho, ya lo intentamos y no funcionó.",
+      "Sin embargo, ya lo intentamos y no funcionó.",
+      "Además, ya lo intentamos y no funcionó."
+    ],
+    "answer": 0,
+    "explanation": "'De hecho' = in fact / actually. It introduces information that supports or reinforces a point. 'Ya lo intentamos' = we already tried it. 'No funcionó' = it didn't work."
+  },
+  {
+    "id": "B1-U08-E006",
+    "type": "multiple_choice",
+    "prompt": "In Mexican Spanish, 'o sea' is used like which English expression?",
+    "options": [
+      "'I mean' or 'like' — a discourse filler or clarifier",
+      "'In my opinion'",
+      "'However'",
+      "'In fact'"
+    ],
+    "answer": 0,
+    "explanation": "'O sea' is a quintessentially Mexican discourse marker, equivalent to 'I mean' or 'like' in informal English. It introduces clarifications, mild frustration, or rephrasing: 'O sea, ¿por qué lo hiciste así?' = I mean, why did you do it that way?"
+  },
+  {
+    "id": "B1-U08-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ___ de cuentas, lo más importante es que aprendamos algo nuevo cada día.",
+    "options": ["A fin", "Al fin", "Por fin", "Sin fin"],
+    "answer": 0,
+    "explanation": "'A fin de cuentas' = at the end of the day / when all is said and done. It's used to introduce the bottom line or most essential point of an argument."
+  },
+  {
+    "id": "B1-U08-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a structured opinion with a counterpoint:",
+    "words": ["Creo", "que", "el", "proyecto", "es", "viable;", "sin", "embargo,", "necesitamos", "más", "tiempo", "y,", "además,", "más", "presupuesto."],
+    "answer": "Creo que el proyecto es viable; sin embargo, necesitamos más tiempo y, además, más presupuesto.",
+    "explanation": "This sentence uses: 'Creo que' (I think) to state an opinion, 'sin embargo' (however) to introduce a counterpoint, and 'además' (furthermore) to add a second concern. This is the structure of a well-organized B1-level argument."
+  }
+]

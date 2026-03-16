@@ -1,0 +1,15 @@
+{
+  "id": "B1-U08",
+  "title": "Expressing Opinions & Debate",
+  "level": "B1",
+  "unit": 8,
+  "slug": "opinion-debate",
+  "estimated_minutes": 30,
+  "topics": ["opinions", "agreement", "disagreement", "debate", "creo que", "en mi opinión", "discourse markers"],
+  "prereqs": ["B1-U07"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

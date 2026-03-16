@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U05-V001",
+    "word": "que",
+    "translation": "that / which / who (relative pronoun)",
+    "pronunciation_hint": "keh",
+    "part_of_speech": "relative pronoun",
+    "example_sentence": "El libro que me regalaste es increíble.",
+    "example_translation": "The book you gave me is incredible.",
+    "audio_file": "B1/unit-05/que.mp3",
+    "tags": ["relative-clause", "essential"]
+  },
+  {
+    "id": "B1-U05-V002",
+    "word": "quien / quienes",
+    "translation": "who / whom (for people, especially after prepositions)",
+    "pronunciation_hint": "KYEN / KYE-nes",
+    "part_of_speech": "relative pronoun",
+    "example_sentence": "La maestra con quien estudié es de Veracruz.",
+    "example_translation": "The teacher with whom I studied is from Veracruz.",
+    "audio_file": "B1/unit-05/quien.mp3",
+    "tags": ["relative-clause", "formal"]
+  },
+  {
+    "id": "B1-U05-V003",
+    "word": "donde",
+    "translation": "where (relative pronoun for places)",
+    "pronunciation_hint": "DON-deh",
+    "part_of_speech": "relative pronoun",
+    "example_sentence": "La ciudad donde nací tiene muchos volcanes.",
+    "example_translation": "The city where I was born has many volcanoes.",
+    "audio_file": "B1/unit-05/donde.mp3",
+    "tags": ["relative-clause", "place", "essential"]
+  },
+  {
+    "id": "B1-U05-V004",
+    "word": "lo que",
+    "translation": "what / that which (neuter relative pronoun)",
+    "pronunciation_hint": "loh keh",
+    "part_of_speech": "relative pronoun (neuter)",
+    "example_sentence": "Lo que más me gusta de México es la gente.",
+    "example_translation": "What I like most about Mexico is the people.",
+    "audio_file": "B1/unit-05/lo-que.mp3",
+    "tags": ["relative-clause", "essential"]
+  },
+  {
+    "id": "B1-U05-V005",
+    "word": "cuyo / cuya",
+    "translation": "whose (agrees with noun that follows)",
+    "pronunciation_hint": "KWY-oh / KWY-ah",
+    "part_of_speech": "relative adjective",
+    "example_sentence": "El escritor cuyo libro leí ganó el Nobel.",
+    "example_translation": "The writer whose book I read won the Nobel.",
+    "audio_file": "B1/unit-05/cuyo.mp3",
+    "tags": ["relative-clause", "formal", "writing"]
+  },
+  {
+    "id": "B1-U05-V006",
+    "word": "los que / las que",
+    "translation": "those who / the ones who",
+    "pronunciation_hint": "lohs keh / lahs keh",
+    "part_of_speech": "relative pronoun",
+    "example_sentence": "Los que lleguen tarde no entrarán.",
+    "example_translation": "Those who arrive late won't get in.",
+    "audio_file": "B1/unit-05/los-que.mp3",
+    "tags": ["relative-clause", "essential"]
+  },
+  {
+    "id": "B1-U05-V007",
+    "word": "con quien",
+    "translation": "with whom",
+    "pronunciation_hint": "kon KYEN",
+    "part_of_speech": "prepositional relative phrase",
+    "example_sentence": "El amigo con quien viajé es muy buena onda.",
+    "example_translation": "The friend with whom I traveled is really cool.",
+    "audio_file": "B1/unit-05/con-quien.mp3",
+    "tags": ["relative-clause", "preposition"]
+  },
+  {
+    "id": "B1-U05-V008",
+    "word": "resulta que",
+    "translation": "it turns out that",
+    "pronunciation_hint": "reh-SOUL-tah keh",
+    "part_of_speech": "expression",
+    "example_sentence": "Resulta que ella es la hermana de mi vecino.",
+    "example_translation": "It turns out she's my neighbor's sister.",
+    "audio_file": "B1/unit-05/resulta-que.mp3",
+    "tags": ["expression", "storytelling", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U05-V009",
+    "word": "el lugar donde",
+    "translation": "the place where",
+    "pronunciation_hint": "el loo-GAHR DON-deh",
+    "part_of_speech": "phrase",
+    "example_sentence": "El lugar donde nos conocimos es muy especial.",
+    "example_translation": "The place where we met is very special.",
+    "audio_file": "B1/unit-05/el-lugar-donde.mp3",
+    "tags": ["relative-clause", "place"]
+  },
+  {
+    "id": "B1-U05-V010",
+    "word": "lo que me gusta",
+    "translation": "what I like / what I enjoy",
+    "pronunciation_hint": "loh keh meh GOOS-tah",
+    "part_of_speech": "phrase",
+    "example_sentence": "Lo que me gusta de Oaxaca es el mole y la arquitectura.",
+    "example_translation": "What I like about Oaxaca is the mole and the architecture.",
+    "audio_file": "B1/unit-05/lo-que-me-gusta.mp3",
+    "tags": ["relative-clause", "opinion", "essential"]
+  },
+  {
+    "id": "B1-U05-V011",
+    "word": "el que / la que",
+    "translation": "the one who / the one that",
+    "pronunciation_hint": "el keh / lah keh",
+    "part_of_speech": "relative pronoun",
+    "example_sentence": "La que llegó primero ganó el premio.",
+    "example_translation": "The one who arrived first won the prize.",
+    "audio_file": "B1/unit-05/el-que.mp3",
+    "tags": ["relative-clause"]
+  },
+  {
+    "id": "B1-U05-V012",
+    "word": "a quien",
+    "translation": "whom (direct object, for people)",
+    "pronunciation_hint": "ah KYEN",
+    "part_of_speech": "prepositional relative phrase",
+    "example_sentence": "La persona a quien llamé no contestó.",
+    "example_translation": "The person whom I called didn't answer.",
+    "audio_file": "B1/unit-05/a-quien.mp3",
+    "tags": ["relative-clause", "formal"]
+  }
+]

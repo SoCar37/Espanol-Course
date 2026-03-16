@@ -1,0 +1,96 @@
+{
+  "id": "B1-U05-Q",
+  "title": "Unit 5 Checkpoint Quiz — Relative Clauses",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U05-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which relative pronoun can refer to BOTH people and things?",
+      "options": ["que", "quien", "cuyo", "donde"],
+      "answer": 0,
+      "explanation": "'Que' can refer to people or things and is the most versatile relative pronoun. 'Quien' is only for people. 'Donde' is for places. 'Cuyo' means 'whose'."
+    },
+    {
+      "id": "B1-U05-Q002",
+      "type": "multiple_choice",
+      "prompt": "Complete: El amigo ___ viví cinco años es de Jalisco.",
+      "options": ["con quien", "que", "donde", "cuyo"],
+      "answer": 0,
+      "explanation": "After the preposition 'con', use 'quien' (not 'que') for people in formal speech: 'con quien viví' = with whom I lived. 'Que' alone would be missing the preposition."
+    },
+    {
+      "id": "B1-U05-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'lo que' refer to?",
+      "options": [
+        "An idea, situation, or unspecified thing — 'what' or 'that which'",
+        "A specific masculine noun",
+        "A person (the one who)",
+        "A place (where)"
+      ],
+      "answer": 0,
+      "explanation": "'Lo que' is a neuter relative pronoun meaning 'what' or 'that which'. It doesn't refer to a specific gendered noun but to an idea or situation: 'Lo que dices es verdad' = What you say is true."
+    },
+    {
+      "id": "B1-U05-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is WRONG?",
+      "options": [
+        "La película vi anoche era muy buena.",
+        "La película que vi anoche era muy buena.",
+        "La película que me recomendaste era muy buena.",
+        "La película donde actuó es famosa."
+      ],
+      "answer": 0,
+      "explanation": "In Spanish, 'que' cannot be omitted the way English can drop 'that'. 'La película vi anoche' is wrong — you must say 'La película que vi anoche'."
+    },
+    {
+      "id": "B1-U05-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete: El café ___ nos conocimos ya no existe.",
+      "options": ["donde", "que", "quien", "cuyo"],
+      "answer": 0,
+      "explanation": "'Donde' introduces place-describing relative clauses. 'El café donde nos conocimos' = The café where we met."
+    },
+    {
+      "id": "B1-U05-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'cuyo' mean and how does it agree?",
+      "options": [
+        "'Whose' — agrees in gender and number with the noun that follows it (not the owner)",
+        "'Whose' — agrees with the person who owns the thing",
+        "'Which' — used for inanimate objects only",
+        "'Where' — used for places only"
+      ],
+      "answer": 0,
+      "explanation": "'Cuyo' = whose. It agrees with what is owned, not the owner: 'el autor cuyo libro' (masculine libro → cuyo), 'la autora cuya novela' (feminine novela → cuya)."
+    },
+    {
+      "id": "B1-U05-Q007",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'Those who arrive early will get a seat'?",
+      "options": [
+        "Los que lleguen temprano tendrán lugar.",
+        "Lo que lleguen temprano tendrán lugar.",
+        "Quien lleguen temprano tendrán lugar.",
+        "Que lleguen temprano tendrán lugar."
+      ],
+      "answer": 0,
+      "explanation": "'Los que' = those who (masculine plural). Note 'lleguen' is in the subjunctive because it refers to a hypothetical/indefinite group. 'Los que lleguen' = those who (may) arrive."
+    },
+    {
+      "id": "B1-U05-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican storytelling, stacking multiple 'que' clauses is:",
+      "options": [
+        "Completely natural and common in oral narration",
+        "Considered a grammatical error",
+        "Only used in formal writing",
+        "A sign the speaker is not fluent"
+      ],
+      "answer": 0,
+      "explanation": "Stacking 'que' clauses is a hallmark of natural Mexican oral storytelling. It layers details in a flowing way. This is fluent, natural speech — not an error."
+    }
+  ]
+}

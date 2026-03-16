@@ -1,0 +1,106 @@
+{
+  "id": "B1-U08-Q",
+  "title": "Unit 8 Checkpoint Quiz — Expressing Opinions & Debate",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U08-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which phrase introduces a personal opinion?",
+      "options": [
+        "Desde mi punto de vista...",
+        "Es un hecho que...",
+        "Todo el mundo sabe que...",
+        "Está demostrado que..."
+      ],
+      "answer": 0,
+      "explanation": "'Desde mi punto de vista' (from my point of view) clearly marks what follows as personal opinion. The others ('es un hecho', 'todo el mundo sabe', 'está demostrado') present claims as facts."
+    },
+    {
+      "id": "B1-U08-Q002",
+      "type": "multiple_choice",
+      "prompt": "How do you strongly agree with someone in Spanish?",
+      "options": [
+        "Tienes razón, estoy completamente de acuerdo.",
+        "Pues, no sé...",
+        "Entiendo tu punto, sin embargo...",
+        "Con todo respeto, lo veo diferente."
+      ],
+      "answer": 0,
+      "explanation": "'Tienes razón' + 'estoy completamente de acuerdo' = strong agreement. 'Pues, no sé' signals polite disagreement. 'Sin embargo' and 'lo veo diferente' indicate partial or full disagreement."
+    },
+    {
+      "id": "B1-U08-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is the function of 'sin embargo' in a debate?",
+      "options": [
+        "To introduce a contrasting or opposing point",
+        "To add another supporting point",
+        "To conclude an argument",
+        "To ask for someone's opinion"
+      ],
+      "answer": 0,
+      "explanation": "'Sin embargo' = however/nevertheless. It signals a contrast or opposing idea. Often follows an acknowledgment: 'Entiendo tu punto; sin embargo...' = I understand your point; however..."
+    },
+    {
+      "id": "B1-U08-Q004",
+      "type": "multiple_choice",
+      "prompt": "You want to add another supporting point to your argument. Which marker do you use?",
+      "options": ["además", "sin embargo", "por otro lado", "de hecho"],
+      "answer": 0,
+      "explanation": "'Además' = furthermore / also — adds another supporting point. 'Sin embargo' contrasts. 'Por otro lado' introduces another perspective. 'De hecho' introduces a fact."
+    },
+    {
+      "id": "B1-U08-Q005",
+      "type": "multiple_choice",
+      "prompt": "In Mexican conversation, 'pues, no sé...' often signals:",
+      "options": [
+        "Polite or indirect disagreement",
+        "Complete agreement",
+        "Genuine ignorance about a topic",
+        "Excitement about an idea"
+      ],
+      "answer": 0,
+      "explanation": "'Pues, no sé...' (well, I don't know...) is frequently used in Mexican Spanish as a polite way to signal disagreement without being direct. The hesitation implies 'I don't think so, but I don't want to say so bluntly'."
+    },
+    {
+      "id": "B1-U08-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'o sea' most closely translate to in English?",
+      "options": [
+        "'I mean' or 'like' (discourse filler / clarifier)",
+        "'However'",
+        "'In fact'",
+        "'At the end of the day'"
+      ],
+      "answer": 0,
+      "explanation": "'O sea' is one of the most characteristically Mexican discourse markers. Like 'I mean' in English, it introduces clarifications, mild frustration, or rephrasing of an idea."
+    },
+    {
+      "id": "B1-U08-Q007",
+      "type": "multiple_choice",
+      "prompt": "How do you politely ask for someone's opinion?",
+      "options": [
+        "¿Qué opinas sobre esto?",
+        "¿Qué piensas de mí?",
+        "¿Cuándo opinas?",
+        "¿Por qué no opinas correctamente?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Qué opinas sobre esto?' = What do you think about this? It's a natural, open question that invites someone to share their view. Also common: '¿Qué te parece?' and '¿Qué piensas sobre el tema?'"
+    },
+    {
+      "id": "B1-U08-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which is the most culturally appropriate way to disagree in a Mexican professional setting?",
+      "options": [
+        "Entiendo tu punto; sin embargo, yo lo vería de otra manera.",
+        "Estás completamente equivocado.",
+        "Eso no tiene ningún sentido.",
+        "No tienes razón y todos lo saben."
+      ],
+      "answer": 0,
+      "explanation": "Mexican professional culture values indirect, face-saving disagreement. Acknowledging the other person's point first ('entiendo tu punto') before introducing your alternative view ('yo lo vería de otra manera') is the culturally appropriate approach."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U06-V001",
+    "word": "se vende / se venden",
+    "translation": "for sale / is sold / are sold",
+    "pronunciation_hint": "seh BEN-deh / seh BEN-den",
+    "part_of_speech": "passive se construction",
+    "example_sentence": "Se vende departamento en el centro.",
+    "example_translation": "Apartment for sale downtown.",
+    "audio_file": "B1/unit-06/se-vende.mp3",
+    "tags": ["passive-se", "signs", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U06-V002",
+    "word": "se habla español",
+    "translation": "Spanish is spoken (here)",
+    "pronunciation_hint": "seh AH-blah es-pah-NYOL",
+    "part_of_speech": "passive se construction",
+    "example_sentence": "En este restaurante se habla inglés y español.",
+    "example_translation": "In this restaurant, English and Spanish are spoken.",
+    "audio_file": "B1/unit-06/se-habla.mp3",
+    "tags": ["passive-se", "essential"]
+  },
+  {
+    "id": "B1-U06-V003",
+    "word": "se me olvidó",
+    "translation": "I forgot (it happened to me accidentally)",
+    "pronunciation_hint": "seh meh oh-lee-BEE-doh",
+    "part_of_speech": "accidental se construction",
+    "example_sentence": "Se me olvidó apagar las luces.",
+    "example_translation": "I forgot to turn off the lights.",
+    "audio_file": "B1/unit-06/se-me-olvido.mp3",
+    "tags": ["accidental-se", "essential", "mexico"]
+  },
+  {
+    "id": "B1-U06-V004",
+    "word": "se le cayó",
+    "translation": "he/she dropped it (accidentally)",
+    "pronunciation_hint": "seh leh kah-YOH",
+    "part_of_speech": "accidental se construction",
+    "example_sentence": "Se le cayó el vaso y se rompió.",
+    "example_translation": "He dropped the glass and it broke.",
+    "audio_file": "B1/unit-06/se-le-cayo.mp3",
+    "tags": ["accidental-se", "essential"]
+  },
+  {
+    "id": "B1-U06-V005",
+    "word": "se nos acabó",
+    "translation": "we ran out of (it ran out on us)",
+    "pronunciation_hint": "seh nohs ah-kah-BOH",
+    "part_of_speech": "accidental se construction",
+    "example_sentence": "Se nos acabó el tiempo antes de terminar.",
+    "example_translation": "We ran out of time before finishing.",
+    "audio_file": "B1/unit-06/se-nos-acabo.mp3",
+    "tags": ["accidental-se", "essential"]
+  },
+  {
+    "id": "B1-U06-V006",
+    "word": "se dice que",
+    "translation": "they say that / it is said that",
+    "pronunciation_hint": "seh DEE-seh keh",
+    "part_of_speech": "impersonal se expression",
+    "example_sentence": "Se dice que el mole negro tarda tres días en hacerse.",
+    "example_translation": "They say black mole takes three days to make.",
+    "audio_file": "B1/unit-06/se-dice-que.mp3",
+    "tags": ["impersonal-se", "essential"]
+  },
+  {
+    "id": "B1-U06-V007",
+    "word": "se puede",
+    "translation": "one can / you can / it's possible to",
+    "pronunciation_hint": "seh PWEH-deh",
+    "part_of_speech": "impersonal se construction",
+    "example_sentence": "¿Se puede entrar sin reservación?",
+    "example_translation": "Can one enter without a reservation?",
+    "audio_file": "B1/unit-06/se-puede.mp3",
+    "tags": ["impersonal-se", "essential"]
+  },
+  {
+    "id": "B1-U06-V008",
+    "word": "se renta",
+    "translation": "for rent",
+    "pronunciation_hint": "seh RREN-tah",
+    "part_of_speech": "passive se construction",
+    "example_sentence": "Se renta cuarto amueblado, todo incluido.",
+    "example_translation": "Furnished room for rent, all inclusive.",
+    "audio_file": "B1/unit-06/se-renta.mp3",
+    "tags": ["passive-se", "signs", "mexico"]
+  },
+  {
+    "id": "B1-U06-V009",
+    "word": "se prohíbe",
+    "translation": "it is prohibited / no (something)",
+    "pronunciation_hint": "seh proh-EE-beh",
+    "part_of_speech": "passive se construction",
+    "example_sentence": "Se prohíbe tirar basura.",
+    "example_translation": "No littering. (Throwing trash is prohibited.)",
+    "audio_file": "B1/unit-06/se-prohibe.mp3",
+    "tags": ["passive-se", "signs", "formal"]
+  },
+  {
+    "id": "B1-U06-V010",
+    "word": "fue construido/a",
+    "translation": "was built (true passive)",
+    "pronunciation_hint": "fweh kon-stroo-EE-doh",
+    "part_of_speech": "true passive (ser + past participle)",
+    "example_sentence": "La catedral fue construida en el siglo XVI.",
+    "example_translation": "The cathedral was built in the 16th century.",
+    "audio_file": "B1/unit-06/fue-construido.mp3",
+    "tags": ["true-passive", "formal", "history"]
+  },
+  {
+    "id": "B1-U06-V011",
+    "word": "se te fue el camión",
+    "translation": "you missed the bus (it left on you)",
+    "pronunciation_hint": "seh teh fweh el kah-MYON",
+    "part_of_speech": "accidental se expression",
+    "example_sentence": "Apúrate, se te va a ir el camión.",
+    "example_translation": "Hurry up, you're going to miss the bus.",
+    "audio_file": "B1/unit-06/se-te-fue.mp3",
+    "tags": ["accidental-se", "mexico", "transport"]
+  },
+  {
+    "id": "B1-U06-V012",
+    "word": "se come bien",
+    "translation": "the food is good / one eats well",
+    "pronunciation_hint": "seh KOH-meh BYEN",
+    "part_of_speech": "impersonal se construction",
+    "example_sentence": "En Oaxaca se come increíblemente bien.",
+    "example_translation": "The food in Oaxaca is incredibly good.",
+    "audio_file": "B1/unit-06/se-come-bien.mp3",
+    "tags": ["impersonal-se", "food", "mexico", "essential"]
+  }
+]

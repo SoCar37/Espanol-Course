@@ -1,0 +1,15 @@
+{
+  "id": "B1-U05",
+  "title": "Relative Clauses",
+  "level": "B1",
+  "unit": 5,
+  "slug": "relative-clauses",
+  "estimated_minutes": 30,
+  "topics": ["relative clauses", "que", "quien", "donde", "lo que", "el cual"],
+  "prereqs": ["B1-U04"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

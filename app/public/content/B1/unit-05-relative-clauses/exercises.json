@@ -1,0 +1,76 @@
+[
+  {
+    "id": "B1-U05-E001",
+    "type": "multiple_choice",
+    "prompt": "Complete: El restaurante ___ me recomendaste estaba cerrado.",
+    "options": ["que", "quien", "donde", "cuyo"],
+    "answer": 0,
+    "explanation": "'Que' is used to refer to things (el restaurante is a thing, not a person). It means 'that/which' — the restaurant that you recommended to me."
+  },
+  {
+    "id": "B1-U05-E002",
+    "type": "multiple_choice",
+    "prompt": "Complete: La doctora con ___ hablé es especialista en cardiología.",
+    "options": ["quien", "que", "donde", "lo que"],
+    "answer": 0,
+    "explanation": "'Quien' is used for people after prepositions. 'Con quien' = with whom. 'La doctora con quien hablé' = The doctor with whom I spoke."
+  },
+  {
+    "id": "B1-U05-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: La ciudad ___ nací tiene un clima muy agradable.",
+    "options": ["donde", "que", "quien", "cuyo"],
+    "answer": 0,
+    "explanation": "'Donde' introduces relative clauses about places. 'La ciudad donde nací' = The city where I was born."
+  },
+  {
+    "id": "B1-U05-E004",
+    "type": "multiple_choice",
+    "prompt": "Complete: ___ más me gusta de México es la música.",
+    "options": ["Lo que", "El que", "Que", "Quien"],
+    "answer": 0,
+    "explanation": "'Lo que' is the neuter relative pronoun meaning 'what' or 'that which'. It refers to an idea or situation, not a specific noun. 'Lo que más me gusta' = What I like most."
+  },
+  {
+    "id": "B1-U05-E005",
+    "type": "translation",
+    "prompt": "Translate: 'The friends with whom I traveled are coming to visit.'",
+    "options": [
+      "Los amigos con quienes viajé vienen a visitar.",
+      "Los amigos que viajé con vienen a visitar.",
+      "Los amigos donde viajé vienen a visitar.",
+      "Los amigos cuyo viajé vienen a visitar."
+    ],
+    "answer": 0,
+    "explanation": "'Con quienes' = with whom (plural, for people). 'Los amigos con quienes viajé' = The friends with whom I traveled. Using 'quienes' (not 'quien') because it's plural."
+  },
+  {
+    "id": "B1-U05-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sentence is correct?",
+    "options": [
+      "El libro que leí era fantástico.",
+      "El libro leí era fantástico.",
+      "El libro cual leí era fantástico.",
+      "El libro quien leí era fantástico."
+    ],
+    "answer": 0,
+    "explanation": "Unlike English, 'que' cannot be dropped in Spanish. 'El libro leí' is wrong — you must include 'que'. Also, 'quien' is only for people, not books."
+  },
+  {
+    "id": "B1-U05-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ___ quieran participar deben inscribirse antes del viernes.",
+    "options": ["Los que", "Lo que", "Que", "Donde"],
+    "answer": 0,
+    "explanation": "'Los que' = those who (masculine plural). It functions as a subject meaning 'the ones who' or 'those who'. 'Los que quieran' = Those who want to (note subjunctive 'quieran' after the relative)."
+  },
+  {
+    "id": "B1-U05-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a natural storytelling sentence:",
+    "words": ["Fíjate", "que", "me", "encontré", "con", "una", "señora", "que", "conocí", "en", "Oaxaca", "y", "resulta", "que", "es", "tu", "vecina."],
+    "answer": "Fíjate que me encontré con una señora que conocí en Oaxaca y resulta que es tu vecina.",
+    "explanation": "This sentence stacks two relative clauses naturally: 'que conocí en Oaxaca' (that I met in Oaxaca) modifies 'señora'. 'Resulta que' introduces the surprising connection — a very Mexican storytelling structure."
+  }
+]
