@@ -1,0 +1,96 @@
+{
+  "id": "A2-U04-Q",
+  "title": "Unit 4 Checkpoint Quiz — Preterite Tense: Regular Verbs",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U04-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is the yo preterite of 'hablar'?",
+      "options": ["hablé", "hablé", "habló", "hablo"],
+      "answer": 0,
+      "explanation": "The yo preterite of -AR verbs ends in -é (with accent mark): hablé."
+    },
+    {
+      "id": "A2-U04-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is the tú preterite of 'comer'?",
+      "options": ["comiste", "comiste", "comías", "comés"],
+      "answer": 0,
+      "explanation": "The tú preterite of -ER verbs ends in -iste: comiste."
+    },
+    {
+      "id": "A2-U04-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses the preterite?",
+      "options": [
+        "Ayer trabajé doce horas.",
+        "Ayer trabajo doce horas.",
+        "Ayer trabajaba doce horas.",
+        "Ayer trabajaré doce horas."
+      ],
+      "answer": 0,
+      "explanation": "'Ayer' signals a completed past action. 'Trabajé' is the correct yo preterite of trabajar."
+    },
+    {
+      "id": "A2-U04-Q004",
+      "type": "multiple_choice",
+      "prompt": "What spelling change does 'buscar' make in the yo preterite?",
+      "options": ["busqué (c → qu)", "buscé (no change)", "buské (c → k)", "busché (c → ch)"],
+      "answer": 0,
+      "explanation": "Before 'e', c changes to qu to preserve the hard /k/ sound. So yo busqué, not yo buscé."
+    },
+    {
+      "id": "A2-U04-Q005",
+      "type": "multiple_choice",
+      "prompt": "For -ER and -IR verbs, the preterite endings are:",
+      "options": [
+        "Identical (-í, -iste, -ió, -imos, -ieron)",
+        "Completely different",
+        "The same as -AR verbs",
+        "Different only in yo form"
+      ],
+      "answer": 0,
+      "explanation": "-ER and -IR verbs share the same preterite endings: -í, -iste, -ió, -imos, -ieron. This makes them easier to learn together."
+    },
+    {
+      "id": "A2-U04-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'They learned Spanish last year'?",
+      "options": [
+        "Aprendieron español el año pasado.",
+        "Aprendaron español el año pasado.",
+        "Aprenden español el año pasado.",
+        "Aprendieron español el año pasado. (same)"
+      ],
+      "answer": 0,
+      "explanation": "Ellos preterite of -ER verbs ends in -ieron: aprendieron. Time expression: el año pasado."
+    },
+    {
+      "id": "A2-U04-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which time expression goes best with the preterite?",
+      "options": [
+        "hace tres días",
+        "todos los días",
+        "generalmente",
+        "siempre"
+      ],
+      "answer": 0,
+      "explanation": "'Hace tres días' (three days ago) signals a specific, completed past action — perfect for the preterite. The others suggest habitual or ongoing actions."
+    },
+    {
+      "id": "A2-U04-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican storytelling, 'Fíjate que...' is used to:",
+      "options": [
+        "Signal that a story or surprising event is about to be told",
+        "Say goodbye",
+        "Ask a question",
+        "Give directions"
+      ],
+      "answer": 0,
+      "explanation": "'Fíjate que' is a Mexican storytelling opener meaning 'So listen...' or 'You won't believe...' — it tells your listener to pay attention because something interesting is coming."
+    }
+  ]
+}

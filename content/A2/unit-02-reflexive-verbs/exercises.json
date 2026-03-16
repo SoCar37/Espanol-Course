@@ -1,0 +1,86 @@
+[
+  {
+    "id": "A2-U02-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct reflexive pronoun: ___ despierto a las siete. (yo)",
+    "options": ["Me", "Te", "Se", "Nos"],
+    "answer": 0,
+    "explanation": "The reflexive pronoun for 'yo' is 'me'. So: Me despierto a las siete."
+  },
+  {
+    "id": "A2-U02-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses a reflexive verb?",
+    "options": [
+      "Mi hermano se ducha por las noches.",
+      "Mi hermano ducha por las noches.",
+      "Mi hermano me ducha por las noches.",
+      "Mi hermano te ducha por las noches."
+    ],
+    "answer": 0,
+    "explanation": "When talking about what someone does to themselves, use the matching reflexive pronoun. 'Se ducha' = he showers (himself)."
+  },
+  {
+    "id": "A2-U02-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Nosotros ___ lavamos los dientes antes de dormir.",
+    "options": ["nos", "se", "me", "te"],
+    "answer": 0,
+    "explanation": "The reflexive pronoun for 'nosotros' is 'nos'. Nos lavamos = we wash ourselves / we brush our teeth."
+  },
+  {
+    "id": "A2-U02-E004",
+    "type": "multiple_choice",
+    "prompt": "How do you say 'I want to shower' using the infinitive form?",
+    "options": [
+      "Quiero ducharme. / Me quiero duchar.",
+      "Quiero me duchar.",
+      "Me quiero ducharse.",
+      "Ducharme quiero."
+    ],
+    "answer": 0,
+    "explanation": "With a reflexive verb after another verb, the pronoun can attach to the infinitive (ducharme) or go before the first verb (me quiero duchar). Both are correct."
+  },
+  {
+    "id": "A2-U02-E005",
+    "type": "translation",
+    "prompt": "Translate: 'She gets dressed in fifteen minutes.'",
+    "options": [
+      "Se viste en quince minutos.",
+      "Se veste en quince minutos.",
+      "Ella vestirse en quince minutos.",
+      "Se vista en quince minutos."
+    ],
+    "answer": 0,
+    "explanation": "'Vestirse' is an e→i stem-changer. The ella form is 'se viste' — the stem changes from vest- to vist-."
+  },
+  {
+    "id": "A2-U02-E006",
+    "type": "multiple_choice",
+    "prompt": "What does 'llamarse' mean?",
+    "options": [
+      "to be named / to call oneself",
+      "to call someone else",
+      "to shout",
+      "to phone"
+    ],
+    "answer": 0,
+    "explanation": "'Llamarse' is the reflexive form of 'llamar'. Non-reflexive: llamar = to call someone. Reflexive: llamarse = to be named (literally, to call oneself)."
+  },
+  {
+    "id": "A2-U02-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct form of 'acostarse': Los niños se ___ a las nueve.",
+    "options": ["acuestan", "acostean", "acostan", "acuesten"],
+    "answer": 0,
+    "explanation": "'Acostarse' is an o→ue stem-changer. The ellos form is 'se acuestan' — the stem vowel o changes to ue."
+  },
+  {
+    "id": "A2-U02-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to describe a morning routine:",
+    "words": ["Me", "despierto,", "me", "ducho", "y", "me", "visto", "en", "media", "hora."],
+    "answer": "Me despierto, me ducho y me visto en media hora.",
+    "explanation": "Each reflexive action uses 'me' as the reflexive pronoun for 'yo'. The verbs are: despertarse (e→ie: despierto), ducharse (regular: ducho), vestirse (e→i: visto)."
+  }
+]

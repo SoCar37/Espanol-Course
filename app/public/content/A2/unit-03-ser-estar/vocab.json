@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U03-V001",
+    "word": "ser",
+    "translation": "to be (permanent / defining)",
+    "pronunciation_hint": "SEHR",
+    "part_of_speech": "verb (irregular)",
+    "example_sentence": "Soy de México.",
+    "example_translation": "I am from Mexico.",
+    "audio_file": "A2/unit-03/ser.mp3",
+    "tags": ["verb", "essential", "ser-estar"]
+  },
+  {
+    "id": "A2-U03-V002",
+    "word": "estar",
+    "translation": "to be (temporary / location)",
+    "pronunciation_hint": "es-TAHR",
+    "part_of_speech": "verb (irregular)",
+    "example_sentence": "Estoy en casa.",
+    "example_translation": "I am at home.",
+    "audio_file": "A2/unit-03/estar.mp3",
+    "tags": ["verb", "essential", "ser-estar"]
+  },
+  {
+    "id": "A2-U03-V003",
+    "word": "aburrido/a",
+    "translation": "boring (ser) / bored (estar)",
+    "pronunciation_hint": "ah-boo-RREE-doh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Ese programa es aburrido. Estoy aburrida.",
+    "example_translation": "That show is boring. I am bored.",
+    "audio_file": "A2/unit-03/aburrido.mp3",
+    "tags": ["adjective", "ser-estar", "meaning-change"]
+  },
+  {
+    "id": "A2-U03-V004",
+    "word": "listo/a",
+    "translation": "clever / smart (ser) / ready (estar)",
+    "pronunciation_hint": "LEES-toh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Eres muy listo. ¿Estás listo para salir?",
+    "example_translation": "You are very smart. Are you ready to leave?",
+    "audio_file": "A2/unit-03/listo.mp3",
+    "tags": ["adjective", "ser-estar", "meaning-change"]
+  },
+  {
+    "id": "A2-U03-V005",
+    "word": "rico/a",
+    "translation": "wealthy (ser) / delicious (estar)",
+    "pronunciation_hint": "RREE-koh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Ese señor es rico. ¡Estos tacos están ricos!",
+    "example_translation": "That man is wealthy. These tacos are delicious!",
+    "audio_file": "A2/unit-03/rico.mp3",
+    "tags": ["adjective", "ser-estar", "meaning-change", "food"]
+  },
+  {
+    "id": "A2-U03-V006",
+    "word": "cansado/a",
+    "translation": "tired",
+    "pronunciation_hint": "kan-SAH-doh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "Estoy muy cansado después del trabajo.",
+    "example_translation": "I am very tired after work.",
+    "audio_file": "A2/unit-03/cansado.mp3",
+    "tags": ["adjective", "estar", "feelings"]
+  },
+  {
+    "id": "A2-U03-V007",
+    "word": "amable",
+    "translation": "kind / friendly",
+    "pronunciation_hint": "ah-MAH-bleh",
+    "part_of_speech": "adjective (used with ser)",
+    "example_sentence": "La gente de Guadalajara es muy amable.",
+    "example_translation": "The people from Guadalajara are very kind.",
+    "audio_file": "A2/unit-03/amable.mp3",
+    "tags": ["adjective", "ser", "personality"]
+  },
+  {
+    "id": "A2-U03-V008",
+    "word": "ocupado/a",
+    "translation": "busy",
+    "pronunciation_hint": "oh-koo-PAH-doh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "Estoy muy ocupado esta semana.",
+    "example_translation": "I am very busy this week.",
+    "audio_file": "A2/unit-03/ocupado.mp3",
+    "tags": ["adjective", "estar", "work"]
+  },
+  {
+    "id": "A2-U03-V009",
+    "word": "chido/a",
+    "translation": "cool / awesome (Mexican slang)",
+    "pronunciation_hint": "CHEE-doh",
+    "part_of_speech": "adjective (Mexican slang, used with estar)",
+    "example_sentence": "¡Está muy chido ese carro!",
+    "example_translation": "That car is really cool!",
+    "audio_file": "A2/unit-03/chido.mp3",
+    "tags": ["adjective", "estar", "mexico", "slang"]
+  },
+  {
+    "id": "A2-U03-V010",
+    "word": "abierto/a",
+    "translation": "open",
+    "pronunciation_hint": "ah-BYEHR-toh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "La tienda está abierta hasta las diez.",
+    "example_translation": "The store is open until ten.",
+    "audio_file": "A2/unit-03/abierto.mp3",
+    "tags": ["adjective", "estar"]
+  },
+  {
+    "id": "A2-U03-V011",
+    "word": "cerrado/a",
+    "translation": "closed",
+    "pronunciation_hint": "seh-RRAH-doh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "El banco está cerrado hoy.",
+    "example_translation": "The bank is closed today.",
+    "audio_file": "A2/unit-03/cerrado.mp3",
+    "tags": ["adjective", "estar"]
+  },
+  {
+    "id": "A2-U03-V012",
+    "word": "de madera",
+    "translation": "made of wood",
+    "pronunciation_hint": "deh mah-DEH-rah",
+    "part_of_speech": "prepositional phrase (used with ser)",
+    "example_sentence": "La mesa es de madera.",
+    "example_translation": "The table is made of wood.",
+    "audio_file": "A2/unit-03/de-madera.mp3",
+    "tags": ["material", "ser"]
+  },
+  {
+    "id": "A2-U03-V013",
+    "word": "de pelos",
+    "translation": "great / awesome (Mexican expression)",
+    "pronunciation_hint": "deh PEH-lohs",
+    "part_of_speech": "expression (used with estar)",
+    "example_sentence": "Estoy de pelos, ¿y tú?",
+    "example_translation": "I'm doing great, and you?",
+    "audio_file": "A2/unit-03/de-pelos.mp3",
+    "tags": ["expression", "estar", "mexico", "slang"]
+  }
+]

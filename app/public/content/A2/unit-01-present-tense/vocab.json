@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U01-V001",
+    "word": "querer",
+    "translation": "to want",
+    "pronunciation_hint": "keh-REHR",
+    "part_of_speech": "verb (e→ie stem-changer)",
+    "example_sentence": "Quiero un café, por favor.",
+    "example_translation": "I want a coffee, please.",
+    "audio_file": "A2/unit-01/querer.mp3",
+    "tags": ["verb", "stem-changer", "essential"]
+  },
+  {
+    "id": "A2-U01-V002",
+    "word": "poder",
+    "translation": "to be able to / can",
+    "pronunciation_hint": "poh-DEHR",
+    "part_of_speech": "verb (o→ue stem-changer)",
+    "example_sentence": "¿Puedes ayudarme?",
+    "example_translation": "Can you help me?",
+    "audio_file": "A2/unit-01/poder.mp3",
+    "tags": ["verb", "stem-changer", "essential"]
+  },
+  {
+    "id": "A2-U01-V003",
+    "word": "pensar",
+    "translation": "to think",
+    "pronunciation_hint": "pen-SAHR",
+    "part_of_speech": "verb (e→ie stem-changer)",
+    "example_sentence": "Pienso que es una buena idea.",
+    "example_translation": "I think it's a good idea.",
+    "audio_file": "A2/unit-01/pensar.mp3",
+    "tags": ["verb", "stem-changer"]
+  },
+  {
+    "id": "A2-U01-V004",
+    "word": "preferir",
+    "translation": "to prefer",
+    "pronunciation_hint": "preh-feh-REER",
+    "part_of_speech": "verb (e→ie stem-changer)",
+    "example_sentence": "Prefiero el carro azul.",
+    "example_translation": "I prefer the blue car.",
+    "audio_file": "A2/unit-01/preferir.mp3",
+    "tags": ["verb", "stem-changer"]
+  },
+  {
+    "id": "A2-U01-V005",
+    "word": "volver",
+    "translation": "to return / to come back",
+    "pronunciation_hint": "bol-BEHR",
+    "part_of_speech": "verb (o→ue stem-changer)",
+    "example_sentence": "Vuelvo a casa a las ocho.",
+    "example_translation": "I return home at eight.",
+    "audio_file": "A2/unit-01/volver.mp3",
+    "tags": ["verb", "stem-changer"]
+  },
+  {
+    "id": "A2-U01-V006",
+    "word": "dormir",
+    "translation": "to sleep",
+    "pronunciation_hint": "dor-MEER",
+    "part_of_speech": "verb (o→ue stem-changer)",
+    "example_sentence": "Duermo ocho horas cada noche.",
+    "example_translation": "I sleep eight hours every night.",
+    "audio_file": "A2/unit-01/dormir.mp3",
+    "tags": ["verb", "stem-changer", "essential"]
+  },
+  {
+    "id": "A2-U01-V007",
+    "word": "pedir",
+    "translation": "to ask for / to order",
+    "pronunciation_hint": "peh-DEER",
+    "part_of_speech": "verb (e→i stem-changer)",
+    "example_sentence": "Pido tacos de asada siempre.",
+    "example_translation": "I always order carne asada tacos.",
+    "audio_file": "A2/unit-01/pedir.mp3",
+    "tags": ["verb", "stem-changer"]
+  },
+  {
+    "id": "A2-U01-V008",
+    "word": "hacer",
+    "translation": "to do / to make",
+    "pronunciation_hint": "ah-SEHR",
+    "part_of_speech": "verb (irregular yo)",
+    "example_sentence": "Hago mi tarea en la noche.",
+    "example_translation": "I do my homework at night.",
+    "audio_file": "A2/unit-01/hacer.mp3",
+    "tags": ["verb", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U01-V009",
+    "word": "salir",
+    "translation": "to leave / to go out",
+    "pronunciation_hint": "sah-LEER",
+    "part_of_speech": "verb (irregular yo)",
+    "example_sentence": "Salgo con mis amigos los viernes.",
+    "example_translation": "I go out with my friends on Fridays.",
+    "audio_file": "A2/unit-01/salir.mp3",
+    "tags": ["verb", "irregular"]
+  },
+  {
+    "id": "A2-U01-V010",
+    "word": "conocer",
+    "translation": "to know (a person or place)",
+    "pronunciation_hint": "koh-noh-SEHR",
+    "part_of_speech": "verb (irregular yo)",
+    "example_sentence": "Conozco un buen restaurante.",
+    "example_translation": "I know a good restaurant.",
+    "audio_file": "A2/unit-01/conocer.mp3",
+    "tags": ["verb", "irregular"]
+  },
+  {
+    "id": "A2-U01-V011",
+    "word": "saber",
+    "translation": "to know (a fact or skill)",
+    "pronunciation_hint": "sah-BEHR",
+    "part_of_speech": "verb (irregular yo)",
+    "example_sentence": "Sé hablar español un poco.",
+    "example_translation": "I know how to speak a little Spanish.",
+    "audio_file": "A2/unit-01/saber.mp3",
+    "tags": ["verb", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U01-V012",
+    "word": "traer",
+    "translation": "to bring",
+    "pronunciation_hint": "trah-EHR",
+    "part_of_speech": "verb (irregular yo)",
+    "example_sentence": "Traigo mi celular a todos lados.",
+    "example_translation": "I bring my phone everywhere.",
+    "audio_file": "A2/unit-01/traer.mp3",
+    "tags": ["verb", "irregular"]
+  },
+  {
+    "id": "A2-U01-V013",
+    "word": "ahorita",
+    "translation": "right now / in a moment (Mexican Spanish)",
+    "pronunciation_hint": "ah-oh-REE-tah",
+    "part_of_speech": "adverb",
+    "example_sentence": "Ahorita te llamo.",
+    "example_translation": "I'll call you right now / in a bit.",
+    "audio_file": "A2/unit-01/ahorita.mp3",
+    "tags": ["adverb", "mexico", "essential"]
+  }
+]

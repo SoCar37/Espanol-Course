@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U04-V001",
+    "word": "ayer",
+    "translation": "yesterday",
+    "pronunciation_hint": "ah-YEHR",
+    "part_of_speech": "adverb",
+    "example_sentence": "Ayer comí tacos de birria.",
+    "example_translation": "Yesterday I ate birria tacos.",
+    "audio_file": "A2/unit-04/ayer.mp3",
+    "tags": ["time", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V002",
+    "word": "la semana pasada",
+    "translation": "last week",
+    "pronunciation_hint": "lah seh-MAH-nah pah-SAH-dah",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "La semana pasada trabajé mucho.",
+    "example_translation": "Last week I worked a lot.",
+    "audio_file": "A2/unit-04/semana-pasada.mp3",
+    "tags": ["time", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V003",
+    "word": "el año pasado",
+    "translation": "last year",
+    "pronunciation_hint": "el AH-nyoh pah-SAH-doh",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "El año pasado viajé a Cancún.",
+    "example_translation": "Last year I traveled to Cancún.",
+    "audio_file": "A2/unit-04/año-pasado.mp3",
+    "tags": ["time", "preterite"]
+  },
+  {
+    "id": "A2-U04-V004",
+    "word": "hace (tiempo)",
+    "translation": "ago",
+    "pronunciation_hint": "AH-seh",
+    "part_of_speech": "expression",
+    "example_sentence": "Hace dos años aprendí a manejar.",
+    "example_translation": "Two years ago I learned to drive.",
+    "audio_file": "A2/unit-04/hace.mp3",
+    "tags": ["time", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V005",
+    "word": "llegar",
+    "translation": "to arrive",
+    "pronunciation_hint": "yeh-GAHR",
+    "part_of_speech": "verb (-ar, spelling change yo: llegué)",
+    "example_sentence": "Llegué tarde a la reunión.",
+    "example_translation": "I arrived late to the meeting.",
+    "audio_file": "A2/unit-04/llegar.mp3",
+    "tags": ["verb", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V006",
+    "word": "buscar",
+    "translation": "to look for / to search",
+    "pronunciation_hint": "boos-KAHR",
+    "part_of_speech": "verb (-ar, spelling change yo: busqué)",
+    "example_sentence": "Busqué mis llaves por todos lados.",
+    "example_translation": "I looked for my keys everywhere.",
+    "audio_file": "A2/unit-04/buscar.mp3",
+    "tags": ["verb", "preterite"]
+  },
+  {
+    "id": "A2-U04-V007",
+    "word": "empezar",
+    "translation": "to start / to begin",
+    "pronunciation_hint": "em-peh-SAHR",
+    "part_of_speech": "verb (-ar, spelling change yo: empecé)",
+    "example_sentence": "Empecé a estudiar español hace un año.",
+    "example_translation": "I started studying Spanish a year ago.",
+    "audio_file": "A2/unit-04/empezar.mp3",
+    "tags": ["verb", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V008",
+    "word": "terminar",
+    "translation": "to finish / to end",
+    "pronunciation_hint": "tehr-mee-NAHR",
+    "part_of_speech": "verb (-ar, regular)",
+    "example_sentence": "Terminé el libro en dos días.",
+    "example_translation": "I finished the book in two days.",
+    "audio_file": "A2/unit-04/terminar.mp3",
+    "tags": ["verb", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V009",
+    "word": "viajar",
+    "translation": "to travel",
+    "pronunciation_hint": "byah-HAHR",
+    "part_of_speech": "verb (-ar, regular)",
+    "example_sentence": "Viajamos a Oaxaca el año pasado.",
+    "example_translation": "We traveled to Oaxaca last year.",
+    "audio_file": "A2/unit-04/viajar.mp3",
+    "tags": ["verb", "preterite", "travel"]
+  },
+  {
+    "id": "A2-U04-V010",
+    "word": "aprender",
+    "translation": "to learn",
+    "pronunciation_hint": "ah-pren-DEHR",
+    "part_of_speech": "verb (-er, regular)",
+    "example_sentence": "Aprendí muchas palabras nuevas.",
+    "example_translation": "I learned many new words.",
+    "audio_file": "A2/unit-04/aprender.mp3",
+    "tags": ["verb", "preterite", "essential"]
+  },
+  {
+    "id": "A2-U04-V011",
+    "word": "de repente",
+    "translation": "suddenly",
+    "pronunciation_hint": "deh reh-PEN-teh",
+    "part_of_speech": "adverb",
+    "example_sentence": "De repente empezó a llover.",
+    "example_translation": "Suddenly it started to rain.",
+    "audio_file": "A2/unit-04/de-repente.mp3",
+    "tags": ["time", "preterite"]
+  },
+  {
+    "id": "A2-U04-V012",
+    "word": "fíjate que",
+    "translation": "so listen / you won't believe (story opener)",
+    "pronunciation_hint": "FEE-hah-teh keh",
+    "part_of_speech": "expression",
+    "example_sentence": "Fíjate que ayer vi a tu amigo en el centro.",
+    "example_translation": "So listen, yesterday I saw your friend downtown.",
+    "audio_file": "A2/unit-04/fijate-que.mp3",
+    "tags": ["expression", "mexico", "storytelling"]
+  },
+  {
+    "id": "A2-U04-V013",
+    "word": "la neta",
+    "translation": "honestly / the truth (Mexican slang)",
+    "pronunciation_hint": "lah NEH-tah",
+    "part_of_speech": "expression (Mexican slang)",
+    "example_sentence": "La neta no entendí nada.",
+    "example_translation": "Honestly, I didn't understand anything.",
+    "audio_file": "A2/unit-04/la-neta.mp3",
+    "tags": ["expression", "mexico", "slang"]
+  }
+]

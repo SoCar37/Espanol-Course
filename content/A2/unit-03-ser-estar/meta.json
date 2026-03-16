@@ -1,0 +1,15 @@
+{
+  "id": "A2-U03",
+  "title": "Ser vs. Estar — Deep Dive",
+  "level": "A2",
+  "unit": 3,
+  "slug": "ser-estar",
+  "estimated_minutes": 30,
+  "topics": ["ser", "estar", "adjectives", "descriptions", "states vs. characteristics"],
+  "prereqs": ["A2-U02"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

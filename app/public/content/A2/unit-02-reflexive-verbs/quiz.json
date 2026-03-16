@@ -1,0 +1,101 @@
+{
+  "id": "A2-U02-Q",
+  "title": "Unit 2 Checkpoint Quiz — Reflexive Verbs & Daily Routines",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U02-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which reflexive pronoun goes with 'tú'?",
+      "options": ["te", "me", "se", "nos"],
+      "answer": 0,
+      "explanation": "The reflexive pronoun for 'tú' is 'te'. Example: te lavas, te duchas, te vistes."
+    },
+    {
+      "id": "A2-U02-Q002",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'I brush my teeth' in Spanish?",
+      "options": [
+        "Me lavo los dientes.",
+        "Lavo mis dientes.",
+        "Me lavo mis dientes.",
+        "Lavo los dientes míos."
+      ],
+      "answer": 0,
+      "explanation": "Use the reflexive 'me lavo' with the definite article 'los' before body parts — not the possessive 'mis'. This is a key difference from English."
+    },
+    {
+      "id": "A2-U02-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct form of 'despertarse' for 'ella'?",
+      "options": ["se despierta", "se despertea", "se desperta", "se despiertea"],
+      "answer": 0,
+      "explanation": "'Despertarse' is an e→ie stem-changer. The ella form is 'se despierta'."
+    },
+    {
+      "id": "A2-U02-Q004",
+      "type": "multiple_choice",
+      "prompt": "Both of these sentences are correct EXCEPT:",
+      "options": [
+        "Me quiero bañarme.",
+        "Me quiero bañar.",
+        "Quiero bañarme.",
+        "All three are correct."
+      ],
+      "answer": 0,
+      "explanation": "When using a reflexive infinitive after another verb, use the pronoun EITHER before the first verb OR attached to the infinitive — not both. 'Me quiero bañarme' uses it twice, which is wrong."
+    },
+    {
+      "id": "A2-U02-Q005",
+      "type": "multiple_choice",
+      "prompt": "What does 'ponerse' mean in this sentence: 'Se puso muy enojado'?",
+      "options": [
+        "He became very angry.",
+        "He put on something very angry.",
+        "He put himself very angry.",
+        "He removed something very angry."
+      ],
+      "answer": 0,
+      "explanation": "'Ponerse' can mean 'to become' when followed by an adjective. 'Se puso enojado' = he became angry / he got angry."
+    },
+    {
+      "id": "A2-U02-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'We get ready in the morning'?",
+      "options": [
+        "Nos arreglamos por la mañana.",
+        "Se arreglamos por la mañana.",
+        "Nos arreglemos por la mañana.",
+        "Me arreglamos por la mañana."
+      ],
+      "answer": 0,
+      "explanation": "The reflexive pronoun for nosotros is 'nos'. Nos arreglamos = we get ourselves ready."
+    },
+    {
+      "id": "A2-U02-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is the difference between 'dormir' and 'dormirse'?",
+      "options": [
+        "dormir = to sleep; dormirse = to fall asleep",
+        "dormir = to fall asleep; dormirse = to sleep",
+        "They mean exactly the same thing.",
+        "dormir = to nap; dormirse = to sleep all night"
+      ],
+      "answer": 0,
+      "explanation": "'Dormir' = to sleep (ongoing state). 'Dormirse' = to fall asleep (the act of going to sleep). Many verbs change meaning when made reflexive."
+    },
+    {
+      "id": "A2-U02-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexico, when is 'la comida' (the main meal) typically eaten?",
+      "options": [
+        "Between 2–4 PM",
+        "At noon",
+        "At 7 PM",
+        "In the morning"
+      ],
+      "answer": 0,
+      "explanation": "In Mexican culture, 'la comida' is the main meal of the day and is typically eaten between 2–4 PM. Dinner (la cena) is lighter and later."
+    }
+  ]
+}

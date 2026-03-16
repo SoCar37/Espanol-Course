@@ -1,0 +1,15 @@
+{
+  "id": "A2-U01",
+  "title": "Present Tense Review & Stem-Changers",
+  "level": "A2",
+  "unit": 1,
+  "slug": "present-tense",
+  "estimated_minutes": 25,
+  "topics": ["present tense", "stem-changing verbs", "irregular verbs", "verb conjugation"],
+  "prereqs": ["A1-U01", "A1-U10"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

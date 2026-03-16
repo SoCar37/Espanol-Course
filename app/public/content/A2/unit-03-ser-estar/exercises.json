@@ -1,0 +1,81 @@
+[
+  {
+    "id": "A2-U03-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose ser or estar: Ella ___ de Monterrey.",
+    "options": ["es", "está", "son", "están"],
+    "answer": 0,
+    "explanation": "Origin uses 'ser'. 'Ella es de Monterrey' = She is from Monterrey. Origin is a permanent, defining characteristic."
+  },
+  {
+    "id": "A2-U03-E002",
+    "type": "multiple_choice",
+    "prompt": "Choose ser or estar: El libro ___ en la mesa.",
+    "options": ["está", "es", "estás", "eres"],
+    "answer": 0,
+    "explanation": "Location uses 'estar'. 'El libro está en la mesa' = The book is on the table. Location is temporary and changeable."
+  },
+  {
+    "id": "A2-U03-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'Está listo' mean, versus 'Es listo'?",
+    "options": [
+      "Está listo = He is ready; Es listo = He is clever",
+      "Está listo = He is clever; Es listo = He is ready",
+      "Both mean the same thing",
+      "Está listo = He is boring; Es listo = He is bored"
+    ],
+    "answer": 0,
+    "explanation": "'Listo' changes meaning based on the verb. With estar: ready (temporary state). With ser: clever/smart (permanent trait)."
+  },
+  {
+    "id": "A2-U03-E004",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¡Este mole ___ riquísimo! (the mole tastes delicious)",
+    "options": ["está", "es", "estás", "eres"],
+    "answer": 0,
+    "explanation": "'Rico' with 'estar' means delicious (a current, experienced quality). With 'ser' it would mean wealthy. Food is always 'está rico/a'."
+  },
+  {
+    "id": "A2-U03-E005",
+    "type": "translation",
+    "prompt": "Translate: 'Today is Monday and I am tired.'",
+    "options": [
+      "Hoy es lunes y estoy cansado.",
+      "Hoy está lunes y soy cansado.",
+      "Hoy es lunes y soy cansado.",
+      "Hoy está lunes y estoy cansado."
+    ],
+    "answer": 0,
+    "explanation": "Days and dates use 'ser' (hoy es lunes). Temporary feelings use 'estar' (estoy cansado)."
+  },
+  {
+    "id": "A2-U03-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sentence is correct?",
+    "options": [
+      "Mi papá es médico.",
+      "Mi papá está médico.",
+      "Mi papá es en el hospital.",
+      "Mi papá está doctor."
+    ],
+    "answer": 0,
+    "explanation": "Professions use 'ser'. Note: in Spanish you don't say 'a doctor' — just 'es médico' (no article needed for professions)."
+  },
+  {
+    "id": "A2-U03-E007",
+    "type": "multiple_choice",
+    "prompt": "Complete: La puerta ___ abierta.",
+    "options": ["está", "es", "estoy", "soy"],
+    "answer": 0,
+    "explanation": "'Estar' is used for results of change or current states. The door being open is a current condition, not a defining characteristic."
+  },
+  {
+    "id": "A2-U03-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to make a correct sentence about someone's characteristics:",
+    "words": ["Mi", "abuela", "es", "amable,", "inteligente", "y", "está", "siempre", "de", "buen", "humor."],
+    "answer": "Mi abuela es amable, inteligente y está siempre de buen humor.",
+    "explanation": "'Es amable, inteligente' uses ser for personality traits. 'Está de buen humor' uses estar for a current state/mood."
+  }
+]

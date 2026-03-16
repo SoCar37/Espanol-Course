@@ -1,0 +1,71 @@
+[
+  {
+    "id": "A2-U04-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct preterite form: Yo ___ con mi jefe ayer. (hablar)",
+    "options": ["hablé", "hablé", "habló", "hablaste"],
+    "answer": 0,
+    "explanation": "The yo preterite of -AR verbs ends in -é. Hablé = I spoke."
+  },
+  {
+    "id": "A2-U04-E002",
+    "type": "multiple_choice",
+    "prompt": "Which is the correct preterite of 'comer' for 'ellos'?",
+    "options": ["comieron", "comaron", "comieron", "comierón"],
+    "answer": 0,
+    "explanation": "-ER verbs in the preterite use -ieron for ellos/ustedes. Note: no accent mark on comieron."
+  },
+  {
+    "id": "A2-U04-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Nosotros ___ en ese departamento por tres años. (vivir)",
+    "options": ["vivimos", "vivemos", "vivaron", "vivieron"],
+    "answer": 0,
+    "explanation": "The nosotros preterite of -IR verbs ends in -imos: vivimos. Note this looks identical to the present tense — context tells you which it is."
+  },
+  {
+    "id": "A2-U04-E004",
+    "type": "multiple_choice",
+    "prompt": "Which yo preterite form has a spelling change?",
+    "options": ["llegué", "llegé", "llego", "llegó"],
+    "answer": 0,
+    "explanation": "'Llegar' changes g → gu before e to preserve the hard /g/ sound. So yo llegué, NOT yo llegé."
+  },
+  {
+    "id": "A2-U04-E005",
+    "type": "translation",
+    "prompt": "Translate: 'Last week we traveled to Guadalajara.'",
+    "options": [
+      "La semana pasada viajamos a Guadalajara.",
+      "La semana pasada viajemos a Guadalajara.",
+      "La semana pasada viajaron a Guadalajara.",
+      "La semana pasada viajé a Guadalajara."
+    ],
+    "answer": 0,
+    "explanation": "Nosotros preterite of -AR verbs ends in -amos: viajamos. The time expression 'la semana pasada' signals the preterite."
+  },
+  {
+    "id": "A2-U04-E006",
+    "type": "multiple_choice",
+    "prompt": "Which time expression does NOT typically signal the preterite?",
+    "options": ["normalmente", "ayer", "la semana pasada", "hace dos días"],
+    "answer": 0,
+    "explanation": "'Normalmente' (normally/usually) signals habitual actions, which use the present or imperfect — not the preterite. The others all signal completed past actions."
+  },
+  {
+    "id": "A2-U04-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct preterite: Ella ___ el examen a las dos. (terminar)",
+    "options": ["terminó", "terminé", "terminaste", "termino"],
+    "answer": 0,
+    "explanation": "The usted/él/ella preterite of -AR verbs ends in -ó (with an accent mark). Terminó = she finished."
+  },
+  {
+    "id": "A2-U04-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a preterite sentence:",
+    "words": ["Fíjate", "que", "ayer", "llegué", "tarde", "y", "el", "jefe", "no", "dijo", "nada."],
+    "answer": "Fíjate que ayer llegué tarde y el jefe no dijo nada.",
+    "explanation": "'Fíjate que' opens the story. 'Llegué' is the yo preterite of llegar (g→gu spelling change). 'Dijo' is the irregular preterite of decir (to say) — you'll learn more irregular preterites in Unit 5."
+  }
+]

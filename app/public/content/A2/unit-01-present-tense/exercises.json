@@ -1,0 +1,71 @@
+[
+  {
+    "id": "A2-U01-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct form of 'querer' for 'tú': ¿Qué ___ comer esta noche?",
+    "options": ["quieres", "queres", "querés", "quieras"],
+    "answer": 0,
+    "explanation": "'Querer' is an e→ie stem-changer. The tú form changes the stem vowel e to ie: tú quieres."
+  },
+  {
+    "id": "A2-U01-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses 'poder' correctly?",
+    "options": [
+      "Ella puede venir mañana.",
+      "Ella pode venir mañana.",
+      "Ella pueda venir mañana.",
+      "Ella podes venir mañana."
+    ],
+    "answer": 0,
+    "explanation": "'Poder' is an o→ue stem-changer. The ella form is 'puede' — the stem vowel o changes to ue."
+  },
+  {
+    "id": "A2-U01-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct form of 'dormir': Mis hijos ___ diez horas cada noche.",
+    "options": ["duermen", "dormien", "duermon", "dormen"],
+    "answer": 0,
+    "explanation": "'Dormir' is an o→ue stem-changer. The ellos/ustedes form is 'duermen' — note the stem vowel change."
+  },
+  {
+    "id": "A2-U01-E004",
+    "type": "multiple_choice",
+    "prompt": "What is the yo form of 'salir'?",
+    "options": ["salgo", "salo", "salío", "salego"],
+    "answer": 0,
+    "explanation": "'Salir' has an irregular yo form: salgo. All other forms are regular: sales, sale, salimos, salen."
+  },
+  {
+    "id": "A2-U01-E005",
+    "type": "translation",
+    "prompt": "Translate to Spanish: 'I know a good taco place.' (use conocer)",
+    "options": ["Conozco un buen lugar de tacos.", "Sabo un buen lugar de tacos.", "Conoco un buen lugar de tacos.", "Sé un buen lugar de tacos."],
+    "answer": 0,
+    "explanation": "Use 'conocer' for knowing a place. Its irregular yo form is 'conozco'. Use 'saber' for knowing facts."
+  },
+  {
+    "id": "A2-U01-E006",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct form: Yo ___ la tarea por las noches. (hacer)",
+    "options": ["hago", "haco", "hago", "hace"],
+    "answer": 0,
+    "explanation": "'Hacer' has an irregular yo form: hago. This is one of the most common irregular yo-form verbs."
+  },
+  {
+    "id": "A2-U01-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with 'pedir' or 'preguntar': En el restaurante siempre ___ tacos de canasta.",
+    "options": ["pido", "pregunto", "pedo", "pidio"],
+    "answer": 0,
+    "explanation": "'Pedir' means to order or ask for something. 'Preguntar' means to ask a question. In a restaurant you 'pides' food."
+  },
+  {
+    "id": "A2-U01-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct sentence:",
+    "words": ["Prefiero", "el", "carro", "rojo", "pero", "puedo", "manejar", "cualquiera."],
+    "answer": "Prefiero el carro rojo pero puedo manejar cualquiera.",
+    "explanation": "'Prefiero' (e→ie, yo form of preferir) and 'puedo' (o→ue, yo form of poder) are both stem-changing verbs used correctly here."
+  }
+]

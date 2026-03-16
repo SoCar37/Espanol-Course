@@ -1,0 +1,15 @@
+{
+  "id": "A2-U04",
+  "title": "Preterite Tense — Regular Verbs",
+  "level": "A2",
+  "unit": 4,
+  "slug": "preterite-regular",
+  "estimated_minutes": 30,
+  "topics": ["preterite tense", "past tense", "regular verbs", "time expressions"],
+  "prereqs": ["A2-U03"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

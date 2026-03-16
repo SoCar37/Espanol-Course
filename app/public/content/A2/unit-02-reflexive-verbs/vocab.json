@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U02-V001",
+    "word": "despertarse",
+    "translation": "to wake up",
+    "pronunciation_hint": "des-pehr-TAHR-seh",
+    "part_of_speech": "reflexive verb (e→ie)",
+    "example_sentence": "Me despierto a las seis todos los días.",
+    "example_translation": "I wake up at six every day.",
+    "audio_file": "A2/unit-02/despertarse.mp3",
+    "tags": ["reflexive", "routine", "essential"]
+  },
+  {
+    "id": "A2-U02-V002",
+    "word": "levantarse",
+    "translation": "to get up",
+    "pronunciation_hint": "leh-ban-TAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me levanto y hago café.",
+    "example_translation": "I get up and make coffee.",
+    "audio_file": "A2/unit-02/levantarse.mp3",
+    "tags": ["reflexive", "routine", "essential"]
+  },
+  {
+    "id": "A2-U02-V003",
+    "word": "ducharse",
+    "translation": "to shower",
+    "pronunciation_hint": "doo-CHAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me ducho por las mañanas.",
+    "example_translation": "I shower in the mornings.",
+    "audio_file": "A2/unit-02/ducharse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V004",
+    "word": "vestirse",
+    "translation": "to get dressed",
+    "pronunciation_hint": "bes-TEER-seh",
+    "part_of_speech": "reflexive verb (e→i)",
+    "example_sentence": "Me visto en cinco minutos.",
+    "example_translation": "I get dressed in five minutes.",
+    "audio_file": "A2/unit-02/vestirse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V005",
+    "word": "lavarse",
+    "translation": "to wash (oneself)",
+    "pronunciation_hint": "lah-BAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me lavo los dientes después de comer.",
+    "example_translation": "I brush my teeth after eating.",
+    "audio_file": "A2/unit-02/lavarse.mp3",
+    "tags": ["reflexive", "routine", "essential"]
+  },
+  {
+    "id": "A2-U02-V006",
+    "word": "peinarse",
+    "translation": "to comb / brush one's hair",
+    "pronunciation_hint": "peh-ee-NAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Mi hija se peina sola ya.",
+    "example_translation": "My daughter already brushes her own hair.",
+    "audio_file": "A2/unit-02/peinarse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V007",
+    "word": "afeitarse",
+    "translation": "to shave",
+    "pronunciation_hint": "ah-feh-ee-TAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Mi papá se afeita cada mañana.",
+    "example_translation": "My dad shaves every morning.",
+    "audio_file": "A2/unit-02/afeitarse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V008",
+    "word": "maquillarse",
+    "translation": "to put on makeup",
+    "pronunciation_hint": "mah-kee-YAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Se maquilla en diez minutos.",
+    "example_translation": "She puts on makeup in ten minutes.",
+    "audio_file": "A2/unit-02/maquillarse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V009",
+    "word": "acostarse",
+    "translation": "to go to bed",
+    "pronunciation_hint": "ah-kos-TAHR-seh",
+    "part_of_speech": "reflexive verb (o→ue)",
+    "example_sentence": "Me acuesto a las once de la noche.",
+    "example_translation": "I go to bed at eleven at night.",
+    "audio_file": "A2/unit-02/acostarse.mp3",
+    "tags": ["reflexive", "routine", "essential"]
+  },
+  {
+    "id": "A2-U02-V010",
+    "word": "dormirse",
+    "translation": "to fall asleep",
+    "pronunciation_hint": "dor-MEER-seh",
+    "part_of_speech": "reflexive verb (o→ue)",
+    "example_sentence": "Me duermo rápido cuando estoy cansado.",
+    "example_translation": "I fall asleep quickly when I'm tired.",
+    "audio_file": "A2/unit-02/dormirse.mp3",
+    "tags": ["reflexive", "routine"]
+  },
+  {
+    "id": "A2-U02-V011",
+    "word": "llamarse",
+    "translation": "to be named / to call oneself",
+    "pronunciation_hint": "yah-MAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me llamo Ana. ¿Y tú?",
+    "example_translation": "My name is Ana. And you?",
+    "audio_file": "A2/unit-02/llamarse.mp3",
+    "tags": ["reflexive", "essential", "introductions"]
+  },
+  {
+    "id": "A2-U02-V012",
+    "word": "ponerse",
+    "translation": "to put on (clothing) / to become",
+    "pronunciation_hint": "poh-NEHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me pongo el abrigo cuando hace frío.",
+    "example_translation": "I put on my coat when it's cold.",
+    "audio_file": "A2/unit-02/ponerse.mp3",
+    "tags": ["reflexive", "clothing"]
+  },
+  {
+    "id": "A2-U02-V013",
+    "word": "arreglarse",
+    "translation": "to get ready / to fix oneself up",
+    "pronunciation_hint": "ah-reh-GLAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me arreglo en media hora.",
+    "example_translation": "I get ready in half an hour.",
+    "audio_file": "A2/unit-02/arreglarse.mp3",
+    "tags": ["reflexive", "routine", "mexico"]
+  }
+]

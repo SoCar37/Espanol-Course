@@ -1,0 +1,81 @@
+{
+  "id": "A2-U01-Q",
+  "title": "Unit 1 Checkpoint Quiz — Present Tense & Stem-Changers",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U01-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is the tú form of 'querer'?",
+      "options": ["quieres", "queres", "querés", "quieris"],
+      "answer": 0,
+      "explanation": "'Querer' is an e→ie stem-changer. The tú form is 'quieres'."
+    },
+    {
+      "id": "A2-U01-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which verb has an irregular yo form 'hago'?",
+      "options": ["hacer", "hablar", "hallar", "herir"],
+      "answer": 0,
+      "explanation": "'Hacer' (to do/make) has the irregular yo form 'hago'."
+    },
+    {
+      "id": "A2-U01-Q003",
+      "type": "multiple_choice",
+      "prompt": "Fill in the blank: Nosotros ___ en México. (vivir)",
+      "options": ["vivimos", "vivemos", "vivamos", "viven"],
+      "answer": 0,
+      "explanation": "Nosotros forms of -IR verbs end in -imos: vivimos. Also note that nosotros is NOT affected by stem changes."
+    },
+    {
+      "id": "A2-U01-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct yo form of 'salir'?",
+      "options": ["salgo", "salo", "salío", "salego"],
+      "answer": 0,
+      "explanation": "'Salir' has an irregular yo form: salgo. Remember: go-verbs add -go in the yo form."
+    },
+    {
+      "id": "A2-U01-Q005",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'She can come tomorrow' in Spanish?",
+      "options": [
+        "Ella puede venir mañana.",
+        "Ella pode venir mañana.",
+        "Ella pueda venir mañana.",
+        "Ella podé venir mañana."
+      ],
+      "answer": 0,
+      "explanation": "'Poder' is o→ue. The ella form is 'puede'."
+    },
+    {
+      "id": "A2-U01-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which verb means 'to know a person or place'?",
+      "options": ["conocer", "saber", "poder", "querer"],
+      "answer": 0,
+      "explanation": "'Conocer' means to know a person or place. 'Saber' means to know a fact or skill."
+    },
+    {
+      "id": "A2-U01-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which form of 'pedir' is correct for 'ellos'?",
+      "options": ["piden", "peden", "pidien", "pidan"],
+      "answer": 0,
+      "explanation": "'Pedir' is an e→i stem-changer. The ellos form is 'piden' — stem changes to 'pid-'."
+    },
+    {
+      "id": "A2-U01-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican Spanish, 'ahorita' most commonly means:",
+      "options": [
+        "right now / in a moment (context-dependent)",
+        "yesterday",
+        "never",
+        "always"
+      ],
+      "answer": 0,
+      "explanation": "'Ahorita' is a uniquely Mexican expression that can mean right now, in a little while, or soon — the exact meaning depends on context and tone."
+    }
+  ]
+}

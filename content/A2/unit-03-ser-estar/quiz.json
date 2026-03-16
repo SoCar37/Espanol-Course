@@ -1,0 +1,101 @@
+{
+  "id": "A2-U03-Q",
+  "title": "Unit 3 Checkpoint Quiz — Ser vs. Estar",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U03-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which verb do you use to talk about someone's profession?",
+      "options": ["ser", "estar", "tener", "hacer"],
+      "answer": 0,
+      "explanation": "Professions are permanent defining characteristics, so they use 'ser'. Example: Soy maestro."
+    },
+    {
+      "id": "A2-U03-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct verb: El banco ___ cerrado los domingos.",
+      "options": ["está", "es", "estás", "eres"],
+      "answer": 0,
+      "explanation": "A current condition or state uses 'estar'. Being closed is a changeable condition, not a defining characteristic."
+    },
+    {
+      "id": "A2-U03-Q003",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'These tacos are delicious!'?",
+      "options": [
+        "¡Estos tacos están ricos!",
+        "¡Estos tacos son ricos!",
+        "¡Estos tacos están riquísimos! (also correct)",
+        "Both A and C are correct."
+      ],
+      "answer": 3,
+      "explanation": "'Están ricos' and 'están riquísimos' are both correct — estar is used for food taste. 'Son ricos' would imply the tacos are wealthy!"
+    },
+    {
+      "id": "A2-U03-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses ser/estar correctly?",
+      "options": [
+        "Soy de Oaxaca y estoy cansado.",
+        "Estoy de Oaxaca y soy cansado.",
+        "Estoy de Oaxaca y estoy cansado.",
+        "Soy de Oaxaca y soy cansado."
+      ],
+      "answer": 0,
+      "explanation": "Origin uses ser (soy de Oaxaca). Tiredness is a temporary state, so it uses estar (estoy cansado)."
+    },
+    {
+      "id": "A2-U03-Q005",
+      "type": "multiple_choice",
+      "prompt": "'Es aburrido' vs. 'Está aburrido' — what's the difference?",
+      "options": [
+        "Es aburrido = He is a boring person; Está aburrido = He is bored right now",
+        "Es aburrido = He is bored right now; Está aburrido = He is a boring person",
+        "Both mean the same thing",
+        "Es aburrido = He is boring (thing); Está aburrido = He is boring (place)"
+      ],
+      "answer": 0,
+      "explanation": "With ser, adjectives describe permanent traits. With estar, they describe temporary states. 'Es aburrido' = boring personality; 'Está aburrido' = feeling bored right now."
+    },
+    {
+      "id": "A2-U03-Q006",
+      "type": "multiple_choice",
+      "prompt": "What time-related expression uses 'ser'?",
+      "options": [
+        "Son las tres de la tarde.",
+        "Están las tres de la tarde.",
+        "Es en las tres.",
+        "Estamos a las tres."
+      ],
+      "answer": 0,
+      "explanation": "Time always uses 'ser'. Son las tres = It is three o'clock. (Plural because 'las horas' is implied.)"
+    },
+    {
+      "id": "A2-U03-Q007",
+      "type": "multiple_choice",
+      "prompt": "In Mexican slang, '¡Está chido!' means:",
+      "options": [
+        "It's cool / awesome!",
+        "It's boring!",
+        "It's cheap!",
+        "It's closed!"
+      ],
+      "answer": 0,
+      "explanation": "'Chido/chida' is very common Mexican slang meaning cool or awesome. It uses 'estar' because it describes a current impression."
+    },
+    {
+      "id": "A2-U03-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which uses 'ser' correctly?",
+      "options": [
+        "La mesa es de madera.",
+        "La mesa está de madera.",
+        "La mesa es en el comedor.",
+        "La mesa está hecha de."
+      ],
+      "answer": 0,
+      "explanation": "Material (what something is made of) uses ser. 'La mesa es de madera' = The table is made of wood. Location would use estar: La mesa está en el comedor."
+    }
+  ]
+}

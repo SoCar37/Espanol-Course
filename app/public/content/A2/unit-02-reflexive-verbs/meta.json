@@ -1,0 +1,15 @@
+{
+  "id": "A2-U02",
+  "title": "Reflexive Verbs & Daily Routines",
+  "level": "A2",
+  "unit": 2,
+  "slug": "reflexive-verbs",
+  "estimated_minutes": 25,
+  "topics": ["reflexive verbs", "daily routines", "reflexive pronouns", "personal care"],
+  "prereqs": ["A2-U01"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}
