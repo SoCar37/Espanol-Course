@@ -151,7 +151,7 @@ export function useProgress() {
       const percent = Math.round((doneCount / steps.length) * 100);
       const complete = quizDone;
 
-      return { complete, percent, lessonDone, exercisesDone, quizDone };
+      return { complete, percent, lessonDone, lessonComplete: lessonDone, exercisesDone, quizDone };
     },
     [progress]
   );
@@ -180,6 +180,7 @@ export function useProgress() {
   return {
     progress,
     completeLesson,
+    markLessonComplete: completeLesson, // alias — LessonPage uses this name
     completeExercises,
     completeQuiz,
     isLessonComplete,

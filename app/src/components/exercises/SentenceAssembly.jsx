@@ -10,7 +10,7 @@ export default function SentenceAssembly({ exercise, onAnswer }) {
   useEffect(() => {
     // exercise.options is the shuffled word bank
     // Shuffle them on mount so they aren't in answer order
-    const words = [...(exercise.options || [])];
+    const words = [...(exercise.words || exercise.options || [])];
     setAvailable(shuffle(words.map((w, i) => ({ word: w, id: i }))));
     setAssembled([]);
     setSubmitted(false);
