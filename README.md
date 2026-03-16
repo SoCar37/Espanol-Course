@@ -1,80 +1,105 @@
-# 🇲🇽 Espanol-Course
-### The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish
+# Espanol Course
 
-**Current version:** v0.1.0 — Project Scaffold  
-**Live course:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-**License:** App — MIT · Content — CC BY-SA 4.0
+**The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
----
-
-## About
-
-Espanol-Course is a free, open-source, comprehensive Spanish course anchored in Mexican Spanish, covering CEFR levels A1 through C1. It is designed to take English speakers from complete beginner to near-native proficiency through structured lessons, spaced repetition vocabulary drilling, and a full suite of interactive exercises.
-
-This course is built for serious learners who want to reach genuine fluency — not just casual daily streaks.
+🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
+📦 **Version:** v0.1.4  
+📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
 
-## Course levels
+## What is this?
 
-| Level | Description | Units | Status |
-|-------|-------------|-------|--------|
-| A1 | Foundations | 10 | 🔧 In progress |
-| A2 | Building blocks | 12 | 📋 Planned |
-| B1 | Intermediate fluency | 12 | 📋 Planned |
-| B2 | Advanced expression | 12 | 📋 Planned |
-| C1 | Near-native proficiency | 10 | 📋 Planned |
+A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in Mexican Spanish — all examples use *tú/usted/ustedes*, *computadora*, *carro*, *celular*. Free forever, no accounts required.
 
 ---
 
-## Features (v1.0 roadmap)
+## Current status
 
-- 📖 Structured lessons with grammar explanations and cultural notes
-- 🔊 Mexican Spanish audio (Google TTS Neural2 es-MX voice)
-- ✏️ Multiple exercise types: multiple choice, fill-in-the-blank, translation, sentence assembly, error correction, word matching, listening
-- 🃏 Spaced repetition flashcard drills (SM-2 algorithm)
-- 📊 Progress tracking with XP and streaks
-- 🎯 Placement test to skip to the right level
-- 📱 Mobile-first, installable as a home screen app
-- ♿ WCAG AA accessibility compliant
+| Feature | Status |
+|---|---|
+| Course map (A1–C1 overview) | ✅ Working |
+| A1 Unit 1 — Greetings lesson | ✅ Complete |
+| Exercise engine (all types) | ✅ Working |
+| Flashcard drill (3D flip) | ✅ Working (placeholder vocab) |
+| Progress tracking (XP, streak) | ✅ Working |
+| Quiz engine | 🔜 v0.2.0 |
+| Flashcard engine from vocab.json | 🔜 v0.2.0 |
+| A1 Units 2–10 content | 🔜 v0.2.0 |
+| Audio (Google TTS Neural2) | 🔜 v0.2.0 |
+| Spaced repetition (SM-2) | 🔜 v0.2.0 |
+| A2–C1 content | 🔜 v1.0+ |
 
 ---
 
 ## Tech stack
 
 - **Frontend:** React + Vite + Tailwind CSS
-- **Content:** Markdown (lessons) + JSON (vocab, exercises, quiz, meta)
-- **Progress:** localStorage (v1.0) → Supabase (v2.0)
-- **Hosting:** GitHub Pages (free)
-- **Audio:** Google Cloud TTS Neural2, es-MX voice
-- **CI/CD:** GitHub Actions — auto-deploys on every push to main
+- **Content:** Markdown (lessons) + JSON (vocab, exercises, quiz)
+- **Progress:** localStorage (v1) → Supabase (v2, planned)
+- **Hosting:** GitHub Pages — auto-deploys via GitHub Actions
+- **Audio:** Google Cloud TTS Neural2, es-MX (planned)
+- **Font:** Poppins
 
 ---
 
-## Getting started (for contributors)
+## Content scope
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for full setup instructions.
+| Level | Units | Status |
+|---|---|---|
+| A1 | 10 | Unit 1 complete, Units 2–10 in progress |
+| A2 | 12 | Not started |
+| B1 | 12 | Not started |
+| B2 | 12 | Not started |
+| C1 | 10 | Not started |
 
-Quick start:
+---
+
+## Local development
+
 ```bash
+# Prerequisites: Node.js v18+, npm
 cd app
 npm install
 npm run dev
+# → http://localhost:5173/Espanol-Course/
 ```
+
+**Note:** Run npm commands from a local drive only (e.g. `D:\`). UNC/network paths not supported by Node on Windows.
 
 ---
 
-## Project history
+## Content structure
 
-See [CHANGELOG.md](./CHANGELOG.md) for the full version history.
+Each unit contains exactly five files:
+
+```
+content/A1/unit-01-greetings/
+├── meta.json        ← id, title, level, estimated_minutes, status
+├── lesson.md        ← 400–600 word lesson with dialogues and cultural note
+├── vocab.json       ← 12–15 vocabulary items with pronunciation hints
+├── exercises.json   ← 8 exercises (MCQ, fill-in, translation, assembly)
+└── quiz.json        ← 8-question checkpoint quiz, 70% passing score
+```
+
+When adding a new unit, files must be placed in **both** `/content/A1/unit-XX-slug/` and `/app/public/content/A1/unit-XX-slug/`. See `CONTRIBUTING.md` for full schema reference.
+
+---
+
+## Version history
+
+See [CHANGELOG.md](CHANGELOG.md) for full history.
+
+| Version | Milestone |
+|---|---|
+| v0.1.4 | Full exercise engine — all question types, score tracking, quiz unlock |
+| v0.1.0 | Initial scaffold |
+| v0.2.0 | Quiz engine + flashcard engine + A1 content complete *(planned)* |
+| v1.0.0 | Public launch — A1+A2 complete, placement test *(planned)* |
 
 ---
 
 ## License
 
-- App code: [MIT License](./app/LICENSE)
-- Course content: [CC BY-SA 4.0](./content/LICENSE)
-
----
-
-*Built with ❤️ by SoCar37 — contributions welcome*
+- App source code: [MIT](app/LICENSE)
+- Course content: [CC BY-SA 4.0](content/LICENSE)
