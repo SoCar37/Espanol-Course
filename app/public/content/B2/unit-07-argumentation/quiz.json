@@ -1,0 +1,111 @@
+{
+  "id": "B2-U07-Q",
+  "title": "Unit 7 Checkpoint Quiz — Argumentation & Persuasion",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U07-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which expression belongs in the 'conclusion' category?",
+      "options": [
+        "Hay que tener en cuenta que...",
+        "Si bien es cierto que...",
+        "Por todo lo anterior, concluyo que...",
+        "¿Acaso no es evidente que...?"
+      ],
+      "answer": 2,
+      "explanation": "'Por todo lo anterior, concluyo que...' (for all the above reasons, I conclude that...) is a conclusion marker. 'Hay que tener en cuenta' supports an argument; 'si bien es cierto' is a concession opener; '¿acaso...?' is a rhetorical question."
+    },
+    {
+      "id": "B2-U07-Q002",
+      "type": "multiple_choice",
+      "prompt": "Complete: '___ no todos tengan acceso, el programa ha beneficiado a millones.'",
+      "options": [
+        "Por el contrario,",
+        "Si bien es cierto que",
+        "No cabe duda de que",
+        "En conclusión,"
+      ],
+      "answer": 1,
+      "explanation": "The sentence structure requires a concession: 'Although not everyone has access, the program has benefited millions.' 'Si bien es cierto que' (while it is true that) fits perfectly as the concession opener before the main positive claim."
+    },
+    {
+      "id": "B2-U07-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'Cabe señalar que los resultados son positivos' mean?",
+      "options": [
+        "The results are clearly positive.",
+        "It should be noted that the results are positive.",
+        "One could say the results are perhaps positive.",
+        "The results point toward being positive."
+      ],
+      "answer": 1,
+      "explanation": "'Cabe señalar que' = it should be noted that / it is worth noting that. It introduces a supporting fact or observation in a formal, measured way. 'Cabe' comes from 'caber' used impersonally to mean 'it is fitting/appropriate'."
+    },
+    {
+      "id": "B2-U07-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct use of 'por el contrario'?",
+      "options": [
+        "El plan fue un éxito. Por el contrario, todos quedaron satisfechos.",
+        "El plan fracasó. Por el contrario, nadie quedó satisfecho.",
+        "El plan fracasó; por el contrario, generó más problemas de los que resolvió.",
+        "El plan fue costoso. Por el contrario, fue caro."
+      ],
+      "answer": 2,
+      "explanation": "'Por el contrario' introduces a position that is opposite to what might be expected or what was just stated. Option C correctly uses it: the plan failed AND (contrary to what one might hope) it created more problems. Options A and B are contradictory; D is circular."
+    },
+    {
+      "id": "B2-U07-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a rhetorical question correctly?",
+      "options": [
+        "¿Cuántos años tienes?",
+        "¿Dónde vives exactamente?",
+        "¿Acaso no es responsabilidad de todos cuidar el medioambiente?",
+        "¿Me puedes explicar tu argumento?"
+      ],
+      "answer": 2,
+      "explanation": "Option C is a rhetorical question — 'acaso' signals it, and the answer ('yes, it is') is implied as obvious. The speaker is making a persuasive point, not requesting information. The other options are genuine questions seeking real answers."
+    },
+    {
+      "id": "B2-U07-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is the persuasive structure of: 'Es verdad que el proyecto es costoso, pero los beneficios a largo plazo justifican la inversión'?",
+      "options": [
+        "Assertion → Evidence",
+        "Concession → Counter-argument",
+        "Rhetorical question → Conclusion",
+        "Evidence → Summary"
+      ],
+      "answer": 1,
+      "explanation": "'Es verdad que... pero...' is the classic concession → counter-argument structure. The speaker acknowledges the opposing point ('it is true that it costs a lot') then redirects to their main position ('but the long-term benefits justify it'). This is the most persuasive debate pattern."
+    },
+    {
+      "id": "B2-U07-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which expression hedges most strongly — signaling the least certainty?",
+      "options": [
+        "Es evidente que...",
+        "Está comprobado que...",
+        "Podría decirse que...",
+        "Sin lugar a dudas..."
+      ],
+      "answer": 2,
+      "explanation": "'Podría decirse que' (one could say that) is the strongest hedge — it presents the claim as one possible view, not a fact. 'Es evidente' and 'está comprobado' assert certainty; 'sin lugar a dudas' = without a doubt (strongest assertion)."
+    },
+    {
+      "id": "B2-U07-Q008",
+      "type": "multiple_choice",
+      "prompt": "Why do Mexican debaters often use the concede-then-redirect pattern more than direct confrontation?",
+      "options": [
+        "Because Mexican Spanish has no direct disagreement expressions",
+        "Because it is required by formal debate rules in Mexico",
+        "Because the cultural value of 'quedar bien' favors preserving face and showing respect",
+        "Because direct disagreement is illegal in formal settings"
+      ],
+      "answer": 2,
+      "explanation": "The concede-then-redirect style in Mexican debate culture reflects the social value of 'quedar bien' — maintaining mutual respect and avoiding making the other person look bad. Blunt confrontation risks damaging the relationship; the indirect approach achieves the same argumentative goal while preserving social harmony."
+    }
+  ]
+}

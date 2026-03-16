@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U08-V001",
+    "word": "caer bien / caer mal",
+    "translation": "to like / dislike someone (as a person)",
+    "pronunciation_hint": "kah-EHR BYEHN / kah-EHR MAHL",
+    "part_of_speech": "verb phrase (personal impression)",
+    "example_sentence": "Me cae muy bien tu amigo, es muy simpático.",
+    "example_translation": "I really like your friend, he's very nice.",
+    "audio_file": "B2/unit-08/caer-bien-mal.mp3",
+    "tags": ["nuance", "essential", "mexico", "expression"]
+  },
+  {
+    "id": "B2-U08-V002",
+    "word": "no me late",
+    "translation": "it doesn't feel right to me / I have a bad feeling about it",
+    "pronunciation_hint": "noh meh LAH-teh",
+    "part_of_speech": "verb phrase (gut feeling expression — uniquely Mexican)",
+    "example_sentence": "No sé, no me late ese plan.",
+    "example_translation": "I don't know, that plan doesn't feel right to me.",
+    "audio_file": "B2/unit-08/no-me-late.mp3",
+    "tags": ["nuance", "mexico", "essential", "colloquial"]
+  },
+  {
+    "id": "B2-U08-V003",
+    "word": "me le dieron las gracias",
+    "translation": "they let him go / they fired him (euphemism)",
+    "pronunciation_hint": "leh DYEH-rohn lahs GRAH-syahs",
+    "part_of_speech": "euphemistic verb phrase",
+    "example_sentence": "Después de cinco años, le dieron las gracias.",
+    "example_translation": "After five years, they let him go.",
+    "audio_file": "B2/unit-08/dieron-las-gracias.mp3",
+    "tags": ["euphemism", "work", "nuance", "mexico"]
+  },
+  {
+    "id": "B2-U08-V004",
+    "word": "está de pelos",
+    "translation": "it's awesome / it's great",
+    "pronunciation_hint": "ehs-TAH deh PEH-lohs",
+    "part_of_speech": "adjective phrase (Mexican colloquial enthusiasm)",
+    "example_sentence": "El concierto estuvo de pelos.",
+    "example_translation": "The concert was awesome.",
+    "audio_file": "B2/unit-08/esta-de-pelos.mp3",
+    "tags": ["colloquial", "mexico", "enthusiasm", "essential"]
+  },
+  {
+    "id": "B2-U08-V005",
+    "word": "está cañón",
+    "translation": "it's intense / it's tough / it's awesome (context-dependent)",
+    "pronunciation_hint": "ehs-TAH kah-NYON",
+    "part_of_speech": "adjective phrase (Mexican colloquial — context-dependent meaning)",
+    "example_sentence": "El examen estuvo cañón.",
+    "example_translation": "The exam was brutal / really tough.",
+    "audio_file": "B2/unit-08/esta-canon.mp3",
+    "tags": ["colloquial", "mexico", "nuance", "essential"]
+  },
+  {
+    "id": "B2-U08-V006",
+    "word": "no me convence",
+    "translation": "I'm not convinced / I don't buy it",
+    "pronunciation_hint": "noh meh kon-VEHN-seh",
+    "part_of_speech": "verb phrase (polite disagreement)",
+    "example_sentence": "La explicación no me convence del todo.",
+    "example_translation": "The explanation doesn't fully convince me.",
+    "audio_file": "B2/unit-08/no-me-convence.mp3",
+    "tags": ["nuance", "disagreement", "polite", "essential"]
+  },
+  {
+    "id": "B2-U08-V007",
+    "word": "se me hace raro",
+    "translation": "it seems strange to me / something seems off",
+    "pronunciation_hint": "seh meh AH-seh RAH-roh",
+    "part_of_speech": "verb phrase (expressing unease or suspicion)",
+    "example_sentence": "Se me hace raro que no haya contestado todavía.",
+    "example_translation": "It seems strange to me that she hasn't answered yet.",
+    "audio_file": "B2/unit-08/se-me-hace-raro.mp3",
+    "tags": ["nuance", "mexico", "expression", "essential"]
+  },
+  {
+    "id": "B2-U08-V008",
+    "word": "me cayó gordo",
+    "translation": "I took an instant dislike to him/her",
+    "pronunciation_hint": "meh kah-YOH GOHR-doh",
+    "part_of_speech": "verb phrase (strong negative impression)",
+    "example_sentence": "No sé por qué, pero me cayó gordo desde el primer momento.",
+    "example_translation": "I don't know why, but I took an instant dislike to him from the first moment.",
+    "audio_file": "B2/unit-08/me-cayo-gordo.mp3",
+    "tags": ["nuance", "mexico", "colloquial", "expression"]
+  },
+  {
+    "id": "B2-U08-V009",
+    "word": "anda pedo",
+    "translation": "he/she is drunk (Mexican colloquial — vulgar)",
+    "pronunciation_hint": "AHN-dah PEH-doh",
+    "part_of_speech": "verb phrase (colloquial, vulgar — register awareness required)",
+    "example_sentence": "Cuidado con lo que le dices, anda pedo.",
+    "example_translation": "Be careful what you say to him, he's drunk.",
+    "audio_file": "B2/unit-08/anda-pedo.mp3",
+    "tags": ["colloquial", "vulgar", "register", "mexico"]
+  },
+  {
+    "id": "B2-U08-V010",
+    "word": "a poco",
+    "translation": "really? / no way! / is that so? (Mexican expression of surprise)",
+    "pronunciation_hint": "ah POH-koh",
+    "part_of_speech": "interjection (Mexican — expresses disbelief or surprise)",
+    "example_sentence": "¿A poco ya terminaste toda la tarea?",
+    "example_translation": "Really? You already finished all the homework?",
+    "audio_file": "B2/unit-08/a-poco.mp3",
+    "tags": ["interjection", "mexico", "colloquial", "essential"]
+  },
+  {
+    "id": "B2-U08-V011",
+    "word": "un chorro de",
+    "translation": "a ton of / loads of (Mexican colloquial for 'a lot')",
+    "pronunciation_hint": "oon CHOH-rroh deh",
+    "part_of_speech": "quantifier phrase (Mexican colloquial)",
+    "example_sentence": "Había un chorro de gente en el metro.",
+    "example_translation": "There were loads of people on the metro.",
+    "audio_file": "B2/unit-08/un-chorro-de.mp3",
+    "tags": ["quantifier", "colloquial", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U08-V012",
+    "word": "me parece padrísimo",
+    "translation": "I think it's really cool / I think it's great",
+    "pronunciation_hint": "meh pah-REH-seh pah-DREE-see-moh",
+    "part_of_speech": "verb phrase (enthusiasm — superlative of 'padre')",
+    "example_sentence": "Me parece padrísimo que hayas aprendido tanto.",
+    "example_translation": "I think it's really great that you've learned so much.",
+    "audio_file": "B2/unit-08/me-parece-padrisimo.mp3",
+    "tags": ["enthusiasm", "mexico", "colloquial", "essential"]
+  }
+]

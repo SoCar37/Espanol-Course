@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U05-E001",
+    "type": "multiple_choice",
+    "prompt": "What does 'embarazada' mean in Spanish?",
+    "options": [
+      "embarrassed",
+      "pregnant",
+      "surprised",
+      "uncomfortable"
+    ],
+    "answer": 1,
+    "explanation": "'Embarazada' is one of the most important false cognates. It means 'pregnant', not 'embarrassed'. 'Embarrassed' in Spanish is 'avergonzado/a' or 'apenado/a'."
+  },
+  {
+    "id": "B2-U05-E002",
+    "type": "multiple_choice",
+    "prompt": "What does 'el éxito' mean?",
+    "options": [
+      "exit",
+      "exotic",
+      "success",
+      "excitement"
+    ],
+    "answer": 2,
+    "explanation": "'El éxito' is a false cognate — it means 'success', not 'exit'. 'Exit' in Spanish is 'la salida'. 'Un gran éxito' = a great success."
+  },
+  {
+    "id": "B2-U05-E003",
+    "type": "multiple_choice",
+    "prompt": "Using your knowledge of suffixes, what does 'peligroso' most likely mean?",
+    "options": [
+      "peaceful",
+      "dangerous",
+      "careful",
+      "powerful"
+    ],
+    "answer": 1,
+    "explanation": "The suffix '-oso/a' means 'full of'. 'Peligro' means 'danger', so 'peligroso' = full of danger = dangerous. The same pattern: cariñoso (affectionate), nervioso (nervous), talentoso (talented)."
+  },
+  {
+    "id": "B2-U05-E004",
+    "type": "multiple_choice",
+    "prompt": "Which is the correct Mexican Spanish collocation for 'to take a photo'?",
+    "options": [
+      "tomar una foto",
+      "hacer una foto",
+      "sacar una foto",
+      "capturar una foto"
+    ],
+    "answer": 2,
+    "explanation": "In Mexico, 'sacar una foto' is the strongly preferred collocation. 'Tomar una foto' is understood but sounds more like Spain or Latin American textbook Spanish. 'Sacar' is the natural verb choice for Mexicans."
+  },
+  {
+    "id": "B2-U05-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'actual' mean in Spanish?",
+    "options": [
+      "actual / real",
+      "current / present-day",
+      "active",
+      "factual"
+    ],
+    "answer": 1,
+    "explanation": "'Actual' is a false cognate — it means 'current' or 'present-day', not 'actual/real'. 'El presidente actual' = the current president. 'Real/actual' in the English sense is 'real', 'verdadero', or 'de verdad'."
+  },
+  {
+    "id": "B2-U05-E006",
+    "type": "multiple_choice",
+    "prompt": "Using prefix knowledge, what does 'sobrecargar' most likely mean?",
+    "options": [
+      "to undercharge",
+      "to overload / overcharge",
+      "to recharge",
+      "to discharge"
+    ],
+    "answer": 1,
+    "explanation": "'Sobre-' means 'over/super' and 'cargar' means 'to load/charge'. So 'sobrecargar' = to overload or overcharge. Same pattern: sobrevivir (to survive = to live above/through), sobrepeso (overweight)."
+  },
+  {
+    "id": "B2-U05-E007",
+    "type": "multiple_choice",
+    "prompt": "Which word is the Mexican colloquial term for 'money'?",
+    "options": [
+      "la feria / la lana",
+      "el billete",
+      "el efectivo",
+      "el capital"
+    ],
+    "answer": 0,
+    "explanation": "Both 'la feria' and 'la lana' are common Mexican colloquial words for money. 'La lana' (literally 'wool') and 'la feria' (literally 'fair/change') are widely used in everyday Mexican speech. 'El efectivo' means cash (formal/neutral)."
+  },
+  {
+    "id": "B2-U05-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'We all make mistakes from time to time.'",
+    "words": ["Todos", "cometemos", "errores", "de", "vez", "en", "cuando."],
+    "answer": "Todos cometemos errores de vez en cuando.",
+    "explanation": "'Cometer un error' is the correct collocation for 'to make a mistake' — not 'hacer un error'. 'De vez en cuando' = from time to time. Both are essential collocations."
+  }
+]

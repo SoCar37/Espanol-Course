@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U08-E001",
+    "type": "multiple_choice",
+    "prompt": "Someone says 'Le dieron las gracias después de diez años.' What actually happened?",
+    "options": [
+      "People thanked him for ten years of service.",
+      "He was fired / let go after ten years.",
+      "He retired after ten years.",
+      "He was promoted after ten years."
+    ],
+    "answer": 1,
+    "explanation": "'Darle las gracias' as a euphemism means to fire someone — to 'thank them' for their service while letting them go. It's one of the most important workplace euphemisms to know in Mexican Spanish to avoid misunderstanding."
+  },
+  {
+    "id": "B2-U08-E002",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between 'me cae bien' and 'me gusta'?",
+    "options": [
+      "There is no difference — they are interchangeable.",
+      "'Me cae bien' refers to liking a person's personality; 'me gusta' is broader (things, activities, people).",
+      "'Me cae bien' is formal; 'me gusta' is informal.",
+      "'Me cae bien' means you love someone; 'me gusta' means you only like them."
+    ],
+    "answer": 1,
+    "explanation": "'Me cae bien' specifically refers to liking someone's personality — the impression they make on you as a person. 'Me gusta' is broader and can refer to things, activities, and people. You can't say 'me cae bien esta película' — for films use 'me gusta'."
+  },
+  {
+    "id": "B2-U08-E003",
+    "type": "multiple_choice",
+    "prompt": "Someone says '¡Qué sorpresa! Llegó tarde otra vez.' in a flat, deadpan tone. What do they actually mean?",
+    "options": [
+      "They are genuinely surprised that the person was late.",
+      "They are being sarcastic — this happens so often it is no surprise at all.",
+      "They are pleased the person arrived.",
+      "They are asking a genuine question."
+    ],
+    "answer": 1,
+    "explanation": "This is sarcasm — the speaker says 'what a surprise' but means the opposite. The person is ALWAYS late, so there is nothing surprising about it. Mexican sarcasm often uses enthusiastic vocabulary in a flat or exaggerated tone to signal the opposite meaning."
+  },
+  {
+    "id": "B2-U08-E004",
+    "type": "multiple_choice",
+    "prompt": "Which is the formal written equivalent of the colloquial 'un chorro de'?",
+    "options": [
+      "o sea",
+      "una gran cantidad de",
+      "un montón de",
+      "harto de"
+    ],
+    "answer": 1,
+    "explanation": "'Una gran cantidad de' (a large quantity of) is the formal/written equivalent of the colloquial 'un chorro de'. Register awareness means knowing when each is appropriate: 'un chorro' in conversation, 'una gran cantidad' in formal writing."
+  },
+  {
+    "id": "B2-U08-E005",
+    "type": "multiple_choice",
+    "prompt": "When a Mexican says 'No me late ese negocio', what are they expressing?",
+    "options": [
+      "The business doesn't have a good pulse / rhythm.",
+      "They have an instinctive bad feeling about that business.",
+      "They don't like the business location.",
+      "The business doesn't make enough money."
+    ],
+    "answer": 1,
+    "explanation": "'No me late' (literally 'it doesn't beat to me') expresses an instinctive negative feeling — a gut reaction that something is wrong or doesn't feel right, even if you can't explain it rationally. It's one of Mexico's most characteristic nuanced expressions."
+  },
+  {
+    "id": "B2-U08-E006",
+    "type": "multiple_choice",
+    "prompt": "Which expression conveys the strongest negative first impression of a person?",
+    "options": [
+      "No me cae muy bien.",
+      "Me cae un poco mal.",
+      "No me convence.",
+      "Me cayó gordo desde el principio."
+    ],
+    "answer": 3,
+    "explanation": "'Me cayó gordo' is the strongest — it describes an immediate, intense negative impression from the very first moment. 'No me cae muy bien' is mild; 'me cae un poco mal' is moderate. 'Me cayó gordo desde el principio' = I took an instant strong dislike to them from the start."
+  },
+  {
+    "id": "B2-U08-E007",
+    "type": "multiple_choice",
+    "prompt": "'Está cañón' can mean different things depending on context. Which pair of meanings is correct?",
+    "options": [
+      "It's boring / It's quiet",
+      "It's tough/intense AND it's awesome (context-dependent)",
+      "It's expensive / It's cheap",
+      "It's big / It's small"
+    ],
+    "answer": 1,
+    "explanation": "'Está cañón' is context-dependent: it can mean something is very hard/intense ('el examen estuvo cañón' = the exam was brutal) OR that something is impressive/awesome ('esa película estuvo cañón' = that film was amazing). Tone and context determine which meaning applies."
+  },
+  {
+    "id": "B2-U08-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange: 'It seems strange to me that he hasn't called yet.'",
+    "words": ["Se", "me", "hace", "raro", "que", "no", "haya", "llamado", "todavía."],
+    "answer": "Se me hace raro que no haya llamado todavía.",
+    "explanation": "'Se me hace raro que' + present perfect subjunctive ('haya llamado') — this is the natural Mexican Spanish expression for 'it seems strange to me that'. Note the subjunctive 'haya llamado' because the clause expresses a subjective reaction to a situation."
+  }
+]

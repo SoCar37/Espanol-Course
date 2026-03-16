@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U07-E001",
+    "type": "multiple_choice",
+    "prompt": "Which expression is the strongest, most assertive way to open an argument?",
+    "options": [
+      "En cierta medida, creo que...",
+      "Podría decirse que...",
+      "No cabe duda de que...",
+      "Hasta cierto punto..."
+    ],
+    "answer": 2,
+    "explanation": "'No cabe duda de que' (there is no doubt that) is the most assertive — it leaves no room for question. The other options are hedges that soften the claim. Use 'no cabe duda' when you want to state something as an undeniable fact."
+  },
+  {
+    "id": "B2-U07-E002",
+    "type": "multiple_choice",
+    "prompt": "What is the function of 'Si bien es cierto que... pero...' in an argument?",
+    "options": [
+      "To state your main claim",
+      "To concede a point before redirecting to your position",
+      "To summarize your argument",
+      "To introduce evidence"
+    ],
+    "answer": 1,
+    "explanation": "'Si bien es cierto que... pero...' is a concession structure — you acknowledge merit in the opposing view, then redirect with 'pero' to maintain your position. This is a hallmark of sophisticated argumentation: 'Si bien es cierto que cuesta dinero, los beneficios superan los costos.'"
+  },
+  {
+    "id": "B2-U07-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'acaso' signal when used at the start of a question?",
+    "options": [
+      "The question is genuine and needs an answer",
+      "The speaker is confused",
+      "The question is rhetorical — the answer is implied as obvious",
+      "The question is polite and formal"
+    ],
+    "answer": 2,
+    "explanation": "'Acaso' at the start of a question signals it is rhetorical — the speaker implies the answer is self-evident. '¿Acaso no es evidente?' = Isn't it obvious? The speaker isn't asking for information; they're making a persuasive point."
+  },
+  {
+    "id": "B2-U07-E004",
+    "type": "multiple_choice",
+    "prompt": "Which expression best introduces a counter-argument?",
+    "options": [
+      "En resumen...",
+      "Por todo lo anterior...",
+      "Por el contrario, los datos muestran...",
+      "Cabe señalar que..."
+    ],
+    "answer": 2,
+    "explanation": "'Por el contrario' (on the contrary) introduces a direct counter-argument — it signals you are about to present the opposite of what was just stated. 'En resumen' and 'por todo lo anterior' are for conclusions; 'cabe señalar' introduces supporting evidence."
+  },
+  {
+    "id": "B2-U07-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'Lejos de resolver el problema, la medida lo empeoró' mean?",
+    "options": [
+      "The measure resolved the problem from a distance.",
+      "The problem was resolved far from where the measure was applied.",
+      "Far from solving the problem, the measure made it worse.",
+      "The measure was too far away to solve the problem."
+    ],
+    "answer": 2,
+    "explanation": "'Lejos de + infinitive' means 'far from doing something' — used to argue that an action produced the opposite of its intended effect. It's a strong rhetorical structure: 'Lejos de ayudar, solo complicó las cosas.'"
+  },
+  {
+    "id": "B2-U07-E006",
+    "type": "multiple_choice",
+    "prompt": "Which phrase is a hedging expression (softens a claim)?",
+    "options": [
+      "Es evidente que...",
+      "Sin lugar a dudas...",
+      "No cabe duda de que...",
+      "En cierta medida..."
+    ],
+    "answer": 3,
+    "explanation": "'En cierta medida' (to a certain extent) is a hedge — it softens the claim and signals you're not making an absolute statement. The other options ('es evidente', 'sin lugar a dudas', 'no cabe duda') are all strong assertive expressions."
+  },
+  {
+    "id": "B2-U07-E007",
+    "type": "multiple_choice",
+    "prompt": "What is the cultural concept 'quedar bien' most closely related to in Mexican social interaction?",
+    "options": [
+      "Being physically attractive",
+      "Maintaining a good impression and saving face in social situations",
+      "Winning an argument",
+      "Being financially successful"
+    ],
+    "answer": 1,
+    "explanation": "'Quedar bien' is a key Mexican social value — it means to be well-regarded, to maintain face, to leave a good impression. In debate and argumentation, Mexicans often soften their disagreements specifically to 'quedar bien' — to avoid making the other person feel bad."
+  },
+  {
+    "id": "B2-U07-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'While it is true that there are costs, the benefits outweigh them.'",
+    "words": ["Si", "bien", "es", "cierto", "que", "hay", "costos,", "los", "beneficios", "los", "superan."],
+    "answer": "Si bien es cierto que hay costos, los beneficios los superan.",
+    "explanation": "'Si bien es cierto que... [concession], [main claim]' is the classic concede-then-redirect structure. 'Superan' (they surpass/outweigh) takes a direct object pronoun 'los' referring back to 'los costos'."
+  }
+]

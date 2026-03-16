@@ -80,7 +80,7 @@ const COURSE_STRUCTURE = [
       { id: 'unit-12-review',               title: 'B2 Review & Checkpoint' },
     ],
     partialContent: true,
-    availableUnits: 4,
+    availableUnits: 8,
   },
   { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
 ]
@@ -120,24 +120,19 @@ export default function CourseMapPage() {
                     const unitKey = `${levelData.level}-${unit.id}`
                     const progress = getUnitProgress(unitKey)
                     const isComplete = !!progress?.complete
-
-                    // Determine if unit has content yet (for partial levels)
                     const hasContent = !levelData.partialContent || index < levelData.availableUnits
 
                     let isAvailable = false
                     if (!hasContent) {
                       isAvailable = false
                     } else if (levelData.level === 'A2' && index === 0) {
-                      const lastA1Key = 'A1-unit-10-review'
-                      const lastA1Progress = getUnitProgress(lastA1Key)
+                      const lastA1Progress = getUnitProgress('A1-unit-10-review')
                       isAvailable = !!lastA1Progress?.complete
                     } else if (levelData.level === 'B1' && index === 0) {
-                      const lastA2Key = 'A2-unit-12-review'
-                      const lastA2Progress = getUnitProgress(lastA2Key)
+                      const lastA2Progress = getUnitProgress('A2-unit-12-review')
                       isAvailable = !!lastA2Progress?.complete
                     } else if (levelData.level === 'B2' && index === 0) {
-                      const lastB1Key = 'B1-unit-12-review'
-                      const lastB1Progress = getUnitProgress(lastB1Key)
+                      const lastB1Progress = getUnitProgress('B1-unit-12-review')
                       isAvailable = !!lastB1Progress?.complete
                     } else if (index === 0) {
                       isAvailable = true

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U07-V001",
+    "word": "no cabe duda de que",
+    "translation": "there is no doubt that",
+    "pronunciation_hint": "noh KAH-beh DOO-dah deh keh",
+    "part_of_speech": "fixed expression (strong assertion)",
+    "example_sentence": "No cabe duda de que la situación requiere atención urgente.",
+    "example_translation": "There is no doubt that the situation requires urgent attention.",
+    "audio_file": "B2/unit-07/no-cabe-duda.mp3",
+    "tags": ["argumentation", "assertion", "formal", "essential"]
+  },
+  {
+    "id": "B2-U07-V002",
+    "word": "hay que tener en cuenta que",
+    "translation": "one must take into account that",
+    "pronunciation_hint": "AHI keh teh-NEHR en KWEHN-tah keh",
+    "part_of_speech": "fixed expression (supporting argument)",
+    "example_sentence": "Hay que tener en cuenta que no todos tienen las mismas oportunidades.",
+    "example_translation": "One must take into account that not everyone has the same opportunities.",
+    "audio_file": "B2/unit-07/hay-que-tener-en-cuenta.mp3",
+    "tags": ["argumentation", "supporting", "essential"]
+  },
+  {
+    "id": "B2-U07-V003",
+    "word": "si bien es cierto que",
+    "translation": "while it is true that / although it is true that",
+    "pronunciation_hint": "see BYEHN ehs SYEHR-toh keh",
+    "part_of_speech": "fixed expression (concession opener)",
+    "example_sentence": "Si bien es cierto que hay problemas, también hay avances.",
+    "example_translation": "While it is true that there are problems, there is also progress.",
+    "audio_file": "B2/unit-07/si-bien-es-cierto.mp3",
+    "tags": ["argumentation", "concession", "formal", "essential"]
+  },
+  {
+    "id": "B2-U07-V004",
+    "word": "por el contrario",
+    "translation": "on the contrary",
+    "pronunciation_hint": "pohr el kon-TRAH-ryoh",
+    "part_of_speech": "discourse connector (counter-argument)",
+    "example_sentence": "No se trata de un fracaso; por el contrario, es un punto de partida.",
+    "example_translation": "It's not a failure; on the contrary, it's a starting point.",
+    "audio_file": "B2/unit-07/por-el-contrario.mp3",
+    "tags": ["argumentation", "counter", "formal", "essential"]
+  },
+  {
+    "id": "B2-U07-V005",
+    "word": "acaso",
+    "translation": "perhaps / isn't it? (rhetorical question marker)",
+    "pronunciation_hint": "ah-KAH-soh",
+    "part_of_speech": "adverb (used to introduce rhetorical questions)",
+    "example_sentence": "¿Acaso no es obligación del Estado garantizar la educación?",
+    "example_translation": "Isn't it the State's obligation to guarantee education?",
+    "audio_file": "B2/unit-07/acaso.mp3",
+    "tags": ["argumentation", "rhetoric", "advanced"]
+  },
+  {
+    "id": "B2-U07-V006",
+    "word": "hasta cierto punto",
+    "translation": "up to a point / to a certain extent",
+    "pronunciation_hint": "AHS-tah SYEHR-toh POON-toh",
+    "part_of_speech": "adverbial phrase (hedging)",
+    "example_sentence": "Hasta cierto punto, entiendo su argumento.",
+    "example_translation": "Up to a point, I understand their argument.",
+    "audio_file": "B2/unit-07/hasta-cierto-punto.mp3",
+    "tags": ["argumentation", "hedging", "essential"]
+  },
+  {
+    "id": "B2-U07-V007",
+    "word": "cabe señalar que",
+    "translation": "it should be noted that / it is worth noting that",
+    "pronunciation_hint": "KAH-beh seh-nyah-LAHR keh",
+    "part_of_speech": "fixed expression (formal supporting phrase)",
+    "example_sentence": "Cabe señalar que los datos provienen de fuentes verificadas.",
+    "example_translation": "It should be noted that the data comes from verified sources.",
+    "audio_file": "B2/unit-07/cabe-señalar.mp3",
+    "tags": ["argumentation", "formal", "academic"]
+  },
+  {
+    "id": "B2-U07-V008",
+    "word": "por todo lo anterior",
+    "translation": "for all the above reasons / in light of all the above",
+    "pronunciation_hint": "pohr TOH-doh loh ahn-teh-RYOHR",
+    "part_of_speech": "fixed expression (conclusion)",
+    "example_sentence": "Por todo lo anterior, considero que la propuesta debe aprobarse.",
+    "example_translation": "For all the above reasons, I believe the proposal should be approved.",
+    "audio_file": "B2/unit-07/por-todo-lo-anterior.mp3",
+    "tags": ["argumentation", "conclusion", "formal"]
+  },
+  {
+    "id": "B2-U07-V009",
+    "word": "lejos de",
+    "translation": "far from (doing something)",
+    "pronunciation_hint": "LEH-hohs deh",
+    "part_of_speech": "prepositional phrase (counter-argument)",
+    "example_sentence": "Lejos de resolver el problema, la medida lo empeoró.",
+    "example_translation": "Far from solving the problem, the measure made it worse.",
+    "audio_file": "B2/unit-07/lejos-de.mp3",
+    "tags": ["argumentation", "counter", "advanced"]
+  },
+  {
+    "id": "B2-U07-V010",
+    "word": "podría decirse que",
+    "translation": "one could say that / it could be said that",
+    "pronunciation_hint": "poh-DREE-ah deh-SEER-seh keh",
+    "part_of_speech": "fixed expression (hedging)",
+    "example_sentence": "Podría decirse que ambas posiciones tienen mérito.",
+    "example_translation": "One could say that both positions have merit.",
+    "audio_file": "B2/unit-07/podria-decirse.mp3",
+    "tags": ["argumentation", "hedging", "formal"]
+  },
+  {
+    "id": "B2-U07-V011",
+    "word": "quedar bien",
+    "translation": "to look good / to save face / to be well-regarded",
+    "pronunciation_hint": "keh-DAHR BYEHN",
+    "part_of_speech": "verb phrase (key Mexican social concept)",
+    "example_sentence": "En México, quedar bien con los demás es muy importante.",
+    "example_translation": "In Mexico, maintaining a good image with others is very important.",
+    "audio_file": "B2/unit-07/quedar-bien.mp3",
+    "tags": ["culture", "mexico", "social", "essential"]
+  },
+  {
+    "id": "B2-U07-V012",
+    "word": "basta con ver que",
+    "translation": "you only need to look at the fact that",
+    "pronunciation_hint": "BAHS-tah kon VEHR keh",
+    "part_of_speech": "fixed expression (supporting argument with evidence)",
+    "example_sentence": "Basta con ver que las cifras han aumentado tres años consecutivos.",
+    "example_translation": "You only need to look at the fact that the figures have risen three consecutive years.",
+    "audio_file": "B2/unit-07/basta-con-ver.mp3",
+    "tags": ["argumentation", "evidence", "formal"]
+  }
+]

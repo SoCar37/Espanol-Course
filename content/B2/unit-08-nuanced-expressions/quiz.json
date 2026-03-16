@@ -1,0 +1,111 @@
+{
+  "id": "B2-U08-Q",
+  "title": "Unit 8 Checkpoint Quiz — Nuanced Expressions & Register",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U08-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'No me late' express in Mexican Spanish?",
+      "options": [
+        "I don't like the rhythm of it.",
+        "An instinctive bad feeling — something doesn't feel right.",
+        "I'm not hungry.",
+        "I don't understand it."
+      ],
+      "answer": 1,
+      "explanation": "'No me late' (literally 'it doesn't beat to me') expresses a gut-level negative instinct about something. It's one of Mexico's most characteristic nuanced expressions, communicating intuitive unease even without a logical explanation."
+    },
+    {
+      "id": "B2-U08-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which is the formal written equivalent of 'o sea'?",
+      "options": [
+        "a poco",
+        "es decir",
+        "un chorro",
+        "está cañón"
+      ],
+      "answer": 1,
+      "explanation": "'Es decir' (that is to say / in other words) is the formal/written equivalent of the colloquial 'o sea'. Register awareness means using 'o sea' in casual speech and 'es decir' in formal writing or professional contexts."
+    },
+    {
+      "id": "B2-U08-Q003",
+      "type": "multiple_choice",
+      "prompt": "Someone says 'No está nada mal' about a restaurant. What do they really mean?",
+      "options": [
+        "The restaurant is terrible.",
+        "The restaurant is average.",
+        "The restaurant is actually quite good — understated praise.",
+        "The restaurant is nothing special."
+      ],
+      "answer": 2,
+      "explanation": "'No está nada mal' is a classic understatement — the literal meaning ('it's not bad at all') understates genuine enthusiasm. In Mexican Spanish, understated praise like this often signals real approval, especially from reserved or humble speakers."
+    },
+    {
+      "id": "B2-U08-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does '¿A poco ya terminaste?' express?",
+      "options": [
+        "When did you finish?",
+        "You finished a little bit?",
+        "Genuine surprise — really? You already finished?",
+        "You barely finished in time."
+      ],
+      "answer": 2,
+      "explanation": "'¿A poco?' is a uniquely Mexican expression of surprise or disbelief — equivalent to 'really?', 'no way!', or 'is that so?'. '¿A poco ya terminaste?' = Really? You already finished? It signals genuine surprise, not a literal question about quantity."
+    },
+    {
+      "id": "B2-U08-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses 'caer bien/mal' correctly?",
+      "options": [
+        "Me cae bien esta película.",
+        "Me cayó bien el café esta mañana.",
+        "Me cae muy bien tu hermano — es muy amable.",
+        "Me cae bien la música clásica."
+      ],
+      "answer": 2,
+      "explanation": "'Caer bien/mal' applies specifically to people and their personalities. Option C is correct: 'Me cae muy bien tu hermano' = I really like your brother (as a person). You cannot use 'caer bien' for films, coffee, or music — use 'gustar' for those."
+    },
+    {
+      "id": "B2-U08-Q006",
+      "type": "multiple_choice",
+      "prompt": "What register is 'anda pedo' and when should you use it?",
+      "options": [
+        "Formal — appropriate in all situations",
+        "Neutral — safe to use with anyone",
+        "Vulgar/colloquial — only appropriate with close friends in informal settings",
+        "Technical — used only in medical contexts"
+      ],
+      "answer": 2,
+      "explanation": "'Anda pedo' is vulgar colloquial for 'he's drunk'. It is only appropriate with close friends in very informal settings. Using it with strangers, elders, or in professional contexts would be offensive. Register awareness means knowing not just the meaning but when a word is off-limits."
+    },
+    {
+      "id": "B2-U08-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is 'code-switching' in the context of register?",
+      "options": [
+        "Switching between Spanish and English in the same conversation",
+        "Shifting the level of formality mid-conversation based on context and audience",
+        "Using different accents depending on the region",
+        "Translating idioms from one language to another"
+      ],
+      "answer": 1,
+      "explanation": "In linguistics, 'code-switching' in terms of register means shifting between formal and informal language depending on who you're talking to and the context. An advanced speaker does this naturally — more formal with a boss, more colloquial with friends, adapting fluidly mid-conversation."
+    },
+    {
+      "id": "B2-U08-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which expression is a euphemism for 'está borracho' (he's drunk) that would be appropriate in polite company?",
+      "options": [
+        "anda pedo",
+        "está tomado / ya se le subió",
+        "está encabronado",
+        "está hecho mierda"
+      ],
+      "answer": 1,
+      "explanation": "'Está tomado' (he's had a few / he's been drinking) and 'ya se le subió' (it went to his head) are polite euphemisms for being drunk — acceptable in mixed company and professional contexts. The other options are vulgar and would be inappropriate in polite settings."
+    }
+  ]
+}

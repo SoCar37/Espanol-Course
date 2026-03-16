@@ -1,0 +1,15 @@
+{
+  "id": "B2-U06",
+  "title": "Mexican Media & Pop Culture",
+  "level": "B2",
+  "unit": 6,
+  "slug": "media-culture",
+  "estimated_minutes": 40,
+  "topics": ["Mexican cinema", "music genres", "television", "social media Spanish", "cultural references", "media vocabulary", "discussing art and entertainment"],
+  "prereqs": ["B2-U05"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.2"
+}

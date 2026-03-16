@@ -5,6 +5,15 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.4.2] - 2026-03-16
+
+### Added
+- B2 Unit 5 — Vocabulary Expansion Strategies (`unit-05-vocabulary-expansion`)
+- B2 Unit 6 — Mexican Media & Pop Culture (`unit-06-media-culture`)
+- B2 Unit 7 — Argumentation & Persuasion (`unit-07-argumentation`)
+- B2 Unit 8 — Nuanced Expressions & Register (`unit-08-nuanced-expressions`)
+- `CourseMapPage.jsx` updated — B2 availableUnits bumped from 4 to 8; badge shows "8/12 units available"
+
 ## [0.4.1] - 2026-03-16
 
 ### Added
@@ -13,7 +22,7 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - B2 Unit 3 — If-Clauses / Si Clauses (`unit-03-if-clauses`)
 - B2 Unit 4 — Complex Sentences & Connectors (`unit-04-complex-sentences`)
 - B2 level wired into `CourseMapPage.jsx` — unlock gated on `B1-unit-12-review`
-- B2 units 5–12 display as "coming soon" within the level; badge shows "4/12 units available"
+- B2 units 5–12 display as coming soon within the level; badge shows "4/12 units available"
 
 ## [0.4.0] - 2026-03-15
 

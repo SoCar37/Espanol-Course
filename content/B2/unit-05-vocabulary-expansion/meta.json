@@ -1,0 +1,15 @@
+{
+  "id": "B2-U05",
+  "title": "Vocabulary Expansion Strategies",
+  "level": "B2",
+  "unit": 5,
+  "slug": "vocabulary-expansion",
+  "estimated_minutes": 40,
+  "topics": ["word families", "prefixes and suffixes", "cognates", "false cognates", "context guessing", "collocations", "register awareness"],
+  "prereqs": ["B2-U04"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.2"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "B2-U06-Q",
+  "title": "Unit 6 Checkpoint Quiz — Mexican Media & Pop Culture",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U06-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is 'la banda sonora' of a film?",
+      "options": [
+        "the cast",
+        "the director's cut",
+        "the soundtrack",
+        "the trailer"
+      ],
+      "answer": 2,
+      "explanation": "'La banda sonora' = the soundtrack. 'Banda' here means 'band/ensemble', and 'sonora' means 'sound-related'. It refers to all the music in a film. 'El reparto' = the cast; 'el tráiler' = the trailer."
+    },
+    {
+      "id": "B2-U06-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which genre is described as brass-heavy regional music from Sinaloa and Jalisco?",
+      "options": [
+        "el corrido",
+        "la cumbia",
+        "el norteño",
+        "la banda"
+      ],
+      "answer": 3,
+      "explanation": "La banda is the brass-heavy regional music style associated with Sinaloa and Jalisco. It features tubas, trumpets, and clarinets. El norteño uses accordion; la cumbia originates in Colombia; el corrido is a narrative ballad style."
+    },
+    {
+      "id": "B2-U06-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'el guión' mean in the context of film?",
+      "options": [
+        "the director",
+        "the screenplay / script",
+        "the subtitle",
+        "the plot twist"
+      ],
+      "answer": 1,
+      "explanation": "'El guión' = the screenplay or script. 'El guionista' = the screenwriter. In Mexico, 'guión' also refers to a hyphen or dash in punctuation — context determines which meaning applies."
+    },
+    {
+      "id": "B2-U06-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'etiquetar' mean on social media?",
+      "options": [
+        "to post",
+        "to follow",
+        "to tag someone",
+        "to unfollow"
+      ],
+      "answer": 2,
+      "explanation": "'Etiquetar' = to tag someone in a post or photo. 'Etiqueta' literally means label/tag. 'Me etiquetaron en una foto' = They tagged me in a photo. 'Publicar' = to post; 'seguir' = to follow."
+    },
+    {
+      "id": "B2-U06-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is 'una tocada' in Mexican Spanish?",
+      "options": [
+        "a touch / a tap",
+        "a live music show / gig",
+        "a music recording",
+        "a concert hall"
+      ],
+      "answer": 1,
+      "explanation": "'Una tocada' is Mexican colloquial for a live music show or gig — derived from 'tocar' (to play an instrument). 'Van a una tocada este sábado' = They're going to a gig this Saturday. It's informal and very Mexican."
+    },
+    {
+      "id": "B2-U06-Q006",
+      "type": "multiple_choice",
+      "prompt": "How would you say 'The film opens on Friday' in Spanish?",
+      "options": [
+        "La película abre el viernes.",
+        "La película empieza el viernes.",
+        "La película se estrena el viernes.",
+        "La película llega el viernes."
+      ],
+      "answer": 2,
+      "explanation": "'Estrenar' is the correct verb for a film opening or premiering. 'La película se estrena el viernes' is the natural expression. 'Abre' and 'empieza' are grammatically possible but not standard for film releases."
+    },
+    {
+      "id": "B2-U06-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'Me dejó con ganas de más' mean?",
+      "options": [
+        "It left me disappointed.",
+        "It left me wanting more.",
+        "It made me hungry.",
+        "It was more than enough."
+      ],
+      "answer": 1,
+      "explanation": "'Me dejó con ganas de más' = It left me wanting more. It's a positive expression meaning the content was so good you wish there were more of it. 'Con ganas de' = eager for / wanting."
+    },
+    {
+      "id": "B2-U06-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'cancelar' mean in the context of Mexican social media culture?",
+      "options": [
+        "to delete a post",
+        "to unsubscribe from a channel",
+        "to publicly call out and ostracize someone",
+        "to turn off notifications"
+      ],
+      "answer": 2,
+      "explanation": "'Cancelar' in social media context = to cancel someone — publicly denouncing and ostracizing them for perceived wrongdoing. Directly borrowed from English 'cancel culture'. 'Lo cancelaron por sus comentarios' = He got cancelled for his comments."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B2-U05-V001",
+    "word": "la familia de palabras",
+    "translation": "word family",
+    "pronunciation_hint": "lah fah-MEE-lyah deh pah-LAH-brahs",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "Aprender una familia de palabras multiplica tu vocabulario.",
+    "example_translation": "Learning a word family multiplies your vocabulary.",
+    "audio_file": "B2/unit-05/familia-palabras.mp3",
+    "tags": ["vocabulary-strategy", "learning", "essential"]
+  },
+  {
+    "id": "B2-U05-V002",
+    "word": "-ito / -ita (diminutivo)",
+    "translation": "diminutive suffix — shows smallness, affection, or softening",
+    "pronunciation_hint": "ee-toh / ee-tah",
+    "part_of_speech": "suffix",
+    "example_sentence": "¿Me traes un cafecito, por favor?",
+    "example_translation": "Could you bring me a little coffee, please?",
+    "audio_file": "B2/unit-05/ito-ita.mp3",
+    "tags": ["suffix", "diminutive", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U05-V003",
+    "word": "ahorita",
+    "translation": "right now / in a moment / soon (context-dependent)",
+    "pronunciation_hint": "ah-oh-REE-tah",
+    "part_of_speech": "adverb (diminutive of ahora — uniquely Mexican usage)",
+    "example_sentence": "Ahorita te lo traigo.",
+    "example_translation": "I'll bring it to you right now / in a moment.",
+    "audio_file": "B2/unit-05/ahorita.mp3",
+    "tags": ["diminutive", "mexico", "essential", "colloquial"]
+  },
+  {
+    "id": "B2-U05-V004",
+    "word": "embarazada",
+    "translation": "pregnant (FALSE COGNATE — not 'embarrassed')",
+    "pronunciation_hint": "em-bah-rah-SAH-dah",
+    "part_of_speech": "adjective (false cognate)",
+    "example_sentence": "Mi hermana está embarazada de tres meses.",
+    "example_translation": "My sister is three months pregnant.",
+    "audio_file": "B2/unit-05/embarazada.mp3",
+    "tags": ["false-cognate", "essential", "warning"]
+  },
+  {
+    "id": "B2-U05-V005",
+    "word": "el éxito",
+    "translation": "success (FALSE COGNATE — not 'exit')",
+    "pronunciation_hint": "el EK-see-toh",
+    "part_of_speech": "noun (false cognate)",
+    "example_sentence": "La película fue un gran éxito en México.",
+    "example_translation": "The film was a great success in Mexico.",
+    "audio_file": "B2/unit-05/exito.mp3",
+    "tags": ["false-cognate", "essential", "warning"]
+  },
+  {
+    "id": "B2-U05-V006",
+    "word": "actual",
+    "translation": "current / present-day (FALSE COGNATE — not 'actual')",
+    "pronunciation_hint": "ak-TWAHL",
+    "part_of_speech": "adjective (false cognate)",
+    "example_sentence": "El presidente actual tomó posesión en octubre.",
+    "example_translation": "The current president took office in October.",
+    "audio_file": "B2/unit-05/actual.mp3",
+    "tags": ["false-cognate", "essential", "warning"]
+  },
+  {
+    "id": "B2-U05-V007",
+    "word": "sensible",
+    "translation": "sensitive (FALSE COGNATE — not 'sensible')",
+    "pronunciation_hint": "sen-SEE-bleh",
+    "part_of_speech": "adjective (false cognate)",
+    "example_sentence": "Es muy sensible a las críticas.",
+    "example_translation": "He's very sensitive to criticism.",
+    "audio_file": "B2/unit-05/sensible.mp3",
+    "tags": ["false-cognate", "essential", "warning"]
+  },
+  {
+    "id": "B2-U05-V008",
+    "word": "sacar una foto",
+    "translation": "to take a photo (Mexican collocation)",
+    "pronunciation_hint": "sah-KAHR oo-nah FOH-toh",
+    "part_of_speech": "verb phrase (collocation — preferred in Mexico)",
+    "example_sentence": "¿Me puedes sacar una foto aquí?",
+    "example_translation": "Can you take a photo of me here?",
+    "audio_file": "B2/unit-05/sacar-foto.mp3",
+    "tags": ["collocation", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U05-V009",
+    "word": "cometer un error",
+    "translation": "to make a mistake (correct collocation)",
+    "pronunciation_hint": "koh-meh-TEHR oon eh-ROHR",
+    "part_of_speech": "verb phrase (collocation)",
+    "example_sentence": "Todos cometemos errores de vez en cuando.",
+    "example_translation": "We all make mistakes from time to time.",
+    "audio_file": "B2/unit-05/cometer-error.mp3",
+    "tags": ["collocation", "essential"]
+  },
+  {
+    "id": "B2-U05-V010",
+    "word": "la chamba",
+    "translation": "job / work (Mexican colloquial)",
+    "pronunciation_hint": "lah CHAHM-bah",
+    "part_of_speech": "noun (Mexican colloquial for trabajo)",
+    "example_sentence": "Ando buscando chamba desde el mes pasado.",
+    "example_translation": "I've been looking for work since last month.",
+    "audio_file": "B2/unit-05/chamba.mp3",
+    "tags": ["colloquial", "mexico", "register", "essential"]
+  },
+  {
+    "id": "B2-U05-V011",
+    "word": "la lana",
+    "translation": "money (Mexican colloquial)",
+    "pronunciation_hint": "lah LAH-nah",
+    "part_of_speech": "noun (Mexican colloquial for dinero)",
+    "example_sentence": "No traigo lana, ¿me prestas?",
+    "example_translation": "I don't have any cash on me, can you lend me some?",
+    "audio_file": "B2/unit-05/lana.mp3",
+    "tags": ["colloquial", "mexico", "register", "essential"]
+  },
+  {
+    "id": "B2-U05-V012",
+    "word": "recordar",
+    "translation": "to remember (FALSE COGNATE — not 'to record')",
+    "pronunciation_hint": "reh-kohr-DAHR",
+    "part_of_speech": "verb (false cognate)",
+    "example_sentence": "No recuerdo dónde dejé las llaves.",
+    "example_translation": "I don't remember where I left the keys.",
+    "audio_file": "B2/unit-05/recordar.mp3",
+    "tags": ["false-cognate", "essential", "warning"]
+  },
+  {
+    "id": "B2-U05-V013",
+    "word": "contrarrestar",
+    "translation": "to counteract / to offset",
+    "pronunciation_hint": "kon-trah-reh-STAHR",
+    "part_of_speech": "verb (decodable via prefix contra- + restar)",
+    "example_sentence": "Hay que contrarrestar los efectos negativos.",
+    "example_translation": "We need to counteract the negative effects.",
+    "audio_file": "B2/unit-05/contrarrestar.mp3",
+    "tags": ["prefix", "word-building", "advanced"]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "B2-U07",
+  "title": "Argumentation & Persuasion",
+  "level": "B2",
+  "unit": 7,
+  "slug": "argumentation",
+  "estimated_minutes": 40,
+  "topics": ["presenting arguments", "counterarguments", "conceding points", "persuasive language", "logical connectors", "rhetorical questions", "hedging and emphasis"],
+  "prereqs": ["B2-U04"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.2"
+}

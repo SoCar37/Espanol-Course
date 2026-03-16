@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U06-E001",
+    "type": "multiple_choice",
+    "prompt": "How do Mexicans pronounce the word 'meme'?",
+    "options": [
+      "MEEM (like English)",
+      "MEH-meh",
+      "meh-MEH",
+      "MAY-may"
+    ],
+    "answer": 1,
+    "explanation": "In Mexico, 'meme' is pronounced MEH-meh — applying Spanish phonetic rules to the borrowed word. Using the English pronunciation 'MEEM' will mark you as a non-native speaker immediately."
+  },
+  {
+    "id": "B2-U06-E002",
+    "type": "multiple_choice",
+    "prompt": "What does 'el estreno' refer to in the context of film?",
+    "options": [
+      "the screenplay",
+      "the director",
+      "the soundtrack",
+      "the premiere / release"
+    ],
+    "answer": 3,
+    "explanation": "'El estreno' is the premiere or first release of a film, show, or any artistic work. '¿Ya fue el estreno?' = Has it been released yet? The verb form is 'estrenar': 'La película se estrena el viernes' = The film opens on Friday."
+  },
+  {
+    "id": "B2-U06-E003",
+    "type": "multiple_choice",
+    "prompt": "Which Mexican music genre is characterized by accordion and bajo sexto and associated with northern Mexico?",
+    "options": [
+      "el mariachi",
+      "el son jarocho",
+      "el norteño",
+      "la banda"
+    ],
+    "answer": 2,
+    "explanation": "El norteño (northern music) is characterized by the accordion and bajo sexto (a 12-string guitar) and originates in northern Mexico. La banda uses brass instruments; el mariachi uses trumpets, violins, and guitarrón; el son jarocho is from Veracruz."
+  },
+  {
+    "id": "B2-U06-E004",
+    "type": "multiple_choice",
+    "prompt": "What does 'maratonear' mean in Mexican colloquial Spanish?",
+    "options": [
+      "to run a marathon",
+      "to binge-watch a series",
+      "to stay up all night",
+      "to eat too much"
+    ],
+    "answer": 1,
+    "explanation": "'Maratonear' is a Mexican coinage meaning to binge-watch — derived from 'maratón' (marathon). It's widely used: 'Nos maratoneamos toda la temporada en un día' = We binged the whole season in one day."
+  },
+  {
+    "id": "B2-U06-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'No me spoilées' mean?",
+    "options": [
+      "Don't make it worse.",
+      "Don't spoil the ending for me.",
+      "Don't waste my time.",
+      "Don't be so dramatic."
+    ],
+    "answer": 1,
+    "explanation": "'Spoilear' is a direct borrowing from English 'to spoil', conjugated as a regular -ar verb in Mexican Spanish. 'No me spoilées' = Don't spoil it for me. The word is widely used in online and entertainment contexts."
+  },
+  {
+    "id": "B2-U06-E006",
+    "type": "multiple_choice",
+    "prompt": "What does 'Está muy sobrevalorado' mean?",
+    "options": [
+      "It's very underrated.",
+      "It's very overrated.",
+      "It's very overpriced.",
+      "It's very overhyped but good."
+    ],
+    "answer": 1,
+    "explanation": "'Sobrevalorado' = overvalued/overrated. The prefix 'sobre-' (over) + 'valorado' (valued). Used to express that something receives more praise than it deserves: 'Esa serie está sobrevalorada' = That series is overrated."
+  },
+  {
+    "id": "B2-U06-E007",
+    "type": "multiple_choice",
+    "prompt": "If someone says 'No seas tan telenovela', what are they telling you?",
+    "options": [
+      "Stop watching so much television.",
+      "Don't be so dramatic / over-the-top.",
+      "You should be more like a soap opera character.",
+      "Stop talking about telenovelas."
+    ],
+    "answer": 1,
+    "explanation": "'Muy telenovela' or 'tan telenovela' means overly dramatic, theatrical, or over-the-top — like a soap opera character. 'No seas tan telenovela, no es para tanto' = Don't be so dramatic, it's not that big a deal."
+  },
+  {
+    "id": "B2-U06-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'That video went viral within hours.'",
+    "words": ["Ese", "video", "se", "volvió", "viral", "en", "cuestión", "de", "horas."],
+    "answer": "Ese video se volvió viral en cuestión de horas.",
+    "explanation": "'Volverse viral' (to go viral) uses the reflexive 'volverse' (to become). 'En cuestión de horas' = within hours / in a matter of hours. Both are essential social media expressions."
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "B2-U05-Q",
+  "title": "Unit 5 Checkpoint Quiz — Vocabulary Expansion Strategies",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U05-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'sensible' mean in Spanish?",
+      "options": [
+        "sensible / reasonable",
+        "sensitive",
+        "sensational",
+        "logical"
+      ],
+      "answer": 1,
+      "explanation": "'Sensible' is a false cognate — it means 'sensitive' in Spanish, not 'sensible/reasonable'. 'Sensible' in the English sense is 'sensato/a' or 'razonable' in Spanish."
+    },
+    {
+      "id": "B2-U05-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'recordar' mean?",
+      "options": [
+        "to record",
+        "to recount",
+        "to remember",
+        "to report"
+      ],
+      "answer": 2,
+      "explanation": "'Recordar' is a false cognate — it means 'to remember', not 'to record'. 'To record' in Spanish is 'grabar'. 'No recuerdo' = I don't remember."
+    },
+    {
+      "id": "B2-U05-Q003",
+      "type": "multiple_choice",
+      "prompt": "Using suffix knowledge, what part of speech is 'rápidamente'?",
+      "options": [
+        "noun",
+        "adjective",
+        "verb",
+        "adverb"
+      ],
+      "answer": 3,
+      "explanation": "The suffix '-mente' is the Spanish equivalent of '-ly' in English — it always forms adverbs from adjectives. 'Rápido' (fast/adj) → 'rápidamente' (quickly/adv). Same: 'claramente', 'felizmente', 'lentamente'."
+    },
+    {
+      "id": "B2-U05-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which word is the Mexican colloquial term for 'job / work'?",
+      "options": [
+        "el empleo",
+        "la chamba",
+        "el oficio",
+        "la ocupación"
+      ],
+      "answer": 1,
+      "explanation": "'La chamba' is the most common Mexican colloquial word for 'job' or 'work'. 'Ando en la chamba' = I'm at work. 'El empleo', 'el oficio', and 'la ocupación' are neutral to formal register."
+    },
+    {
+      "id": "B2-U05-Q005",
+      "type": "multiple_choice",
+      "prompt": "What does the prefix 'des-' typically signal in Spanish?",
+      "options": [
+        "before / pre-",
+        "under / sub-",
+        "reversal or negation (un- / dis-)",
+        "over / super-"
+      ],
+      "answer": 2,
+      "explanation": "'Des-' signals reversal or negation — like English 'un-' or 'dis-'. 'Hacer' (to do) → 'deshacer' (to undo). 'Cansar' (to tire) → 'descansar' (to rest/un-tire). 'Aparecer' → 'desaparecer' (to disappear)."
+    },
+    {
+      "id": "B2-U05-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a true cognate correctly?",
+      "options": [
+        "La solución es muy complicado.",
+        "La solución es muy complicada.",
+        "La solucion es muy complicada.",
+        "La solución está muy complicada."
+      ],
+      "answer": 1,
+      "explanation": "'Solución' is a true cognate of 'solution' (-tion → -ción). Option B is correct: 'solución' is feminine so the adjective must be 'complicada'. Option A has gender mismatch; C is missing the accent; D uses 'estar' incorrectly for a permanent characteristic."
+    },
+    {
+      "id": "B2-U05-Q007",
+      "type": "multiple_choice",
+      "prompt": "In Mexican Spanish, 'ahorita' most accurately means:",
+      "options": [
+        "Always 'right this second' with no ambiguity",
+        "Never soon — always a vague future",
+        "It depends on context — could mean immediately, soon, or just today",
+        "The same as 'ahora' with no difference"
+      ],
+      "answer": 2,
+      "explanation": "'Ahorita' is famously context-dependent in Mexican Spanish. It can mean right now, in a moment, later today, or just sometime soon. Tone, context, and the speaker's body language determine which. This ambiguity is a cultural feature, not a mistake."
+    },
+    {
+      "id": "B2-U05-Q008",
+      "type": "multiple_choice",
+      "prompt": "Using word-family logic, if you know 'conocer' (to know/meet), what does 'el conocimiento' mean?",
+      "options": [
+        "an acquaintance",
+        "knowledge",
+        "recognition",
+        "a meeting"
+      ],
+      "answer": 1,
+      "explanation": "'Conocer' → 'el conocimiento' follows the verb → noun pattern using '-miento' (equivalent to '-ment' or '-ing' as a noun in English). 'El conocimiento' = knowledge. Same pattern: 'mover' → 'el movimiento', 'pensar' → 'el pensamiento'."
+    }
+  ]
+}

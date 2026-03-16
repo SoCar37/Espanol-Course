@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U06-V001",
+    "word": "el estreno",
+    "translation": "premiere / release (of a film or show)",
+    "pronunciation_hint": "el ehs-TREH-noh",
+    "part_of_speech": "noun",
+    "example_sentence": "El estreno de la película fue todo un evento.",
+    "example_translation": "The film's premiere was quite an event.",
+    "audio_file": "B2/unit-06/estreno.mp3",
+    "tags": ["cinema", "media", "essential"]
+  },
+  {
+    "id": "B2-U06-V002",
+    "word": "la telenovela",
+    "translation": "soap opera / telenovela",
+    "pronunciation_hint": "lah teh-leh-noh-VEH-lah",
+    "part_of_speech": "noun",
+    "example_sentence": "Mi abuela nunca se pierde su telenovela.",
+    "example_translation": "My grandmother never misses her telenovela.",
+    "audio_file": "B2/unit-06/telenovela.mp3",
+    "tags": ["television", "culture", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U06-V003",
+    "word": "el mariachi",
+    "translation": "mariachi (traditional Mexican musical ensemble)",
+    "pronunciation_hint": "el mah-RYAH-chee",
+    "part_of_speech": "noun",
+    "example_sentence": "Contrataron un mariachi para la fiesta de quince años.",
+    "example_translation": "They hired a mariachi band for the quinceañera.",
+    "audio_file": "B2/unit-06/mariachi.mp3",
+    "tags": ["music", "culture", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U06-V004",
+    "word": "el corrido",
+    "translation": "corrido (traditional Mexican ballad, often narrative)",
+    "pronunciation_hint": "el koh-RREE-doh",
+    "part_of_speech": "noun",
+    "example_sentence": "Los corridos cuentan historias del pueblo mexicano.",
+    "example_translation": "Corridos tell stories of the Mexican people.",
+    "audio_file": "B2/unit-06/corrido.mp3",
+    "tags": ["music", "culture", "mexico"]
+  },
+  {
+    "id": "B2-U06-V005",
+    "word": "maratonear",
+    "translation": "to binge-watch",
+    "pronunciation_hint": "mah-rah-toh-neh-AHR",
+    "part_of_speech": "verb (colloquial — Mexican coinage)",
+    "example_sentence": "Me pasé el fin de semana maratoneando la nueva serie.",
+    "example_translation": "I spent the weekend binge-watching the new series.",
+    "audio_file": "B2/unit-06/maratonear.mp3",
+    "tags": ["television", "colloquial", "mexico", "streaming"]
+  },
+  {
+    "id": "B2-U06-V006",
+    "word": "volverse viral",
+    "translation": "to go viral",
+    "pronunciation_hint": "vohl-VEHR-seh vee-RAHL",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "El video se volvió viral en cuestión de horas.",
+    "example_translation": "The video went viral within hours.",
+    "audio_file": "B2/unit-06/volverse-viral.mp3",
+    "tags": ["social-media", "essential"]
+  },
+  {
+    "id": "B2-U06-V007",
+    "word": "el meme",
+    "translation": "meme (pronounced MEH-meh in Mexico)",
+    "pronunciation_hint": "el MEH-meh",
+    "part_of_speech": "noun (borrowed from English, Mexican pronunciation)",
+    "example_sentence": "Ese meme me mató de risa.",
+    "example_translation": "That meme killed me laughing.",
+    "audio_file": "B2/unit-06/meme.mp3",
+    "tags": ["social-media", "colloquial", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U06-V008",
+    "word": "spoilear",
+    "translation": "to spoil (a plot twist or ending)",
+    "pronunciation_hint": "spoy-LEHR",
+    "part_of_speech": "verb (borrowed from English 'to spoil')",
+    "example_sentence": "No me spoilées el final, por favor.",
+    "example_translation": "Please don't spoil the ending for me.",
+    "audio_file": "B2/unit-06/spoilear.mp3",
+    "tags": ["social-media", "television", "colloquial", "borrowed"]
+  },
+  {
+    "id": "B2-U06-V009",
+    "word": "está sobrevalorado/a",
+    "translation": "it's overrated",
+    "pronunciation_hint": "ehs-TAH soh-breh-vah-loh-RAH-doh",
+    "part_of_speech": "adjective phrase",
+    "example_sentence": "Esa película está muy sobrevalorada, en mi opinión.",
+    "example_translation": "That film is very overrated, in my opinion.",
+    "audio_file": "B2/unit-06/sobrevalorado.mp3",
+    "tags": ["opinion", "media", "essential"]
+  },
+  {
+    "id": "B2-U06-V010",
+    "word": "es una joya",
+    "translation": "it's a gem / it's excellent",
+    "pronunciation_hint": "ehs oo-nah HOY-ah",
+    "part_of_speech": "fixed expression (praise)",
+    "example_sentence": "Roma es una joya del cine mexicano.",
+    "example_translation": "Roma is a gem of Mexican cinema.",
+    "audio_file": "B2/unit-06/es-una-joya.mp3",
+    "tags": ["opinion", "media", "expression", "essential"]
+  },
+  {
+    "id": "B2-U06-V011",
+    "word": "la tocada",
+    "translation": "gig / live music show (Mexican colloquial)",
+    "pronunciation_hint": "lah toh-KAH-dah",
+    "part_of_speech": "noun (Mexican colloquial)",
+    "example_sentence": "Hay una tocada en el parque este sábado.",
+    "example_translation": "There's a live show in the park this Saturday.",
+    "audio_file": "B2/unit-06/tocada.mp3",
+    "tags": ["music", "colloquial", "mexico"]
+  },
+  {
+    "id": "B2-U06-V012",
+    "word": "muy telenovela",
+    "translation": "over-the-top / overly dramatic (like a soap opera)",
+    "pronunciation_hint": "MWEE teh-leh-noh-VEH-lah",
+    "part_of_speech": "adjectival phrase (cultural reference)",
+    "example_sentence": "No seas tan telenovela, no es para tanto.",
+    "example_translation": "Don't be so dramatic, it's not that big a deal.",
+    "audio_file": "B2/unit-06/muy-telenovela.mp3",
+    "tags": ["expression", "culture", "mexico", "colloquial"]
+  }
+]
