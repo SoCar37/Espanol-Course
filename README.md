@@ -20,14 +20,12 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 |---|---|
 | Course map (A1–C1 overview) | ✅ Working |
 | A1 Unit 1 — Greetings lesson | ✅ Complete |
-| Exercise engine (all types) | ✅ Working |
-| Flashcard drill (3D flip) | ✅ Working (placeholder vocab) |
+| Exercise engine (all 4 types) | ✅ Working |
+| Flashcard engine with SM-2 | ✅ Working |
 | Progress tracking (XP, streak) | ✅ Working |
 | Quiz engine | 🔜 v0.2.0 |
-| Flashcard engine from vocab.json | 🔜 v0.2.0 |
 | A1 Units 2–10 content | 🔜 v0.2.0 |
 | Audio (Google TTS Neural2) | 🔜 v0.2.0 |
-| Spaced repetition (SM-2) | 🔜 v0.2.0 |
 | A2–C1 content | 🔜 v1.0+ |
 
 ---
@@ -58,7 +56,6 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 ## Local development
 
 ```bash
-# Prerequisites: Node.js v18+, npm
 cd app
 npm install
 npm run dev
@@ -92,9 +89,9 @@ See [CHANGELOG.md](CHANGELOG.md) for full history.
 
 | Version | Milestone |
 |---|---|
-| v0.1.4 | Full exercise engine — all question types, score tracking, quiz unlock |
+| v0.1.4 | Exercise engine + flashcard engine with SM-2 |
 | v0.1.0 | Initial scaffold |
-| v0.2.0 | Quiz engine + flashcard engine + A1 content complete *(planned)* |
+| v0.2.0 | Quiz engine + A1 content complete *(planned)* |
 | v1.0.0 | Public launch — A1+A2 complete, placement test *(planned)* |
 
 ---

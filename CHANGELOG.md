@@ -17,23 +17,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Wrong answer behavior: explanation shown, question stays active until answered correctly
 - Results summary screen after final question — animated SVG score ring, XP earned badge, Spanish encouragement message
 - "Start Quiz" button on summary screen — navigates to `/quiz/:level/:unit`
-- `ExerciseSummary` component with score-based color ring (green / indigo / amber)
 - Exercise type badge (icon + label) shown above each question card
-- `useProgress.js` expanded: now tracks `completedExercises`, `completedQuizzes`, `quizScores`, `exerciseScores`
-- Quiz unlock gated on exercise completion — stored in localStorage
-- Parameterized routes: `/exercises/:level/:unit` and `/quiz/:level/:unit`
+- Flashcard engine — loads vocab dynamically from `vocab.json` replacing hardcoded placeholder
+- SM-2 spaced repetition algorithm — `app/src/utils/sm2.js`
+- Per-card scheduling stored in localStorage — Easy cards return in 4+ days, Hard tomorrow, Missed same session
+- English → Spanish card direction — English meaning shows first, tap to reveal Spanish
+- Pronunciation hint badge shown above each flashcard
+- Example sentence and translation shown on Spanish side of card
+- "Come back tomorrow" completion screen with session stats and XP earned
+- `useProgress.js` expanded: tracks `exercisesComplete`, `quizComplete` per unit, SM-2 vocab data, `getDueVocab`, `rateVocabCard`, `getDueCount`
+- Parameterized routes: `/exercises/:level/:unit`, `/quiz/:level/:unit`, `/flashcards/:level/:unit`
 
 ### Changed
 - `ExercisesPage.jsx` — fully rewritten; replaces single hardcoded MCQ with dynamic engine
-- `App.jsx` — routes now parameterized; legacy bare `/exercises` redirects to A1 Unit 1
-- `useProgress.js` — expanded schema; fully backwards compatible with v0.1.x localStorage data
+- `FlashcardsPage.jsx` — fully rewritten; loads from vocab.json, SM-2 scheduling, English-first direction
+- `LessonPage.jsx` — Complete Lesson button now navigates directly to exercises after saving progress
+- `App.jsx` — all routes now parameterized; bare routes redirect to A1 Unit 1
+- `useProgress.js` — restored original unit-keyed structure, added SM-2 vocab functions on top
+
+### Fixed
+- Complete Lesson button was silently failing due to mismatched key format between save and lookup
+- Flashcard page crashed on load due to card being read before vocab finished loading
+- vocab.json fetch was 404 due to inconsistent level casing (a1 vs A1)
+- Word bank empty in sentence assembly exercises — was reading `options` field, exercises.json uses `words`
 
 ---
 
 ## [0.1.3] - 2026-03-15
 
 ### Fixed
-- Unit folder path mismatch — unit IDs in `CourseMapPage.jsx` now exactly match folder names (e.g. `unit-01-greetings`)
+- Unit folder path mismatch — unit IDs in `CourseMapPage.jsx` now exactly match folder names
 
 ---
 
