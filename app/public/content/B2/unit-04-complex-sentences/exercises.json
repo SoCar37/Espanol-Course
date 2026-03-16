@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B2-U04-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct connector: 'The project was difficult; ___, we finished it on time.'",
+    "options": ["así que", "ya que", "sin embargo", "además"],
+    "answer": 2,
+    "explanation": "'Sin embargo' (however/nevertheless) introduces a contrast — the difficulty is acknowledged, but the positive outcome is highlighted. 'Así que' would express consequence, not contrast."
+  },
+  {
+    "id": "B2-U04-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses 'sino' correctly?",
+    "options": [
+      "Me gusta el café, sino también el té.",
+      "No quiero café sino té.",
+      "Viene mañana, sino que llegará tarde.",
+      "Es inteligente, sino también trabajadora."
+    ],
+    "answer": 1,
+    "explanation": "'Sino' is used after a negation to replace/correct what was just said. 'No quiero café sino té' = I don't want coffee but rather tea. Options A and D should use 'sino también' after affirmative statements, which requires 'no solo... sino también'."
+  },
+  {
+    "id": "B2-U04-E003",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between 'sino' and 'pero'?",
+    "options": [
+      "'Sino' is formal; 'pero' is informal",
+      "'Sino' corrects/replaces after a negation; 'pero' adds a contrasting comment",
+      "'Sino' is used in writing only; 'pero' in speech",
+      "They are interchangeable"
+    ],
+    "answer": 1,
+    "explanation": "'Pero' adds a contrasting idea to what was said. 'Sino' corrects or replaces what was said, and always follows a negation. Example: 'Es médico pero toca guitarra' vs 'No es abogado sino médico'."
+  },
+  {
+    "id": "B2-U04-E004",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct cause connector: '___ estás aquí, ¿puedes ayudarme?'",
+    "options": ["Por eso", "Ya que", "Sin embargo", "Así que"],
+    "answer": 1,
+    "explanation": "'Ya que' (since/given that) is a cause connector introducing a reason. It's appropriate at the start of a sentence here. 'Por eso' expresses consequence, not cause."
+  },
+  {
+    "id": "B2-U04-E005",
+    "type": "multiple_choice",
+    "prompt": "Which connector would best complete this formal sentence?\n'El presupuesto es limitado; ___, debemos priorizar los gastos más importantes.'",
+    "options": ["o sea", "así que", "por lo tanto", "es más"],
+    "answer": 2,
+    "explanation": "'Por lo tanto' (therefore) is the formal consequence connector appropriate here. 'Así que' is correct but more colloquial. 'O sea' is informal and reformulating, not a consequence connector."
+  },
+  {
+    "id": "B2-U04-E006",
+    "type": "translation",
+    "prompt": "Translate: 'On one hand it's expensive; on the other hand, it's excellent quality.'",
+    "options": [
+      "Por un lado es caro; por otro lado, es de excelente calidad.",
+      "De un lado es caro; del otro lado, es de excelente calidad.",
+      "Por un lado es caro; sin embargo, es de excelente calidad.",
+      "Es caro pero también es de buena calidad."
+    ],
+    "answer": 0,
+    "explanation": "'Por un lado... por otro lado' is the standard paired connector for presenting two contrasting aspects of the same thing. It's neutral in register and works in both speech and writing."
+  },
+  {
+    "id": "B2-U04-E007",
+    "type": "multiple_choice",
+    "prompt": "In Mexican spoken Spanish, 'o sea' most commonly functions as:",
+    "options": [
+      "A formal transition between topics",
+      "A way to express cause",
+      "A discourse filler and reformulation marker meaning 'I mean' or 'in other words'",
+      "An expression of surprise only"
+    ],
+    "answer": 2,
+    "explanation": "'O sea' in everyday Mexican Spanish is a highly versatile discourse marker used to reformulate, clarify, or fill a pause — similar to 'I mean' in English. It's especially common among younger speakers and in casual conversation."
+  },
+  {
+    "id": "B2-U04-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'He didn't show up; what's more, he didn't even call.'",
+    "words": ["No", "llegó;", "es", "más,", "ni", "siquiera", "llamó."],
+    "answer": "No llegó; es más, ni siquiera llamó.",
+    "explanation": "'Es más' (what's more) escalates the previous point with an additional negative detail. 'Ni siquiera' (not even) adds extra emphasis. Together they express escalating frustration — very natural in Mexican Spanish."
+  }
+]

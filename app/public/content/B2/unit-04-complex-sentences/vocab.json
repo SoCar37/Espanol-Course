@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U04-V001",
+    "word": "sin embargo",
+    "translation": "however / nevertheless",
+    "pronunciation_hint": "seen em-BAR-goh",
+    "part_of_speech": "conjunction / discourse connector (contrast)",
+    "example_sentence": "Es caro; sin embargo, vale la pena.",
+    "example_translation": "It's expensive; however, it's worth it.",
+    "audio_file": "B2/unit-04/sin-embargo.mp3",
+    "tags": ["connector", "contrast", "essential", "formal"]
+  },
+  {
+    "id": "B2-U04-V002",
+    "word": "además",
+    "translation": "besides / furthermore / also",
+    "pronunciation_hint": "ah-deh-MAHS",
+    "part_of_speech": "adverb / discourse connector (addition)",
+    "example_sentence": "Habla inglés; además, sabe francés.",
+    "example_translation": "She speaks English; furthermore, she knows French.",
+    "audio_file": "B2/unit-04/ademas.mp3",
+    "tags": ["connector", "addition", "essential"]
+  },
+  {
+    "id": "B2-U04-V003",
+    "word": "por lo tanto",
+    "translation": "therefore / consequently",
+    "pronunciation_hint": "pohr loh TAHN-toh",
+    "part_of_speech": "discourse connector (consequence)",
+    "example_sentence": "No estudió; por lo tanto, reprobó.",
+    "example_translation": "He didn't study; therefore, he failed.",
+    "audio_file": "B2/unit-04/por-lo-tanto.mp3",
+    "tags": ["connector", "consequence", "formal"]
+  },
+  {
+    "id": "B2-U04-V004",
+    "word": "así que",
+    "translation": "so / and so / therefore",
+    "pronunciation_hint": "ah-SEE keh",
+    "part_of_speech": "conjunction (consequence — informal/neutral)",
+    "example_sentence": "Se me hizo tarde, así que tomé un taxi.",
+    "example_translation": "I was running late, so I took a cab.",
+    "audio_file": "B2/unit-04/asi-que.mp3",
+    "tags": ["connector", "consequence", "colloquial", "essential"]
+  },
+  {
+    "id": "B2-U04-V005",
+    "word": "ya que",
+    "translation": "since / given that / because",
+    "pronunciation_hint": "yah keh",
+    "part_of_speech": "conjunction (cause — neutral/slightly formal)",
+    "example_sentence": "Ya que estás aquí, ayúdame con esto.",
+    "example_translation": "Since you're here, help me with this.",
+    "audio_file": "B2/unit-04/ya-que.mp3",
+    "tags": ["connector", "cause", "essential"]
+  },
+  {
+    "id": "B2-U04-V006",
+    "word": "a pesar de (que)",
+    "translation": "despite / in spite of (the fact that)",
+    "pronunciation_hint": "ah peh-SAHR deh keh",
+    "part_of_speech": "prepositional phrase / conjunction (concession)",
+    "example_sentence": "Fue al trabajo a pesar de estar enfermo.",
+    "example_translation": "He went to work despite being sick.",
+    "audio_file": "B2/unit-04/a-pesar-de.mp3",
+    "tags": ["connector", "concession", "neutral"]
+  },
+  {
+    "id": "B2-U04-V007",
+    "word": "sino (que)",
+    "translation": "but rather / but instead",
+    "pronunciation_hint": "SEE-noh keh",
+    "part_of_speech": "conjunction (contrast — used after negation to replace/correct)",
+    "example_sentence": "No quiero agua sino jugo.",
+    "example_translation": "I don't want water but rather juice.",
+    "audio_file": "B2/unit-04/sino.mp3",
+    "tags": ["connector", "contrast", "essential", "sino-vs-pero"]
+  },
+  {
+    "id": "B2-U04-V008",
+    "word": "o sea",
+    "translation": "in other words / I mean / that is to say",
+    "pronunciation_hint": "oh SEH-ah",
+    "part_of_speech": "discourse marker (reformulation / filler)",
+    "example_sentence": "O sea, no entiendo lo que quieres decir.",
+    "example_translation": "I mean, I don't understand what you're trying to say.",
+    "audio_file": "B2/unit-04/o-sea.mp3",
+    "tags": ["discourse-marker", "colloquial", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U04-V009",
+    "word": "por un lado... por otro lado",
+    "translation": "on one hand... on the other hand",
+    "pronunciation_hint": "pohr oon LAH-doh... pohr OH-troh LAH-doh",
+    "part_of_speech": "paired discourse connector (balance/contrast)",
+    "example_sentence": "Por un lado me gusta el trabajo; por otro lado, el salario es bajo.",
+    "example_translation": "On one hand I like the job; on the other hand, the salary is low.",
+    "audio_file": "B2/unit-04/por-un-lado.mp3",
+    "tags": ["connector", "contrast", "structure", "advanced"]
+  },
+  {
+    "id": "B2-U04-V010",
+    "word": "es más",
+    "translation": "what's more / in fact / moreover",
+    "pronunciation_hint": "ehs mahs",
+    "part_of_speech": "discourse connector (addition — for emphasis)",
+    "example_sentence": "No llegó; es más, ni mandó un mensaje.",
+    "example_translation": "He didn't show up; what's more, he didn't even send a message.",
+    "audio_file": "B2/unit-04/es-mas.mp3",
+    "tags": ["connector", "addition", "emphasis", "colloquial"]
+  },
+  {
+    "id": "B2-U04-V011",
+    "word": "en cambio",
+    "translation": "on the other hand / instead / whereas",
+    "pronunciation_hint": "en KAHM-byoh",
+    "part_of_speech": "discourse connector (contrast)",
+    "example_sentence": "A mí me gusta el picante; mi hermana, en cambio, no tolera el chile.",
+    "example_translation": "I like spicy food; my sister, on the other hand, can't handle chili.",
+    "audio_file": "B2/unit-04/en-cambio.mp3",
+    "tags": ["connector", "contrast", "neutral"]
+  },
+  {
+    "id": "B2-U04-V012",
+    "word": "si bien",
+    "translation": "while / although / even though (formal)",
+    "pronunciation_hint": "see BYEHN",
+    "part_of_speech": "conjunction (concession — formal register)",
+    "example_sentence": "Si bien el proceso es largo, los resultados valen la pena.",
+    "example_translation": "While the process is long, the results are worth it.",
+    "audio_file": "B2/unit-04/si-bien.mp3",
+    "tags": ["connector", "concession", "formal", "writing"]
+  }
+]

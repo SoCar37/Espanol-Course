@@ -1,0 +1,167 @@
+[
+  {
+    "id": "B2-U01-V001",
+    "word": "quisiera",
+    "translation": "I would like / could I (polite form of querer)",
+    "pronunciation_hint": "kee-SYEH-rah",
+    "part_of_speech": "verb (past subjunctive of querer)",
+    "example_sentence": "Quisiera pedirle un favor.",
+    "example_translation": "I would like to ask you a favor.",
+    "audio_file": "B2/unit-01/quisiera.mp3",
+    "tags": ["past-subjunctive", "polite", "essential", "mexico"]
+  },
+  {
+    "id": "B2-U01-V002",
+    "word": "pudiera",
+    "translation": "could / were able to (past subjunctive of poder)",
+    "pronunciation_hint": "poo-DYEH-rah",
+    "part_of_speech": "verb (past subjunctive of poder)",
+    "example_sentence": "¿Pudiera ayudarme con esto?",
+    "example_translation": "Could you help me with this?",
+    "audio_file": "B2/unit-01/pudiera.mp3",
+    "tags": ["past-subjunctive", "polite", "essential"]
+  },
+  {
+    "id": "B2-U01-V003",
+    "word": "fuera",
+    "translation": "were / went (past subjunctive of ser/ir)",
+    "pronunciation_hint": "FWEH-rah",
+    "part_of_speech": "verb (past subjunctive of ser/ir)",
+    "example_sentence": "Habla como si fuera experto.",
+    "example_translation": "He talks as if he were an expert.",
+    "audio_file": "B2/unit-01/fuera.mp3",
+    "tags": ["past-subjunctive", "irregular", "essential"]
+  },
+  {
+    "id": "B2-U01-V004",
+    "word": "tuviera",
+    "translation": "had (past subjunctive of tener)",
+    "pronunciation_hint": "too-BYEH-rah",
+    "part_of_speech": "verb (past subjunctive of tener)",
+    "example_sentence": "Ojalá tuviera más tiempo libre.",
+    "example_translation": "I wish I had more free time.",
+    "audio_file": "B2/unit-01/tuviera.mp3",
+    "tags": ["past-subjunctive", "irregular", "essential"]
+  },
+  {
+    "id": "B2-U01-V005",
+    "word": "como si",
+    "translation": "as if / as though",
+    "pronunciation_hint": "KOH-moh see",
+    "part_of_speech": "conjunction (always triggers past subjunctive)",
+    "example_sentence": "Gastaba como si no hubiera mañana.",
+    "example_translation": "He spent money as if there were no tomorrow.",
+    "audio_file": "B2/unit-01/como-si.mp3",
+    "tags": ["past-subjunctive", "trigger", "essential"]
+  },
+  {
+    "id": "B2-U01-V006",
+    "word": "ojala (+ past subj.)",
+    "translation": "I wish... / if only...",
+    "pronunciation_hint": "oh-hah-LAH",
+    "part_of_speech": "interjection (triggers past subjunctive for present wishes)",
+    "example_sentence": "Ojalá supiera hablar chino.",
+    "example_translation": "I wish I knew how to speak Chinese.",
+    "audio_file": "B2/unit-01/ojala-past.mp3",
+    "tags": ["past-subjunctive", "trigger", "essential", "mexico"]
+  },
+  {
+    "id": "B2-U01-V007",
+    "word": "me pidió que",
+    "translation": "he/she asked me to",
+    "pronunciation_hint": "meh pee-DYOH keh",
+    "part_of_speech": "phrase (triggers past subjunctive)",
+    "example_sentence": "Me pidió que llegara temprano.",
+    "example_translation": "She asked me to arrive early.",
+    "audio_file": "B2/unit-01/me-pidio-que.mp3",
+    "tags": ["past-subjunctive", "trigger", "essential"]
+  },
+  {
+    "id": "B2-U01-V008",
+    "word": "supiera",
+    "translation": "knew (past subjunctive of saber)",
+    "pronunciation_hint": "soo-PYEH-rah",
+    "part_of_speech": "verb (past subjunctive of saber)",
+    "example_sentence": "No sabía que supiera cocinar tan bien.",
+    "example_translation": "I didn't know she knew how to cook so well.",
+    "audio_file": "B2/unit-01/supiera.mp3",
+    "tags": ["past-subjunctive", "irregular"]
+  },
+  {
+    "id": "B2-U01-V009",
+    "word": "dijera",
+    "translation": "said / would say (past subjunctive of decir)",
+    "pronunciation_hint": "dee-HEH-rah",
+    "part_of_speech": "verb (past subjunctive of decir)",
+    "example_sentence": "Esperaba que me dijera la verdad.",
+    "example_translation": "I was hoping he would tell me the truth.",
+    "audio_file": "B2/unit-01/dijera.mp3",
+    "tags": ["past-subjunctive", "irregular"]
+  },
+  {
+    "id": "B2-U01-V010",
+    "word": "hiciera",
+    "translation": "did / made (past subjunctive of hacer)",
+    "pronunciation_hint": "ee-SYEH-rah",
+    "part_of_speech": "verb (past subjunctive of hacer)",
+    "example_sentence": "Quería que lo hicieras tú.",
+    "example_translation": "I wanted you to do it.",
+    "audio_file": "B2/unit-01/hiciera.mp3",
+    "tags": ["past-subjunctive", "irregular"]
+  },
+  {
+    "id": "B2-U01-V011",
+    "word": "estuviera",
+    "translation": "was / were (past subjunctive of estar)",
+    "pronunciation_hint": "ehs-too-BYEH-rah",
+    "part_of_speech": "verb (past subjunctive of estar)",
+    "example_sentence": "Me alegré de que estuvieras bien.",
+    "example_translation": "I was glad you were okay.",
+    "audio_file": "B2/unit-01/estuviera.mp3",
+    "tags": ["past-subjunctive", "irregular"]
+  },
+  {
+    "id": "B2-U01-V012",
+    "word": "viniera",
+    "translation": "came (past subjunctive of venir)",
+    "pronunciation_hint": "bee-NYEH-rah",
+    "part_of_speech": "verb (past subjunctive of venir)",
+    "example_sentence": "Esperaba que viniera a la fiesta.",
+    "example_translation": "I was hoping he would come to the party.",
+    "audio_file": "B2/unit-01/viniera.mp3",
+    "tags": ["past-subjunctive", "irregular"]
+  },
+  {
+    "id": "B2-U01-V013",
+    "word": "era necesario que",
+    "translation": "it was necessary that",
+    "pronunciation_hint": "EH-rah neh-seh-SAH-ryoh keh",
+    "part_of_speech": "phrase (triggers past subjunctive)",
+    "example_sentence": "Era necesario que todos firmaran el documento.",
+    "example_translation": "It was necessary for everyone to sign the document.",
+    "audio_file": "B2/unit-01/era-necesario-que.mp3",
+    "tags": ["past-subjunctive", "trigger", "formal"]
+  },
+  {
+    "id": "B2-U01-V014",
+    "word": "hubiera",
+    "translation": "had (past subjunctive of haber — used in perfect subjunctive)",
+    "pronunciation_hint": "oo-BYEH-rah",
+    "part_of_speech": "verb (past subjunctive of haber)",
+    "example_sentence": "Ojalá hubiera llegado antes.",
+    "example_translation": "I wish I had arrived earlier.",
+    "audio_file": "B2/unit-01/hubiera.mp3",
+    "tags": ["past-subjunctive", "perfect", "essential"]
+  },
+  {
+    "id": "B2-U01-V015",
+    "word": "cortesía",
+    "translation": "courtesy / politeness",
+    "pronunciation_hint": "kor-teh-SEE-ah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "En México la cortesía es muy importante.",
+    "example_translation": "In Mexico, politeness is very important.",
+    "audio_file": "B2/unit-01/cortesia.mp3",
+    "tags": ["culture", "mexico", "social"]
+  }
+]

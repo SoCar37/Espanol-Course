@@ -60,7 +60,28 @@ const COURSE_STRUCTURE = [
       { id: 'unit-12-review',            title: 'B1 Review & Checkpoint' },
     ],
   },
-  { level: 'B2', title: 'Advanced Expression', description: 'Subjunctive mastery, complex grammar, cultural context, debate & persuasion', color: 'from-rose-500 to-orange-500', units: [], comingSoon: true },
+  {
+    level: 'B2',
+    title: 'Advanced Expression',
+    description: 'Subjunctive mastery, complex grammar, cultural context, debate & persuasion',
+    color: 'from-rose-500 to-orange-500',
+    units: [
+      { id: 'unit-01-subjunctive-past',     title: 'Past Subjunctive' },
+      { id: 'unit-02-subjunctive-advanced', title: 'Advanced Subjunctive Uses' },
+      { id: 'unit-03-if-clauses',           title: 'If-Clauses (Si Clauses)' },
+      { id: 'unit-04-complex-sentences',    title: 'Complex Sentences & Connectors' },
+      { id: 'unit-05-vocabulary-expansion', title: 'Vocabulary Expansion Strategies' },
+      { id: 'unit-06-media-culture',        title: 'Mexican Media & Pop Culture' },
+      { id: 'unit-07-argumentation',        title: 'Argumentation & Persuasion' },
+      { id: 'unit-08-nuanced-expressions',  title: 'Nuanced Expressions & Register' },
+      { id: 'unit-09-literature',           title: 'Mexican Literature & Poetry' },
+      { id: 'unit-10-business-spanish',     title: 'Business Spanish' },
+      { id: 'unit-11-social-issues',        title: 'Social Issues & Current Events' },
+      { id: 'unit-12-review',               title: 'B2 Review & Checkpoint' },
+    ],
+    partialContent: true,
+    availableUnits: 4,
+  },
   { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
 ]
 
@@ -87,6 +108,11 @@ export default function CourseMapPage() {
                   </div>
                 </div>
                 {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
+                {levelData.partialContent && (
+                  <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">
+                    {levelData.availableUnits}/{levelData.units.length} units available
+                  </span>
+                )}
               </div>
               {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
@@ -94,8 +120,14 @@ export default function CourseMapPage() {
                     const unitKey = `${levelData.level}-${unit.id}`
                     const progress = getUnitProgress(unitKey)
                     const isComplete = !!progress?.complete
+
+                    // Determine if unit has content yet (for partial levels)
+                    const hasContent = !levelData.partialContent || index < levelData.availableUnits
+
                     let isAvailable = false
-                    if (levelData.level === 'A2' && index === 0) {
+                    if (!hasContent) {
+                      isAvailable = false
+                    } else if (levelData.level === 'A2' && index === 0) {
                       const lastA1Key = 'A1-unit-10-review'
                       const lastA1Progress = getUnitProgress(lastA1Key)
                       isAvailable = !!lastA1Progress?.complete
@@ -103,16 +135,34 @@ export default function CourseMapPage() {
                       const lastA2Key = 'A2-unit-12-review'
                       const lastA2Progress = getUnitProgress(lastA2Key)
                       isAvailable = !!lastA2Progress?.complete
+                    } else if (levelData.level === 'B2' && index === 0) {
+                      const lastB1Key = 'B1-unit-12-review'
+                      const lastB1Progress = getUnitProgress(lastB1Key)
+                      isAvailable = !!lastB1Progress?.complete
                     } else if (index === 0) {
                       isAvailable = true
                     } else {
                       const prevUnit = levelData.units[index - 1]
-                      const prevKey = `${levelData.level}-${prevUnit.id}`
-                      const prevProgress = getUnitProgress(prevKey)
-                      isAvailable = !!prevProgress?.complete
+                      const prevHasContent = !levelData.partialContent || (index - 1) < levelData.availableUnits
+                      if (!prevHasContent) {
+                        isAvailable = false
+                      } else {
+                        const prevKey = `${levelData.level}-${prevUnit.id}`
+                        const prevProgress = getUnitProgress(prevKey)
+                        isAvailable = !!prevProgress?.complete
+                      }
                     }
+
                     return (
-                      <UnitCard key={unit.id} level={levelData.level} unit={unit} isAvailable={isAvailable} isComplete={isComplete} progress={progress} />
+                      <UnitCard
+                        key={unit.id}
+                        level={levelData.level}
+                        unit={unit}
+                        isAvailable={isAvailable}
+                        isComplete={isComplete}
+                        progress={progress}
+                        hasContent={hasContent}
+                      />
                     )
                   })}
                 </div>
@@ -125,7 +175,19 @@ export default function CourseMapPage() {
   )
 }
 
-function UnitCard({ level, unit, isAvailable, isComplete, progress }) {
+function UnitCard({ level, unit, isAvailable, isComplete, progress, hasContent }) {
+  if (!hasContent) {
+    return (
+      <div
+        className="group relative flex flex-col gap-2 p-4 rounded-xl border-2 bg-surface-main border-white/5 cursor-not-allowed opacity-40"
+        aria-label={`${unit.title} — coming soon`}
+      >
+        <span className="text-lg" aria-hidden="true">🔜</span>
+        <span className="text-sm font-medium leading-tight text-content-secondary">{unit.title}</span>
+      </div>
+    )
+  }
+
   const CardWrapper = isAvailable ? Link : 'div'
   const linkProps = isAvailable ? { to: `/lesson/${level}/${unit.id}` } : {}
   return (

@@ -1,0 +1,15 @@
+{
+  "id": "B2-U02",
+  "title": "Advanced Subjunctive Uses",
+  "level": "B2",
+  "unit": 2,
+  "slug": "subjunctive-advanced",
+  "estimated_minutes": 40,
+  "topics": ["subjunctive with adverbial clauses", "subjunctive vs indicative", "subjunctive in relative clauses", "sequence of tenses"],
+  "prereqs": ["B2-U01"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.0"
+}

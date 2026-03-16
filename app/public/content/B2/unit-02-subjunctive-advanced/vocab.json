@@ -1,0 +1,168 @@
+[
+  {
+    "id": "B2-U02-V001",
+    "word": "para que",
+    "translation": "so that / in order that",
+    "pronunciation_hint": "PAH-rah keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Te llamo para que no te pierdas.",
+    "example_translation": "I'm calling you so you don't get lost.",
+    "audio_file": "B2/unit-02/para-que.mp3",
+    "tags": ["subjunctive", "conjunction", "purpose", "essential"]
+  },
+  {
+    "id": "B2-U02-V002",
+    "word": "aunque",
+    "translation": "although / even though / even if",
+    "pronunciation_hint": "OWN-keh",
+    "part_of_speech": "conjunction (indicative = fact, subjunctive = hypothesis)",
+    "example_sentence": "Aunque llueva, saldré de casa.",
+    "example_translation": "Even if it rains, I'll leave the house.",
+    "audio_file": "B2/unit-02/aunque.mp3",
+    "tags": ["subjunctive", "indicative", "conjunction", "essential"]
+  },
+  {
+    "id": "B2-U02-V003",
+    "word": "cuando (+ subj.)",
+    "translation": "when (future/hypothetical use)",
+    "pronunciation_hint": "KWAHN-doh",
+    "part_of_speech": "conjunction (future/hypothetical → subjunctive; past → indicative)",
+    "example_sentence": "Avísame cuando llegues.",
+    "example_translation": "Let me know when you arrive.",
+    "audio_file": "B2/unit-02/cuando-subj.mp3",
+    "tags": ["subjunctive", "time-clause", "essential"]
+  },
+  {
+    "id": "B2-U02-V004",
+    "word": "hasta que",
+    "translation": "until",
+    "pronunciation_hint": "AHS-tah keh",
+    "part_of_speech": "conjunction (future → subjunctive; past → indicative)",
+    "example_sentence": "No me voy hasta que termines.",
+    "example_translation": "I'm not leaving until you finish.",
+    "audio_file": "B2/unit-02/hasta-que.mp3",
+    "tags": ["subjunctive", "time-clause", "essential"]
+  },
+  {
+    "id": "B2-U02-V005",
+    "word": "antes de que",
+    "translation": "before",
+    "pronunciation_hint": "AHN-tehs deh keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Guarda el archivo antes de que se cierre.",
+    "example_translation": "Save the file before it closes.",
+    "audio_file": "B2/unit-02/antes-de-que.mp3",
+    "tags": ["subjunctive", "time-clause", "essential"]
+  },
+  {
+    "id": "B2-U02-V006",
+    "word": "en cuanto",
+    "translation": "as soon as",
+    "pronunciation_hint": "ehn KWAHN-toh",
+    "part_of_number": "conjunction (future → subjunctive; past → indicative)",
+    "part_of_speech": "conjunction",
+    "example_sentence": "Te escribo en cuanto llegue.",
+    "example_translation": "I'll write to you as soon as I arrive.",
+    "audio_file": "B2/unit-02/en-cuanto.mp3",
+    "tags": ["subjunctive", "time-clause"]
+  },
+  {
+    "id": "B2-U02-V007",
+    "word": "después de que",
+    "translation": "after",
+    "pronunciation_hint": "dehs-PWEHS deh keh",
+    "part_of_speech": "conjunction (future → subjunctive; past → indicative)",
+    "example_sentence": "Llámame después de que hables con ella.",
+    "example_translation": "Call me after you talk to her.",
+    "audio_file": "B2/unit-02/despues-de-que.mp3",
+    "tags": ["subjunctive", "time-clause"]
+  },
+  {
+    "id": "B2-U02-V008",
+    "word": "a menos que",
+    "translation": "unless",
+    "pronunciation_hint": "ah MEH-nohs keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Voy a la fiesta a menos que llueva.",
+    "example_translation": "I'm going to the party unless it rains.",
+    "audio_file": "B2/unit-02/a-menos-que.mp3",
+    "tags": ["subjunctive", "conjunction", "essential"]
+  },
+  {
+    "id": "B2-U02-V009",
+    "word": "con tal de que",
+    "translation": "as long as / provided that",
+    "pronunciation_hint": "kon tahl deh keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Está bien, con tal de que llegues antes de las 10.",
+    "example_translation": "That's fine, as long as you arrive before 10.",
+    "audio_file": "B2/unit-02/con-tal-de-que.mp3",
+    "tags": ["subjunctive", "conjunction"]
+  },
+  {
+    "id": "B2-U02-V010",
+    "word": "sin que",
+    "translation": "without (someone doing something)",
+    "pronunciation_hint": "seen keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Salió sin que nadie lo notara.",
+    "example_translation": "He left without anyone noticing.",
+    "audio_file": "B2/unit-02/sin-que.mp3",
+    "tags": ["subjunctive", "conjunction"]
+  },
+  {
+    "id": "B2-U02-V011",
+    "word": "siempre que",
+    "translation": "whenever / as long as",
+    "pronunciation_hint": "SYEHM-preh keh",
+    "part_of_speech": "conjunction (habitual → indicative; condition → subjunctive)",
+    "example_sentence": "Siempre que pueda, te ayudaré.",
+    "example_translation": "Whenever I can, I'll help you.",
+    "audio_file": "B2/unit-02/siempre-que.mp3",
+    "tags": ["subjunctive", "conjunction"]
+  },
+  {
+    "id": "B2-U02-V012",
+    "word": "no creo que",
+    "translation": "I don't think that (triggers subjunctive)",
+    "pronunciation_hint": "noh KREH-oh keh",
+    "part_of_speech": "phrase (doubt/denial triggers subjunctive)",
+    "example_sentence": "No creo que sea tan fácil.",
+    "example_translation": "I don't think it's that easy.",
+    "audio_file": "B2/unit-02/no-creo-que.mp3",
+    "tags": ["subjunctive", "doubt", "essential"]
+  },
+  {
+    "id": "B2-U02-V013",
+    "word": "a fin de que",
+    "translation": "in order that / so that (formal)",
+    "pronunciation_hint": "ah feen deh keh",
+    "part_of_speech": "conjunction (always triggers subjunctive, formal register)",
+    "example_sentence": "Lo explico detalladamente a fin de que lo entiendan.",
+    "example_translation": "I explain it in detail so that they understand it.",
+    "audio_file": "B2/unit-02/a-fin-de-que.mp3",
+    "tags": ["subjunctive", "formal", "conjunction"]
+  },
+  {
+    "id": "B2-U02-V014",
+    "word": "indicativo vs. subjuntivo",
+    "translation": "indicative vs. subjunctive",
+    "pronunciation_hint": "een-dee-kah-TEE-boh / soob-HOON-tee-boh",
+    "part_of_speech": "grammar terms",
+    "example_sentence": "El modo que usas cambia el significado.",
+    "example_translation": "The mood you use changes the meaning.",
+    "audio_file": "B2/unit-02/indicativo-subjuntivo.mp3",
+    "tags": ["grammar", "meta"]
+  },
+  {
+    "id": "B2-U02-V015",
+    "word": "la secuencia de tiempos",
+    "translation": "sequence of tenses",
+    "pronunciation_hint": "lah seh-KWEHN-syah deh TYEHM-pohs",
+    "part_of_speech": "grammar term",
+    "example_sentence": "La secuencia de tiempos determina si usas el presente o el pasado de subjuntivo.",
+    "example_translation": "The sequence of tenses determines whether you use the present or past subjunctive.",
+    "audio_file": "B2/unit-02/secuencia-tiempos.mp3",
+    "tags": ["grammar", "meta"]
+  }
+]

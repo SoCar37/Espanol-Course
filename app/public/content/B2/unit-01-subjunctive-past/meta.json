@@ -1,0 +1,15 @@
+{
+  "id": "B2-U01",
+  "title": "Past Subjunctive",
+  "level": "B2",
+  "unit": 1,
+  "slug": "subjunctive-past",
+  "estimated_minutes": 40,
+  "topics": ["past subjunctive", "imperfect subjunctive", "hypothetical past", "formal requests"],
+  "prereqs": ["B1-U12"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.0"
+}

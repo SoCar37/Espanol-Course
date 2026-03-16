@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U03-V001",
+    "word": "si (condicional)",
+    "translation": "if (conditional)",
+    "pronunciation_hint": "see",
+    "part_of_speech": "conjunction",
+    "example_sentence": "Si tienes hambre, hay comida en la cocina.",
+    "example_translation": "If you're hungry, there's food in the kitchen.",
+    "audio_file": "B2/unit-03/si-condicional.mp3",
+    "tags": ["si-clause", "conditional", "essential"]
+  },
+  {
+    "id": "B2-U03-V002",
+    "word": "hubiera + participio",
+    "translation": "had + past participle (past perfect subjunctive)",
+    "pronunciation_hint": "oo-BYEH-rah",
+    "part_of_speech": "verb construction (past perfect subjunctive)",
+    "example_sentence": "Si hubiera sabido, no habría venido.",
+    "example_translation": "If I had known, I wouldn't have come.",
+    "audio_file": "B2/unit-03/hubiera-participio.mp3",
+    "tags": ["si-clause", "past-perfect-subjunctive", "essential"]
+  },
+  {
+    "id": "B2-U03-V003",
+    "word": "en tu lugar",
+    "translation": "in your place / if I were you",
+    "pronunciation_hint": "ehn too LOO-gahr",
+    "part_of_speech": "phrase",
+    "example_sentence": "Si yo estuviera en tu lugar, lo pensaría dos veces.",
+    "example_translation": "If I were in your place, I would think twice.",
+    "audio_file": "B2/unit-03/en-tu-lugar.mp3",
+    "tags": ["si-clause", "advice", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U03-V004",
+    "word": "a no ser que",
+    "translation": "unless / except if",
+    "pronunciation_hint": "ah noh sehr keh",
+    "part_of_speech": "conjunction (always triggers subjunctive)",
+    "example_sentence": "Iré a no ser que me lo impidas.",
+    "example_translation": "I'll go unless you stop me.",
+    "audio_file": "B2/unit-03/a-no-ser-que.mp3",
+    "tags": ["conditional", "conjunction"]
+  },
+  {
+    "id": "B2-U03-V005",
+    "word": "habría",
+    "translation": "there would be / would have (conditional of haber)",
+    "pronunciation_hint": "ah-BREE-ah",
+    "part_of_speech": "verb (conditional of haber)",
+    "example_sentence": "Si hubiera más tiempo, habría más posibilidades.",
+    "example_translation": "If there were more time, there would be more possibilities.",
+    "audio_file": "B2/unit-03/habria.mp3",
+    "tags": ["conditional", "essential"]
+  },
+  {
+    "id": "B2-U03-V006",
+    "word": "de haber + participio",
+    "translation": "had (formal/literary variant of si hubiera)",
+    "pronunciation_hint": "deh ah-BEHR",
+    "part_of_speech": "phrase (formal past perfect condition, no si needed)",
+    "example_sentence": "De haberlo sabido, no habría ido.",
+    "example_translation": "Had I known it, I would not have gone.",
+    "audio_file": "B2/unit-03/de-haber.mp3",
+    "tags": ["si-clause", "formal", "advanced"]
+  },
+  {
+    "id": "B2-U03-V007",
+    "word": "¿y si...?",
+    "translation": "what if...? / how about if...?",
+    "pronunciation_hint": "ee see",
+    "part_of_speech": "phrase (informal suggestion)",
+    "example_sentence": "¿Y si pedimos pizza esta noche?",
+    "example_translation": "What if we order pizza tonight?",
+    "audio_file": "B2/unit-03/y-si.mp3",
+    "tags": ["colloquial", "suggestion", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U03-V008",
+    "word": "imagínate que",
+    "translation": "imagine that / what if",
+    "pronunciation_hint": "ee-mah-HEE-nah-teh keh",
+    "part_of_speech": "phrase (triggers past or present subjunctive)",
+    "example_sentence": "Imagínate que pudieras vivir en cualquier país.",
+    "example_translation": "Imagine you could live in any country.",
+    "audio_file": "B2/unit-03/imaginate-que.mp3",
+    "tags": ["hypothetical", "conversational", "mexico"]
+  },
+  {
+    "id": "B2-U03-V009",
+    "word": "por si acaso",
+    "translation": "just in case",
+    "pronunciation_hint": "por see ah-KAH-soh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Lleva un paraguas por si acaso llueve.",
+    "example_translation": "Bring an umbrella just in case it rains.",
+    "audio_file": "B2/unit-03/por-si-acaso.mp3",
+    "tags": ["conditional", "colloquial", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U03-V010",
+    "word": "el condicional perfecto",
+    "translation": "the conditional perfect (habría + past participle)",
+    "pronunciation_hint": "el kon-dee-syoh-NAHL per-FEK-toh",
+    "part_of_speech": "grammar term",
+    "example_sentence": "Habría venido si me hubieras avisado.",
+    "example_translation": "I would have come if you had warned me.",
+    "audio_file": "B2/unit-03/condicional-perfecto.mp3",
+    "tags": ["grammar", "conditional-perfect", "essential"]
+  },
+  {
+    "id": "B2-U03-V011",
+    "word": "tocarle la lotería",
+    "translation": "to win the lottery",
+    "pronunciation_hint": "toh-KAR-leh lah loh-teh-REE-ah",
+    "part_of_speech": "idiomatic phrase",
+    "example_sentence": "¿Qué harías si te tocara la lotería?",
+    "example_translation": "What would you do if you won the lottery?",
+    "audio_file": "B2/unit-03/tocar-loteria.mp3",
+    "tags": ["idiom", "hypothetical", "mexico", "conversation"]
+  },
+  {
+    "id": "B2-U03-V012",
+    "word": "con que / con tal que",
+    "translation": "as long as / provided that",
+    "pronunciation_hint": "kon keh / kon tahl keh",
+    "part_of_speech": "conjunction (triggers subjunctive)",
+    "example_sentence": "Con que llegues a tiempo, todo estará bien.",
+    "example_translation": "As long as you arrive on time, everything will be fine.",
+    "audio_file": "B2/unit-03/con-que.mp3",
+    "tags": ["conditional", "conjunction"]
+  }
+]

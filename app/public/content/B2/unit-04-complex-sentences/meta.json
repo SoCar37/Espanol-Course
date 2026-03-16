@@ -1,0 +1,15 @@
+{
+  "id": "B2-U04",
+  "title": "Complex Sentences & Connectors",
+  "level": "B2",
+  "unit": 4,
+  "slug": "complex-sentences",
+  "estimated_minutes": 40,
+  "topics": ["discourse connectors", "cohesion", "linking ideas", "contrast", "cause and effect", "elaboration", "written vs spoken register"],
+  "prereqs": ["B2-U03"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.0"
+}

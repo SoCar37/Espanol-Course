@@ -1,0 +1,15 @@
+{
+  "id": "B2-U03",
+  "title": "If-Clauses (Si Clauses)",
+  "level": "B2",
+  "unit": 3,
+  "slug": "if-clauses",
+  "estimated_minutes": 40,
+  "topics": ["si clauses", "real conditionals", "hypothetical conditionals", "contrary-to-fact", "mixed conditionals"],
+  "prereqs": ["B2-U01", "B2-U02"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.0"
+}

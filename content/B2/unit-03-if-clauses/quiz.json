@@ -1,0 +1,111 @@
+{
+  "id": "B2-U03-Q",
+  "title": "Si Clauses Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U03-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which tense combination is correct for a Type 2 (hypothetical) conditional?",
+      "options": [
+        "si + present indicative + future",
+        "si + past subjunctive + conditional",
+        "si + present subjunctive + conditional",
+        "si + past perfect subjunctive + conditional perfect"
+      ],
+      "answer": 1,
+      "explanation": "Type 2 hypothetical: si + past subjunctive + conditional. For example: 'Si tuviera dinero, viajaría.'"
+    },
+    {
+      "id": "B2-U03-Q002",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Si ___ (saber, nosotros) cocinar, ___ (hacer) la cena en casa.'",
+      "options": [
+        "supimos / haríamos",
+        "supiéramos / haríamos",
+        "sabemos / haríamos",
+        "supiéramos / haremos"
+      ],
+      "answer": 1,
+      "explanation": "Type 2 hypothetical: si + past subjunctive (supiéramos) + conditional (haríamos). Implies we don't know how to cook."
+    },
+    {
+      "id": "B2-U03-Q003",
+      "type": "multiple_choice",
+      "prompt": "What type of conditional is: 'Si hubiera llegado antes, habría visto el partido.'?",
+      "options": [
+        "Type 1 — real",
+        "Type 2 — hypothetical",
+        "Type 3 — contrary to past fact",
+        "Mixed conditional"
+      ],
+      "answer": 2,
+      "explanation": "Type 3: si + past perfect subjunctive (hubiera llegado) + conditional perfect (habría visto). The event didn't happen — the person didn't arrive in time."
+    },
+    {
+      "id": "B2-U03-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct Mexican Spanish phrase for an informal suggestion?",
+      "options": [
+        "Si vamos al cine esta noche.",
+        "¿Y si vamos al cine esta noche?",
+        "Cuando vayamos al cine esta noche.",
+        "Para que vayamos al cine."
+      ],
+      "answer": 1,
+      "explanation": "'¿Y si + present indicative?' is the common Mexican Spanish formula for casual suggestions, equivalent to 'What if we...' or 'How about we...'"
+    },
+    {
+      "id": "B2-U03-Q005",
+      "type": "multiple_choice",
+      "prompt": "Why is 'Si tengas tiempo, llámame' INCORRECT?",
+      "options": [
+        "You should use the future tense: tendrás",
+        "The present subjunctive is never used after 'si' in conditional sentences",
+        "It should be 'si tuvieras' because time is hypothetical",
+        "You cannot use 'llamar' in conditional sentences"
+      ],
+      "answer": 1,
+      "explanation": "The present subjunctive (tengas) is never used after 'si' in conditional clauses. Use present indicative (tienes) for real Type 1 conditions or past subjunctive (tuvieras) for hypothetical Type 2."
+    },
+    {
+      "id": "B2-U03-Q006",
+      "type": "multiple_choice",
+      "prompt": "Identify the Type 1 conditional:",
+      "options": [
+        "Si estudiaras más, sacarías mejores notas.",
+        "Si estudias más, sacarás mejores notas.",
+        "Si hubieras estudiado más, habrías sacado mejores notas.",
+        "Si estudiaras más, habrías sacado mejores notas."
+      ],
+      "answer": 1,
+      "explanation": "Type 1: si + present indicative (estudias) + future (sacarás). This is a real, likely conditional — if you study more, you will get better grades."
+    },
+    {
+      "id": "B2-U03-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses a mixed conditional (past condition → present result)?",
+      "options": [
+        "Si hubiera estudiado medicina, sería médica ahora.",
+        "Si estudiaré medicina, soy médica.",
+        "Si estudiara medicina, sería médica.",
+        "Si estudié medicina, fui médica."
+      ],
+      "answer": 0,
+      "explanation": "Mixed: si + past perfect subjunctive (hubiera estudiado — past condition) + conditional (sería — present result). She didn't study medicine in the past, so she isn't a doctor now."
+    },
+    {
+      "id": "B2-U03-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'por si acaso' mean in Mexican Spanish?",
+      "options": [
+        "Because of the case",
+        "Just in case",
+        "If it happens",
+        "In that case"
+      ],
+      "answer": 1,
+      "explanation": "'Por si acaso' is a very common Mexican Spanish expression meaning 'just in case'. It is used when taking a precaution without being sure the situation will arise."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "B2-U02-Q",
+  "title": "Advanced Subjunctive Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U02-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which conjunction ALWAYS triggers the subjunctive, with no exceptions?",
+      "options": ["aunque", "cuando", "antes de que", "mientras"],
+      "answer": 2,
+      "explanation": "'Antes de que' always requires the subjunctive because 'before' inherently refers to something that has not yet happened. The others alternate between indicative and subjunctive depending on context."
+    },
+    {
+      "id": "B2-U02-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct form: 'Esperé ___ (hasta que) ella ___.'",
+      "options": ["hasta que / llegue", "hasta que / llegó", "hasta que / llegara", "hasta que / llega"],
+      "answer": 1,
+      "explanation": "The waiting already happened (past: 'esperé'), and the arrival also happened (past event). 'Hasta que' with a completed past event takes the indicative preterite: 'llegó'."
+    },
+    {
+      "id": "B2-U02-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does this sentence mean? 'Aunque sepa la respuesta, no la diga.'",
+      "options": [
+        "Although he knows the answer, he doesn't say it.",
+        "Even if he knows the answer, he shouldn't say it.",
+        "He knows the answer and says it.",
+        "He doesn't know the answer."
+      ],
+      "answer": 1,
+      "explanation": "'Aunque + subjunctive' expresses a hypothetical concession: even IF he knows it. It doesn't confirm whether he actually knows it."
+    },
+    {
+      "id": "B2-U02-Q004",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Busco a alguien que ___ (poder) traducir este documento.'",
+      "options": ["puede", "pudo", "pueda", "podría"],
+      "answer": 2,
+      "explanation": "Searching for an unknown/hypothetical person triggers the subjunctive: 'pueda'. The subjunctive signals that you don't know yet if such a person exists."
+    },
+    {
+      "id": "B2-U02-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'para que'?",
+      "options": [
+        "Lo hice para que aprendas.",
+        "Lo hice para que aprendes.",
+        "Lo hice para que aprendiste.",
+        "Lo hice para que aprenderás."
+      ],
+      "answer": 0,
+      "explanation": "'Para que' always triggers the subjunctive. 'Aprendas' is the present subjunctive of aprender (tú form)."
+    },
+    {
+      "id": "B2-U02-Q006",
+      "type": "multiple_choice",
+      "prompt": "Apply sequence of tenses: 'Quiero que ___' vs 'Quería que ___' (venir, tú)",
+      "options": [
+        "vengas / vinieras",
+        "vengas / vengas",
+        "vinieras / vinieras",
+        "vienes / venías"
+      ],
+      "answer": 0,
+      "explanation": "Present trigger (quiero) → present subjunctive (vengas). Past trigger (quería) → past subjunctive (vinieras). This is the sequence-of-tenses rule."
+    },
+    {
+      "id": "B2-U02-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly expresses a hypothetical concession?",
+      "options": [
+        "Aunque tiene mucho dinero, no es feliz. (He has money — fact)",
+        "Aunque tenga mucho dinero, no será feliz. (even if he has money — hypothesis)",
+        "Sentence A uses subjunctive",
+        "Both sentences use the same mood"
+      ],
+      "answer": 1,
+      "explanation": "Sentence B uses the subjunctive ('tenga') for a hypothetical scenario — even IF he has money (we're not saying he does). Sentence A uses the indicative ('tiene') as a factual statement."
+    },
+    {
+      "id": "B2-U02-Q008",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Avísame en cuanto ___ (terminar, tú) el proyecto.'",
+      "options": ["terminas", "terminaste", "termines", "terminarás"],
+      "answer": 2,
+      "explanation": "'En cuanto' (as soon as) with a future event requires the subjunctive: 'termines'. You are asking someone to notify you when a future event happens."
+    }
+  ]
+}

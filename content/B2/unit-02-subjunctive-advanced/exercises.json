@@ -1,0 +1,109 @@
+[
+  {
+    "id": "B2-U02-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct mood: 'Llámame cuando ___ (llegar, tú) a casa.'",
+    "options": [
+      "llegas",
+      "llegaste",
+      "llegues",
+      "llegarás"
+    ],
+    "answer": 2,
+    "explanation": "'Cuando' with a future event requires the subjunctive: 'llegues'. Using the indicative 'llegas' would imply a habitual or past action."
+  },
+  {
+    "id": "B2-U02-E002",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between these two sentences? A) 'Aunque está lloviendo, salgo.' B) 'Aunque esté lloviendo, salgo.'",
+    "options": [
+      "No difference — both are correct",
+      "A = it is currently raining (fact); B = even if it might rain (hypothesis)",
+      "A = future; B = past",
+      "A is informal; B is formal"
+    ],
+    "answer": 1,
+    "explanation": "With 'aunque': indicative (está) = factual concession — it IS raining. Subjunctive (esté) = hypothetical concession — even IF it rains. The mood changes the meaning."
+  },
+  {
+    "id": "B2-U02-E003",
+    "type": "multiple_choice",
+    "prompt": "Complete: 'Te mando el documento para que lo ___ (revisar, tú).'",
+    "options": [
+      "revisas",
+      "revisaste",
+      "revises",
+      "revisarás"
+    ],
+    "answer": 2,
+    "explanation": "'Para que' always requires the present subjunctive. 'Revises' is the present subjunctive of 'revisar' (tú form). The other options are indicative or future forms, which are incorrect after 'para que'."
+  },
+  {
+    "id": "B2-U02-E004",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses the subjunctive correctly in a relative clause?",
+    "options": [
+      "Busco el restaurante que sirve mole negro. (I know exactly which one)",
+      "Busco un restaurante que sirva mole negro. (I don't know if one exists)",
+      "Busco un restaurante que sirve mole negro. (general search)",
+      "Sentences A and B are both correct"
+    ],
+    "answer": 1,
+    "explanation": "When searching for a hypothetical or unknown entity, use the subjunctive: 'que sirva' (subjunctive). 'El restaurante que sirve' (indicative) refers to a specific, identified restaurant."
+  },
+  {
+    "id": "B2-U02-E005",
+    "type": "multiple_choice",
+    "prompt": "Translate: 'I'll wait until she arrives.' (future context)",
+    "options": [
+      "Esperaré hasta que llega.",
+      "Esperaré hasta que llegará.",
+      "Esperé hasta que llegó.",
+      "Esperaré hasta que llegue."
+    ],
+    "answer": 3,
+    "explanation": "'Hasta que' + future event requires present subjunctive. 'Llegue' is the present subjunctive of 'llegar' (ella). Option A is indicative; B is future indicative — both wrong after 'hasta que' in a future context."
+  },
+  {
+    "id": "B2-U02-E006",
+    "type": "multiple_choice",
+    "prompt": "Complete the sequence of tenses: 'Le ___ (pedir) que ___ (venir).'",
+    "options": [
+      "pido / viene",
+      "pido / venga",
+      "pedí / venga",
+      "pedí / viniera"
+    ],
+    "answer": 3,
+    "explanation": "Past trigger (pedí — preterite) requires the past subjunctive in the subordinate clause: viniera. This is the sequence-of-tenses rule."
+  },
+  {
+    "id": "B2-U02-E007",
+    "type": "multiple_choice",
+    "prompt": "Complete: 'No hay nadie que ___ (saber) la respuesta.'",
+    "options": [
+      "sabe",
+      "sabía",
+      "sepa",
+      "sabrá"
+    ],
+    "answer": 2,
+    "explanation": "After 'no hay nadie que', the subjunctive is required because the person's existence is negated. 'Sepa' is the present subjunctive of 'saber'. 'Sabe' (indicative) would only work if such a person existed."
+  },
+  {
+    "id": "B2-U02-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct purpose clause:",
+    "words": [
+      "Habla",
+      "despacio",
+      "para",
+      "que",
+      "todos",
+      "te",
+      "entiendan."
+    ],
+    "answer": "Habla despacio para que todos te entiendan.",
+    "explanation": "'Para que' is a purpose conjunction that always triggers the subjunctive: 'entiendan'."
+  }
+]

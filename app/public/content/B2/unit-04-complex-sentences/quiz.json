@@ -1,0 +1,86 @@
+{
+  "id": "B2-U04-Q",
+  "title": "Unit 4 Checkpoint Quiz — Complex Sentences & Connectors",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U04-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which connector expresses CONSEQUENCE?",
+      "options": ["sin embargo", "ya que", "por lo tanto", "a pesar de que"],
+      "answer": 2,
+      "explanation": "'Por lo tanto' (therefore) expresses consequence — it introduces a result. 'Sin embargo' = contrast, 'ya que' = cause, 'a pesar de que' = concession."
+    },
+    {
+      "id": "B2-U04-Q002",
+      "type": "multiple_choice",
+      "prompt": "Complete: No es músico ___ médico.",
+      "options": ["pero", "sino", "aunque", "ya que"],
+      "answer": 1,
+      "explanation": "'Sino' is used after a negation to replace/correct: 'No es músico sino médico' = He's not a musician but rather a doctor. 'Pero' would add a contrasting idea, not replace the negated one."
+    },
+    {
+      "id": "B2-U04-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses 'como' correctly as a cause connector?",
+      "options": [
+        "No vine como estaba enfermo.",
+        "Como estaba enfermo, no vine.",
+        "Estaba enfermo como no vine.",
+        "No vine, como estaba enfermo."
+      ],
+      "answer": 1,
+      "explanation": "When 'como' means 'since/because' (cause), it must come at the START of the sentence: 'Como estaba enfermo, no vine.' If it appears mid-sentence, 'como' means 'like/as' or introduces a comparison."
+    },
+    {
+      "id": "B2-U04-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which connector is most appropriate for FORMAL written Spanish?",
+      "options": ["o sea", "así que", "no obstante", "es más"],
+      "answer": 2,
+      "explanation": "'No obstante' (nevertheless) is a formal connector equivalent to 'sin embargo'. 'O sea' and 'es más' are colloquial/neutral, and 'así que' is neutral but informal. For formal writing, prefer 'no obstante', 'por lo tanto', 'asimismo', 'si bien'."
+    },
+    {
+      "id": "B2-U04-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete: Trabajó mucho; ___, no terminó a tiempo.",
+      "options": ["además", "ya que", "sin embargo", "así que"],
+      "answer": 2,
+      "explanation": "The sentence contrasts hard work with the failure to finish — a contrast connector is needed. 'Sin embargo' (however) correctly introduces this contradiction. 'Así que' would introduce a consequence, not a contrast."
+    },
+    {
+      "id": "B2-U04-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'ni siquiera' mean?",
+      "options": ["even so", "not even", "and even", "not always"],
+      "answer": 1,
+      "explanation": "'Ni siquiera' means 'not even' — it adds strong emphasis to a negation. 'No llamó' = he didn't call. 'Ni siquiera llamó' = he didn't even call (stronger, more emphatic)."
+    },
+    {
+      "id": "B2-U04-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which pair of connectors is used to present two balanced contrasting points?",
+      "options": [
+        "primero... luego",
+        "por un lado... por otro lado",
+        "además... también",
+        "ya que... por lo tanto"
+      ],
+      "answer": 1,
+      "explanation": "'Por un lado... por otro lado' (on one hand... on the other hand) is the standard structure for presenting two contrasting aspects of a single issue. 'Primero/luego' sequences events; 'además/también' adds ideas; 'ya que/por lo tanto' links cause and effect."
+    },
+    {
+      "id": "B2-U04-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the sentence that correctly uses 'a pesar de que':",
+      "options": [
+        "A pesar de que llegó tarde, lo perdonamos.",
+        "A pesar de que llegó tarde, ya que lo perdonamos.",
+        "Llegó tarde a pesar de que lo perdonamos.",
+        "A pesar de que, llegó tarde."
+      ],
+      "answer": 0,
+      "explanation": "'A pesar de que' (despite the fact that) introduces a concession — an acknowledged obstacle that doesn't prevent the main action. 'A pesar de que llegó tarde, lo perdonamos' = Despite the fact that he was late, we forgave him."
+    }
+  ]
+}

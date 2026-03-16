@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B2-U03-E001",
+    "type": "multiple_choice",
+    "prompt": "Which Type 1 (real) si-clause is correct?",
+    "options": [
+      "Si tengas tiempo, llámame.",
+      "Si tienes tiempo, llámame.",
+      "Si tuvieras tiempo, llámame.",
+      "Si tendrás tiempo, llámame."
+    ],
+    "answer": 1,
+    "explanation": "Type 1 real conditions use 'si + present indicative': 'si tienes'. Never use the present subjunctive ('tengas') after 'si' in conditionals."
+  },
+  {
+    "id": "B2-U03-E002",
+    "type": "multiple_choice",
+    "prompt": "Complete the Type 2 hypothetical: 'Si yo ___ (ser) tú, ___ (hablar) con ella hoy.'",
+    "options": [
+      "soy / hablaré",
+      "fuera / hablaría",
+      "sería / hablaría",
+      "fuera / hablaré"
+    ],
+    "answer": 1,
+    "explanation": "Type 2 hypothetical: si + past subjunctive (fuera) + conditional (hablaría). This expresses an imaginary condition contrary to present reality."
+  },
+  {
+    "id": "B2-U03-E003",
+    "type": "multiple_choice",
+    "prompt": "Complete the Type 3 (past impossible) sentence: 'Si ___ más, ___ el examen.'",
+    "options": [
+      "estudiaba / aprobé",
+      "estudiara / aprobaría",
+      "hubiera estudiado / habría aprobado",
+      "estudiaría / habría aprobado"
+    ],
+    "answer": 2,
+    "explanation": "Type 3 (past impossible): si + past perfect subjunctive → conditional perfect. 'Si hubiera estudiado / habría aprobado' — the speaker didn't study enough and didn't pass. Option B is Type 2 (hypothetical present), not Type 3."
+  },
+  {
+    "id": "B2-U03-E004",
+    "type": "multiple_choice",
+    "prompt": "What type of conditional is this? 'Si llueve mañana, me quedo en casa.'",
+    "options": [
+      "Type 2 — hypothetical",
+      "Type 3 — contrary to past fact",
+      "Type 1 — real / likely",
+      "Mixed conditional"
+    ],
+    "answer": 2,
+    "explanation": "Type 1: si + present indicative (llueve) + present/future (me quedo). The condition is real — it might genuinely rain tomorrow."
+  },
+  {
+    "id": "B2-U03-E005",
+    "type": "multiple_choice",
+    "prompt": "Translate: 'If I had known about the problem, I would have fixed it.'",
+    "options": [
+      "Si sabía el problema, lo arreglaba.",
+      "Si supiera el problema, lo arreglaría.",
+      "Si hubiera sabido del problema, lo habría arreglado.",
+      "Si supe el problema, lo arreglé."
+    ],
+    "answer": 2,
+    "explanation": "This is a past impossible condition — the speaker didn't know and didn't fix it. Type 3: si + past perfect subjunctive ('hubiera sabido') + conditional perfect ('habría arreglado')."
+  },
+  {
+    "id": "B2-U03-E006",
+    "type": "multiple_choice",
+    "prompt": "Which is WRONG? (Never use this after 'si' in conditionals)",
+    "options": [
+      "Si tuvieras más paciencia...",
+      "Si tenías más paciencia... (habitual past)",
+      "Si tengas más paciencia...",
+      "Si tienes más paciencia..."
+    ],
+    "answer": 2,
+    "explanation": "'Si + present subjunctive' (tengas) is incorrect in conditional sentences. Use indicative for Type 1 or past subjunctive for Type 2."
+  },
+  {
+    "id": "B2-U03-E007",
+    "type": "multiple_choice",
+    "prompt": "What does 'Lleva un paraguas, por si acaso' mean in Mexican Spanish?",
+    "options": [
+      "Bring an umbrella because it is raining.",
+      "Leave the umbrella; it won't rain.",
+      "Take an umbrella, just in case.",
+      "Umbrellas are sold just around the corner."
+    ],
+    "answer": 2,
+    "explanation": "'Por si acaso' is a very common Mexican Spanish fixed expression meaning 'just in case' — used to recommend a precaution for an uncertain but possible situation. It does NOT use a full si clause but is related to the conditional mindset."
+  },
+  {
+    "id": "B2-U03-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a Type 2 conditional:",
+    "words": [
+      "Si",
+      "pudiera",
+      "vivir",
+      "en",
+      "cualquier",
+      "ciudad,",
+      "elegiría",
+      "Ciudad",
+      "de",
+      "México."
+    ],
+    "answer": "Si pudiera vivir en cualquier ciudad, elegiría Ciudad de México.",
+    "explanation": "Type 2: si + past subjunctive (pudiera) + conditional (elegiría). This expresses a hypothetical preference."
+  }
+]

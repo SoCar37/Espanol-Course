@@ -1,0 +1,108 @@
+[
+  {
+    "id": "B2-U01-E001",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses the past subjunctive after a past-tense trigger?",
+    "options": [
+      "Quería que ella viene mañana.",
+      "Quería que ella viniera mañana.",
+      "Quería que ella vino mañana.",
+      "Quería que ella venga mañana."
+    ],
+    "answer": 1,
+    "explanation": "After 'quería que' (past tense trigger), the subordinate verb must be in the past subjunctive: 'viniera'."
+  },
+  {
+    "id": "B2-U01-E002",
+    "type": "multiple_choice",
+    "prompt": "How do you form the past subjunctive stem? Start from the ___.",
+    "options": [
+      "Infinitive, remove -ar/-er/-ir",
+      "Yo form of the present tense",
+      "Ellos/ellas form of the preterite, remove -ron",
+      "Tú form of the imperfect"
+    ],
+    "answer": 2,
+    "explanation": "The past subjunctive stem always comes from the ellos/ellas preterite form. Remove -ron and add the past subjunctive endings. This means all irregular preterites carry over to the past subjunctive."
+  },
+  {
+    "id": "B2-U01-E003",
+    "type": "multiple_choice",
+    "prompt": "Which conjunction ALWAYS requires the past subjunctive, even in present-tense sentences?",
+    "options": [
+      "cuando",
+      "aunque",
+      "como si",
+      "para que"
+    ],
+    "answer": 2,
+    "explanation": "'Como si' (as if) always requires the past subjunctive regardless of the main clause tense. 'Habla como si supiera todo' — even though the main verb is present, 'como si' forces past subjunctive."
+  },
+  {
+    "id": "B2-U01-E004",
+    "type": "multiple_choice",
+    "prompt": "Which phrase always requires the past subjunctive (not the present subjunctive)?",
+    "options": [
+      "Espero que...",
+      "Es importante que...",
+      "Habla como si...",
+      "Ojalá (present wish)..."
+    ],
+    "answer": 2,
+    "explanation": "'Como si' (as if) always triggers the past subjunctive, regardless of the tense of the main verb. The other options can use present subjunctive."
+  },
+  {
+    "id": "B2-U01-E005",
+    "type": "multiple_choice",
+    "prompt": "Translate: 'She asked me to finish the report.'",
+    "options": [
+      "Me pidió que terminé el informe.",
+      "Me pidió que termino el informe.",
+      "Me pidió que terminara el informe.",
+      "Me pide que terminara el informe."
+    ],
+    "answer": 2,
+    "explanation": "'Pidió' (preterite) in the main clause triggers past subjunctive in the subordinate clause. 'Terminara' is the past subjunctive of 'terminar' (yo form). The other options use indicative forms incorrectly."
+  },
+  {
+    "id": "B2-U01-E006",
+    "type": "multiple_choice",
+    "prompt": "Which form is the standard polite way to say 'I'd like a coffee' in a Mexican café?",
+    "options": [
+      "Quiero un café.",
+      "Dame un café.",
+      "Necesito un café.",
+      "Quisiera un café, por favor."
+    ],
+    "answer": 3,
+    "explanation": "'Quisiera' (past subjunctive of querer) is the polite standard in Mexican Spanish service settings. 'Quiero' sounds blunt; 'dame' is a command. 'Quisiera, por favor' is universally expected."
+  },
+  {
+    "id": "B2-U01-E007",
+    "type": "multiple_choice",
+    "prompt": "Choose the sentence that expresses a present wish using the past subjunctive:",
+    "options": [
+      "Ojalá que hablas bien.",
+      "Espero que hables bien.",
+      "Ojalá hablaras mejor.",
+      "Quiero que hablas bien."
+    ],
+    "answer": 2,
+    "explanation": "'Ojalá + past subjunctive' expresses an unfulfilled or unlikely wish about the present: 'I wish you spoke better.' It implies it's currently not the case."
+  },
+  {
+    "id": "B2-U01-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct sentence using 'como si':",
+    "words": [
+      "Gasta",
+      "dinero",
+      "como",
+      "si",
+      "fuera",
+      "millonario."
+    ],
+    "answer": "Gasta dinero como si fuera millonario.",
+    "explanation": "'Como si' (as if) always triggers the past subjunctive. 'Fuera' is the past subjunctive of ser/ir."
+  }
+]

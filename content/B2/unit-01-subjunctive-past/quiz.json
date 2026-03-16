@@ -1,0 +1,91 @@
+{
+  "id": "B2-U01-Q",
+  "title": "Past Subjunctive Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U01-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is the correct past subjunctive of 'tener' (yo form)?",
+      "options": ["tenera", "tuviera", "teniera", "tuvo"],
+      "answer": 1,
+      "explanation": "Tener → preterite ellos: tuvieron → remove -ron → tuvie- → add -ra → tuviera."
+    },
+    {
+      "id": "B2-U01-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        "Mi mamá quería que yo estudié más.",
+        "Mi mamá quería que yo estudiara más.",
+        "Mi mamá quería que yo estudiaré más.",
+        "Mi mamá quería que yo estudiaba más."
+      ],
+      "answer": 1,
+      "explanation": "'Quería que' is a past-tense trigger requiring the past subjunctive 'estudiara'."
+    },
+    {
+      "id": "B2-U01-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which conjunction ALWAYS requires the past subjunctive?",
+      "options": ["para que", "aunque", "como si", "cuando"],
+      "answer": 2,
+      "explanation": "'Como si' (as if) always triggers the past subjunctive, even when the main verb is in the present tense."
+    },
+    {
+      "id": "B2-U01-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'Ojalá tuvieras más paciencia' mean?",
+      "options": [
+        "Hopefully you will have more patience.",
+        "I wish you had more patience.",
+        "You had a lot of patience.",
+        "I hope you have more patience."
+      ],
+      "answer": 1,
+      "explanation": "'Ojalá + past subjunctive' expresses a present wish that is unfulfilled — implying the person currently doesn't have enough patience."
+    },
+    {
+      "id": "B2-U01-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is the past subjunctive stem of 'decir'?",
+      "options": ["deci-", "dic-", "dije-", "deci-"],
+      "answer": 2,
+      "explanation": "Decir → preterite ellos: dijeron → remove -ron → dije- → dijera, dijeras, etc."
+    },
+    {
+      "id": "B2-U01-Q006",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Era importante que todos ___ a tiempo.' (llegar)",
+      "options": ["llegaban", "llegaran", "lleguen", "llegaron"],
+      "answer": 1,
+      "explanation": "'Era importante que' is a past-tense trigger. Past subjunctive of llegar: llegaran."
+    },
+    {
+      "id": "B2-U01-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses 'quisiera' as a polite request?",
+      "options": [
+        "Quisiera que me ayudaras.",
+        "Quisiera ir al baño.",
+        "Quisiera más tiempo libre.",
+        "All of the above are correct polite uses."
+      ],
+      "answer": 3,
+      "explanation": "'Quisiera' (past subjunctive of querer) functions as an extremely polite 'I would like' in all three examples, softening requests and wishes."
+    },
+    {
+      "id": "B2-U01-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which form is preferred in spoken Mexican Spanish?",
+      "options": [
+        "The -se form (hablase, tuviese)",
+        "The -ra form (hablara, tuviera)",
+        "Both are equally common",
+        "Neither — past subjunctive is avoided in speech"
+      ],
+      "answer": 1,
+      "explanation": "In Mexican Spanish, the -ra form is strongly preferred in everyday speech. The -se form exists and is grammatically correct but is mainly found in literary or very formal writing."
+    }
+  ]
+}
