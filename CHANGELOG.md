@@ -5,6 +5,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.2] - 2026-03-16
+
+### Fixed
+- Removed duplicate placement test prompt from `Layout.jsx` — prompt now appears only on the course map (`CourseMapPage.jsx`)
+
 ## [0.7.1] - 2026-03-16
 
 ### Fixed

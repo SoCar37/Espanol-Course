@@ -3,7 +3,7 @@
 **The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
 🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-📦 **Version:** v0.7.1  
+📦 **Version:** v0.7.2  
 📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
@@ -71,6 +71,7 @@ npm run dev
 
 | Version | Milestone |
 |---|---|
+| v0.7.2 | Placement test — remove duplicate prompt from Layout |
 | v0.7.1 | Placement test — fix lower-level unlock badges |
 | v0.7.0 | Placement test (35 questions, A1–B2) |
 | v0.6.0 | C1 content complete (10 units) |
