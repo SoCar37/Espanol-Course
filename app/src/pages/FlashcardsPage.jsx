@@ -2,14 +2,13 @@
 import { useState, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useProgress } from '../hooks/useProgress'
-import { getTodayString } from '../utils/sm2'
 
 export default function FlashcardsPage() {
   const { level, unit } = useParams()
   const navigate = useNavigate()
   const { getDueVocab, rateVocabCard, addXP } = useProgress()
 
-  const resolvedLevel = level || 'A1'
+  const resolvedLevel = (level || 'A1').toUpperCase()
   const resolvedUnit = unit || 'unit-01-greetings'
 
   const [allVocab, setAllVocab] = useState([])
@@ -24,6 +23,9 @@ export default function FlashcardsPage() {
   // Load vocab.json
   useEffect(() => {
     setLoading(true)
+    setDone(false)
+    setCurrentIndex(0)
+    setSessionReviewed(0)
     fetch(`/Espanol-Course/content/${resolvedLevel}/${resolvedUnit}/vocab.json`)
       .then(r => {
         if (!r.ok) throw new Error(`vocab.json not found (${r.status})`)
@@ -48,37 +50,36 @@ export default function FlashcardsPage() {
     setDone(due.length === 0)
   }, [allVocab])
 
-  const card = dueCards[currentIndex]
-  const total = dueCards.length
-
   function handleFlip() {
     setIsFlipped(f => !f)
   }
 
   function handleRate(rating) {
-    // Save SM-2 data
+    if (!card) return
+
     rateVocabCard(card.id, rating)
-
-    // Award XP for reviewing
     addXP(2)
-
     setSessionReviewed(n => n + 1)
     setIsFlipped(false)
 
-    // If rating was Missed (0), put card at end of queue so it comes back
     if (rating === 0) {
+      // Missed — put card at end of queue
       setDueCards(prev => {
-        const remaining = prev.filter((_, i) => i !== currentIndex)
-        return [...remaining, card]
+        const rest = prev.filter((_, i) => i !== currentIndex)
+        return [...rest, card]
       })
-      // Don't advance index — next card slides in
+      // Don't advance index — next card is already at currentIndex
     } else {
-      if (currentIndex + 1 >= dueCards.length - (rating === 0 ? 0 : 1)) {
-        // Last card done
-        setTimeout(() => setDone(true), 300)
-      } else {
-        setTimeout(() => setCurrentIndex(i => i + 1), 200)
-      }
+      // Good/Hard/Easy — advance or finish
+      setDueCards(prev => {
+        const rest = prev.filter((_, i) => i !== currentIndex)
+        if (rest.length === 0) {
+          setTimeout(() => setDone(true), 300)
+        } else {
+          // currentIndex stays the same — next card fills in
+        }
+        return rest
+      })
     }
   }
 
@@ -120,7 +121,6 @@ export default function FlashcardsPage() {
           </p>
         </div>
 
-        {/* Next review info */}
         <div className="px-5 py-4 rounded-2xl bg-indigo-500/10 border border-indigo-500/20 space-y-1">
           <p className="text-indigo-300 font-semibold text-sm">Come back tomorrow</p>
           <p className="text-slate-400 text-xs">
@@ -128,7 +128,6 @@ export default function FlashcardsPage() {
           </p>
         </div>
 
-        {/* Stats */}
         {sessionReviewed > 0 && (
           <div className="flex justify-center gap-6">
             <div className="text-center">
@@ -160,15 +159,20 @@ export default function FlashcardsPage() {
     )
   }
 
+  // Guard — don't render card UI if card isn't ready yet
+  const card = dueCards[currentIndex]
+  if (!card) return null
+
+  const total = dueCards.length
+
   // ── Main flashcard view ──────────────────────────────────────
   return (
     <div className="max-w-2xl mx-auto animate-fade-in">
 
-      {/* Header */}
       <div className="text-center mb-6">
         <h1 className="text-2xl font-bold gradient-text mb-1">Flashcard Drills</h1>
         <p className="text-content-secondary text-sm">
-          Card {currentIndex + 1} of {total} · {sessionReviewed} reviewed this session
+          {total} card{total !== 1 ? 's' : ''} to review · {sessionReviewed} reviewed this session
         </p>
       </div>
 
@@ -176,16 +180,13 @@ export default function FlashcardsPage() {
       <div className="progress-bar mb-8">
         <div
           className="progress-fill"
-          style={{ width: `${(currentIndex / total) * 100}%` }}
+          style={{ width: `${(sessionReviewed / (sessionReviewed + total)) * 100}%` }}
           role="progressbar"
-          aria-valuenow={currentIndex}
-          aria-valuemin={0}
-          aria-valuemax={total}
-          aria-label={`Card ${currentIndex + 1} of ${total}`}
+          aria-label={`${sessionReviewed} of ${sessionReviewed + total} reviewed`}
         />
       </div>
 
-      {/* Pronunciation hint badge */}
+      {/* Pronunciation hint */}
       {card.pronunciation_hint && (
         <div className="flex justify-center mb-3">
           <span className="text-xs font-medium text-slate-400 bg-slate-800 border border-slate-700 px-3 py-1 rounded-full">
