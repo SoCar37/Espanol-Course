@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U11-V001",
+    "word": "el camión",
+    "translation": "the city bus (Mexican Spanish)",
+    "pronunciation_hint": "el kah-MYOHN",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Tomo el camión para ir al trabajo.",
+    "example_translation": "I take the bus to go to work.",
+    "audio_file": "A2/unit-11/camion.mp3",
+    "tags": ["noun", "transport", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U11-V002",
+    "word": "el boleto",
+    "translation": "the ticket",
+    "pronunciation_hint": "el boh-LEH-toh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Quiero un boleto de ida y vuelta.",
+    "example_translation": "I'd like a round-trip ticket.",
+    "audio_file": "A2/unit-11/boleto.mp3",
+    "tags": ["noun", "transport", "essential"]
+  },
+  {
+    "id": "A2-U11-V003",
+    "word": "de ida y vuelta",
+    "translation": "round trip",
+    "pronunciation_hint": "deh EE-dah ee BWEL-tah",
+    "part_of_speech": "phrase",
+    "example_sentence": "¿Me da un boleto de ida y vuelta a Puebla?",
+    "example_translation": "Can I get a round-trip ticket to Puebla?",
+    "audio_file": "A2/unit-11/ida-y-vuelta.mp3",
+    "tags": ["phrase", "transport", "essential"]
+  },
+  {
+    "id": "A2-U11-V004",
+    "word": "la maleta",
+    "translation": "the suitcase",
+    "pronunciation_hint": "lah mah-LEH-tah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "Mi maleta pesa veinte kilos.",
+    "example_translation": "My suitcase weighs twenty kilos.",
+    "audio_file": "A2/unit-11/maleta.mp3",
+    "tags": ["noun", "travel", "essential"]
+  },
+  {
+    "id": "A2-U11-V005",
+    "word": "la parada",
+    "translation": "the bus stop",
+    "pronunciation_hint": "lah pah-RAH-dah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "La parada del metro está a dos cuadras.",
+    "example_translation": "The metro stop is two blocks away.",
+    "audio_file": "A2/unit-11/parada.mp3",
+    "tags": ["noun", "transport", "essential"]
+  },
+  {
+    "id": "A2-U11-V006",
+    "word": "¿Cuánto tarda?",
+    "translation": "How long does it take?",
+    "pronunciation_hint": "KWAN-toh TAR-dah",
+    "part_of_speech": "question phrase",
+    "example_sentence": "¿Cuánto tarda el viaje en camión?",
+    "example_translation": "How long does the bus trip take?",
+    "audio_file": "A2/unit-11/cuanto-tarda.mp3",
+    "tags": ["phrase", "travel", "essential"]
+  },
+  {
+    "id": "A2-U11-V007",
+    "word": "siga derecho",
+    "translation": "go straight",
+    "pronunciation_hint": "SEE-gah deh-REH-choh",
+    "part_of_speech": "direction phrase",
+    "example_sentence": "Siga derecho dos cuadras y doble a la derecha.",
+    "example_translation": "Go straight two blocks and turn right.",
+    "audio_file": "A2/unit-11/siga-derecho.mp3",
+    "tags": ["phrase", "directions", "essential"]
+  },
+  {
+    "id": "A2-U11-V008",
+    "word": "doblar",
+    "translation": "to turn (a corner)",
+    "pronunciation_hint": "doh-BLAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Doble a la izquierda en el semáforo.",
+    "example_translation": "Turn left at the traffic light.",
+    "audio_file": "A2/unit-11/doblar.mp3",
+    "tags": ["verb", "directions", "essential"]
+  },
+  {
+    "id": "A2-U11-V009",
+    "word": "a la vuelta",
+    "translation": "just around the corner",
+    "pronunciation_hint": "ah lah BWEL-tah",
+    "part_of_speech": "phrase",
+    "example_sentence": "El hotel está a la vuelta.",
+    "example_translation": "The hotel is just around the corner.",
+    "audio_file": "A2/unit-11/a-la-vuelta.mp3",
+    "tags": ["phrase", "directions"]
+  },
+  {
+    "id": "A2-U11-V010",
+    "word": "¿Pone el taxímetro?",
+    "translation": "Do you use the meter? (taxi question)",
+    "pronunciation_hint": "POH-neh el tah-XEE-meh-troh",
+    "part_of_speech": "question phrase",
+    "example_sentence": "¿Pone el taxímetro o me cobra de más?",
+    "example_translation": "Do you use the meter or will you overcharge me?",
+    "audio_file": "A2/unit-11/taximetro.mp3",
+    "tags": ["phrase", "transport", "taxi", "mexico"]
+  },
+  {
+    "id": "A2-U11-V011",
+    "word": "facturar",
+    "translation": "to check (luggage) / to check in",
+    "pronunciation_hint": "fak-too-RAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Tengo que facturar mi maleta antes de las diez.",
+    "example_translation": "I have to check my suitcase before ten.",
+    "audio_file": "A2/unit-11/facturar.mp3",
+    "tags": ["verb", "travel", "airport"]
+  },
+  {
+    "id": "A2-U11-V012",
+    "word": "la cuadra",
+    "translation": "the city block",
+    "pronunciation_hint": "lah KWAH-drah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "Está a tres cuadras de aquí.",
+    "example_translation": "It's three blocks from here.",
+    "audio_file": "A2/unit-11/cuadra.mp3",
+    "tags": ["noun", "directions", "essential"]
+  },
+  {
+    "id": "A2-U11-V013",
+    "word": "perdón, ¿cómo llego a...?",
+    "translation": "Excuse me, how do I get to...?",
+    "pronunciation_hint": "pehr-DOHN KOH-moh YEH-goh ah",
+    "part_of_speech": "question phrase",
+    "example_sentence": "Perdón, ¿cómo llego a la catedral?",
+    "example_translation": "Excuse me, how do I get to the cathedral?",
+    "audio_file": "A2/unit-11/como-llego.mp3",
+    "tags": ["phrase", "directions", "essential"]
+  }
+]

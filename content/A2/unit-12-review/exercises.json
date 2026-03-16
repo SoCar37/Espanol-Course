@@ -1,0 +1,96 @@
+[
+  {
+    "id": "A2-U12-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct tenses for this story: ___ (caminar) por el mercado cuando de repente ___ (ver) algo increíble.",
+    "options": [
+      "Caminaba / vi",
+      "Caminé / veía",
+      "Caminaba / veía",
+      "Caminé / vi"
+    ],
+    "answer": 0,
+    "explanation": "Review: ongoing background action = imperfect (caminaba). Sudden interrupting event = preterite (vi). 'De repente' is a strong preterite signal."
+  },
+  {
+    "id": "A2-U12-E002",
+    "type": "multiple_choice",
+    "prompt": "Complete using ser or estar: El mole de Oaxaca ___ riquísimo y ___ hecho con chocolate.",
+    "options": [
+      "está / está",
+      "es / es",
+      "está / es",
+      "es / está"
+    ],
+    "answer": 0,
+    "explanation": "Both use estar here: 'está riquísimo' (tastes delicious — current experienced quality) and 'está hecho' (it is made — result of a process). Neither is a permanent defining characteristic."
+  },
+  {
+    "id": "A2-U12-E003",
+    "type": "fill_in_blank",
+    "prompt": "Replace with object pronouns: ¿Le diste el boleto a María? Sí, ___ di ayer.",
+    "options": ["se lo", "le lo", "lo le", "se la"],
+    "answer": 0,
+    "explanation": "Review double object pronouns: le (to Maria) + lo (el boleto, masculine) → se lo. Le/les always changes to se before lo/la/los/las."
+  },
+  {
+    "id": "A2-U12-E004",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly describes a childhood habit?",
+    "options": [
+      "De niño, siempre comía tamales en Navidad.",
+      "De niño, siempre comí tamales en Navidad.",
+      "De niño, como tamales en Navidad.",
+      "De niño, comeré tamales en Navidad."
+    ],
+    "answer": 0,
+    "explanation": "Review: habitual past actions use the imperfect. 'Siempre' + childhood context = imperfect: comía."
+  },
+  {
+    "id": "A2-U12-E005",
+    "type": "translation",
+    "prompt": "Translate using a reflexive verb: 'I got up, showered, and left at seven.'",
+    "options": [
+      "Me levanté, me duché y salí a las siete.",
+      "Levanté, duché y salí a las siete.",
+      "Me levanté, me duché y me salí a las siete.",
+      "Levanté, me duché y salí a las siete."
+    ],
+    "answer": 0,
+    "explanation": "Review reflexive verbs: levantarse → me levanté, ducharse → me duché. 'Salir' is not reflexive in this context — just salí."
+  },
+  {
+    "id": "A2-U12-E006",
+    "type": "multiple_choice",
+    "prompt": "At a Mexican market, how do you politely start bargaining?",
+    "options": [
+      "¿Me hace precio?",
+      "Esto es demasiado caro, no lo quiero.",
+      "Deme un descuento ahora.",
+      "¿Por qué es tan caro?"
+    ],
+    "answer": 0,
+    "explanation": "Review shopping: '¿Me hace precio?' is the culturally appropriate, friendly bargaining opener. Being direct or aggressive about pricing is considered rude."
+  },
+  {
+    "id": "A2-U12-E007",
+    "type": "multiple_choice",
+    "prompt": "What does '¡Qué padre!' mean and when would you use it?",
+    "options": [
+      "How cool! / Awesome! — when reacting positively to something",
+      "What a father! — when talking about someone's dad",
+      "How expensive! — when prices are too high",
+      "How far! — when something is a long distance away"
+    ],
+    "answer": 0,
+    "explanation": "Review expressions: '¡Qué padre!' is a Mexican expression of enthusiasm meaning 'How cool!' or 'Awesome!' — 'padre' here is idiomatic, not literally meaning father."
+  },
+  {
+    "id": "A2-U12-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a complete A2-level sentence using multiple skills:",
+    "words": ["Ayer", "fui", "al", "tianguis", "y", "me", "encontré", "con", "un", "señor", "muy", "buena", "onda", "que", "me", "hizo", "precio."],
+    "answer": "Ayer fui al tianguis y me encontré con un señor muy buena onda que me hizo precio.",
+    "explanation": "This sentence uses: preterite (fui, encontré, hizo), reflexive (me encontré = I ran into), Mexican expression (buena onda = cool/friendly), and shopping vocabulary (hizo precio = gave me a deal)."
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "A2-U11-E001",
+    "type": "multiple_choice",
+    "prompt": "In Mexican Spanish, 'el camión' refers to:",
+    "options": [
+      "The city bus",
+      "A large truck",
+      "A long-distance coach",
+      "A taxi"
+    ],
+    "answer": 0,
+    "explanation": "In Mexico, 'camión' means the local city bus. Long-distance coaches are called 'autobús' or referred to by brand (ADO, ETN). A truck is also 'camión' but context usually makes the meaning clear."
+  },
+  {
+    "id": "A2-U11-E002",
+    "type": "multiple_choice",
+    "prompt": "You want a round-trip bus ticket to Monterrey. What do you ask?",
+    "options": [
+      "Un boleto de ida y vuelta a Monterrey, por favor.",
+      "Un boleto de ida a Monterrey, por favor.",
+      "Un pasaje solo a Monterrey.",
+      "Quiero ir y regresar a Monterrey."
+    ],
+    "answer": 0,
+    "explanation": "'De ida y vuelta' = round trip. 'De ida' (or 'de solo ida') = one way. These are the standard terms at Mexican bus stations."
+  },
+  {
+    "id": "A2-U11-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete the directions: ___ derecho dos cuadras y ___ a la derecha.",
+    "options": ["Siga / doble", "Vaya / gire", "Camina / doble", "Siga / va"],
+    "answer": 0,
+    "explanation": "'Siga derecho' = go straight (formal command of seguir). 'Doble a la derecha' = turn right (formal command of doblar). Both are standard direction-giving phrases."
+  },
+  {
+    "id": "A2-U11-E004",
+    "type": "multiple_choice",
+    "prompt": "You get in a taxi in Mexico City. What should you ask first?",
+    "options": [
+      "¿Pone el taxímetro?",
+      "¿Cuánto tarda?",
+      "¿Tiene boleto?",
+      "¿Factura usted?"
+    ],
+    "answer": 0,
+    "explanation": "Always ask '¿Pone el taxímetro?' (Do you use the meter?) before starting in a Mexico City taxi. Without asking, some drivers may overcharge tourists."
+  },
+  {
+    "id": "A2-U11-E005",
+    "type": "translation",
+    "prompt": "Translate: 'Excuse me, how do I get to the central bus station?'",
+    "options": [
+      "Perdón, ¿cómo llego a la central de autobuses?",
+      "Perdón, ¿dónde está la central de autobuses?",
+      "Perdón, ¿cuánto cuesta ir a la central?",
+      "Perdón, ¿a qué hora sale el autobús?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Cómo llego a...?' = How do I get to...? It asks for directions. '¿Dónde está...?' just asks for location. Both are useful but the question asks for the directions phrase specifically."
+  },
+  {
+    "id": "A2-U11-E006",
+    "type": "multiple_choice",
+    "prompt": "Someone tells you 'Está a la vuelta.' Where is the place?",
+    "options": [
+      "Just around the corner",
+      "Very far away",
+      "Two blocks away",
+      "On the other side of the city"
+    ],
+    "answer": 0,
+    "explanation": "'A la vuelta' means just around the corner — very close. Not to be confused with 'a la vuelta de la esquina' (same meaning) or 'de ida y vuelta' (round trip)."
+  },
+  {
+    "id": "A2-U11-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Tengo que ___ mi maleta antes de subir al avión.",
+    "options": ["facturar", "llevar", "perder", "buscar"],
+    "answer": 0,
+    "explanation": "'Facturar' = to check luggage at the airport. 'Facturar la maleta' is the standard phrase for checking a bag at check-in."
+  },
+  {
+    "id": "A2-U11-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a question asking how long a trip takes:",
+    "words": ["¿Cuánto", "tarda", "el", "viaje", "en", "autobús", "de", "la", "Ciudad", "de", "México", "a", "Oaxaca?"],
+    "answer": "¿Cuánto tarda el viaje en autobús de la Ciudad de México a Oaxaca?",
+    "explanation": "'¿Cuánto tarda...?' asks about duration. 'En autobús' = by bus. 'De... a...' = from... to... This is a natural travel question for planning a Mexican bus trip."
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U09-V001",
+    "word": "¡Órale!",
+    "translation": "Alright! / Okay! / Wow! / Let's go!",
+    "pronunciation_hint": "OH-rah-leh",
+    "part_of_speech": "interjection",
+    "example_sentence": "— Vamos a comer tacos. — ¡Órale!",
+    "example_translation": "— Let's go eat tacos. — Alright!",
+    "audio_file": "A2/unit-09/orale.mp3",
+    "tags": ["expression", "mexico", "essential", "slang"]
+  },
+  {
+    "id": "A2-U09-V002",
+    "word": "¡Híjole!",
+    "translation": "Wow! / Oh no! / Yikes!",
+    "pronunciation_hint": "EE-hoh-leh",
+    "part_of_speech": "interjection",
+    "example_sentence": "¡Híjole, se me olvidó el dinero!",
+    "example_translation": "Oh no, I forgot the money!",
+    "audio_file": "A2/unit-09/hijole.mp3",
+    "tags": ["expression", "mexico", "essential", "slang"]
+  },
+  {
+    "id": "A2-U09-V003",
+    "word": "¡Qué padre!",
+    "translation": "How cool! / Awesome!",
+    "pronunciation_hint": "keh PAH-dreh",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Qué padre que viniste!",
+    "example_translation": "How cool that you came!",
+    "audio_file": "A2/unit-09/que-padre.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U09-V004",
+    "word": "¡Qué onda!",
+    "translation": "What's up! / What's going on!",
+    "pronunciation_hint": "keh ON-dah",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Qué onda, güey! ¿Cómo estás?",
+    "example_translation": "What's up, dude! How are you?",
+    "audio_file": "A2/unit-09/que-onda.mp3",
+    "tags": ["expression", "mexico", "greeting", "essential"]
+  },
+  {
+    "id": "A2-U09-V005",
+    "word": "no manches",
+    "translation": "No way! / Come on! / Are you serious!",
+    "pronunciation_hint": "noh MAN-ches",
+    "part_of_speech": "expression",
+    "example_sentence": "¡No manches, no puede ser!",
+    "example_translation": "No way, that can't be!",
+    "audio_file": "A2/unit-09/no-manches.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U09-V006",
+    "word": "sale",
+    "translation": "Okay / Deal / Agreed",
+    "pronunciation_hint": "SAH-leh",
+    "part_of_speech": "expression",
+    "example_sentence": "— Nos vemos a las ocho. — Sale.",
+    "example_translation": "— See you at eight. — Deal.",
+    "audio_file": "A2/unit-09/sale.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U09-V007",
+    "word": "buena onda",
+    "translation": "good vibes / cool / chill (person or thing)",
+    "pronunciation_hint": "BWEH-nah ON-dah",
+    "part_of_speech": "expression",
+    "example_sentence": "Tu amigo es muy buena onda.",
+    "example_translation": "Your friend is really cool / chill.",
+    "audio_file": "A2/unit-09/buena-onda.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U09-V008",
+    "word": "me cae bien / mal",
+    "translation": "I like him/her / I can't stand him/her",
+    "pronunciation_hint": "meh KAH-eh BYEN / MAHL",
+    "part_of_speech": "expression",
+    "example_sentence": "Mi nueva maestra me cae muy bien.",
+    "example_translation": "I really like my new teacher.",
+    "audio_file": "A2/unit-09/me-cae-bien.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U09-V009",
+    "word": "costar un ojo de la cara",
+    "translation": "to cost an arm and a leg",
+    "pronunciation_hint": "kos-TAHR oon OH-hoh deh lah KAH-rah",
+    "part_of_speech": "idiom",
+    "example_sentence": "El concierto me costó un ojo de la cara.",
+    "example_translation": "The concert cost me an arm and a leg.",
+    "audio_file": "A2/unit-09/ojo-de-la-cara.mp3",
+    "tags": ["idiom", "money", "essential"]
+  },
+  {
+    "id": "A2-U09-V010",
+    "word": "meter la pata",
+    "translation": "to put your foot in your mouth / to mess up",
+    "pronunciation_hint": "meh-TEHR lah PAH-tah",
+    "part_of_speech": "idiom",
+    "example_sentence": "Metí la pata con lo que dije.",
+    "example_translation": "I put my foot in my mouth with what I said.",
+    "audio_file": "A2/unit-09/meter-la-pata.mp3",
+    "tags": ["idiom", "essential"]
+  },
+  {
+    "id": "A2-U09-V011",
+    "word": "un chorro",
+    "translation": "a lot / tons (Mexican slang)",
+    "pronunciation_hint": "oon CHOH-rroh",
+    "part_of_speech": "expression",
+    "example_sentence": "Tengo un chorro de tarea hoy.",
+    "example_translation": "I have a ton of homework today.",
+    "audio_file": "A2/unit-09/un-chorro.mp3",
+    "tags": ["expression", "mexico", "quantity"]
+  },
+  {
+    "id": "A2-U09-V012",
+    "word": "ahí viendo",
+    "translation": "we'll see / maybe (polite indirect no)",
+    "pronunciation_hint": "ah-EE BYEN-doh",
+    "part_of_speech": "expression",
+    "example_sentence": "— ¿Vienes a la fiesta? — Ahí viendo...",
+    "example_translation": "— Are you coming to the party? — Maybe... (probably no)",
+    "audio_file": "A2/unit-09/ahi-viendo.mp3",
+    "tags": ["expression", "mexico", "culture", "indirect"]
+  },
+  {
+    "id": "A2-U09-V013",
+    "word": "ya estuvo",
+    "translation": "that's it / all done / it's over",
+    "pronunciation_hint": "yah es-TOO-boh",
+    "part_of_speech": "expression",
+    "example_sentence": "Terminamos el proyecto. Ya estuvo.",
+    "example_translation": "We finished the project. That's it.",
+    "audio_file": "A2/unit-09/ya-estuvo.mp3",
+    "tags": ["expression", "mexico", "essential"]
+  }
+]

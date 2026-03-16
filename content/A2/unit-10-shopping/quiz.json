@@ -1,0 +1,96 @@
+{
+  "id": "A2-U10-Q",
+  "title": "Unit 10 Checkpoint Quiz — Shopping & Money",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U10-Q001",
+      "type": "multiple_choice",
+      "prompt": "How do you ask 'How much does this cost?' in Spanish?",
+      "options": ["¿Cuánto cuesta esto?", "¿Qué precio tiene?", "¿Cuánto vale?", "All of the above are correct."],
+      "answer": 3,
+      "explanation": "All three are valid ways to ask a price in Spanish. '¿Cuánto cuesta?' and '¿Cuánto vale?' are the most common in Mexico. '¿Qué precio tiene?' is also heard."
+    },
+    {
+      "id": "A2-U10-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is a 'tianguis'?",
+      "options": [
+        "A Mexican open-air street market that sets up on specific days",
+        "A type of Mexican food",
+        "A shopping mall",
+        "A bank"
+      ],
+      "answer": 0,
+      "explanation": "A tianguis is a traditional Mexican street market — vendors set up stalls on specific days of the week. It's a cornerstone of Mexican neighborhood life."
+    },
+    {
+      "id": "A2-U10-Q003",
+      "type": "multiple_choice",
+      "prompt": "You want to bargain at a market. Which is the polite opening phrase?",
+      "options": [
+        "¿Me hace precio?",
+        "Está muy caro, no lo quiero.",
+        "Deme un descuento ahora.",
+        "¿Cuánto cuesta lo más barato?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Me hace precio?' (Can you give me a better price?) is the culturally appropriate, friendly way to open bargaining. Being direct or aggressive is considered rude."
+    },
+    {
+      "id": "A2-U10-Q004",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'I'll take it' when buying something?",
+      "options": ["Me lo llevo.", "Lo quiero.", "Me lo deja.", "Lo compro ahora."],
+      "answer": 0,
+      "explanation": "'Me lo llevo' is the most natural way to say 'I'll take it' in a Mexican shopping context. Literally 'I'll carry it away with me'."
+    },
+    {
+      "id": "A2-U10-Q005",
+      "type": "multiple_choice",
+      "prompt": "How do you ask if a store accepts credit cards?",
+      "options": [
+        "¿Acepta tarjeta?",
+        "¿Tiene tarjeta?",
+        "¿Me da tarjeta?",
+        "¿Cuánto cuesta con tarjeta?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Acepta tarjeta?' = Do you accept card? This is essential at smaller Mexican shops and markets where cash (efectivo) is often preferred or required."
+    },
+    {
+      "id": "A2-U10-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'la talla' refer to?",
+      "options": [
+        "Clothing size",
+        "The price",
+        "The fitting room",
+        "A receipt"
+      ],
+      "answer": 0,
+      "explanation": "'La talla' = clothing size. Sizes: chico (S), mediano (M), grande (L), extra grande (XL). 'El probador' is the fitting room."
+    },
+    {
+      "id": "A2-U10-Q007",
+      "type": "multiple_choice",
+      "prompt": "A vendor calls out '¡Lleve, lleve! Todo a diez pesitos.' What are they doing?",
+      "options": [
+        "Calling out to attract customers, advertising everything for ten pesos",
+        "Asking customers to leave",
+        "Complaining about low prices",
+        "Offering a discount on one item"
+      ],
+      "answer": 0,
+      "explanation": "'¡Lleve, lleve!' means 'Take some, take some!' — a classic market vendor call. 'Pesitos' is a diminutive of pesos, making the price sound smaller and more appealing."
+    },
+    {
+      "id": "A2-U10-Q008",
+      "type": "multiple_choice",
+      "prompt": "What is 'el efectivo'?",
+      "options": ["Cash", "Credit card", "The receipt", "The discount"],
+      "answer": 0,
+      "explanation": "'El efectivo' = cash. Many Mexican markets and small businesses prefer or only accept efectivo. Always useful to ask '¿Acepta tarjeta o solo efectivo?'"
+    }
+  ]
+}

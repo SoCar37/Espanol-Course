@@ -1,0 +1,106 @@
+{
+  "id": "A2-U09-Q",
+  "title": "Unit 9 Checkpoint Quiz — Common Expressions & Idioms",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U09-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does '¡Órale!' most commonly express?",
+      "options": [
+        "Agreement, excitement, or encouragement — a very versatile Mexican expression",
+        "Disappointment",
+        "Formal greeting",
+        "A question"
+      ],
+      "answer": 0,
+      "explanation": "'¡Órale!' is one of the most versatile words in Mexican Spanish. It can mean okay, let's go, wow, alright, or come on — context determines the exact meaning."
+    },
+    {
+      "id": "A2-U09-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'Es muy buena onda' mean about a person?",
+      "options": [
+        "He/She is really cool / chill / has good vibes",
+        "He/She is very loud",
+        "He/She is very busy",
+        "He/She is stingy"
+      ],
+      "answer": 0,
+      "explanation": "'Buena onda' literally means 'good wave/vibe'. Describing someone as 'buena onda' means they're cool, laid-back, and easy to be around."
+    },
+    {
+      "id": "A2-U09-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'meter la pata' mean?",
+      "options": [
+        "To put your foot in your mouth / to make a social blunder",
+        "To kick someone",
+        "To work very hard",
+        "To arrive late"
+      ],
+      "answer": 0,
+      "explanation": "'Meter la pata' literally means 'to put your paw in it'. It's used when someone says or does something embarrassing or socially awkward."
+    },
+    {
+      "id": "A2-U09-Q004",
+      "type": "multiple_choice",
+      "prompt": "Someone responds to your invitation with 'Ahí viendo...' You should expect:",
+      "options": [
+        "They probably won't come — it's a polite indirect no.",
+        "They will definitely come.",
+        "They need more information.",
+        "They are very excited to come."
+      ],
+      "answer": 0,
+      "explanation": "Mexican communication style often avoids a direct 'no'. 'Ahí viendo' is a face-saving way to decline without saying no outright."
+    },
+    {
+      "id": "A2-U09-Q005",
+      "type": "multiple_choice",
+      "prompt": "What does 'Nel' mean?",
+      "options": ["No / Nope", "Yes / Of course", "Maybe", "I don't know"],
+      "answer": 0,
+      "explanation": "'Nel' is Mexican slang for 'no'. Its counterpart is 'simón' (yes). Both are very casual and common in informal speech."
+    },
+    {
+      "id": "A2-U09-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you express 'I can't stand her' in Mexican Spanish?",
+      "options": [
+        "Me cae gorda.",
+        "Me cae bien.",
+        "Me late.",
+        "Me da lata."
+      ],
+      "answer": 0,
+      "explanation": "'Me cae gorda/gordo' means 'I can't stand him/her'. The opposite is 'me cae bien' (I like him/her). Both use the idiom of something 'falling' on you."
+    },
+    {
+      "id": "A2-U09-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'Ya estuvo' signal in a conversation?",
+      "options": [
+        "That something is finished, settled, or over",
+        "That something is just beginning",
+        "A question about the past",
+        "Surprise or shock"
+      ],
+      "answer": 0,
+      "explanation": "'Ya estuvo' (literally 'it already was') is used to wrap things up — it signals completion, closure, or the end of a matter."
+    },
+    {
+      "id": "A2-U09-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican culture, if someone says 'Estuvo bien...' when asked about food, it likely means:",
+      "options": [
+        "It was okay — possibly a polite way of saying it wasn't great",
+        "It was absolutely delicious",
+        "They didn't eat anything",
+        "They loved it and want more"
+      ],
+      "answer": 0,
+      "explanation": "Mexican communication tends to be indirect. 'Estuvo bien' (it was fine) when asked about food is often a diplomatic understatement — the real enthusiasm would sound like '¡Estuvo buenísimo!' or '¡Qué rico!'"
+    }
+  ]
+}

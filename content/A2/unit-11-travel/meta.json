@@ -1,0 +1,15 @@
+{
+  "id": "A2-U11",
+  "title": "Travel & Transportation",
+  "level": "A2",
+  "unit": 11,
+  "slug": "travel",
+  "estimated_minutes": 25,
+  "topics": ["travel", "transportation", "directions", "airports", "buses", "taxis", "hotels"],
+  "prereqs": ["A2-U10"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

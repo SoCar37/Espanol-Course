@@ -1,0 +1,15 @@
+{
+  "id": "A2-U10",
+  "title": "Shopping & Money",
+  "level": "A2",
+  "unit": 10,
+  "slug": "shopping",
+  "estimated_minutes": 25,
+  "topics": ["shopping", "money", "prices", "bargaining", "markets", "stores"],
+  "prereqs": ["A2-U09"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

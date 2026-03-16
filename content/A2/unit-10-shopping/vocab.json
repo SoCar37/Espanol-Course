@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U10-V001",
+    "word": "el tianguis",
+    "translation": "the street market / flea market",
+    "pronunciation_hint": "el TYAN-gees",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Los domingos voy al tianguis del barrio.",
+    "example_translation": "On Sundays I go to the neighborhood street market.",
+    "audio_file": "A2/unit-10/tianguis.mp3",
+    "tags": ["noun", "shopping", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U10-V002",
+    "word": "¿Cuánto cuesta?",
+    "translation": "How much does it cost?",
+    "pronunciation_hint": "KWAN-toh KWES-tah",
+    "part_of_speech": "question phrase",
+    "example_sentence": "¿Cuánto cuesta esta camisa?",
+    "example_translation": "How much does this shirt cost?",
+    "audio_file": "A2/unit-10/cuanto-cuesta.mp3",
+    "tags": ["phrase", "shopping", "essential"]
+  },
+  {
+    "id": "A2-U10-V003",
+    "word": "¿Me hace precio?",
+    "translation": "Can you give me a better price? (bargaining opener)",
+    "pronunciation_hint": "meh AH-seh PREH-syoh",
+    "part_of_speech": "expression",
+    "example_sentence": "¿Me hace precio si llevo dos?",
+    "example_translation": "Can you give me a deal if I take two?",
+    "audio_file": "A2/unit-10/me-hace-precio.mp3",
+    "tags": ["expression", "shopping", "bargaining", "mexico", "essential"]
+  },
+  {
+    "id": "A2-U10-V004",
+    "word": "el cambio",
+    "translation": "the change (money back)",
+    "pronunciation_hint": "el KAM-byoh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "¿Tiene cambio de quinientos?",
+    "example_translation": "Do you have change for five hundred?",
+    "audio_file": "A2/unit-10/cambio.mp3",
+    "tags": ["noun", "money", "essential"]
+  },
+  {
+    "id": "A2-U10-V005",
+    "word": "el efectivo",
+    "translation": "cash",
+    "pronunciation_hint": "el eh-fek-TEE-boh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "En el tianguis solo aceptan efectivo.",
+    "example_translation": "At the street market they only accept cash.",
+    "audio_file": "A2/unit-10/efectivo.mp3",
+    "tags": ["noun", "money", "essential"]
+  },
+  {
+    "id": "A2-U10-V006",
+    "word": "¿Acepta tarjeta?",
+    "translation": "Do you accept card?",
+    "pronunciation_hint": "ah-SEP-tah tar-HEH-tah",
+    "part_of_speech": "question phrase",
+    "example_sentence": "¿Acepta tarjeta o solo efectivo?",
+    "example_translation": "Do you accept card or only cash?",
+    "audio_file": "A2/unit-10/acepta-tarjeta.mp3",
+    "tags": ["phrase", "shopping", "essential"]
+  },
+  {
+    "id": "A2-U10-V007",
+    "word": "caro/a",
+    "translation": "expensive",
+    "pronunciation_hint": "KAH-roh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Está muy caro. ¿No me hace precio?",
+    "example_translation": "It's very expensive. Can't you give me a deal?",
+    "audio_file": "A2/unit-10/caro.mp3",
+    "tags": ["adjective", "shopping", "essential"]
+  },
+  {
+    "id": "A2-U10-V008",
+    "word": "barato/a",
+    "translation": "cheap / inexpensive",
+    "pronunciation_hint": "bah-RAH-toh",
+    "part_of_speech": "adjective",
+    "example_sentence": "¡Qué barato! Me llevo tres.",
+    "example_translation": "How cheap! I'll take three.",
+    "audio_file": "A2/unit-10/barato.mp3",
+    "tags": ["adjective", "shopping", "essential"]
+  },
+  {
+    "id": "A2-U10-V009",
+    "word": "la talla",
+    "translation": "the size (clothing)",
+    "pronunciation_hint": "lah TAH-yah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "¿Tiene esta playera en talla grande?",
+    "example_translation": "Do you have this t-shirt in a large size?",
+    "audio_file": "A2/unit-10/talla.mp3",
+    "tags": ["noun", "shopping", "clothing"]
+  },
+  {
+    "id": "A2-U10-V010",
+    "word": "el probador",
+    "translation": "the fitting room",
+    "pronunciation_hint": "el proh-bah-DOHR",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "¿Dónde está el probador?",
+    "example_translation": "Where is the fitting room?",
+    "audio_file": "A2/unit-10/probador.mp3",
+    "tags": ["noun", "shopping", "clothing"]
+  },
+  {
+    "id": "A2-U10-V011",
+    "word": "me llevo",
+    "translation": "I'll take it / I'll buy it",
+    "pronunciation_hint": "meh YEH-boh",
+    "part_of_speech": "expression",
+    "example_sentence": "Me lo llevo. ¿Me da una bolsa?",
+    "example_translation": "I'll take it. Can I have a bag?",
+    "audio_file": "A2/unit-10/me-llevo.mp3",
+    "tags": ["expression", "shopping", "essential"]
+  },
+  {
+    "id": "A2-U10-V012",
+    "word": "¡Pásele!",
+    "translation": "Come in! / Come on over! (vendor call)",
+    "pronunciation_hint": "PAH-seh-leh",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Pásele, pásele! Todo a mitad de precio.",
+    "example_translation": "Come on in! Everything at half price.",
+    "audio_file": "A2/unit-10/pasele.mp3",
+    "tags": ["expression", "shopping", "mexico", "market"]
+  },
+  {
+    "id": "A2-U10-V013",
+    "word": "la oferta",
+    "translation": "the sale / special offer",
+    "pronunciation_hint": "lah oh-FEHR-tah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "Estos zapatos están en oferta, dos por uno.",
+    "example_translation": "These shoes are on sale, buy one get one.",
+    "audio_file": "A2/unit-10/oferta.mp3",
+    "tags": ["noun", "shopping", "essential"]
+  }
+]

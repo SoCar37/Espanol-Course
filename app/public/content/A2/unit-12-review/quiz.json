@@ -1,0 +1,101 @@
+{
+  "id": "A2-U12-Q",
+  "title": "A2 Level Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U12-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses BOTH the preterite and imperfect?",
+      "options": [
+        "Dormía cuando sonó el teléfono.",
+        "Dormí cuando sonaba el teléfono.",
+        "Dormía cuando sonaba el teléfono.",
+        "Dormí cuando sonó el teléfono."
+      ],
+      "answer": 0,
+      "explanation": "Background state (sleeping) = imperfect: dormía. Interrupting event (phone rang) = preterite: sonó. This is the core preterite/imperfect pattern."
+    },
+    {
+      "id": "A2-U12-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is the yo preterite of 'hacer'?",
+      "options": ["hice", "hací", "hacé", "hizo"],
+      "answer": 0,
+      "explanation": "'Hacer' has the i-stem 'hic-'. Yo form: hice. Él form: hizo (c→z before o). This is one of the most important irregular preterites."
+    },
+    {
+      "id": "A2-U12-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose ser or estar: Mi abuela ___ de Veracruz y ahora ___ muy enferma.",
+      "options": [
+        "es / está",
+        "está / es",
+        "es / es",
+        "está / está"
+      ],
+      "answer": 0,
+      "explanation": "Origin = ser (es de Veracruz). Temporary health state = estar (está muy enferma). Classic ser/estar contrast."
+    },
+    {
+      "id": "A2-U12-Q004",
+      "type": "multiple_choice",
+      "prompt": "Fill in the double object pronoun: ¿Los boletos? ___ compré esta mañana. (I bought them for you)",
+      "options": ["Te los", "Los te", "Se los", "Le los"],
+      "answer": 0,
+      "explanation": "Indirect (to you = te) + direct (los boletos = los) = te los. Indirect always first. 'Se' only replaces 'le/les', not 'te'."
+    },
+    {
+      "id": "A2-U12-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which reflexive verb sequence describes a morning routine correctly?",
+      "options": [
+        "Me despierto, me levanto, me ducho y me visto.",
+        "Me despierto, me levanto, visto y ducho.",
+        "Despierto, levanto, me ducho y me visto.",
+        "Me despierto, levanto, me ducho y visto."
+      ],
+      "answer": 0,
+      "explanation": "All four verbs in a morning routine are reflexive: me despierto (despertarse), me levanto (levantarse), me ducho (ducharse), me visto (vestirse)."
+    },
+    {
+      "id": "A2-U12-Q006",
+      "type": "multiple_choice",
+      "prompt": "How would you say 'I met Carlos for the first time at a party'?",
+      "options": [
+        "Conocí a Carlos en una fiesta.",
+        "Conocía a Carlos en una fiesta.",
+        "Supe a Carlos en una fiesta.",
+        "Encontré a Carlos en una fiesta."
+      ],
+      "answer": 0,
+      "explanation": "'Conocer' in the preterite = to meet for the first time. 'Conocía' (imperfect) would mean you already knew him. This is one of the key meaning-changing verbs."
+    },
+    {
+      "id": "A2-U12-Q007",
+      "type": "multiple_choice",
+      "prompt": "At a Mexican tianguis, a vendor says '¡Pásele, pásele!' What should you do?",
+      "options": [
+        "Come over and look at their goods — it's an invitation to browse",
+        "Leave immediately",
+        "Pay immediately",
+        "Ask for the price"
+      ],
+      "answer": 0,
+      "explanation": "'¡Pásele!' is a friendly vendor call meaning 'Come on in!' It's an invitation to approach and browse, not a demand or pressure to buy."
+    },
+    {
+      "id": "A2-U12-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which statement best describes an A2 Spanish speaker?",
+      "options": [
+        "Can handle everyday situations, talk about the past, shop, travel, and understand common expressions in Mexican Spanish",
+        "Can discuss complex political and philosophical topics fluently",
+        "Can only say basic greetings and numbers",
+        "Can read Spanish literature without a dictionary"
+      ],
+      "answer": 0,
+      "explanation": "A2 (Elementary) means you can communicate in routine tasks, describe past events, handle practical situations like shopping and travel, and understand common everyday expressions — exactly what this level has covered."
+    }
+  ]
+}

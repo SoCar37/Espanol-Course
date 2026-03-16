@@ -1,0 +1,86 @@
+[
+  {
+    "id": "A2-U09-E001",
+    "type": "multiple_choice",
+    "prompt": "Someone shows you something really cool. Which expression fits best?",
+    "options": ["¡Qué padre!", "¡Híjole!", "Ya estuvo.", "Nel."],
+    "answer": 0,
+    "explanation": "'¡Qué padre!' expresses that something is cool or awesome — the perfect reaction to something impressive. '¡Híjole!' is more for surprise or shock."
+  },
+  {
+    "id": "A2-U09-E002",
+    "type": "multiple_choice",
+    "prompt": "Your friend asks if you can meet on Saturday. You agree. What do you say?",
+    "options": ["Sale.", "Nel.", "Ahí viendo.", "Me cae mal."],
+    "answer": 0,
+    "explanation": "'Sale' means 'okay / deal / agreed' — the perfect response to confirm plans. 'Nel' means no. 'Ahí viendo' is an indirect maybe/no."
+  },
+  {
+    "id": "A2-U09-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'Me cae bien tu hermano' mean?",
+    "options": [
+      "I like your brother.",
+      "Your brother fell on me.",
+      "Your brother is annoying.",
+      "I met your brother."
+    ],
+    "answer": 0,
+    "explanation": "'Caerle bien a alguien' is an idiom meaning to like someone. Literally 'he falls well on me' — but it means 'I like him'. The opposite is 'me cae mal'."
+  },
+  {
+    "id": "A2-U09-E004",
+    "type": "multiple_choice",
+    "prompt": "Someone says '¿Qué onda?' to you on the street. They are:",
+    "options": [
+      "Greeting you casually — 'What's up?'",
+      "Asking about ocean waves",
+      "Asking what you're doing wrong",
+      "Saying goodbye"
+    ],
+    "answer": 0,
+    "explanation": "'¡Qué onda!' is one of the most common casual greetings in Mexico, equivalent to 'What's up?' or 'How's it going?'"
+  },
+  {
+    "id": "A2-U09-E005",
+    "type": "translation",
+    "prompt": "Translate the idiom: 'That new phone cost me an arm and a leg.'",
+    "options": [
+      "Ese celular nuevo me costó un ojo de la cara.",
+      "Ese celular nuevo me costó mucho dinero.",
+      "Ese celular nuevo fue muy caro.",
+      "Ese celular nuevo me quitó el ojo."
+    ],
+    "answer": 0,
+    "explanation": "'Costar un ojo de la cara' is the Mexican Spanish idiom for 'to cost an arm and a leg'. While options B and C also express the idea, option A uses the actual idiom."
+  },
+  {
+    "id": "A2-U09-E006",
+    "type": "multiple_choice",
+    "prompt": "You ask a Mexican friend if they're coming to the party. They say 'Ahí viendo...' What do they probably mean?",
+    "options": [
+      "Probably not — it's a polite indirect no.",
+      "Definitely yes — they'll be there.",
+      "They need to check the time.",
+      "They don't understand the question."
+    ],
+    "answer": 0,
+    "explanation": "'Ahí viendo' is a classic Mexican indirect refusal. Mexican communication style tends to avoid direct 'no' — 'ahí viendo' softens the decline while remaining polite."
+  },
+  {
+    "id": "A2-U09-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Tengo ___ de trabajo esta semana. (I have a ton of work)",
+    "options": ["un chorro", "un poco", "nada", "mucho"],
+    "answer": 0,
+    "explanation": "'Un chorro' is Mexican slang for 'a lot / a ton'. It's very commonly used in informal speech: un chorro de trabajo, un chorro de gente, etc."
+  },
+  {
+    "id": "A2-U09-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a natural Mexican exchange:",
+    "words": ["—", "¿Qué", "onda,", "güey?", "—", "¡Qué", "padre", "verte!", "¡Órale,", "vamos", "a", "comer!"],
+    "answer": "— ¿Qué onda, güey? — ¡Qué padre verte! ¡Órale, vamos a comer!",
+    "explanation": "This is a typical casual Mexican greeting exchange: '¿Qué onda, güey?' (What's up, dude?), '¡Qué padre verte!' (Great to see you!), '¡Órale, vamos a comer!' (Let's go eat!)"
+  }
+]

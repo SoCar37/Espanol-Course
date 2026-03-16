@@ -1,0 +1,106 @@
+{
+  "id": "A2-U11-Q",
+  "title": "Unit 11 Checkpoint Quiz — Travel & Transportation",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U11-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'el camión' mean in Mexican Spanish?",
+      "options": ["The city bus", "A large truck", "A train", "A taxi"],
+      "answer": 0,
+      "explanation": "In Mexico, 'camión' refers to the local city bus. This is a uniquely Mexican usage — in other Spanish-speaking countries 'camión' means truck."
+    },
+    {
+      "id": "A2-U11-Q002",
+      "type": "multiple_choice",
+      "prompt": "How do you ask for a one-way ticket?",
+      "options": [
+        "Un boleto de ida.",
+        "Un boleto de ida y vuelta.",
+        "Un boleto de regreso.",
+        "Un boleto sencillo."
+      ],
+      "answer": 0,
+      "explanation": "'De ida' = one way (going only). 'De ida y vuelta' = round trip. At Mexican bus terminals, these are the standard terms."
+    },
+    {
+      "id": "A2-U11-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is the correct phrase to ask how long a trip takes?",
+      "options": [
+        "¿Cuánto tarda el viaje?",
+        "¿Cuánto cuesta el viaje?",
+        "¿Cuándo sale el viaje?",
+        "¿Cuánto pesa el viaje?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Cuánto tarda?' asks about duration. '¿Cuánto cuesta?' asks about price. '¿Cuándo sale?' asks about departure time."
+    },
+    {
+      "id": "A2-U11-Q004",
+      "type": "multiple_choice",
+      "prompt": "Someone gives you directions: 'Siga derecho y doble a la izquierda.' What should you do?",
+      "options": [
+        "Go straight and turn left.",
+        "Go straight and turn right.",
+        "Turn left and go straight.",
+        "Turn left immediately."
+      ],
+      "answer": 0,
+      "explanation": "'Siga derecho' = go straight. 'Doble a la izquierda' = turn left. The order matters: first go straight, then turn left."
+    },
+    {
+      "id": "A2-U11-Q005",
+      "type": "multiple_choice",
+      "prompt": "Why should you ask '¿Pone el taxímetro?' when taking a taxi in Mexico?",
+      "options": [
+        "To ensure the driver uses the meter and doesn't overcharge you",
+        "To ask if the taxi has air conditioning",
+        "To find out the driver's name",
+        "It's just a polite greeting for taxi drivers"
+      ],
+      "answer": 0,
+      "explanation": "Some taxi drivers in Mexico may try to negotiate a flat fare (often higher) instead of using the meter. Asking '¿Pone el taxímetro?' (Do you use the meter?) helps you avoid being overcharged."
+    },
+    {
+      "id": "A2-U11-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'I need to check my luggage'?",
+      "options": [
+        "Necesito facturar mi equipaje.",
+        "Necesito llevar mi equipaje.",
+        "Necesito buscar mi maleta.",
+        "Necesito perder mi equipaje."
+      ],
+      "answer": 0,
+      "explanation": "'Facturar' = to check luggage at the airport. 'El equipaje' = luggage (collective). 'La maleta' = suitcase (individual)."
+    },
+    {
+      "id": "A2-U11-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'a la vuelta' mean in directions?",
+      "options": [
+        "Just around the corner",
+        "Round trip",
+        "Turn around",
+        "Very far away"
+      ],
+      "answer": 0,
+      "explanation": "'A la vuelta' means 'just around the corner' — a very short distance away. Don't confuse with 'de ida y vuelta' (round trip) or 'vuelta' as in turn."
+    },
+    {
+      "id": "A2-U11-Q008",
+      "type": "multiple_choice",
+      "prompt": "What is unique about Mexico City's metro stations?",
+      "options": [
+        "Each station has a unique logo/icon so even non-readers can navigate",
+        "They only operate at night",
+        "They only accept credit cards",
+        "They are underground only"
+      ],
+      "answer": 0,
+      "explanation": "Mexico City's metro (Sistema de Transporte Colectivo) uses distinctive icons for each station — designed to help passengers navigate even without reading the station names. It's one of the busiest metros in the world."
+    }
+  ]
+}

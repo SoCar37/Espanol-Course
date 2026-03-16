@@ -3,7 +3,7 @@
 **The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
 🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-📦 **Version:** v0.1.7  
+📦 **Version:** v0.3.0  
 📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
@@ -21,12 +21,13 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 | Course map with sequential unlock | ✅ Working |
 | Full learning loop (Lesson → Exercises → Quiz) | ✅ Working |
 | Exercise engine (4 types) | ✅ Working |
-| Flashcard engine with SM-2 | ✅ Working |
+| Flashcard engine with SM-2 spaced repetition | ✅ Working |
 | Quiz engine | ✅ Working |
+| PWA — home screen installable | ✅ Working |
 | A1 Units 1–10 content | ✅ Complete |
-| PWA app icons | ✅ Complete |
+| A2 Units 1–12 content | ✅ Complete |
 | Audio (Google TTS Neural2) | 🔜 v0.5.0 |
-| A2 content (12 units) | 🔜 v0.2.0+ |
+| B1 content (12 units) | 🔜 In progress |
 | Placement test | 🔜 v1.0.0 |
 
 ---
@@ -46,8 +47,8 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 | Level | Units | Status |
 |---|---|---|
 | A1 | 10 | ✅ Complete |
-| A2 | 12 | Not started |
-| B1 | 12 | Not started |
+| A2 | 12 | ✅ Complete |
+| B1 | 12 | 🔜 Next |
 | B2 | 12 | Not started |
 | C1 | 10 | Not started |
 
@@ -68,12 +69,13 @@ npm run dev
 
 | Version | Milestone |
 |---|---|
+| v0.3.0 | A2 content complete (12 units) |
+| v0.2.0–v0.2.2 | A2 content build (units 1–12 in batches) |
 | v0.1.7 | PWA app icons |
 | v0.1.6 | A1 Units 2–10 content + sequential unlock |
 | v0.1.5 | Full quiz engine |
 | v0.1.4 | Exercise engine + flashcard SM-2 engine |
 | v0.1.0 | Initial scaffold |
-| v0.2.0 | A2 content *(planned)* |
 | v1.0.0 | Public launch *(planned)* |
 
 ---

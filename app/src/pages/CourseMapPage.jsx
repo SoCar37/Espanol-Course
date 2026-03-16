@@ -26,17 +26,19 @@ const COURSE_STRUCTURE = [
     description: 'Past tenses, reflexive verbs, common expressions, everyday vocabulary',
     color: 'from-purple-500 to-pink-500',
     units: [
-      { id: 'unit-01-present-tense',        title: 'Present Tense Review & Stem-Changers' },
-      { id: 'unit-02-reflexive-verbs',      title: 'Reflexive Verbs & Daily Routines' },
-      { id: 'unit-03-ser-estar',            title: 'Ser vs. Estar — Deep Dive' },
-      { id: 'unit-04-preterite-regular',    title: 'Preterite Tense — Regular Verbs' },
-      { id: 'unit-05-preterite-irregular',  title: 'Preterite Tense — Irregular Verbs' },
-      { id: 'unit-06-imperfect',            title: 'The Imperfect Tense' },
-      { id: 'unit-07-preterite-vs-imperfect', title: 'Preterite vs. Imperfect' },
-      { id: 'unit-08-object-pronouns',      title: 'Direct & Indirect Object Pronouns' },
+      { id: 'unit-01-present-tense',          title: 'Present Tense Review & Stem-Changers' },
+      { id: 'unit-02-reflexive-verbs',         title: 'Reflexive Verbs & Daily Routines' },
+      { id: 'unit-03-ser-estar',               title: 'Ser vs. Estar — Deep Dive' },
+      { id: 'unit-04-preterite-regular',       title: 'Preterite Tense — Regular Verbs' },
+      { id: 'unit-05-preterite-irregular',     title: 'Preterite Tense — Irregular Verbs' },
+      { id: 'unit-06-imperfect',               title: 'The Imperfect Tense' },
+      { id: 'unit-07-preterite-vs-imperfect',  title: 'Preterite vs. Imperfect' },
+      { id: 'unit-08-object-pronouns',         title: 'Direct & Indirect Object Pronouns' },
+      { id: 'unit-09-expressions',             title: 'Common Expressions & Idioms' },
+      { id: 'unit-10-shopping',                title: 'Shopping & Money' },
+      { id: 'unit-11-travel',                  title: 'Travel & Transportation' },
+      { id: 'unit-12-review',                  title: 'A2 Review & Checkpoint' },
     ],
-    comingSoon: false,
-    partialContent: true,
   },
   { level: 'B1', title: 'Intermediate Fluency', description: 'Subjunctive intro, future & conditional, idioms, Latin American dialects', color: 'from-pink-500 to-rose-500', units: [], comingSoon: true },
   { level: 'B2', title: 'Advanced Expression', description: 'Subjunctive mastery, complex grammar, cultural context, debate & persuasion', color: 'from-rose-500 to-orange-500', units: [], comingSoon: true },
@@ -66,7 +68,6 @@ export default function CourseMapPage() {
                   </div>
                 </div>
                 {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
-                {levelData.partialContent && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">More units coming soon</span>}
               </div>
               {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">

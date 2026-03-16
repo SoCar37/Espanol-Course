@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A2-U12-V001",
+    "word": "las vacaciones",
+    "translation": "the vacation / holidays",
+    "pronunciation_hint": "lahs bah-kah-SYOH-nes",
+    "part_of_speech": "noun (feminine plural)",
+    "example_sentence": "El mes pasado fui de vacaciones a la playa.",
+    "example_translation": "Last month I went on vacation to the beach.",
+    "audio_file": "A2/unit-12/vacaciones.mp3",
+    "tags": ["noun", "travel", "essential"]
+  },
+  {
+    "id": "A2-U12-V002",
+    "word": "emocionado/a",
+    "translation": "excited",
+    "pronunciation_hint": "eh-moh-syoh-NAH-doh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "Estoy muy emocionada por el viaje.",
+    "example_translation": "I'm very excited about the trip.",
+    "audio_file": "A2/unit-12/emocionado.mp3",
+    "tags": ["adjective", "feelings", "estar"]
+  },
+  {
+    "id": "A2-U12-V003",
+    "word": "nervioso/a",
+    "translation": "nervous",
+    "pronunciation_hint": "nehr-BYOH-soh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "Estaba nervioso antes del examen.",
+    "example_translation": "I was nervous before the exam.",
+    "audio_file": "A2/unit-12/nervioso.mp3",
+    "tags": ["adjective", "feelings", "estar"]
+  },
+  {
+    "id": "A2-U12-V004",
+    "word": "robar el corazón",
+    "translation": "to steal one's heart",
+    "pronunciation_hint": "rroh-BAHR el koh-rah-SOHN",
+    "part_of_speech": "idiom",
+    "example_sentence": "Oaxaca me robó el corazón.",
+    "example_translation": "Oaxaca stole my heart.",
+    "audio_file": "A2/unit-12/robar-el-corazon.mp3",
+    "tags": ["idiom", "emotion", "travel"]
+  },
+  {
+    "id": "A2-U12-V005",
+    "word": "una muestra",
+    "translation": "a sample / a taste",
+    "pronunciation_hint": "OO-nah MWES-trah",
+    "part_of_speech": "noun (feminine)",
+    "example_sentence": "La vendedora me dio una muestra de queso.",
+    "example_translation": "The vendor gave me a sample of cheese.",
+    "audio_file": "A2/unit-12/muestra.mp3",
+    "tags": ["noun", "shopping", "food"]
+  },
+  {
+    "id": "A2-U12-V006",
+    "word": "el frasco",
+    "translation": "the jar / the bottle",
+    "pronunciation_hint": "el FRAHS-koh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "Compré dos frascos de salsa.",
+    "example_translation": "I bought two jars of salsa.",
+    "audio_file": "A2/unit-12/frasco.mp3",
+    "tags": ["noun", "shopping", "food"]
+  },
+  {
+    "id": "A2-U12-V007",
+    "word": "orgulloso/a",
+    "translation": "proud",
+    "pronunciation_hint": "or-goo-YOH-soh",
+    "part_of_speech": "adjective (used with estar)",
+    "example_sentence": "Estoy muy orgulloso de mi país.",
+    "example_translation": "I am very proud of my country.",
+    "audio_file": "A2/unit-12/orgulloso.mp3",
+    "tags": ["adjective", "feelings", "estar"]
+  },
+  {
+    "id": "A2-U12-V008",
+    "word": "¡Sí se puede!",
+    "translation": "Yes, you can! / Yes, we can!",
+    "pronunciation_hint": "see seh PWEH-deh",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Ándale, sí se puede! Tú puedes aprender español.",
+    "example_translation": "Come on, yes you can! You can learn Spanish.",
+    "audio_file": "A2/unit-12/si-se-puede.mp3",
+    "tags": ["expression", "encouragement", "mexico"]
+  },
+  {
+    "id": "A2-U12-V009",
+    "word": "quedarse",
+    "translation": "to stay / to remain",
+    "pronunciation_hint": "keh-DAHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me quedé tres noches en el hotel.",
+    "example_translation": "I stayed three nights at the hotel.",
+    "audio_file": "A2/unit-12/quedarse.mp3",
+    "tags": ["verb", "reflexive", "travel"]
+  },
+  {
+    "id": "A2-U12-V010",
+    "word": "al día siguiente",
+    "translation": "the next day",
+    "pronunciation_hint": "al dee-AH see-GYEN-teh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Al día siguiente fui al museo.",
+    "example_translation": "The next day I went to the museum.",
+    "audio_file": "A2/unit-12/al-dia-siguiente.mp3",
+    "tags": ["phrase", "time", "storytelling"]
+  },
+  {
+    "id": "A2-U12-V011",
+    "word": "el mole",
+    "translation": "mole (rich Mexican sauce with chili and chocolate)",
+    "pronunciation_hint": "el MOH-leh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "El mole negro de Oaxaca es mundialmente famoso.",
+    "example_translation": "Oaxacan black mole is world-famous.",
+    "audio_file": "A2/unit-12/mole.mp3",
+    "tags": ["noun", "food", "mexico", "culture"]
+  },
+  {
+    "id": "A2-U12-V012",
+    "word": "amable",
+    "translation": "kind / friendly",
+    "pronunciation_hint": "ah-MAH-bleh",
+    "part_of_speech": "adjective (used with ser)",
+    "example_sentence": "La gente de Oaxaca es muy amable.",
+    "example_translation": "The people of Oaxaca are very kind.",
+    "audio_file": "A2/unit-12/amable.mp3",
+    "tags": ["adjective", "personality", "ser"]
+  }
+]

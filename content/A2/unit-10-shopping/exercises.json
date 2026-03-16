@@ -1,0 +1,96 @@
+[
+  {
+    "id": "A2-U10-E001",
+    "type": "multiple_choice",
+    "prompt": "You want to know the price of a jacket. What do you ask?",
+    "options": [
+      "¿Cuánto cuesta esta chamarra?",
+      "¿Dónde está la chamarra?",
+      "¿Tiene otra chamarra?",
+      "¿Me la puedo probar?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Cuánto cuesta...?' is the standard way to ask a price. 'Esta chamarra' = this jacket (chamarra is the Mexican word for jacket)."
+  },
+  {
+    "id": "A2-U10-E002",
+    "type": "multiple_choice",
+    "prompt": "You want to try on a shirt before buying. What do you say?",
+    "options": [
+      "¿Me la puedo probar?",
+      "¿Me la puedo llevar?",
+      "¿Cuánto cuesta?",
+      "¿Tiene otra talla?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Me la puedo probar?' = Can I try it on? (literally: Can I try it for myself?) The 'la' replaces 'la camisa'. The fitting room is 'el probador'."
+  },
+  {
+    "id": "A2-U10-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete the bargaining exchange: — Está muy caro. ¿___ precio? — Le dejo en doscientos.",
+    "options": ["Me hace", "Me da", "Me cuesta", "Me llevo"],
+    "answer": 0,
+    "explanation": "'¿Me hace precio?' is the classic Mexican way to open a bargaining negotiation — 'Can you give me a better price?' It's polite and expected at markets."
+  },
+  {
+    "id": "A2-U10-E004",
+    "type": "multiple_choice",
+    "prompt": "The vendor says '¡Pásele, pásele!' What are they doing?",
+    "options": [
+      "Inviting you to come look at their stall",
+      "Telling you to leave",
+      "Asking your name",
+      "Giving you a discount"
+    ],
+    "answer": 0,
+    "explanation": "'¡Pásele!' is a vendor call meaning 'Come on in! / Step right up!' It's one of the most iconic sounds of a Mexican market or tianguis."
+  },
+  {
+    "id": "A2-U10-E005",
+    "type": "translation",
+    "prompt": "Translate: 'Do you have this in a medium size?'",
+    "options": [
+      "¿Tiene esto en talla mediana?",
+      "¿Tiene esto en mediano precio?",
+      "¿Cuánto cuesta la talla mediana?",
+      "¿Me da una talla mediana?"
+    ],
+    "answer": 0,
+    "explanation": "'Talla' = clothing size. '¿Tiene esto en talla mediana?' = Do you have this in a medium size? Sizes: chico (small), mediano (medium), grande (large)."
+  },
+  {
+    "id": "A2-U10-E006",
+    "type": "multiple_choice",
+    "prompt": "You decide to buy something. What do you say to indicate you'll take it?",
+    "options": [
+      "Me lo llevo.",
+      "Me lo deja.",
+      "Me lo hace.",
+      "Me lo cuesta."
+    ],
+    "answer": 0,
+    "explanation": "'Me lo llevo' = I'll take it (literally: I'll carry it away with me). This is the standard phrase to indicate you're buying something."
+  },
+  {
+    "id": "A2-U10-E007",
+    "type": "multiple_choice",
+    "prompt": "The vendor charges you 500 pesos. You only have a 1,000 peso bill. What do you ask?",
+    "options": [
+      "¿Tiene cambio de mil?",
+      "¿Cuánto le debo?",
+      "¿Me hace precio?",
+      "¿Acepta tarjeta?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Tiene cambio de mil?' = Do you have change for a thousand? 'El cambio' = change/money back. This is essential at markets where large bills can be a problem."
+  },
+  {
+    "id": "A2-U10-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange a complete bargaining exchange:",
+    "words": ["—", "¿Cuánto", "cuesta?", "—", "Doscientos", "pesos.", "—", "¿Me", "hace", "precio?", "—", "¡Sale,", "ciento", "cincuenta!"],
+    "answer": "— ¿Cuánto cuesta? — Doscientos pesos. — ¿Me hace precio? — ¡Sale, ciento cincuenta!",
+    "explanation": "This is a classic market bargaining exchange. The buyer asks the price, gets quoted 200, opens bargaining with '¿Me hace precio?', and the seller agrees at 150 with '¡Sale!' (Deal!)."
+  }
+]
