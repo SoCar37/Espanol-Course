@@ -1,0 +1,15 @@
+{
+  "id": "C1-U04",
+  "title": "Mexican History & Politics",
+  "level": "C1",
+  "unit": 4,
+  "slug": "mexican-history",
+  "estimated_minutes": 45,
+  "topics": ["Mexican historical periods", "political vocabulary", "historical figures", "institutions", "civic discourse"],
+  "prereqs": ["C1-U03"],
+  "cefr_skills": ["reading", "speaking", "listening"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.1"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U01-E001",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses the subjunctive correctly to express an unspecified, possibly non-existent referent?",
+    "options": [
+      "Busco al estudiante que habla tres idiomas.",
+      "Busco a un estudiante que hable tres idiomas.",
+      "Busco al estudiante que hable tres idiomas.",
+      "Busco un estudiante que habla tres idiomas."
+    ],
+    "answer": 1,
+    "explanation": "When the referent is indefinite or may not exist, the subjunctive 'hable' is required. 'Busco a un estudiante que hable...' expresses that you want anyone who fits that description."
+  },
+  {
+    "id": "C1-U01-E002",
+    "type": "multiple_choice",
+    "prompt": "Complete the unrealized hypothetical: 'Si _______ más dinero, habría comprado la casa.'",
+    "options": [
+      "tendría",
+      "tuviera",
+      "hubiera tenido",
+      "tenga"
+    ],
+    "answer": 2,
+    "explanation": "An unrealized past hypothetical (conditional perfect in the main clause) requires the past perfect subjunctive: 'hubiera tenido'. This expresses a condition that did not happen in the past."
+  },
+  {
+    "id": "C1-U01-E003",
+    "type": "multiple_choice",
+    "prompt": "Which is the correct nominalization of the verb 'desarrollar'?",
+    "options": [
+      "el desarrollar",
+      "la desarrollación",
+      "el desarrollo",
+      "lo desarrollado"
+    ],
+    "answer": 2,
+    "explanation": "'El desarrollo' is the standard nominalization of 'desarrollar'. Many Spanish nominalizations use the suffix -o, -a, -ción, -miento, or -anza, but must be learned individually."
+  },
+  {
+    "id": "C1-U01-E004",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses the perfect subjunctive?",
+    "options": [
+      "Me alegra que llegaste bien.",
+      "Me alegra que hayas llegado bien.",
+      "Me alegra que habías llegado bien.",
+      "Me alegra que llegaras bien."
+    ],
+    "answer": 1,
+    "explanation": "The perfect subjunctive 'hayas llegado' is correct after an expression of emotion ('me alegra que') when referring to a completed action. The past subjunctive 'llegaras' would also be acceptable in some registers, but the perfect subjunctive is more natural here."
+  },
+  {
+    "id": "C1-U01-E005",
+    "type": "fill_in_blank",
+    "prompt": "Choose the correct verb form: 'Es obvio que ella _______ razón.' (She's clearly right.)",
+    "options": [
+      "tenga",
+      "tuviera",
+      "tiene",
+      "haya tenido"
+    ],
+    "answer": 2,
+    "explanation": "'Es obvio que' expresses certainty, so it takes the indicative 'tiene'. Expressions of certainty (es obvio, es claro, es evidente) are followed by indicative, not subjunctive."
+  },
+  {
+    "id": "C1-U01-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sentence contains an incorrect use of the gerund as a modifier?",
+    "options": [
+      "Siguió hablando toda la noche.",
+      "Llevo dos horas esperando.",
+      "Recibí una carta explicando los detalles.",
+      "Entró corriendo al salón."
+    ],
+    "answer": 2,
+    "explanation": "In Spanish, the gerund cannot modify a noun the way it can in English. 'Una carta explicando los detalles' is incorrect. The correct form is 'una carta que explica los detalles'."
+  },
+  {
+    "id": "C1-U01-E007",
+    "type": "translation",
+    "prompt": "Translate into Spanish: 'If she had known the truth, she would have acted differently.'",
+    "options": [
+      "Si sabía la verdad, habría actuado diferente.",
+      "Si hubiera sabido la verdad, habría actuado diferente.",
+      "Si supiera la verdad, actuaría diferente.",
+      "Si habrá sabido la verdad, hubiera actuado diferente."
+    ],
+    "answer": 1,
+    "explanation": "An unrealized past condition uses past perfect subjunctive in the 'si' clause ('hubiera sabido') and conditional perfect in the main clause ('habría actuado')."
+  },
+  {
+    "id": "C1-U01-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct sentence about compound tenses:",
+    "words": ["Para", "el", "viernes", "ya", "habré", "terminado", "el", "informe"],
+    "answer": "Para el viernes ya habré terminado el informe",
+    "explanation": "The future perfect 'habré terminado' expresses an action that will be completed before a future point in time ('para el viernes')."
+  }
+]

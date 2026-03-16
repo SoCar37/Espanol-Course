@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U02-V001",
+    "word": "el registro",
+    "translation": "register (linguistic)",
+    "pronunciation_hint": "reh-HEES-tro",
+    "part_of_speech": "noun",
+    "example_sentence": "El registro formal se usa en documentos oficiales y escritos académicos.",
+    "example_translation": "Formal register is used in official documents and academic writing.",
+    "audio_file": "C1/unit-02/el_registro.mp3",
+    "tags": ["stylistics", "writing", "advanced"]
+  },
+  {
+    "id": "C1-U02-V002",
+    "word": "la cohesión",
+    "translation": "cohesion",
+    "pronunciation_hint": "ko-eh-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La cohesión textual se logra con conectores y referencias pronominales.",
+    "example_translation": "Textual cohesion is achieved through connectors and pronominal references.",
+    "audio_file": "C1/unit-02/la_cohesion.mp3",
+    "tags": ["writing", "stylistics", "advanced"]
+  },
+  {
+    "id": "C1-U02-V003",
+    "word": "no obstante",
+    "translation": "nevertheless / however",
+    "pronunciation_hint": "no obs-TAN-teh",
+    "part_of_speech": "connector",
+    "example_sentence": "Los resultados fueron positivos; no obstante, se requieren más pruebas.",
+    "example_translation": "The results were positive; nevertheless, more tests are required.",
+    "audio_file": "C1/unit-02/no_obstante.mp3",
+    "tags": ["connectors", "formal", "writing"]
+  },
+  {
+    "id": "C1-U02-V004",
+    "word": "dado que",
+    "translation": "given that / since",
+    "pronunciation_hint": "DAH-do keh",
+    "part_of_speech": "connector",
+    "example_sentence": "Dado que los plazos son ajustados, deberemos priorizar.",
+    "example_translation": "Given that the deadlines are tight, we will need to prioritize.",
+    "audio_file": "C1/unit-02/dado_que.mp3",
+    "tags": ["connectors", "formal", "writing"]
+  },
+  {
+    "id": "C1-U02-V005",
+    "word": "por ende",
+    "translation": "therefore / consequently",
+    "pronunciation_hint": "por EN-deh",
+    "part_of_speech": "connector",
+    "example_sentence": "El presupuesto fue recortado; por ende, el proyecto se retrasó.",
+    "example_translation": "The budget was cut; therefore, the project was delayed.",
+    "audio_file": "C1/unit-02/por_ende.mp3",
+    "tags": ["connectors", "formal", "academic"]
+  },
+  {
+    "id": "C1-U02-V006",
+    "word": "cabe señalar",
+    "translation": "it should be noted",
+    "pronunciation_hint": "KAH-beh seh-nyah-LAR",
+    "part_of_speech": "phrase",
+    "example_sentence": "Cabe señalar que los datos fueron recopilados antes de la pandemia.",
+    "example_translation": "It should be noted that the data was collected before the pandemic.",
+    "audio_file": "C1/unit-02/cabe_senalar.mp3",
+    "tags": ["hedging", "academic", "formal"]
+  },
+  {
+    "id": "C1-U02-V007",
+    "word": "en cierta medida",
+    "translation": "to a certain extent",
+    "pronunciation_hint": "en SYER-tah meh-DEE-dah",
+    "part_of_speech": "phrase",
+    "example_sentence": "En cierta medida, todos somos responsables de este resultado.",
+    "example_translation": "To a certain extent, we are all responsible for this outcome.",
+    "audio_file": "C1/unit-02/en_cierta_medida.mp3",
+    "tags": ["hedging", "academic", "formal"]
+  },
+  {
+    "id": "C1-U02-V008",
+    "word": "asimismo",
+    "translation": "likewise / also / furthermore",
+    "pronunciation_hint": "ah-see-MEES-mo",
+    "part_of_speech": "connector",
+    "example_sentence": "El informe analiza las causas; asimismo, propone soluciones concretas.",
+    "example_translation": "The report analyzes the causes; likewise, it proposes concrete solutions.",
+    "audio_file": "C1/unit-02/asimismo.mp3",
+    "tags": ["connectors", "formal", "writing"]
+  },
+  {
+    "id": "C1-U02-V009",
+    "word": "al parecer",
+    "translation": "apparently / it would seem",
+    "pronunciation_hint": "al pah-reh-SEHR",
+    "part_of_speech": "phrase",
+    "example_sentence": "Al parecer, el contrato fue firmado sin revisión legal.",
+    "example_translation": "Apparently, the contract was signed without legal review.",
+    "audio_file": "C1/unit-02/al_parecer.mp3",
+    "tags": ["hedging", "formal", "advanced"]
+  },
+  {
+    "id": "C1-U02-V010",
+    "word": "es más",
+    "translation": "what's more / moreover",
+    "pronunciation_hint": "es MAS",
+    "part_of_speech": "connector",
+    "example_sentence": "La propuesta es viable; es más, podría implementarse este mismo año.",
+    "example_translation": "The proposal is viable; what's more, it could be implemented this very year.",
+    "audio_file": "C1/unit-02/es_mas.mp3",
+    "tags": ["connectors", "formal", "writing"]
+  },
+  {
+    "id": "C1-U02-V011",
+    "word": "por consiguiente",
+    "translation": "consequently / therefore",
+    "pronunciation_hint": "por kon-see-GYEN-teh",
+    "part_of_speech": "connector",
+    "example_sentence": "No se cumplieron los requisitos; por consiguiente, la solicitud fue rechazada.",
+    "example_translation": "The requirements were not met; consequently, the application was rejected.",
+    "audio_file": "C1/unit-02/por_consiguiente.mp3",
+    "tags": ["connectors", "formal", "academic"]
+  },
+  {
+    "id": "C1-U02-V012",
+    "word": "la voz pasiva",
+    "translation": "passive voice",
+    "pronunciation_hint": "la vos PAH-see-vah",
+    "part_of_speech": "noun",
+    "example_sentence": "La voz pasiva se usa más en la escritura formal que en la conversación.",
+    "example_translation": "The passive voice is used more in formal writing than in conversation.",
+    "audio_file": "C1/unit-02/la_voz_pasiva.mp3",
+    "tags": ["grammar", "writing", "formal"]
+  }
+]

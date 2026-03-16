@@ -1,0 +1,15 @@
+{
+  "id": "C1-U01",
+  "title": "Advanced Grammar Consolidation",
+  "level": "C1",
+  "unit": 1,
+  "slug": "advanced-grammar",
+  "estimated_minutes": 45,
+  "topics": ["subjunctive consolidation", "compound tenses", "nominalization", "gerunds and infinitives", "advanced ser/estar"],
+  "prereqs": ["B2-U12"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.1"
+}

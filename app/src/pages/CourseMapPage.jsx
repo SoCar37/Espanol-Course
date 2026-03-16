@@ -80,7 +80,24 @@ const COURSE_STRUCTURE = [
       { id: 'unit-12-review',               title: 'B2 Review & Checkpoint' },
     ],
   },
-  { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
+  {
+    level: 'C1',
+    title: 'Near-Native Proficiency',
+    description: 'Nuanced writing, literature & media, regional variation, professional Spanish',
+    color: 'from-orange-500 to-amber-500',
+    units: [
+      { id: 'unit-01-advanced-grammar',   title: 'Advanced Grammar Consolidation' },
+      { id: 'unit-02-stylistics',         title: 'Stylistics & Written Register' },
+      { id: 'unit-03-rhetoric',           title: 'Rhetoric & Advanced Argumentation' },
+      { id: 'unit-04-mexican-history',    title: 'Mexican History & Politics' },
+      { id: 'unit-05-literature-advanced', title: 'Advanced Literary Analysis' },
+      { id: 'unit-06-media-analysis',     title: 'Media Analysis & Critical Reading' },
+      { id: 'unit-07-professional-writing', title: 'Professional & Academic Writing' },
+      { id: 'unit-08-translation',        title: 'Translation & Interpretation Skills' },
+      { id: 'unit-09-regional-variation', title: 'Regional Variation & Dialects' },
+      { id: 'unit-10-review',             title: 'C1 Review & Final Checkpoint' },
+    ],
+  },
 ]
 
 export default function CourseMapPage() {
@@ -94,9 +111,8 @@ export default function CourseMapPage() {
       </div>
       <div className="space-y-6">
         {COURSE_STRUCTURE.map((levelData) => {
-          const isLevelLocked = levelData.comingSoon
           return (
-            <section key={levelData.level} aria-label={`${levelData.level} — ${levelData.title}`} className={`card ${isLevelLocked ? 'opacity-50' : ''}`}>
+            <section key={levelData.level} aria-label={`${levelData.level} — ${levelData.title}`} className="card">
               <div className="flex items-center justify-between mb-4">
                 <div className="flex items-center gap-3">
                   <span className={`bg-gradient-to-r ${levelData.color} text-white font-bold text-sm px-4 py-1.5 rounded-full`}>{levelData.level}</span>
@@ -105,9 +121,8 @@ export default function CourseMapPage() {
                     <p className="text-content-secondary text-sm">{levelData.description}</p>
                   </div>
                 </div>
-                {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
               </div>
-              {!isLevelLocked && levelData.units.length > 0 && (
+              {levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
                   {levelData.units.map((unit, index) => {
                     const unitKey = `${levelData.level}-${unit.id}`
@@ -124,6 +139,9 @@ export default function CourseMapPage() {
                     } else if (levelData.level === 'B2' && index === 0) {
                       const lastB1Progress = getUnitProgress('B1-unit-12-review')
                       isAvailable = !!lastB1Progress?.complete
+                    } else if (levelData.level === 'C1' && index === 0) {
+                      const lastB2Progress = getUnitProgress('B2-unit-12-review')
+                      isAvailable = !!lastB2Progress?.complete
                     } else if (index === 0) {
                       isAvailable = true
                     } else {

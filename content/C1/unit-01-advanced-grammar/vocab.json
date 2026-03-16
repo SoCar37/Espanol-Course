@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U01-V001",
+    "word": "la nominación",
+    "translation": "nominalization",
+    "pronunciation_hint": "no-mee-nah-lee-SAH-syon",
+    "part_of_speech": "noun",
+    "example_sentence": "La nominación es un recurso estilístico clave en el español formal.",
+    "example_translation": "Nominalization is a key stylistic resource in formal Spanish.",
+    "audio_file": "C1/unit-01/la_nominacion.mp3",
+    "tags": ["grammar", "advanced", "writing"]
+  },
+  {
+    "id": "C1-U01-V002",
+    "word": "el participio",
+    "translation": "past participle",
+    "pronunciation_hint": "par-TEE-see-pyo",
+    "part_of_speech": "noun",
+    "example_sentence": "El participio se usa en los tiempos compuestos.",
+    "example_translation": "The past participle is used in compound tenses.",
+    "audio_file": "C1/unit-01/el_participio.mp3",
+    "tags": ["grammar", "verbs", "advanced"]
+  },
+  {
+    "id": "C1-U01-V003",
+    "word": "el subjuntivo",
+    "translation": "subjunctive (mood)",
+    "pronunciation_hint": "soob-HOON-tee-vo",
+    "part_of_speech": "noun",
+    "example_sentence": "El subjuntivo expresa duda, deseo o emoción del hablante.",
+    "example_translation": "The subjunctive expresses doubt, desire, or emotion of the speaker.",
+    "audio_file": "C1/unit-01/el_subjuntivo.mp3",
+    "tags": ["grammar", "subjunctive", "advanced"]
+  },
+  {
+    "id": "C1-U01-V004",
+    "word": "la hipótesis",
+    "translation": "hypothesis",
+    "pronunciation_hint": "ee-PO-teh-sees",
+    "part_of_speech": "noun",
+    "example_sentence": "Su hipótesis resultó ser correcta después de años de investigación.",
+    "example_translation": "His hypothesis turned out to be correct after years of research.",
+    "audio_file": "C1/unit-01/la_hipotesis.mp3",
+    "tags": ["academic", "advanced", "nouns"]
+  },
+  {
+    "id": "C1-U01-V005",
+    "word": "el gerundio",
+    "translation": "gerund / present participle",
+    "pronunciation_hint": "heh-ROON-dyo",
+    "part_of_speech": "noun",
+    "example_sentence": "Llevan tres horas esperando la respuesta.",
+    "example_translation": "They have been waiting three hours for the answer.",
+    "audio_file": "C1/unit-01/el_gerundio.mp3",
+    "tags": ["grammar", "verbs", "advanced"]
+  },
+  {
+    "id": "C1-U01-V006",
+    "word": "la incertidumbre",
+    "translation": "uncertainty",
+    "pronunciation_hint": "een-sehr-tee-DOOM-breh",
+    "part_of_speech": "noun",
+    "example_sentence": "Hay mucha incertidumbre respecto al futuro del proyecto.",
+    "example_translation": "There is a lot of uncertainty regarding the future of the project.",
+    "audio_file": "C1/unit-01/la_incertidumbre.mp3",
+    "tags": ["advanced", "nouns", "academic"]
+  },
+  {
+    "id": "C1-U01-V007",
+    "word": "el matiz",
+    "translation": "nuance / shade of meaning",
+    "pronunciation_hint": "mah-TEES",
+    "part_of_speech": "noun",
+    "example_sentence": "Hay un matiz importante entre estas dos expresiones.",
+    "example_translation": "There is an important nuance between these two expressions.",
+    "audio_file": "C1/unit-01/el_matiz.mp3",
+    "tags": ["advanced", "language", "style"]
+  },
+  {
+    "id": "C1-U01-V008",
+    "word": "consolidar",
+    "translation": "to consolidate",
+    "pronunciation_hint": "kon-so-lee-DAR",
+    "part_of_speech": "verb",
+    "example_sentence": "Este curso te ayudará a consolidar tu dominio del español.",
+    "example_translation": "This course will help you consolidate your mastery of Spanish.",
+    "audio_file": "C1/unit-01/consolidar.mp3",
+    "tags": ["verbs", "advanced", "academic"]
+  },
+  {
+    "id": "C1-U01-V009",
+    "word": "la debilidad",
+    "translation": "weakness",
+    "pronunciation_hint": "deh-bee-lee-DAD",
+    "part_of_speech": "noun",
+    "example_sentence": "Reconocer tus debilidades es el primer paso para mejorar.",
+    "example_translation": "Recognizing your weaknesses is the first step to improving.",
+    "audio_file": "C1/unit-01/la_debilidad.mp3",
+    "tags": ["nouns", "nominalization", "advanced"]
+  },
+  {
+    "id": "C1-U01-V010",
+    "word": "el desarrollo",
+    "translation": "development",
+    "pronunciation_hint": "deh-sah-ROH-yo",
+    "part_of_speech": "noun",
+    "example_sentence": "El desarrollo económico del país ha sido notable.",
+    "example_translation": "The country's economic development has been remarkable.",
+    "audio_file": "C1/unit-01/el_desarrollo.mp3",
+    "tags": ["nouns", "nominalization", "advanced"]
+  },
+  {
+    "id": "C1-U01-V011",
+    "word": "prescriptivo/a",
+    "translation": "prescriptive",
+    "pronunciation_hint": "preh-skrip-TEE-vo",
+    "part_of_speech": "adjective",
+    "example_sentence": "Las academias de la lengua tienen un enfoque prescriptivo.",
+    "example_translation": "Language academies have a prescriptive approach.",
+    "audio_file": "C1/unit-01/prescriptivo.mp3",
+    "tags": ["advanced", "language", "adjectives"]
+  },
+  {
+    "id": "C1-U01-V012",
+    "word": "la enseñanza",
+    "translation": "teaching / education",
+    "pronunciation_hint": "en-seh-NYAN-sah",
+    "part_of_speech": "noun",
+    "example_sentence": "La enseñanza del español ha cambiado mucho con la tecnología.",
+    "example_translation": "The teaching of Spanish has changed a lot with technology.",
+    "audio_file": "C1/unit-01/la_ensenanza.mp3",
+    "tags": ["nouns", "nominalization", "education"]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U02-E001",
+    "type": "multiple_choice",
+    "prompt": "Which connector introduces a consequence or result?",
+    "options": [
+      "no obstante",
+      "asimismo",
+      "por ende",
+      "a pesar de que"
+    ],
+    "answer": 2,
+    "explanation": "'Por ende' means 'therefore / consequently' and introduces a result. 'No obstante' signals contrast, 'asimismo' signals addition, and 'a pesar de que' signals concession."
+  },
+  {
+    "id": "C1-U02-E002",
+    "type": "multiple_choice",
+    "prompt": "'Aunque + subjunctive' expresses:",
+    "options": [
+      "A fact that is true despite something",
+      "A hypothetical concession (even if)",
+      "A reason or cause",
+      "An addition to a previous point"
+    ],
+    "answer": 1,
+    "explanation": "'Aunque + subjunctive' expresses a hypothetical concession — 'even if' (something that may or may not be true). 'Aunque + indicative' means 'even though' (a known fact)."
+  },
+  {
+    "id": "C1-U02-E003",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses hedging language correctly?",
+    "options": [
+      "Esta es definitivamente la mejor solución posible.",
+      "Podría decirse que esta es la mejor solución.",
+      "Es imposible que haya otra solución.",
+      "La solución es esta y ninguna más."
+    ],
+    "answer": 1,
+    "explanation": "'Podría decirse que' is a hedging expression that softens a claim and acknowledges it is one perspective among possible others — a hallmark of sophisticated academic writing."
+  },
+  {
+    "id": "C1-U02-E004",
+    "type": "multiple_choice",
+    "prompt": "Complete: 'De ahí que _______ necesario replantear la estrategia.'",
+    "options": [
+      "es",
+      "era",
+      "sea",
+      "fue"
+    ],
+    "answer": 2,
+    "explanation": "'De ahí que' always requires the subjunctive. 'Sea' (present subjunctive of 'ser') is correct here."
+  },
+  {
+    "id": "C1-U02-E005",
+    "type": "multiple_choice",
+    "prompt": "Which is the most formal version of 'El problema viene de la falta de comunicación'?",
+    "options": [
+      "O sea, el problema es que no se comunican.",
+      "El problema viene de no comunicarse bien.",
+      "El problema se origina en la ausencia de comunicación efectiva.",
+      "La comunicación está mal y por eso hay problemas."
+    ],
+    "answer": 2,
+    "explanation": "The most formal version uses nominalization ('la ausencia de comunicación efectiva') and a more precise verb ('se origina en'). It avoids colloquial constructions and is more abstract and precise."
+  },
+  {
+    "id": "C1-U02-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the best connector: 'Los datos son prometedores; _______, se necesitan más estudios.' (The data is promising; however, more studies are needed.)",
+    "options": [
+      "por ende",
+      "asimismo",
+      "no obstante",
+      "dado que"
+    ],
+    "answer": 2,
+    "explanation": "'No obstante' (nevertheless / however) signals contrast or concession — perfect for introducing a qualification after a positive statement."
+  },
+  {
+    "id": "C1-U02-E007",
+    "type": "translation",
+    "prompt": "Translate formally: 'The agreement was signed by both parties after lengthy negotiations.'",
+    "options": [
+      "Los dos firmaron el acuerdo después de negociar mucho.",
+      "El acuerdo fue firmado por ambas partes tras prolongadas negociaciones.",
+      "Se firmó el acuerdo porque negociaron.",
+      "Ambas partes firmaron el acuerdo con muchas negociaciones."
+    ],
+    "answer": 1,
+    "explanation": "The formal translation uses the true passive ('fue firmado por') because the agent matters, the formal preposition 'tras' instead of 'después de', and the nominalization 'prolongadas negociaciones' instead of the verbal phrase."
+  },
+  {
+    "id": "C1-U02-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a formal sentence using a hedging expression:",
+    "words": ["Cabe", "señalar", "que", "los", "resultados", "son", "preliminares"],
+    "answer": "Cabe señalar que los resultados son preliminares",
+    "explanation": "'Cabe señalar que' is a fixed hedging phrase meaning 'it should be noted that'. It always starts the clause."
+  }
+]

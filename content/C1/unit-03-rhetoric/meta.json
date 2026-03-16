@@ -1,0 +1,15 @@
+{
+  "id": "C1-U03",
+  "title": "Rhetoric & Advanced Argumentation",
+  "level": "C1",
+  "unit": 3,
+  "slug": "rhetoric",
+  "estimated_minutes": 45,
+  "topics": ["rhetorical devices", "argumentation structure", "concession and rebuttal", "persuasive language", "logical connectors"],
+  "prereqs": ["C1-U02"],
+  "cefr_skills": ["speaking", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.5.1"
+}

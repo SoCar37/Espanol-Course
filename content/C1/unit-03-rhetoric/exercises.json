@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U03-E001",
+    "type": "multiple_choice",
+    "prompt": "In a well-formed Spanish argument, what comes after presenting counterarguments?",
+    "options": [
+      "The thesis",
+      "The conclusion",
+      "The refutation (rebuttal)",
+      "More supporting examples"
+    ],
+    "answer": 2,
+    "explanation": "The structure is: tesis → argumentos → contraargumento → refutación → conclusión. The refutation follows the counterargument to show why your position holds despite the opposing view."
+  },
+  {
+    "id": "C1-U03-E002",
+    "type": "multiple_choice",
+    "prompt": "Identify the rhetorical device: 'Necesitamos más hospitales. Necesitamos más médicos. Necesitamos más inversión en salud.'",
+    "options": [
+      "Antítesis",
+      "Anáfora",
+      "Gradación",
+      "Pregunta retórica"
+    ],
+    "answer": 1,
+    "explanation": "Anáfora (anaphora) is the repetition of a word or phrase at the beginning of successive clauses. Here 'Necesitamos más' is repeated for rhetorical emphasis."
+  },
+  {
+    "id": "C1-U03-E003",
+    "type": "multiple_choice",
+    "prompt": "Which phrase best introduces a concession in a formal argument?",
+    "options": [
+      "Ahora bien",
+      "En definitiva",
+      "Hay que reconocer que",
+      "Por todo lo expuesto"
+    ],
+    "answer": 2,
+    "explanation": "'Hay que reconocer que' (one must acknowledge that) introduces a concession — admitting an opposing point has merit before rebutting it. 'Ahora bien' signals a rebuttal, while 'en definitiva' and 'por todo lo expuesto' signal conclusions."
+  },
+  {
+    "id": "C1-U03-E004",
+    "type": "multiple_choice",
+    "prompt": "Complete the concession-rebuttal: 'Reconozco que el proyecto tiene costos elevados; _______, los beneficios a largo plazo justifican la inversión.'",
+    "options": [
+      "dado que",
+      "de ahí que",
+      "sin embargo",
+      "asimismo"
+    ],
+    "answer": 2,
+    "explanation": "'Sin embargo' (however) is the classic connector for introducing a rebuttal after a concession. It signals that despite acknowledging the point, the opposite conclusion is reached."
+  },
+  {
+    "id": "C1-U03-E005",
+    "type": "multiple_choice",
+    "prompt": "Identify the rhetorical device: 'No se trata de ganar o perder, sino de aprender y crecer.'",
+    "options": [
+      "Anáfora",
+      "Pregunta retórica",
+      "Antítesis",
+      "Gradación"
+    ],
+    "answer": 2,
+    "explanation": "Antítesis (antithesis) juxtaposes contrasting ideas in parallel structure. Here 'ganar/perder' and 'aprender/crecer' are contrasted to make a philosophical point."
+  },
+  {
+    "id": "C1-U03-E006",
+    "type": "fill_in_blank",
+    "prompt": "Choose the correct concluding connector: '_______, la evidencia apunta hacia la necesidad de una reforma estructural.' (In sum, the evidence points to the need for structural reform.)",
+    "options": [
+      "Ahora bien",
+      "En suma",
+      "Si bien es cierto",
+      "Cabe añadir que"
+    ],
+    "answer": 1,
+    "explanation": "'En suma' (in sum / in short) is a concluding connector that signals you are wrapping up an argument and restating the key point."
+  },
+  {
+    "id": "C1-U03-E007",
+    "type": "translation",
+    "prompt": "Translate into formal argumentative Spanish: 'While it is true that the policy has costs, the long-term benefits are undeniable.'",
+    "options": [
+      "Aunque la política cuesta, los beneficios son buenos a largo plazo.",
+      "La política es cara pero tiene beneficios después.",
+      "Si bien es cierto que la política conlleva costos, los beneficios a largo plazo son incuestionables.",
+      "Es verdad que cuesta mucho, pero va a valer la pena."
+    ],
+    "answer": 2,
+    "explanation": "The formal translation uses 'si bien es cierto que' for the concession, 'conlleva' (entails) for precision, and 'incuestionables' for a strong rhetorical assertion."
+  },
+  {
+    "id": "C1-U03-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange these words to form a proper rebuttal sentence:",
+    "words": ["Ahora", "bien", "los", "datos", "no", "apoyan", "esa", "conclusión"],
+    "answer": "Ahora bien los datos no apoyan esa conclusión",
+    "explanation": "'Ahora bien' opens the rebuttal clause. The sentence means 'That said, the data does not support that conclusion.'"
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "C1-U01-Q",
+  "title": "Unit 1 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U01-Q001",
+      "type": "multiple_choice",
+      "prompt": "When does Spanish require the subjunctive mood?",
+      "options": [
+        "When describing actions that happened in the past",
+        "When expressing speaker attitude: doubt, desire, emotion, or unreality",
+        "When referring to habitual actions in the present",
+        "When using compound tenses with 'haber'"
+      ],
+      "answer": 1,
+      "explanation": "The subjunctive expresses the speaker's mental stance — doubt, desire, emotion, or unreality — rather than objective fact."
+    },
+    {
+      "id": "C1-U01-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which tense combination is used for an unrealized past hypothetical?",
+      "options": [
+        "Imperfect subjunctive + conditional",
+        "Past perfect subjunctive + conditional perfect",
+        "Present subjunctive + future",
+        "Imperfect + past perfect subjunctive"
+      ],
+      "answer": 1,
+      "explanation": "Unrealized past hypotheticals use past perfect subjunctive in the 'si' clause (hubiera + participio) and conditional perfect in the main clause (habría + participio)."
+    },
+    {
+      "id": "C1-U01-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is 'nominalization' in Spanish grammar?",
+      "options": [
+        "Using a noun as a verb",
+        "Replacing a subject with a pronoun",
+        "Turning verbs or adjectives into nouns",
+        "Adding -mente to an adjective"
+      ],
+      "answer": 2,
+      "explanation": "Nominalization turns verbs or adjectives into nouns, e.g., 'desarrollar' → 'el desarrollo'. It is a hallmark of formal, advanced Spanish."
+    },
+    {
+      "id": "C1-U01-Q004",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'No creo que ellos _______ todavía.' (I don't think they've finished yet.)",
+      "options": [
+        "han terminado",
+        "terminaron",
+        "hayan terminado",
+        "hubieran terminado"
+      ],
+      "answer": 2,
+      "explanation": "After expressions of doubt ('no creo que'), the subjunctive is required. 'Hayan terminado' is the perfect subjunctive, appropriate for a completed action."
+    },
+    {
+      "id": "C1-U01-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'llevar + gerund'?",
+      "options": [
+        "Llevo esperando dos horas.",
+        "Llevo dos horas esperando.",
+        "Llevo por dos horas esperando.",
+        "Llevo a esperar dos horas."
+      ],
+      "answer": 1,
+      "explanation": "The structure 'llevar + time + gerund' expresses duration of an ongoing action. The correct order is 'Llevo dos horas esperando' — the time expression comes before the gerund."
+    },
+    {
+      "id": "C1-U01-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which adjective always takes 'estar', never 'ser'?",
+      "options": [
+        "inteligente",
+        "alto",
+        "listo (meaning 'ready')",
+        "simpático"
+      ],
+      "answer": 2,
+      "explanation": "'Listo' meaning 'ready' always takes 'estar': 'La comida está lista.' When meaning 'clever', it can take 'ser': 'Es un chico muy listo.'"
+    },
+    {
+      "id": "C1-U01-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which is the nominalization of 'enseñar' (to teach)?",
+      "options": [
+        "el enseñar",
+        "la enseñación",
+        "la enseñanza",
+        "lo enseñado"
+      ],
+      "answer": 2,
+      "explanation": "'La enseñanza' is the nominalization of 'enseñar', meaning 'teaching' or 'education'."
+    },
+    {
+      "id": "C1-U01-Q008",
+      "type": "multiple_choice",
+      "prompt": "The Academia Mexicana de la Lengua was founded in:",
+      "options": [
+        "1492",
+        "1810",
+        "1875",
+        "1921"
+      ],
+      "answer": 2,
+      "explanation": "The Academia Mexicana de la Lengua was founded in 1875. It documents and defends the particular character of Mexican Spanish."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "C1-U04-Q",
+  "title": "Unit 4 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U04-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which period covers the Spanish conquest of the Aztec empire?",
+      "options": [
+        "La Reforma (1855–1876)",
+        "La Independencia (1810–1821)",
+        "La Conquista (1519–1521)",
+        "El Porfiriato (1876–1911)"
+      ],
+      "answer": 2,
+      "explanation": "La Conquista (1519–1521) refers to the Spanish conquest led by Hernán Cortés that defeated the Aztec empire under Moctezuma II."
+    },
+    {
+      "id": "C1-U04-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'la rendición de cuentas' mean?",
+      "options": [
+        "Sovereignty",
+        "Accountability",
+        "Impunity",
+        "Suffrage"
+      ],
+      "answer": 1,
+      "explanation": "'La rendición de cuentas' means accountability — the obligation of public officials to answer for their actions and decisions."
+    },
+    {
+      "id": "C1-U04-Q003",
+      "type": "multiple_choice",
+      "prompt": "The slogan 'Tierra y Libertad' is associated with:",
+      "options": [
+        "Benito Juárez",
+        "Lázaro Cárdenas",
+        "Emiliano Zapata",
+        "Porfirio Díaz"
+      ],
+      "answer": 2,
+      "explanation": "'Tierra y Libertad' (Land and Liberty) was the slogan of Emiliano Zapata, who led the agrarian wing of the Mexican Revolution demanding land reform."
+    },
+    {
+      "id": "C1-U04-Q004",
+      "type": "multiple_choice",
+      "prompt": "How long did the PRI govern Mexico before the 2000 democratic transition?",
+      "options": [
+        "30 years",
+        "50 years",
+        "71 years",
+        "100 years"
+      ],
+      "answer": 2,
+      "explanation": "The PRI governed Mexico for 71 years (1929–2000) before Vicente Fox's victory in the 2000 election ended single-party rule."
+    },
+    {
+      "id": "C1-U04-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is 'el presidencialismo' as it existed under the PRI system?",
+      "options": [
+        "A multi-party presidential democracy",
+        "An enormous concentration of power in the executive branch",
+        "A system where the president is elected by congress",
+        "A ceremonial presidency with limited real power"
+      ],
+      "answer": 1,
+      "explanation": "'El presidencialismo' describes the enormous concentration of power in the Mexican presidency during the PRI era — the president controlled party, congress, judiciary, and designated his successor."
+    },
+    {
+      "id": "C1-U04-Q006",
+      "type": "multiple_choice",
+      "prompt": "On what date is the oil expropriation commemorated in Mexico?",
+      "options": [
+        "September 16",
+        "November 20",
+        "March 18",
+        "February 5"
+      ],
+      "answer": 2,
+      "explanation": "March 18 (March 18, 1938) is the Día de la Expropiación Petrolera, commemorating Lázaro Cárdenas's nationalization of the oil industry."
+    },
+    {
+      "id": "C1-U04-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'el dedazo' refer to in Mexican political history?",
+      "options": [
+        "The fingerprint used on voting ballots",
+        "The PRI president's tradition of personally designating his successor",
+        "A constitutional amendment process",
+        "A form of political corruption involving bribery"
+      ],
+      "answer": 1,
+      "explanation": "'El dedazo' (literally 'the big finger point') was the practice by which the outgoing PRI president personally chose his successor — a defining feature of the undemocratic concentration of power."
+    },
+    {
+      "id": "C1-U04-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which of these is a contemporary theme in Mexican political discourse?",
+      "options": [
+        "La expropiación petrolera",
+        "El corporativismo priísta",
+        "La seguridad pública frente al crimen organizado",
+        "La guerra de independencia"
+      ],
+      "answer": 2,
+      "explanation": "'La seguridad pública' (public safety) in the context of organized crime is a central theme in contemporary Mexican political discourse. The others are historical rather than current issues."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C1-U04-E001",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between 'el estado' and 'el gobierno' in Mexican political vocabulary?",
+    "options": [
+      "They are synonyms and can be used interchangeably",
+      "'El estado' is the permanent institutional structure; 'el gobierno' is the transient political leadership",
+      "'El estado' refers to a federal state; 'el gobierno' refers to the national government",
+      "'El estado' is informal; 'el gobierno' is the formal term"
+    ],
+    "answer": 1,
+    "explanation": "'El estado' is the permanent institutional structure of governance; 'el gobierno' is the specific administration in power at a given time. This distinction matters in political and legal contexts."
+  },
+  {
+    "id": "C1-U04-E002",
+    "type": "multiple_choice",
+    "prompt": "Which historical period refers to the liberal reform era that separated church and state in Mexico?",
+    "options": [
+      "La Conquista",
+      "El Porfiriato",
+      "La Reforma",
+      "La Revolución"
+    ],
+    "answer": 2,
+    "explanation": "'La Reforma' (1855–1876) was the liberal reform era led by Benito Juárez that achieved the separation of church and state and established key liberal institutions in Mexico."
+  },
+  {
+    "id": "C1-U04-E003",
+    "type": "multiple_choice",
+    "prompt": "The phrase '\"El respeto al derecho ajeno es la paz\"' is attributed to:",
+    "options": [
+      "Emiliano Zapata",
+      "Lázaro Cárdenas",
+      "Porfirio Díaz",
+      "Benito Juárez"
+    ],
+    "answer": 3,
+    "explanation": "This famous phrase — 'Respect for the rights of others is peace' — is attributed to Benito Juárez and remains part of Mexican national consciousness."
+  },
+  {
+    "id": "C1-U04-E004",
+    "type": "multiple_choice",
+    "prompt": "What does 'la impunidad' mean in the context of Mexican political discourse?",
+    "options": [
+      "Sovereignty",
+      "Accountability",
+      "Impunity — the failure to prosecute wrongdoing",
+      "Corruption in public office"
+    ],
+    "answer": 2,
+    "explanation": "'La impunidad' means impunity — the condition in which wrongdoing goes unpunished. It is distinct from 'la corrupción' (the corrupt act itself) and is a persistent theme in Mexican civic discourse."
+  },
+  {
+    "id": "C1-U04-E005",
+    "type": "multiple_choice",
+    "prompt": "Lázaro Cárdenas is remembered primarily for:",
+    "options": [
+      "Leading the War of Independence from Spain",
+      "Nationalizing Mexico's oil industry in 1938",
+      "Winning the democratic election of 2000",
+      "Founding the PRI political party"
+    ],
+    "answer": 1,
+    "explanation": "Lázaro Cárdenas nationalized Mexico's oil industry on March 18, 1938 — the 'expropiación petrolera' — still celebrated as a national holiday and symbol of economic sovereignty."
+  },
+  {
+    "id": "C1-U04-E006",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct term: 'La _______ de 2000 marcó el fin del dominio del PRI.' (The democratic turnover of 2000 marked the end of PRI rule.)",
+    "options": [
+      "soberanía",
+      "expropiación",
+      "alternancia",
+      "impunidad"
+    ],
+    "answer": 2,
+    "explanation": "'La alternancia' refers to the democratic rotation of power. In 2000, Vicente Fox's victory over the PRI ended 71 years of single-party rule — a moment Mexicans call 'la alternancia'."
+  },
+  {
+    "id": "C1-U04-E007",
+    "type": "translation",
+    "prompt": "Translate: 'The rule of law means that no public official is above the law.'",
+    "options": [
+      "La ley dice que los políticos deben obedecer.",
+      "El Estado de derecho implica que ningún funcionario público está por encima de la ley.",
+      "En México, la ley se aplica a todos por igual.",
+      "Los funcionarios tienen que cumplir con la ley siempre."
+    ],
+    "answer": 1,
+    "explanation": "'El Estado de derecho' is the precise term for 'rule of law'. 'Ningún funcionario público está por encima de la ley' captures 'no public official is above the law' with formal precision."
+  },
+  {
+    "id": "C1-U04-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct sentence about Mexican political history:",
+    "words": ["El", "Porfiriato", "fue", "una", "dictadura", "de", "más", "de", "treinta", "años"],
+    "answer": "El Porfiriato fue una dictadura de más de treinta años",
+    "explanation": "El Porfiriato (1876–1911) was the period of Porfirio Díaz's rule — a dictatorship lasting over thirty years that preceded the Mexican Revolution."
+  }
+]

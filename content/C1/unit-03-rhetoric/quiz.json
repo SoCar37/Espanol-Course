@@ -1,0 +1,111 @@
+{
+  "id": "C1-U03-Q",
+  "title": "Unit 3 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U03-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is the correct order of elements in a well-formed Spanish argument?",
+      "options": [
+        "Conclusión → tesis → argumentos → refutación",
+        "Tesis → argumentos → contraargumento → refutación → conclusión",
+        "Argumentos → tesis → contraargumento → conclusión",
+        "Tesis → conclusión → argumentos → refutación"
+      ],
+      "answer": 1,
+      "explanation": "The standard structure is: tesis (claim) → argumentos (support) → contraargumento (opposing view) → refutación (rebuttal) → conclusión."
+    },
+    {
+      "id": "C1-U03-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which device repeats a phrase at the start of successive clauses for emphasis?",
+      "options": [
+        "Antítesis",
+        "Gradación",
+        "Anáfora",
+        "Pregunta retórica"
+      ],
+      "answer": 2,
+      "explanation": "Anáfora (anaphora) is the repetition of a word or phrase at the start of successive clauses to create emphasis and rhythm."
+    },
+    {
+      "id": "C1-U03-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which connector introduces a conclusion in formal writing?",
+      "options": [
+        "Ahora bien",
+        "Si bien es cierto",
+        "Por todo lo expuesto",
+        "Hay que reconocer que"
+      ],
+      "answer": 2,
+      "explanation": "'Por todo lo expuesto' (given all of the above) is a classic formal conclusion marker. 'Ahora bien' signals rebuttal, 'si bien es cierto' signals concession, and 'hay que reconocer que' signals concession."
+    },
+    {
+      "id": "C1-U03-Q004",
+      "type": "multiple_choice",
+      "prompt": "'¿Acaso podemos ignorar lo que está pasando?' is an example of:",
+      "options": [
+        "Gradación",
+        "Antítesis",
+        "Pregunta retórica",
+        "Anáfora"
+      ],
+      "answer": 2,
+      "explanation": "A pregunta retórica (rhetorical question) is posed for effect and does not expect a literal answer. '¿Acaso...?' is a common marker of rhetorical questions in Spanish."
+    },
+    {
+      "id": "C1-U03-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete: '_______ que la medida tiene limitaciones, es el mejor camino disponible.'",
+      "options": [
+        "Ahora bien",
+        "Reconozco",
+        "En definitiva",
+        "Por ende"
+      ],
+      "answer": 1,
+      "explanation": "'Reconozco que...' (I acknowledge that...) introduces a concession — admitting a limitation before proceeding to defend the position."
+    },
+    {
+      "id": "C1-U03-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which sentence demonstrates the antithesis rhetorical device?",
+      "options": [
+        "Necesitamos más recursos. Necesitamos más tiempo. Necesitamos más apoyo.",
+        "No se trata de tener razón, sino de encontrar la verdad.",
+        "En definitiva, la reforma es necesaria e inaplazable.",
+        "Si bien es cierto que hay obstáculos, estos son superables."
+      ],
+      "answer": 1,
+      "explanation": "Antithesis juxtaposes contrasting ideas in parallel structure. 'No se trata de tener razón, sino de encontrar la verdad' contrasts two opposing concepts deliberately."
+    },
+    {
+      "id": "C1-U03-Q007",
+      "type": "multiple_choice",
+      "prompt": "Why is acknowledging a counterargument considered a sign of strong argumentation?",
+      "options": [
+        "It weakens your position by admitting doubt",
+        "It is required by academic style guides",
+        "It demonstrates intellectual honesty and makes your own position stronger",
+        "It adds length to make the essay more formal"
+      ],
+      "answer": 2,
+      "explanation": "Acknowledging opposing views shows intellectual honesty and signals that your conclusion holds even when challenged — making your argument more persuasive, not weaker."
+    },
+    {
+      "id": "C1-U03-Q008",
+      "type": "multiple_choice",
+      "prompt": "The Mexican tradition of political debate mentioned in the lesson is rooted in which historical era?",
+      "options": [
+        "The Aztec empire",
+        "The colonial period under Spain",
+        "The Reform era of the 19th century",
+        "The Mexican Revolution of 1910"
+      ],
+      "answer": 2,
+      "explanation": "The lesson specifically mentions the Reform (La Reforma) era of the 19th century as producing some of the finest political oratory in Latin American history, notably associated with Benito Juárez."
+    }
+  ]
+}

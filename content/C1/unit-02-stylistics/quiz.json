@@ -1,0 +1,111 @@
+{
+  "id": "C1-U02-Q",
+  "title": "Unit 2 Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "C1-U02-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'register' refer to in linguistics?",
+      "options": [
+        "The volume at which someone speaks",
+        "The variety of language used in a particular social situation",
+        "The grammatical tense used in a sentence",
+        "The regional accent of a speaker"
+      ],
+      "answer": 1,
+      "explanation": "Register refers to the variety of language appropriate to a particular social situation — ranging from colloquial to highly formal."
+    },
+    {
+      "id": "C1-U02-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which connector signals addition or reinforcement?",
+      "options": [
+        "no obstante",
+        "por ende",
+        "asimismo",
+        "dado que"
+      ],
+      "answer": 2,
+      "explanation": "'Asimismo' means 'likewise / also / furthermore' and signals addition. 'No obstante' signals contrast, 'por ende' signals consequence, and 'dado que' signals cause."
+    },
+    {
+      "id": "C1-U02-Q003",
+      "type": "multiple_choice",
+      "prompt": "'Aunque salga temprano, llegaré tarde.' This sentence means:",
+      "options": [
+        "Even though I leave early, I will arrive late. (known fact)",
+        "Even if I leave early, I will arrive late. (hypothetical)",
+        "Since I leave early, I will arrive late.",
+        "Unless I leave early, I will arrive late."
+      ],
+      "answer": 1,
+      "explanation": "'Aunque + subjunctive' (salga) expresses a hypothetical concession — 'even if I leave early' (it hasn't happened yet, or it's uncertain). The subjunctive marks it as hypothetical."
+    },
+    {
+      "id": "C1-U02-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which is an example of hedging language?",
+      "options": [
+        "Esta es claramente la única solución.",
+        "En cierta medida, todos somos responsables.",
+        "El problema es grave y debe resolverse ya.",
+        "Los resultados son definitivos."
+      ],
+      "answer": 1,
+      "explanation": "'En cierta medida' (to a certain extent) is a hedging expression that softens a claim, acknowledging it is not absolute."
+    },
+    {
+      "id": "C1-U02-Q005",
+      "type": "multiple_choice",
+      "prompt": "When is the true passive ('fue firmado por') preferred over impersonal 'se'?",
+      "options": [
+        "In all formal writing",
+        "When the agent (doer) is important or must be named",
+        "In spoken Mexican Spanish",
+        "When the subject is plural"
+      ],
+      "answer": 1,
+      "explanation": "The true passive is preferred when naming the agent matters. 'Se firmó el acuerdo' omits the agent; 'El acuerdo fue firmado por el presidente' names who did it."
+    },
+    {
+      "id": "C1-U02-Q006",
+      "type": "multiple_choice",
+      "prompt": "What grammatical mood always follows 'de ahí que'?",
+      "options": [
+        "Indicative",
+        "Conditional",
+        "Subjunctive",
+        "Infinitive"
+      ],
+      "answer": 2,
+      "explanation": "'De ahí que' always triggers the subjunctive: 'De ahí que sea necesario actuar.'"
+    },
+    {
+      "id": "C1-U02-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which technique creates emphasis by delaying the main point to the end of the sentence?",
+      "options": [
+        "Hedging",
+        "Nominalization",
+        "Periodic sentence structure",
+        "Passive voice"
+      ],
+      "answer": 2,
+      "explanation": "A periodic sentence builds tension by presenting background information first and delivering the main clause at the end — a technique that creates rhetorical impact."
+    },
+    {
+      "id": "C1-U02-Q008",
+      "type": "multiple_choice",
+      "prompt": "Which newspaper is mentioned in the lesson as a standard for neutral journalistic Mexican Spanish?",
+      "options": [
+        "La Jornada",
+        "Reforma",
+        "El Nacional",
+        "Excélsior"
+      ],
+      "answer": 1,
+      "explanation": "The lesson mentions 'Reforma' and 'El Universal' as newspapers that set the standard for neutral journalistic prose in Mexico."
+    }
+  ]
+}

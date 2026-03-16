@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U04-V001",
+    "word": "la soberanía",
+    "translation": "sovereignty",
+    "pronunciation_hint": "so-beh-rah-NEE-ah",
+    "part_of_speech": "noun",
+    "example_sentence": "La soberanía nacional es un principio fundamental de la Constitución mexicana.",
+    "example_translation": "National sovereignty is a fundamental principle of the Mexican Constitution.",
+    "audio_file": "C1/unit-04/la_soberania.mp3",
+    "tags": ["politics", "history", "advanced"]
+  },
+  {
+    "id": "C1-U04-V002",
+    "word": "la impunidad",
+    "translation": "impunity",
+    "pronunciation_hint": "eem-poo-nee-DAD",
+    "part_of_speech": "noun",
+    "example_sentence": "La impunidad es uno de los principales obstáculos para la justicia en México.",
+    "example_translation": "Impunity is one of the main obstacles to justice in Mexico.",
+    "audio_file": "C1/unit-04/la_impunidad.mp3",
+    "tags": ["politics", "law", "advanced"]
+  },
+  {
+    "id": "C1-U04-V003",
+    "word": "la rendición de cuentas",
+    "translation": "accountability",
+    "pronunciation_hint": "ren-dee-SYON de KWEN-tahs",
+    "part_of_speech": "phrase",
+    "example_sentence": "La rendición de cuentas de los funcionarios públicos es esencial en una democracia.",
+    "example_translation": "The accountability of public officials is essential in a democracy.",
+    "audio_file": "C1/unit-04/la_rendicion_de_cuentas.mp3",
+    "tags": ["politics", "governance", "advanced"]
+  },
+  {
+    "id": "C1-U04-V004",
+    "word": "el sufragio",
+    "translation": "suffrage / the vote",
+    "pronunciation_hint": "soo-FRAH-hyo",
+    "part_of_speech": "noun",
+    "example_sentence": "El sufragio universal fue una conquista de la Revolución Mexicana.",
+    "example_translation": "Universal suffrage was a achievement of the Mexican Revolution.",
+    "audio_file": "C1/unit-04/el_sufragio.mp3",
+    "tags": ["politics", "democracy", "history"]
+  },
+  {
+    "id": "C1-U04-V005",
+    "word": "el presidencialismo",
+    "translation": "presidentialism (strong executive power)",
+    "pronunciation_hint": "preh-see-den-sya-LEES-mo",
+    "part_of_speech": "noun",
+    "example_sentence": "El presidencialismo del siglo XX concentró el poder en el Ejecutivo federal.",
+    "example_translation": "The presidentialism of the 20th century concentrated power in the federal executive.",
+    "audio_file": "C1/unit-04/el_presidencialismo.mp3",
+    "tags": ["politics", "history", "advanced"]
+  },
+  {
+    "id": "C1-U04-V006",
+    "word": "la alternancia",
+    "translation": "democratic rotation of power / political alternation",
+    "pronunciation_hint": "al-tehr-NAN-sya",
+    "part_of_speech": "noun",
+    "example_sentence": "La alternancia de 2000 marcó el fin de 71 años de dominio priísta.",
+    "example_translation": "The 2000 alternation marked the end of 71 years of PRI dominance.",
+    "audio_file": "C1/unit-04/la_alternancia.mp3",
+    "tags": ["politics", "democracy", "history"]
+  },
+  {
+    "id": "C1-U04-V007",
+    "word": "la expropiación",
+    "translation": "expropriation / nationalization",
+    "pronunciation_hint": "eks-pro-pya-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La expropiación petrolera de 1938 fue un hito en la historia económica de México.",
+    "example_translation": "The 1938 oil expropriation was a milestone in Mexico's economic history.",
+    "audio_file": "C1/unit-04/la_expropiacion.mp3",
+    "tags": ["history", "economics", "advanced"]
+  },
+  {
+    "id": "C1-U04-V008",
+    "word": "el Estado de derecho",
+    "translation": "rule of law",
+    "pronunciation_hint": "el es-TAH-do de deh-REH-cho",
+    "part_of_speech": "phrase",
+    "example_sentence": "El Estado de derecho implica que nadie está por encima de la ley.",
+    "example_translation": "The rule of law means that no one is above the law.",
+    "audio_file": "C1/unit-04/el_estado_de_derecho.mp3",
+    "tags": ["law", "politics", "advanced"]
+  },
+  {
+    "id": "C1-U04-V009",
+    "word": "la ciudadanía",
+    "translation": "citizenship / citizenry",
+    "pronunciation_hint": "syoo-dah-dah-NEE-ah",
+    "part_of_speech": "noun",
+    "example_sentence": "La ciudadanía tiene el derecho y la obligación de participar en la vida democrática.",
+    "example_translation": "The citizenry has the right and obligation to participate in democratic life.",
+    "audio_file": "C1/unit-04/la_ciudadania.mp3",
+    "tags": ["politics", "civic", "advanced"]
+  },
+  {
+    "id": "C1-U04-V010",
+    "word": "el corporativismo",
+    "translation": "corporatism (political)",
+    "pronunciation_hint": "kor-po-rah-tee-VEES-mo",
+    "part_of_speech": "noun",
+    "example_sentence": "El corporativismo priísta integró a sindicatos y organizaciones sociales al partido.",
+    "example_translation": "PRI corporatism integrated unions and social organizations into the party.",
+    "audio_file": "C1/unit-04/el_corporativismo.mp3",
+    "tags": ["politics", "history", "advanced"]
+  },
+  {
+    "id": "C1-U04-V011",
+    "word": "la desigualdad",
+    "translation": "inequality",
+    "pronunciation_hint": "deh-see-gwal-DAD",
+    "part_of_speech": "noun",
+    "example_sentence": "La desigualdad económica sigue siendo uno de los mayores retos del país.",
+    "example_translation": "Economic inequality continues to be one of the country's greatest challenges.",
+    "audio_file": "C1/unit-04/la_desigualdad.mp3",
+    "tags": ["politics", "social issues", "advanced"]
+  },
+  {
+    "id": "C1-U04-V012",
+    "word": "el mandato",
+    "translation": "term in office / mandate",
+    "pronunciation_hint": "man-DAH-to",
+    "part_of_speech": "noun",
+    "example_sentence": "El mandato presidencial en México dura seis años y no permite la reelección.",
+    "example_translation": "The presidential term in Mexico lasts six years and does not allow reelection.",
+    "audio_file": "C1/unit-04/el_mandato.mp3",
+    "tags": ["politics", "government", "advanced"]
+  }
+]

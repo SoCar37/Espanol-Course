@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C1-U03-V001",
+    "word": "la tesis",
+    "translation": "thesis / central claim",
+    "pronunciation_hint": "TEH-sees",
+    "part_of_speech": "noun",
+    "example_sentence": "La tesis principal del ensayo es que la educación reduce la desigualdad.",
+    "example_translation": "The main thesis of the essay is that education reduces inequality.",
+    "audio_file": "C1/unit-03/la_tesis.mp3",
+    "tags": ["argumentation", "writing", "academic"]
+  },
+  {
+    "id": "C1-U03-V002",
+    "word": "la refutación",
+    "translation": "rebuttal / refutation",
+    "pronunciation_hint": "reh-foo-tah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "Su refutación fue convincente y desmontó el argumento contrario.",
+    "example_translation": "Her rebuttal was convincing and dismantled the opposing argument.",
+    "audio_file": "C1/unit-03/la_refutacion.mp3",
+    "tags": ["argumentation", "debate", "advanced"]
+  },
+  {
+    "id": "C1-U03-V003",
+    "word": "la anáfora",
+    "translation": "anaphora (rhetorical repetition)",
+    "pronunciation_hint": "ah-NAH-fo-rah",
+    "part_of_speech": "noun",
+    "example_sentence": "El discurso usó la anáfora para crear un efecto emocional poderoso.",
+    "example_translation": "The speech used anaphora to create a powerful emotional effect.",
+    "audio_file": "C1/unit-03/la_anafora.mp3",
+    "tags": ["rhetoric", "literary devices", "advanced"]
+  },
+  {
+    "id": "C1-U03-V004",
+    "word": "la antítesis",
+    "translation": "antithesis",
+    "pronunciation_hint": "an-TEE-teh-sees",
+    "part_of_speech": "noun",
+    "example_sentence": "La antítesis entre libertad y seguridad domina el debate político.",
+    "example_translation": "The antithesis between freedom and security dominates the political debate.",
+    "audio_file": "C1/unit-03/la_antitesis.mp3",
+    "tags": ["rhetoric", "literary devices", "advanced"]
+  },
+  {
+    "id": "C1-U03-V005",
+    "word": "si bien es cierto",
+    "translation": "while it is true / although",
+    "pronunciation_hint": "see BYEN es SYER-to",
+    "part_of_speech": "phrase",
+    "example_sentence": "Si bien es cierto que el plan tiene costos, los beneficios son mayores.",
+    "example_translation": "While it is true that the plan has costs, the benefits are greater.",
+    "audio_file": "C1/unit-03/si_bien_es_cierto.mp3",
+    "tags": ["concession", "argumentation", "formal"]
+  },
+  {
+    "id": "C1-U03-V006",
+    "word": "en definitiva",
+    "translation": "ultimately / in short / in conclusion",
+    "pronunciation_hint": "en deh-fee-NEE-tee-vah",
+    "part_of_speech": "phrase",
+    "example_sentence": "En definitiva, la propuesta no es viable sin mayor financiamiento.",
+    "example_translation": "Ultimately, the proposal is not viable without greater funding.",
+    "audio_file": "C1/unit-03/en_definitiva.mp3",
+    "tags": ["connectors", "conclusion", "formal"]
+  },
+  {
+    "id": "C1-U03-V007",
+    "word": "ahora bien",
+    "translation": "now then / however / that said",
+    "pronunciation_hint": "ah-OH-rah BYEN",
+    "part_of_speech": "connector",
+    "example_sentence": "Los datos son alentadores; ahora bien, debemos interpretarlos con cautela.",
+    "example_translation": "The data is encouraging; that said, we must interpret it with caution.",
+    "audio_file": "C1/unit-03/ahora_bien.mp3",
+    "tags": ["connectors", "rebuttal", "formal"]
+  },
+  {
+    "id": "C1-U03-V008",
+    "word": "incuestionable",
+    "translation": "unquestionable / indisputable",
+    "pronunciation_hint": "een-kwes-tyo-NAH-bleh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Es incuestionable que el cambio climático representa una amenaza global.",
+    "example_translation": "It is indisputable that climate change represents a global threat.",
+    "audio_file": "C1/unit-03/incuestionable.mp3",
+    "tags": ["adjectives", "argumentation", "advanced"]
+  },
+  {
+    "id": "C1-U03-V009",
+    "word": "la gradación",
+    "translation": "gradation / climax (rhetorical)",
+    "pronunciation_hint": "grah-dah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "Usó la gradación para intensificar el impacto de su argumento final.",
+    "example_translation": "She used gradation to intensify the impact of her final argument.",
+    "audio_file": "C1/unit-03/la_gradacion.mp3",
+    "tags": ["rhetoric", "literary devices", "advanced"]
+  },
+  {
+    "id": "C1-U03-V010",
+    "word": "pese a lo anterior",
+    "translation": "despite the foregoing / nevertheless",
+    "pronunciation_hint": "PEH-seh ah lo an-TERR-yor",
+    "part_of_speech": "phrase",
+    "example_sentence": "Pese a lo anterior, la comisión decidió aprobar el proyecto.",
+    "example_translation": "Despite the foregoing, the committee decided to approve the project.",
+    "audio_file": "C1/unit-03/pese_a_lo_anterior.mp3",
+    "tags": ["connectors", "rebuttal", "formal"]
+  },
+  {
+    "id": "C1-U03-V011",
+    "word": "conlleva",
+    "translation": "entails / involves / carries with it",
+    "pronunciation_hint": "kon-YEH-vah",
+    "part_of_speech": "verb",
+    "example_sentence": "Toda decisión importante conlleva cierto nivel de riesgo.",
+    "example_translation": "Every important decision entails a certain level of risk.",
+    "audio_file": "C1/unit-03/conlleva.mp3",
+    "tags": ["verbs", "formal", "advanced"]
+  },
+  {
+    "id": "C1-U03-V012",
+    "word": "en suma",
+    "translation": "in sum / in short / to sum up",
+    "pronunciation_hint": "en SOO-mah",
+    "part_of_speech": "phrase",
+    "example_sentence": "En suma, la evidencia apoya la necesidad de una reforma urgente.",
+    "example_translation": "In sum, the evidence supports the need for urgent reform.",
+    "audio_file": "C1/unit-03/en_suma.mp3",
+    "tags": ["connectors", "conclusion", "formal"]
+  }
+]
