@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U11-E001",
+    "type": "multiple_choice",
+    "prompt": "Which expression triggers the subjunctive and expresses concern about a social issue?",
+    "options": [
+      "Es verdad que la pobreza existe.",
+      "Es preocupante que tantos niños no tengan acceso a la educación.",
+      "La pobreza es un problema conocido.",
+      "Se sabe que hay mucha desigualdad."
+    ],
+    "answer": 1,
+    "explanation": "'Es preocupante que' (it is worrying that) is a subjunctive trigger — it expresses an emotional/evaluative reaction to a fact, requiring subjunctive in the subordinate clause ('tengan'). Options A, C, and D use indicative because they state neutral facts rather than emotional reactions."
+  },
+  {
+    "id": "B2-U11-E002",
+    "type": "multiple_choice",
+    "prompt": "What does 'rendir cuentas' mean in a political context?",
+    "options": [
+      "to count ballots",
+      "to present a financial account",
+      "to be accountable / to answer for one's actions",
+      "to resign from office"
+    ],
+    "answer": 2,
+    "explanation": "'Rendir cuentas' = to be accountable or to answer for one's actions. It's essential in political discourse: 'Los políticos deben rendir cuentas a los ciudadanos' = Politicians must be accountable to citizens. It's the standard phrase for demanding governmental transparency."
+  },
+  {
+    "id": "B2-U11-E003",
+    "type": "multiple_choice",
+    "prompt": "Which word means 'drought'?",
+    "options": [
+      "la deforestación",
+      "la inundación",
+      "la sequía",
+      "la contaminación"
+    ],
+    "answer": 2,
+    "explanation": "'La sequía' = drought — prolonged abnormally low rainfall. 'La deforestación' = deforestation; 'la inundación' = flood; 'la contaminación' = pollution. Drought is an increasingly critical topic in Mexico as climate change intensifies."
+  },
+  {
+    "id": "B2-U11-E004",
+    "type": "multiple_choice",
+    "prompt": "Which phrase presents a viewpoint in the most balanced, academic way?",
+    "options": [
+      "Todo el mundo sabe que es un problema grave.",
+      "Obviamente, el gobierno tiene la culpa.",
+      "Hay quienes sostienen que la reforma no va lo suficientemente lejos.",
+      "Está comprobado científicamente que..."
+    ],
+    "answer": 2,
+    "explanation": "'Hay quienes sostienen que...' (There are those who argue that...) attributes the view to a group without the speaker fully endorsing it — the most balanced and academically appropriate framing. It allows you to present a perspective while keeping your own stance open."
+  },
+  {
+    "id": "B2-U11-E005",
+    "type": "multiple_choice",
+    "prompt": "What is 'la huella de carbono'?",
+    "options": [
+      "carbon copy",
+      "carbon tax",
+      "carbon footprint",
+      "carbon emissions report"
+    ],
+    "answer": 2,
+    "explanation": "'La huella de carbono' = carbon footprint. 'Huella' literally means 'footprint' or 'trace'. 'Reducir la huella de carbono' = to reduce one's carbon footprint. The term is used exactly as in English to describe individual or organizational environmental impact."
+  },
+  {
+    "id": "B2-U11-E006",
+    "type": "multiple_choice",
+    "prompt": "Which news language phrase means 'it was reported that'?",
+    "options": [
+      "Se sospecha que...",
+      "Se informó que...",
+      "Se rumorea que...",
+      "Se cree que..."
+    ],
+    "answer": 1,
+    "explanation": "'Se informó que' = it was reported that — a formal passive reflexive construction used in journalism. 'Se sospecha que' = it is suspected; 'se rumorea que' = it is rumored (informal); 'se cree que' = it is believed. 'Se informó' is the most neutral and journalistic."
+  },
+  {
+    "id": "B2-U11-E007",
+    "type": "multiple_choice",
+    "prompt": "Why is migration described as a 'triple reality' for Mexico?",
+    "options": [
+      "Mexico has three major border crossing points.",
+      "Mexico is simultaneously an origin, transit, AND destination country for migrants.",
+      "Mexico has three separate migration agencies.",
+      "Three million Mexicans migrate internally each year."
+    ],
+    "answer": 1,
+    "explanation": "Mexico's triple migration reality: origin country (millions of Mexicans live abroad, especially in the US), transit country (Central Americans cross Mexico heading north), and increasingly a destination country for migrants from elsewhere. This creates a complex, personal relationship with the topic for most Mexicans."
+  },
+  {
+    "id": "B2-U11-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'Those most affected by the crisis are low-income families.'",
+    "words": ["Los", "más", "afectados", "por", "la", "crisis", "son", "las", "familias", "de", "bajos", "ingresos."],
+    "answer": "Los más afectados por la crisis son las familias de bajos ingresos.",
+    "explanation": "'Los más afectados' (those most affected) is an essential phrase for social issue discussions. 'De bajos ingresos' = low-income. This sentence pattern — identifying who bears the greatest burden — is fundamental to discussing inequality and policy impact."
+  }
+]

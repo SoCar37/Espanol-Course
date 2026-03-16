@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U12-V001",
+    "word": "el imperfecto de subjuntivo",
+    "translation": "the imperfect subjunctive (past subjunctive)",
+    "pronunciation_hint": "el eem-pehr-FEHK-toh deh soob-HOON-tee-voh",
+    "part_of_speech": "noun phrase (grammar term)",
+    "example_sentence": "El imperfecto de subjuntivo se forma a partir del pretérito.",
+    "example_translation": "The imperfect subjunctive is formed from the preterite.",
+    "audio_file": "B2/unit-12/imperfecto-subjuntivo.mp3",
+    "tags": ["grammar", "review", "subjunctive"]
+  },
+  {
+    "id": "B2-U12-V002",
+    "word": "la oración condicional",
+    "translation": "conditional sentence / si-clause sentence",
+    "pronunciation_hint": "lah oh-rah-SYON kon-dee-syo-NAHL",
+    "part_of_speech": "noun phrase (grammar term)",
+    "example_sentence": "Las oraciones condicionales de tipo 2 usan el subjuntivo pasado.",
+    "example_translation": "Type 2 conditional sentences use the past subjunctive.",
+    "audio_file": "B2/unit-12/oracion-condicional.mp3",
+    "tags": ["grammar", "review", "si-clauses"]
+  },
+  {
+    "id": "B2-U12-V003",
+    "word": "el conector discursivo",
+    "translation": "discourse connector",
+    "pronunciation_hint": "el koh-nehk-TOHR dees-KOOR-see-voh",
+    "part_of_speech": "noun phrase (grammar term)",
+    "example_sentence": "Los conectores discursivos dan cohesión al texto.",
+    "example_translation": "Discourse connectors give the text cohesion.",
+    "audio_file": "B2/unit-12/conector-discursivo.mp3",
+    "tags": ["grammar", "review", "connectors"]
+  },
+  {
+    "id": "B2-U12-V004",
+    "word": "el registro",
+    "translation": "register (level of formality in language)",
+    "pronunciation_hint": "el reh-HEES-troh",
+    "part_of_speech": "noun (linguistics term)",
+    "example_sentence": "El registro formal se usa en contextos profesionales y académicos.",
+    "example_translation": "Formal register is used in professional and academic contexts.",
+    "audio_file": "B2/unit-12/registro.mp3",
+    "tags": ["grammar", "review", "register"]
+  },
+  {
+    "id": "B2-U12-V005",
+    "word": "el falso cognado",
+    "translation": "false cognate / false friend",
+    "pronunciation_hint": "el FAHL-soh kohg-NAH-doh",
+    "part_of_speech": "noun phrase (linguistics term)",
+    "example_sentence": "'Embarazada' es uno de los falsos cognados más conocidos del español.",
+    "example_translation": "'Embarazada' is one of the best-known false cognates in Spanish.",
+    "audio_file": "B2/unit-12/falso-cognado.mp3",
+    "tags": ["vocabulary", "review", "false-cognates"]
+  },
+  {
+    "id": "B2-U12-V006",
+    "word": "la secuencia de tiempos",
+    "translation": "sequence of tenses",
+    "pronunciation_hint": "lah seh-KWEN-syah deh TYEM-pohs",
+    "part_of_speech": "noun phrase (grammar rule)",
+    "example_sentence": "La secuencia de tiempos determina si usamos subjuntivo presente o pasado.",
+    "example_translation": "The sequence of tenses determines whether we use present or past subjunctive.",
+    "audio_file": "B2/unit-12/secuencia-tiempos.mp3",
+    "tags": ["grammar", "review", "subjunctive"]
+  },
+  {
+    "id": "B2-U12-V007",
+    "word": "consolidar",
+    "translation": "to consolidate / to reinforce",
+    "pronunciation_hint": "kon-soh-lee-DAHR",
+    "part_of_speech": "verb",
+    "example_sentence": "Este repaso sirve para consolidar todo lo aprendido en B2.",
+    "example_translation": "This review serves to consolidate everything learned in B2.",
+    "audio_file": "B2/unit-12/consolidar.mp3",
+    "tags": ["learning", "review"]
+  },
+  {
+    "id": "B2-U12-V008",
+    "word": "a grandes rasgos",
+    "translation": "broadly speaking / in broad strokes",
+    "pronunciation_hint": "ah GRAHN-dehs RAHS-gohs",
+    "part_of_speech": "adverbial expression",
+    "example_sentence": "A grandes rasgos, el B2 cubre gramática avanzada y competencia cultural.",
+    "example_translation": "Broadly speaking, B2 covers advanced grammar and cultural competence.",
+    "audio_file": "B2/unit-12/a-grandes-rasgos.mp3",
+    "tags": ["expression", "review", "advanced"]
+  },
+  {
+    "id": "B2-U12-V009",
+    "word": "alcanzar la fluidez",
+    "translation": "to achieve fluency",
+    "pronunciation_hint": "ahl-kahn-SAHR lah floo-ee-DEHZ",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "Con práctica constante, puedes alcanzar la fluidez en español.",
+    "example_translation": "With consistent practice, you can achieve fluency in Spanish.",
+    "audio_file": "B2/unit-12/alcanzar-fluidez.mp3",
+    "tags": ["learning", "motivation", "review"]
+  },
+  {
+    "id": "B2-U12-V010",
+    "word": "dar el salto a C1",
+    "translation": "to make the leap to C1",
+    "pronunciation_hint": "dahr el SAHL-toh ah seh-OO-noh",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "Si dominas el B2, estás listo para dar el salto a C1.",
+    "example_translation": "If you master B2, you're ready to make the leap to C1.",
+    "audio_file": "B2/unit-12/dar-el-salto.mp3",
+    "tags": ["learning", "motivation", "review"]
+  },
+  {
+    "id": "B2-U12-V011",
+    "word": "el antecedente indefinido",
+    "translation": "indefinite antecedent (triggers subjunctive in relative clauses)",
+    "pronunciation_hint": "el ahn-teh-seh-DEHN-teh een-deh-fee-NEE-doh",
+    "part_of_speech": "noun phrase (grammar term)",
+    "example_sentence": "Busco un trabajo que pague mejor — 'un trabajo' es un antecedente indefinido.",
+    "example_translation": "I'm looking for a job that pays better — 'a job' is an indefinite antecedent.",
+    "audio_file": "B2/unit-12/antecedente-indefinido.mp3",
+    "tags": ["grammar", "review", "subjunctive", "advanced"]
+  },
+  {
+    "id": "B2-U12-V012",
+    "word": "quedar bien",
+    "translation": "to make a good impression / to save face / to be well-regarded",
+    "pronunciation_hint": "keh-DAHR BYEHN",
+    "part_of_speech": "verb phrase (key Mexican social concept)",
+    "example_sentence": "En México, quedar bien con los demás es muy importante en los negocios.",
+    "example_translation": "In Mexico, making a good impression with others is very important in business.",
+    "audio_file": "B2/unit-12/quedar-bien.mp3",
+    "tags": ["culture", "mexico", "social", "essential", "review"]
+  }
+]

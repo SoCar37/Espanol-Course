@@ -1,0 +1,111 @@
+{
+  "id": "B2-U12-Q",
+  "title": "B2 Review & Checkpoint Quiz",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U12-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which sentence is a Type 3 (past impossible) conditional?",
+      "options": [
+        "Si tengo tiempo, te llamo.",
+        "Si tuviera tiempo, te llamaría.",
+        "Si hubiera tenido tiempo, te habría llamado.",
+        "Si tendría tiempo, te llamaría."
+      ],
+      "answer": 2,
+      "explanation": "Type 3 (past impossible): si + past perfect subjunctive ('hubiera tenido') + conditional perfect ('habría llamado'). The speaker did NOT have time and did NOT call. Option A is Type 1; option B is Type 2; option D is incorrect (conditional after si is never used)."
+    },
+    {
+      "id": "B2-U12-Q002",
+      "type": "multiple_choice",
+      "prompt": "What does 'embarazada' mean?",
+      "options": [
+        "embarrassed",
+        "pregnant",
+        "surprised",
+        "uncomfortable"
+      ],
+      "answer": 1,
+      "explanation": "'Embarazada' = pregnant. It is one of the most important false cognates in Spanish. 'Embarrassed' is 'avergonzado/a' or 'apenado/a'. Saying 'estoy embarazada' when you mean embarrassed is a memorable and classic mistake."
+    },
+    {
+      "id": "B2-U12-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which pair shows the correct sequence of tenses?",
+      "options": [
+        "Quiero que vinieras / Quería que vengas",
+        "Quiero que vengas / Quería que vinieras",
+        "Quiero que vinieras / Quería que vinieras",
+        "Quiero que vengas / Quería que vengas"
+      ],
+      "answer": 1,
+      "explanation": "Present main clause → present subjunctive ('vengas'). Past main clause → past subjunctive ('vinieras'). This sequence of tenses rule is fundamental: the tense of the subjunctive mirrors the tense of the main clause."
+    },
+    {
+      "id": "B2-U12-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the difference between 'sino' and 'pero'?",
+      "options": [
+        "'Sino' is formal; 'pero' is informal.",
+        "'Sino' corrects or replaces after a negation; 'pero' adds a contrasting comment.",
+        "They are interchangeable in all contexts.",
+        "'Sino' introduces a consequence; 'pero' introduces a cause."
+      ],
+      "answer": 1,
+      "explanation": "'Sino' corrects/replaces after a negation: 'No es abogado sino médico' (not a lawyer but rather a doctor). 'Pero' adds a contrasting comment: 'Es abogado pero también toca guitarra.' They cannot be swapped — the distinction is structural, not stylistic."
+    },
+    {
+      "id": "B2-U12-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which Mexican literary figure appears on the 200-peso note?",
+      "options": [
+        "Octavio Paz",
+        "Juan Rulfo",
+        "Sor Juana Inés de la Cruz",
+        "Elena Poniatowska"
+      ],
+      "answer": 2,
+      "explanation": "Sor Juana Inés de la Cruz (1648–1695) appears on the 200-peso note. She was a colonial-era poet and intellectual — one of the first feminist voices in the Americas — and is one of Mexico's most celebrated cultural figures."
+    },
+    {
+      "id": "B2-U12-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'no me late' express in Mexican Spanish?",
+      "options": [
+        "I don't like the rhythm.",
+        "An instinctive bad feeling — something doesn't feel right.",
+        "I'm not hungry.",
+        "I don't understand it."
+      ],
+      "answer": 1,
+      "explanation": "'No me late' (literally 'it doesn't beat to me') is a uniquely Mexican expression for a gut-level negative instinct. It communicates intuitive unease even without a logical explanation — and is taken seriously as a substantive reservation in Mexican culture."
+    },
+    {
+      "id": "B2-U12-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which phrase is correct for reporting news in a neutral, journalistic way?",
+      "options": [
+        "Todo el mundo dice que...",
+        "Se rumorea que...",
+        "Se informó que las autoridades tomaron medidas.",
+        "Parece que algo pasó."
+      ],
+      "answer": 2,
+      "explanation": "'Se informó que' = it was reported that — a formal passive reflexive construction standard in journalism. 'Todo el mundo dice' is informal; 'se rumorea' implies an unverified rumor; 'parece que' is vague. 'Se informó que' signals verified, formal reporting."
+    },
+    {
+      "id": "B2-U12-Q008",
+      "type": "multiple_choice",
+      "prompt": "Why is building personal relationships ('las relaciones') important in Mexican business culture?",
+      "options": [
+        "It is required by Mexican commercial law before signing contracts.",
+        "Trust is established through personal connection first — business follows relationships, not the other way around.",
+        "It helps you learn the technical vocabulary faster.",
+        "It is only important when dealing with government clients."
+      ],
+      "answer": 1,
+      "explanation": "In Mexican business culture, 'las relaciones' come before transactions. Trust is built through personal connection — coffee, meals, small talk — before getting to business. Skipping this relationship-building phase is perceived as cold or disrespectful and can undermine a business relationship before it starts."
+    }
+  ]
+}

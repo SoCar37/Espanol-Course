@@ -1,0 +1,111 @@
+{
+  "id": "B2-U09-Q",
+  "title": "Unit 9 Checkpoint Quiz — Mexican Literature & Poetry",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U09-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which author won the Nobel Prize in Literature and is Mexico's most internationally recognized literary figure?",
+      "options": [
+        "Juan Rulfo",
+        "Carlos Fuentes",
+        "Octavio Paz",
+        "Elena Poniatowska"
+      ],
+      "answer": 2,
+      "explanation": "Octavio Paz won the Nobel Prize in Literature in 1990. He is best known for his poetry and for El laberinto de la soledad (1950), a foundational essay on Mexican national identity and psychology."
+    },
+    {
+      "id": "B2-U09-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is 'el desenlace' of a story?",
+      "options": [
+        "the opening scene",
+        "the main conflict",
+        "the narrator's voice",
+        "the ending / resolution"
+      ],
+      "answer": 3,
+      "explanation": "'El desenlace' = the ending or resolution — where the story's conflicts are resolved. It comes from 'desenlazar' (to untangle/unravel). It corresponds to 'denouement' in English literary terminology."
+    },
+    {
+      "id": "B2-U09-Q003",
+      "type": "multiple_choice",
+      "prompt": "Juan Rulfo directly influenced which famous author?",
+      "options": [
+        "Pablo Neruda",
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges"
+      ],
+      "answer": 1,
+      "explanation": "Gabriel García Márquez directly credited Juan Rulfo's Pedro Páramo as a foundational influence. The mythical world blending the living and the dead, the poetic sparse prose, and the sense of a haunted landscape in Rulfo all prefigure what became known as magical realism."
+    },
+    {
+      "id": "B2-U09-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'el verso libre' mean?",
+      "options": [
+        "a very short poem",
+        "a poem with a strict rhyme scheme",
+        "free verse — poetry without fixed rhyme or meter",
+        "a poem about freedom"
+      ],
+      "answer": 2,
+      "explanation": "'El verso libre' = free verse — poetry that does not follow a fixed rhyme scheme or regular metrical pattern. Much modern Mexican poetry uses verso libre. The opposite would be 'poesía rimada' (rhymed poetry) or structured forms like 'el soneto' (sonnet)."
+    },
+    {
+      "id": "B2-U09-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which phrase best expresses that a book had a lasting intellectual and emotional impact?",
+      "options": [
+        "La novela fue muy larga.",
+        "Me dejó pensando durante semanas.",
+        "La novela era difícil de leer.",
+        "El libro no me gustó mucho."
+      ],
+      "answer": 1,
+      "explanation": "'Me dejó pensando durante semanas' (It left me thinking for weeks) expresses lasting intellectual and emotional impact — one of the highest compliments for a literary work. It communicates that the book provoked genuine, extended reflection."
+    },
+    {
+      "id": "B2-U09-Q006",
+      "type": "multiple_choice",
+      "prompt": "Why is Sor Juana Inés de la Cruz significant in Mexican cultural history?",
+      "options": [
+        "She was the first Mexican to win the Nobel Prize.",
+        "She wrote the first Mexican novel.",
+        "She was one of the first feminist voices in the Americas, defending women's right to education.",
+        "She documented the Mexican Revolution through poetry."
+      ],
+      "answer": 2,
+      "explanation": "Sor Juana (1648–1695) was a colonial-era nun, poet, and intellectual who publicly argued for women's right to education and intellectual life — a radical stance in 17th-century colonial Mexico. She is celebrated as a proto-feminist icon and her portrait on the 200-peso note reflects her central place in Mexican culture."
+    },
+    {
+      "id": "B2-U09-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'evocar' mean in a literary context?",
+      "options": [
+        "to explain clearly",
+        "to criticize sharply",
+        "to evoke / to call feelings or memories to mind",
+        "to summarize the plot"
+      ],
+      "answer": 2,
+      "explanation": "'Evocar' = to evoke — to call forth emotions, images, or memories through language. 'El poema evoca la infancia' = The poem evokes childhood. It describes how literature triggers emotional and sensory responses in the reader."
+    },
+    {
+      "id": "B2-U09-Q008",
+      "type": "multiple_choice",
+      "prompt": "Carlos Fuentes' 'La muerte de Artemio Cruz' is a landmark of which literary period?",
+      "options": [
+        "Colonial literature",
+        "The Mexican Revolution period",
+        "The Latin American literary boom of the 1960s",
+        "Contemporary 21st-century fiction"
+      ],
+      "answer": 2,
+      "explanation": "La muerte de Artemio Cruz (1962) is a landmark of the Latin American literary 'boom' — the 1960s explosion of innovative Spanish-language fiction that also included García Márquez, Cortázar, and Vargas Llosa. Carlos Fuentes was Mexico's principal representative of this movement."
+    }
+  ]
+}

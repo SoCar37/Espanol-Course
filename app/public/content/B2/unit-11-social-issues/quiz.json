@@ -1,0 +1,111 @@
+{
+  "id": "B2-U11-Q",
+  "title": "Unit 11 Checkpoint Quiz — Social Issues & Current Events",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U11-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'la marginación' mean?",
+      "options": [
+        "a document margin",
+        "marginalization — exclusion from mainstream society",
+        "a type of social protest",
+        "urban migration patterns"
+      ],
+      "answer": 1,
+      "explanation": "'La marginación' = marginalization — the process by which groups are pushed to the edges of society and denied full participation. 'Las comunidades marginadas' = marginalized communities. It's essential vocabulary in discussions of inequality in Mexico."
+    },
+    {
+      "id": "B2-U11-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which of the following is a correct use of 'es preocupante que'?",
+      "options": [
+        "Es preocupante que la situación mejora.",
+        "Es preocupante que la situación mejore.",
+        "Es preocupante que la situación ha mejorado.",
+        "Es preocupante la situación mejora."
+      ],
+      "answer": 1,
+      "explanation": "'Es preocupante que' triggers the present subjunctive. 'Mejore' is the present subjunctive of 'mejorar'. Option A uses present indicative (incorrect); option C uses the present perfect indicative (incorrect); option D has no 'que' to introduce the subordinate clause (incorrect)."
+    },
+    {
+      "id": "B2-U11-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'el asilo' mean in the context of migration?",
+      "options": [
+        "a nursing home or care facility",
+        "asylum — protection granted to someone who has fled their country",
+        "a border checkpoint",
+        "a migrant detention center"
+      ],
+      "answer": 1,
+      "explanation": "'El asilo' = asylum — the legal protection granted by a state to a foreign national who has fled their country due to persecution or danger. 'Solicitar asilo' = to apply for asylum. 'El asilo político' = political asylum."
+    },
+    {
+      "id": "B2-U11-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which expression respectfully acknowledges complexity in a sensitive discussion?",
+      "options": [
+        "Eso es completamente falso.",
+        "No entiendo por qué piensas eso.",
+        "Hay muchos matices en este tema que no se pueden ignorar.",
+        "Ese tema no me interesa."
+      ],
+      "answer": 2,
+      "explanation": "'Hay muchos matices en este tema' (there are many nuances in this topic) signals intellectual humility and openness — a respectful way to acknowledge that complex issues don't have simple answers. It keeps the conversation open without dismissing anyone's perspective."
+    },
+    {
+      "id": "B2-U11-Q005",
+      "type": "multiple_choice",
+      "prompt": "What is 'el desarrollo sostenible'?",
+      "options": [
+        "economic development at any cost",
+        "sustainable development",
+        "industrial development",
+        "rural development programs"
+      ],
+      "answer": 1,
+      "explanation": "'El desarrollo sostenible' = sustainable development — economic and social development that meets present needs without compromising future generations. 'Sostenible' = sustainable (from 'sostener' = to sustain). Mexico is a signatory to the UN Sustainable Development Goals."
+    },
+    {
+      "id": "B2-U11-Q006",
+      "type": "multiple_choice",
+      "prompt": "What role did 'la sociedad civil' play in Mexico after the 1985 earthquakes?",
+      "options": [
+        "The military led the response while civil society watched.",
+        "Civil society mobilized rapidly and effectively when the government response was slow.",
+        "Civil society organized politically to overthrow the government.",
+        "Civil society provided financial compensation to victims."
+      ],
+      "answer": 1,
+      "explanation": "After the devastating 1985 Mexico City earthquakes, civil society — NGOs, community groups, and ordinary citizens — mobilized rapidly and effectively when the government response was inadequate. This became a defining moment in Mexican civic consciousness, demonstrating the power and importance of organized civil society."
+    },
+    {
+      "id": "B2-U11-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'las energías renovables' mean?",
+      "options": [
+        "renewable energies",
+        "nuclear energy",
+        "energy independence",
+        "energy sector reforms"
+      ],
+      "answer": 0,
+      "explanation": "'Las energías renovables' = renewable energies — solar, wind, hydroelectric, and other sustainable energy sources. 'Renovable' = renewable (from 'renovar' = to renew). Mexico has significant solar and wind energy potential given its geography."
+    },
+    {
+      "id": "B2-U11-Q008",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'La lucha ___ la corrupción requiere esfuerzo colectivo.'",
+      "options": [
+        "por",
+        "para",
+        "contra",
+        "sobre"
+      ],
+      "answer": 2,
+      "explanation": "'La lucha contra la corrupción' = the fight against corruption. 'Contra' = against. This is the fixed collocation: 'luchar contra' = to fight against. 'Por' would mean fighting for something; 'para' expresses purpose; 'sobre' means about/on top of."
+    }
+  ]
+}

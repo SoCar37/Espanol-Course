@@ -1,0 +1,15 @@
+{
+  "id": "B2-U12",
+  "title": "B2 Review & Checkpoint",
+  "level": "B2",
+  "unit": 12,
+  "slug": "review",
+  "estimated_minutes": 45,
+  "topics": ["past subjunctive review", "si clauses review", "connectors review", "false cognates review", "argumentation review", "register review", "cultural literacy check"],
+  "prereqs": ["B2-U11"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": false,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.4.3"
+}

@@ -79,8 +79,6 @@ const COURSE_STRUCTURE = [
       { id: 'unit-11-social-issues',        title: 'Social Issues & Current Events' },
       { id: 'unit-12-review',               title: 'B2 Review & Checkpoint' },
     ],
-    partialContent: true,
-    availableUnits: 8,
   },
   { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
 ]
@@ -108,11 +106,6 @@ export default function CourseMapPage() {
                   </div>
                 </div>
                 {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
-                {levelData.partialContent && (
-                  <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">
-                    {levelData.availableUnits}/{levelData.units.length} units available
-                  </span>
-                )}
               </div>
               {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
@@ -120,12 +113,9 @@ export default function CourseMapPage() {
                     const unitKey = `${levelData.level}-${unit.id}`
                     const progress = getUnitProgress(unitKey)
                     const isComplete = !!progress?.complete
-                    const hasContent = !levelData.partialContent || index < levelData.availableUnits
 
                     let isAvailable = false
-                    if (!hasContent) {
-                      isAvailable = false
-                    } else if (levelData.level === 'A2' && index === 0) {
+                    if (levelData.level === 'A2' && index === 0) {
                       const lastA1Progress = getUnitProgress('A1-unit-10-review')
                       isAvailable = !!lastA1Progress?.complete
                     } else if (levelData.level === 'B1' && index === 0) {
@@ -138,14 +128,9 @@ export default function CourseMapPage() {
                       isAvailable = true
                     } else {
                       const prevUnit = levelData.units[index - 1]
-                      const prevHasContent = !levelData.partialContent || (index - 1) < levelData.availableUnits
-                      if (!prevHasContent) {
-                        isAvailable = false
-                      } else {
-                        const prevKey = `${levelData.level}-${prevUnit.id}`
-                        const prevProgress = getUnitProgress(prevKey)
-                        isAvailable = !!prevProgress?.complete
-                      }
+                      const prevKey = `${levelData.level}-${prevUnit.id}`
+                      const prevProgress = getUnitProgress(prevKey)
+                      isAvailable = !!prevProgress?.complete
                     }
 
                     return (
@@ -156,7 +141,6 @@ export default function CourseMapPage() {
                         isAvailable={isAvailable}
                         isComplete={isComplete}
                         progress={progress}
-                        hasContent={hasContent}
                       />
                     )
                   })}
@@ -170,19 +154,7 @@ export default function CourseMapPage() {
   )
 }
 
-function UnitCard({ level, unit, isAvailable, isComplete, progress, hasContent }) {
-  if (!hasContent) {
-    return (
-      <div
-        className="group relative flex flex-col gap-2 p-4 rounded-xl border-2 bg-surface-main border-white/5 cursor-not-allowed opacity-40"
-        aria-label={`${unit.title} — coming soon`}
-      >
-        <span className="text-lg" aria-hidden="true">🔜</span>
-        <span className="text-sm font-medium leading-tight text-content-secondary">{unit.title}</span>
-      </div>
-    )
-  }
-
+function UnitCard({ level, unit, isAvailable, isComplete, progress }) {
   const CardWrapper = isAvailable ? Link : 'div'
   const linkProps = isAvailable ? { to: `/lesson/${level}/${unit.id}` } : {}
   return (

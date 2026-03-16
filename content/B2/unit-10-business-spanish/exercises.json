@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U10-E001",
+    "type": "multiple_choice",
+    "prompt": "In Mexican workplaces, what is 'la junta'?",
+    "options": [
+      "The board of directors",
+      "A meeting — more common than 'reunión' in Mexican offices",
+      "A quarterly financial report",
+      "A formal contract signing"
+    ],
+    "answer": 1,
+    "explanation": "In Mexican workplaces, 'la junta' is the standard word for a meeting — used more frequently than 'reunión' in everyday professional speech. 'Tengo junta a las diez' = I have a meeting at ten. Using 'junta' immediately signals familiarity with Mexican office culture."
+  },
+  {
+    "id": "B2-U10-E002",
+    "type": "multiple_choice",
+    "prompt": "Which email closing is most distinctively Mexican?",
+    "options": [
+      "Saludos cordiales,",
+      "Atentamente,",
+      "Quedo a sus órdenes.",
+      "Con respeto,"
+    ],
+    "answer": 2,
+    "explanation": "'Quedo a sus órdenes' (I remain at your service) is the most distinctively Mexican business email closing — you'll encounter it constantly in Mexican professional correspondence. 'Saludos cordiales' and 'Atentamente' are pan-Hispanic; 'quedo a sus órdenes' marks Mexican professional culture."
+  },
+  {
+    "id": "B2-U10-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'la factura' mean? (Watch for the false cognate.)",
+    "options": [
+      "factory",
+      "feature",
+      "invoice",
+      "factor"
+    ],
+    "answer": 2,
+    "explanation": "'La factura' = invoice — a classic false cognate. It looks like 'factory' but means bill/invoice. 'La fábrica' = factory. 'Me mandaron la factura' = They sent me the invoice. Confusing these two in a business context leads to embarrassing misunderstandings."
+  },
+  {
+    "id": "B2-U10-E004",
+    "type": "multiple_choice",
+    "prompt": "How should you address a university-educated professional formally in Mexico?",
+    "options": [
+      "Señor/Señora + last name only",
+      "Don/Doña + first name",
+      "Licenciado/a + last name",
+      "By first name immediately"
+    ],
+    "answer": 2,
+    "explanation": "In Mexico, 'licenciado/a' is the standard professional title for university graduates, used widely in formal business contexts. 'Buenos días, licenciado Ramírez' shows cultural awareness and respect. Switching to first names without being invited to do so can seem presumptuous."
+  },
+  {
+    "id": "B2-U10-E005",
+    "type": "multiple_choice",
+    "prompt": "What does 'quedamos en que' mean in a meeting context?",
+    "options": [
+      "We remained in the meeting longer than expected.",
+      "We agreed that / it was agreed that",
+      "We need to discuss whether",
+      "We are still waiting for a decision on"
+    ],
+    "answer": 1,
+    "explanation": "'Quedamos en que' confirms an agreement reached in a meeting: 'Quedamos en que el reporte se entrega el viernes' = We agreed the report is due Friday. It's one of the most useful phrases for wrapping up action items and ensuring everyone is aligned."
+  },
+  {
+    "id": "B2-U10-E006",
+    "type": "multiple_choice",
+    "prompt": "Complete: '___ a revisar los términos antes de firmar.'",
+    "options": [
+      "Queremos",
+      "Estamos dispuestos",
+      "Necesitamos",
+      "Pensamos"
+    ],
+    "answer": 1,
+    "explanation": "'Estamos dispuestos a' (we are willing/prepared to) is the standard negotiation phrase expressing openness to revisiting terms. It's professional, non-confrontational, and signals flexibility — key qualities in Mexican business negotiation culture."
+  },
+  {
+    "id": "B2-U10-E007",
+    "type": "multiple_choice",
+    "prompt": "According to Mexican business culture, what should come BEFORE business discussions?",
+    "options": [
+      "Presenting credentials and achievements",
+      "Reviewing the agenda point by point",
+      "Building personal rapport and relationships",
+      "Agreeing on the budget constraints"
+    ],
+    "answer": 2,
+    "explanation": "In Mexican business culture, 'las relaciones' (relationships) come before transactions. Building personal rapport through small talk, coffee, or meals is expected. Jumping straight to business without relationship-building can be perceived as cold or disrespectful — the opposite of the desired impression."
+  },
+  {
+    "id": "B2-U10-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'The deadline for submitting the report is Monday.'",
+    "words": ["El", "plazo", "para", "entregar", "el", "informe", "es", "el", "lunes."],
+    "answer": "El plazo para entregar el informe es el lunes.",
+    "explanation": "'El plazo' = the deadline. 'Para entregar' = for submitting/delivering. This is a very common sentence in Mexican professional communication. 'Fecha límite' is an alternative to 'plazo' but 'plazo' is more standard in formal contexts."
+  }
+]

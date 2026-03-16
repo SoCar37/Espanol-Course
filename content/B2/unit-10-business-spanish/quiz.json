@@ -1,0 +1,111 @@
+{
+  "id": "B2-U10-Q",
+  "title": "Unit 10 Checkpoint Quiz — Business Spanish",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B2-U10-Q001",
+      "type": "multiple_choice",
+      "prompt": "What does 'los recursos humanos' refer to in a company?",
+      "options": [
+        "natural resources used in production",
+        "human rights department",
+        "human resources / HR department",
+        "workforce productivity metrics"
+      ],
+      "answer": 2,
+      "explanation": "'Los recursos humanos' (RR.HH.) = Human Resources. It's a direct calque of the English term. 'Habla con recursos humanos sobre el contrato' = Talk to HR about the contract."
+    },
+    {
+      "id": "B2-U10-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which phrase opens a formal Mexican business email correctly?",
+      "options": [
+        "Hola, espero que estés bien.",
+        "Me dirijo a usted con el fin de solicitar información.",
+        "Te escribo para preguntarte algo.",
+        "Oye, ¿cómo estás?"
+      ],
+      "answer": 1,
+      "explanation": "'Me dirijo a usted con el fin de...' uses 'usted' and formal vocabulary — correct for professional correspondence. The other options use 'tú' forms ('estés', 'te escribo', 'preguntarte') or are too casual ('oye') for formal business email."
+    },
+    {
+      "id": "B2-U10-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is 'la capacitación' in a business context?",
+      "options": [
+        "physical capacity / room size",
+        "professional training",
+        "a job promotion",
+        "employee productivity"
+      ],
+      "answer": 1,
+      "explanation": "'La capacitación' = professional training or employee development. 'Programa de capacitación' = training program. It comes from 'capacitar' (to train/equip someone with skills). It is NOT related to physical capacity."
+    },
+    {
+      "id": "B2-U10-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'levantamos la sesión' mean at the end of a meeting?",
+      "options": [
+        "We raise the main issue.",
+        "We adjourn the meeting.",
+        "We open the floor for questions.",
+        "We review the minutes."
+      ],
+      "answer": 1,
+      "explanation": "'Levantar la sesión' = to adjourn or close the meeting. It's the formal declaration that the meeting is finished. Equivalent to 'the meeting is adjourned' in formal English."
+    },
+    {
+      "id": "B2-U10-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Los resultados del año ___ las expectativas del consejo.'",
+      "options": [
+        "bajaron de",
+        "pasaron junto a",
+        "superaron",
+        "llegaron cerca de"
+      ],
+      "answer": 2,
+      "explanation": "'Superar las expectativas' = to exceed/surpass expectations. 'Superaron' is the preterite of 'superar'. The full phrase is one of the most common in business reporting: 'Los resultados superaron las expectativas' = The results exceeded expectations."
+    },
+    {
+      "id": "B2-U10-Q006",
+      "type": "multiple_choice",
+      "prompt": "What is 'el/la proveedor/a'?",
+      "options": [
+        "a medical provider",
+        "a supplier / vendor",
+        "the managing director",
+        "a financial advisor"
+      ],
+      "answer": 1,
+      "explanation": "'El/la proveedor/a' = supplier or vendor — a company or person that provides goods or services to a business. 'Nuestros proveedores principales están en Guadalajara' = Our main suppliers are in Guadalajara."
+    },
+    {
+      "id": "B2-U10-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which title is most broadly used for university graduates in Mexican professional settings?",
+      "options": [
+        "doctor/a",
+        "maestro/a",
+        "licenciado/a",
+        "ingeniero/a"
+      ],
+      "answer": 2,
+      "explanation": "'Licenciado/a' is the most broadly applied professional title in Mexico — used for anyone with a university degree, regardless of specific field. It appears in emails, meetings, and introductions constantly. 'Doctor/a' and 'ingeniero/a' are more field-specific."
+    },
+    {
+      "id": "B2-U10-Q008",
+      "type": "multiple_choice",
+      "prompt": "Why is using 'usted' important with superiors in Mexican workplaces?",
+      "options": [
+        "It is required by Mexican labor law.",
+        "It shows respect for hierarchy, a strongly held value in Mexican professional culture.",
+        "It makes the communication easier to understand.",
+        "It is used only when speaking with foreign clients."
+      ],
+      "answer": 1,
+      "explanation": "Hierarchy is deeply respected in Mexican business culture. Using 'usted' with superiors, addressing them by title, and deferring to seniority are key signals of professional respect. Switching to 'tú' without being explicitly invited is presumptuous and can damage a professional relationship."
+    }
+  ]
+}

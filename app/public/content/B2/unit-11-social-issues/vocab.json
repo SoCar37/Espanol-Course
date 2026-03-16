@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U11-V001",
+    "word": "la desigualdad",
+    "translation": "inequality",
+    "pronunciation_hint": "lah deh-see-gwahl-DAHD",
+    "part_of_speech": "noun",
+    "example_sentence": "La desigualdad económica sigue siendo uno de los retos más grandes del país.",
+    "example_translation": "Economic inequality continues to be one of the country's greatest challenges.",
+    "audio_file": "B2/unit-11/desigualdad.mp3",
+    "tags": ["social-issues", "essential", "inequality"]
+  },
+  {
+    "id": "B2-U11-V002",
+    "word": "el cambio climático",
+    "translation": "climate change",
+    "pronunciation_hint": "el KAHM-byoh klee-MAH-tee-koh",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "El cambio climático está afectando las temporadas de lluvia en México.",
+    "example_translation": "Climate change is affecting the rainy seasons in Mexico.",
+    "audio_file": "B2/unit-11/cambio-climatico.mp3",
+    "tags": ["environment", "essential", "current-events"]
+  },
+  {
+    "id": "B2-U11-V003",
+    "word": "la frontera",
+    "translation": "border",
+    "pronunciation_hint": "lah frohn-TEH-rah",
+    "part_of_speech": "noun",
+    "example_sentence": "La frontera entre México y Estados Unidos es una de las más transitadas del mundo.",
+    "example_translation": "The border between Mexico and the US is one of the busiest in the world.",
+    "audio_file": "B2/unit-11/frontera.mp3",
+    "tags": ["migration", "essential", "mexico"]
+  },
+  {
+    "id": "B2-U11-V004",
+    "word": "rendir cuentas",
+    "translation": "to be accountable / to answer for one's actions",
+    "pronunciation_hint": "rehn-DEER KWEHN-tahs",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "Los funcionarios públicos deben rendir cuentas a la ciudadanía.",
+    "example_translation": "Public officials must be accountable to citizens.",
+    "audio_file": "B2/unit-11/rendir-cuentas.mp3",
+    "tags": ["politics", "governance", "essential"]
+  },
+  {
+    "id": "B2-U11-V005",
+    "word": "es preocupante que",
+    "translation": "it is worrying that / it is concerning that (+ subjunctive)",
+    "pronunciation_hint": "ehs preh-oh-koo-PAHN-teh keh",
+    "part_of_speech": "fixed expression (subjunctive trigger)",
+    "example_sentence": "Es preocupante que tantos jóvenes abandonen la escuela.",
+    "example_translation": "It is worrying that so many young people are dropping out of school.",
+    "audio_file": "B2/unit-11/es-preocupante.mp3",
+    "tags": ["social-issues", "expression", "subjunctive", "essential"]
+  },
+  {
+    "id": "B2-U11-V006",
+    "word": "la brecha salarial",
+    "translation": "wage gap",
+    "pronunciation_hint": "lah BREH-chah sah-lah-RYAHL",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "La brecha salarial entre hombres y mujeres persiste en muchos sectores.",
+    "example_translation": "The wage gap between men and women persists in many sectors.",
+    "audio_file": "B2/unit-11/brecha-salarial.mp3",
+    "tags": ["social-issues", "inequality", "gender"]
+  },
+  {
+    "id": "B2-U11-V007",
+    "word": "el desarrollo sostenible",
+    "translation": "sustainable development",
+    "pronunciation_hint": "el deh-sah-ROH-yoh sohs-teh-NEE-bleh",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "México se ha comprometido con los objetivos de desarrollo sostenible.",
+    "example_translation": "Mexico has committed to sustainable development goals.",
+    "audio_file": "B2/unit-11/desarrollo-sostenible.mp3",
+    "tags": ["environment", "policy", "advanced"]
+  },
+  {
+    "id": "B2-U11-V008",
+    "word": "hay quienes sostienen que",
+    "translation": "there are those who argue that / some maintain that",
+    "pronunciation_hint": "AHI KYEH-nehs sohs-TYEH-nen keh",
+    "part_of_speech": "fixed expression (balanced perspective)",
+    "example_sentence": "Hay quienes sostienen que la reforma no va lo suficientemente lejos.",
+    "example_translation": "There are those who argue that the reform doesn't go far enough.",
+    "audio_file": "B2/unit-11/hay-quienes-sostienen.mp3",
+    "tags": ["social-issues", "discussion", "balanced", "advanced"]
+  },
+  {
+    "id": "B2-U11-V009",
+    "word": "la sociedad civil",
+    "translation": "civil society",
+    "pronunciation_hint": "lah soh-syeh-DAHD see-VEEL",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "La sociedad civil jugó un papel clave tras los terremotos del 85.",
+    "example_translation": "Civil society played a key role after the 1985 earthquakes.",
+    "audio_file": "B2/unit-11/sociedad-civil.mp3",
+    "tags": ["politics", "society", "mexico"]
+  },
+  {
+    "id": "B2-U11-V010",
+    "word": "los más afectados",
+    "translation": "those most affected",
+    "pronunciation_hint": "lohs mahs ah-fehk-TAH-dohs",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "Los más afectados por la crisis son las familias de bajos ingresos.",
+    "example_translation": "Those most affected by the crisis are low-income families.",
+    "audio_file": "B2/unit-11/los-mas-afectados.mp3",
+    "tags": ["social-issues", "expression", "essential"]
+  },
+  {
+    "id": "B2-U11-V011",
+    "word": "la corrupción",
+    "translation": "corruption",
+    "pronunciation_hint": "lah koh-roop-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "La lucha contra la corrupción es una prioridad para muchos ciudadanos mexicanos.",
+    "example_translation": "The fight against corruption is a priority for many Mexican citizens.",
+    "audio_file": "B2/unit-11/corrupcion.mp3",
+    "tags": ["politics", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U11-V012",
+    "word": "la sequía",
+    "translation": "drought",
+    "pronunciation_hint": "lah seh-KEE-ah",
+    "part_of_speech": "noun",
+    "example_sentence": "La sequía afectó gravemente la producción agrícola en el norte del país.",
+    "example_translation": "The drought severely affected agricultural production in the north of the country.",
+    "audio_file": "B2/unit-11/sequia.mp3",
+    "tags": ["environment", "essential", "climate"]
+  }
+]

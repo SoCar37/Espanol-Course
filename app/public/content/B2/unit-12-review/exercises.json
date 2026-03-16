@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U12-E001",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses a Type 2 (hypothetical) si clause?",
+    "options": [
+      "Si tengo tiempo, te llamo.",
+      "Si tuviera tiempo, te llamaría.",
+      "Si tendría tiempo, te llamaría.",
+      "Si hubiera tenido tiempo, te habría llamado."
+    ],
+    "answer": 1,
+    "explanation": "Type 2 (hypothetical): si + past subjunctive ('tuviera') + conditional ('llamaría'). Option A is Type 1 (real condition); option C is wrong (conditional after 'si' is never correct); option D is Type 3 (past impossible)."
+  },
+  {
+    "id": "B2-U12-E002",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct contrast connector: 'El plan era costoso; ___, lo aprobaron.'",
+    "options": [
+      "ya que",
+      "así que",
+      "sin embargo",
+      "por lo tanto"
+    ],
+    "answer": 2,
+    "explanation": "The sentence contrasts 'costly' with 'they approved it' — a contrast connector is needed. 'Sin embargo' (however) is correct. 'Ya que' = cause; 'así que' and 'por lo tanto' = consequence — neither fits the contrast."
+  },
+  {
+    "id": "B2-U12-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'sensible' mean in Spanish?",
+    "options": [
+      "sensible / reasonable",
+      "sensitive",
+      "sensational",
+      "logical"
+    ],
+    "answer": 1,
+    "explanation": "'Sensible' is a false cognate — it means 'sensitive' in Spanish, not 'sensible/reasonable'. 'Es muy sensible a las críticas' = He's very sensitive to criticism. 'Sensible' in the English sense is 'sensato/a'."
+  },
+  {
+    "id": "B2-U12-E004",
+    "type": "multiple_choice",
+    "prompt": "Which sentence uses the correct argumentation concession structure?",
+    "options": [
+      "No cabe duda de que hay problemas.",
+      "Si bien es cierto que hay problemas, también hay avances.",
+      "Por lo tanto, hay muchos problemas.",
+      "En resumen, los problemas son evidentes."
+    ],
+    "answer": 1,
+    "explanation": "'Si bien es cierto que..., también...' is the classic concede-then-redirect structure: acknowledge a valid point from the other side, then redirect to your position. This is the cornerstone of sophisticated argumentation in Spanish."
+  },
+  {
+    "id": "B2-U12-E005",
+    "type": "multiple_choice",
+    "prompt": "Which author wrote 'El laberinto de la soledad' and introduced 'la máscara' as a cultural concept?",
+    "options": [
+      "Juan Rulfo",
+      "Elena Poniatowska",
+      "Carlos Fuentes",
+      "Octavio Paz"
+    ],
+    "answer": 3,
+    "explanation": "Octavio Paz wrote El laberinto de la soledad (1950). He introduced 'la máscara' — the social mask Mexicans use to protect their inner vulnerability. Paz won the Nobel Prize in Literature in 1990 and is Mexico's most internationally recognized literary figure."
+  },
+  {
+    "id": "B2-U12-E006",
+    "type": "multiple_choice",
+    "prompt": "Which conjunction ALWAYS requires the subjunctive?",
+    "options": [
+      "cuando",
+      "aunque",
+      "para que",
+      "hasta que"
+    ],
+    "answer": 2,
+    "explanation": "'Para que' (so that / in order that) always requires the subjunctive — it expresses purpose and is inherently forward-looking. The others (cuando, aunque, hasta que) use subjunctive for future events but indicative for habitual past facts."
+  },
+  {
+    "id": "B2-U12-E007",
+    "type": "multiple_choice",
+    "prompt": "In Mexican business culture, what does 'quedo a sus órdenes' signal?",
+    "options": [
+      "I am giving you orders.",
+      "I remain at your service and am available to help.",
+      "I have completed all my assigned tasks.",
+      "Please respond as soon as possible."
+    ],
+    "answer": 1,
+    "explanation": "'Quedo a sus órdenes' (I remain at your service) is the most distinctively Mexican professional email closing — signaling ongoing availability and a service-oriented attitude. It is a cultural marker of professional courtesy in Mexico seen constantly in business correspondence."
+  },
+  {
+    "id": "B2-U12-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'Far from solving the problem, the measure made it worse.'",
+    "words": ["Lejos", "de", "resolver", "el", "problema,", "la", "medida", "lo", "empeoró."],
+    "answer": "Lejos de resolver el problema, la medida lo empeoró.",
+    "explanation": "'Lejos de + infinitive' = far from doing something — a strong rhetorical counter-argument structure. 'Empeoró' = made worse (preterite of 'empeorar'). 'Lo' is the direct object pronoun referring back to 'el problema'. This structure is ideal for arguing that an action had the opposite of its intended effect."
+  }
+]

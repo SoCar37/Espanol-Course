@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B2-U09-E001",
+    "type": "multiple_choice",
+    "prompt": "Which Mexican author wrote 'Pedro Páramo', directly influencing Gabriel García Márquez?",
+    "options": [
+      "Octavio Paz",
+      "Carlos Fuentes",
+      "Juan Rulfo",
+      "Elena Poniatowska"
+    ],
+    "answer": 2,
+    "explanation": "Juan Rulfo wrote Pedro Páramo (1955). Its mythical rural world, blending of living and dead, and spare poetic prose directly influenced García Márquez. Rulfo also wrote El llano en llamas (1953). Despite producing very little, he is considered one of the most important writers in the Spanish language."
+  },
+  {
+    "id": "B2-U09-E002",
+    "type": "multiple_choice",
+    "prompt": "Octavio Paz introduced the concept of 'la máscara' in El laberinto de la soledad. What does it refer to?",
+    "options": [
+      "A traditional carnival mask worn at festivals",
+      "The social mask Mexicans wear to hide vulnerability from others",
+      "The false image Mexico presents to foreign countries",
+      "A metaphor for political hypocrisy"
+    ],
+    "answer": 1,
+    "explanation": "In El laberinto de la soledad, Paz argues that Mexicans use a social 'mask' to conceal their true feelings and protect themselves from vulnerability. This concept became central to Mexican cultural self-analysis and is referenced constantly in intellectual conversation about Mexican identity."
+  },
+  {
+    "id": "B2-U09-E003",
+    "type": "multiple_choice",
+    "prompt": "Which literary term means the PLOT of a story?",
+    "options": [
+      "el narrador",
+      "el desenlace",
+      "la trama",
+      "la estrofa"
+    ],
+    "answer": 2,
+    "explanation": "'La trama' = the plot (the sequence of events). 'El narrador' = the narrator; 'el desenlace' = the ending/resolution; 'la estrofa' = a stanza in poetry. 'La trama es muy interesante' = The plot is very interesting."
+  },
+  {
+    "id": "B2-U09-E004",
+    "type": "multiple_choice",
+    "prompt": "Whose portrait appears on the Mexican 200-peso note?",
+    "options": [
+      "Octavio Paz",
+      "Juan Rulfo",
+      "Carlos Fuentes",
+      "Sor Juana Inés de la Cruz"
+    ],
+    "answer": 3,
+    "explanation": "Sor Juana Inés de la Cruz (1648–1695) appears on the 200-peso note. A colonial-era poet and intellectual, she was one of the first feminist voices in the Americas, defending women's right to education. Her presence on everyday currency reflects her central place in Mexican cultural identity."
+  },
+  {
+    "id": "B2-U09-E005",
+    "type": "multiple_choice",
+    "prompt": "Which is the most natural literary analysis phrase for 'The work is about Mexican identity'?",
+    "options": [
+      "La obra es sobre la identidad mexicana.",
+      "La obra trata de la identidad mexicana.",
+      "La obra habla la identidad mexicana.",
+      "La obra dice de la identidad mexicana."
+    ],
+    "answer": 1,
+    "explanation": "'Tratar de' is the standard literary phrase meaning 'to be about / to deal with'. 'La obra trata de...' is the most natural and academically appropriate construction. 'Es sobre' is understandable but informal; 'habla de' is also valid. 'Habla la identidad' and 'dice de' are grammatically incorrect."
+  },
+  {
+    "id": "B2-U09-E006",
+    "type": "multiple_choice",
+    "prompt": "What does 'conmover' mean?",
+    "options": [
+      "to move physically from one place to another",
+      "to motivate someone to take action",
+      "to move someone emotionally / to touch deeply",
+      "to confuse or disturb someone"
+    ],
+    "answer": 2,
+    "explanation": "'Conmover' = to move emotionally, to touch deeply. 'La novela me conmovió' = The novel moved me. The adjective is 'conmovedor/a' (moving/touching). It's the essential verb for describing emotional impact of literature or art."
+  },
+  {
+    "id": "B2-U09-E007",
+    "type": "multiple_choice",
+    "prompt": "Elena Poniatowska is best known for which type of writing?",
+    "options": [
+      "Magical realist novels set in rural Mexico",
+      "Testimonial literature giving voice to marginalized communities",
+      "Modernist poetry influenced by European surrealism",
+      "Colonial-era religious drama"
+    ],
+    "answer": 1,
+    "explanation": "Elena Poniatowska is known for testimonial literature blending journalism and literary narrative to give voice to marginalized people. Her landmark work 'La noche de Tlatelolco' (1971) documents the 1968 student massacre through firsthand testimonies, making invisible voices heard."
+  },
+  {
+    "id": "B2-U09-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words: 'The historical backdrop of the novel is the Mexican Revolution.'",
+    "words": ["El", "trasfondo", "histórico", "de", "la", "novela", "es", "la", "Revolución", "Mexicana."],
+    "answer": "El trasfondo histórico de la novela es la Revolución Mexicana.",
+    "explanation": "'El trasfondo' (backdrop/background) describes the historical or social context in which a work is set. The Mexican Revolution (1910–1920) is the backdrop for many major works of Mexican literature, including those of Azuela, Rulfo, and Fuentes."
+  }
+]

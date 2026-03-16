@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U10-V001",
+    "word": "la junta",
+    "translation": "meeting (preferred Mexican business term over 'reunión')",
+    "pronunciation_hint": "lah HOON-tah",
+    "part_of_speech": "noun",
+    "example_sentence": "No puedo hablar ahora, tengo junta en cinco minutos.",
+    "example_translation": "I can't talk now, I have a meeting in five minutes.",
+    "audio_file": "B2/unit-10/junta.mp3",
+    "tags": ["business", "mexico", "essential", "meetings"]
+  },
+  {
+    "id": "B2-U10-V002",
+    "word": "quedo a sus órdenes",
+    "translation": "I remain at your service (standard Mexican business email closing)",
+    "pronunciation_hint": "KEH-doh ah soos OHR-deh-nehs",
+    "part_of_speech": "fixed expression (formal email closing)",
+    "example_sentence": "Cualquier duda, quedo a sus órdenes.",
+    "example_translation": "For any questions, I remain at your service.",
+    "audio_file": "B2/unit-10/quedo-a-sus-ordenes.mp3",
+    "tags": ["business", "email", "mexico", "essential", "formal"]
+  },
+  {
+    "id": "B2-U10-V003",
+    "word": "el plazo",
+    "translation": "deadline / time limit",
+    "pronunciation_hint": "el PLAH-soh",
+    "part_of_speech": "noun",
+    "example_sentence": "El plazo para entregar el informe es el lunes.",
+    "example_translation": "The deadline for submitting the report is Monday.",
+    "audio_file": "B2/unit-10/plazo.mp3",
+    "tags": ["business", "essential", "deadlines"]
+  },
+  {
+    "id": "B2-U10-V004",
+    "word": "el presupuesto",
+    "translation": "budget",
+    "pronunciation_hint": "el preh-soo-PWES-toh",
+    "part_of_speech": "noun",
+    "example_sentence": "Tenemos que ajustarnos al presupuesto aprobado.",
+    "example_translation": "We need to stay within the approved budget.",
+    "audio_file": "B2/unit-10/presupuesto.mp3",
+    "tags": ["business", "finance", "essential"]
+  },
+  {
+    "id": "B2-U10-V005",
+    "word": "quedamos en que",
+    "translation": "we agreed that / it was agreed that",
+    "pronunciation_hint": "keh-DAH-mohs en keh",
+    "part_of_speech": "verb phrase (meeting agreement confirmation)",
+    "example_sentence": "Quedamos en que el equipo entregaría los resultados el jueves.",
+    "example_translation": "We agreed that the team would deliver the results on Thursday.",
+    "audio_file": "B2/unit-10/quedamos-en-que.mp3",
+    "tags": ["business", "meetings", "agreements", "essential"]
+  },
+  {
+    "id": "B2-U10-V006",
+    "word": "la capacitación",
+    "translation": "training / professional development",
+    "pronunciation_hint": "lah kah-pah-see-tah-SYON",
+    "part_of_speech": "noun",
+    "example_sentence": "Todos los empleados nuevos pasan por una semana de capacitación.",
+    "example_translation": "All new employees go through a week of training.",
+    "audio_file": "B2/unit-10/capacitacion.mp3",
+    "tags": ["business", "HR", "essential"]
+  },
+  {
+    "id": "B2-U10-V007",
+    "word": "estamos dispuestos a",
+    "translation": "we are willing to / we are prepared to",
+    "pronunciation_hint": "ehs-TAH-mohs dees-PWES-tohs ah",
+    "part_of_speech": "verb phrase (negotiation)",
+    "example_sentence": "Estamos dispuestos a revisar los términos del contrato.",
+    "example_translation": "We are willing to review the terms of the contract.",
+    "audio_file": "B2/unit-10/estamos-dispuestos.mp3",
+    "tags": ["business", "negotiation", "essential"]
+  },
+  {
+    "id": "B2-U10-V008",
+    "word": "el/la licenciado/a",
+    "translation": "professional title for university graduates in Mexico",
+    "pronunciation_hint": "el lee-sehn-SYAH-doh",
+    "part_of_speech": "noun / professional title",
+    "example_sentence": "Buenos días, licenciado García, ¿podemos hablar un momento?",
+    "example_translation": "Good morning, Mr. García, can we speak for a moment?",
+    "audio_file": "B2/unit-10/licenciado.mp3",
+    "tags": ["business", "titles", "mexico", "essential", "culture"]
+  },
+  {
+    "id": "B2-U10-V009",
+    "word": "el orden del día",
+    "translation": "agenda (of a meeting)",
+    "pronunciation_hint": "el OHR-den del DEE-ah",
+    "part_of_speech": "noun phrase",
+    "example_sentence": "¿Alguien tiene el orden del día para la junta de hoy?",
+    "example_translation": "Does anyone have the agenda for today's meeting?",
+    "audio_file": "B2/unit-10/orden-del-dia.mp3",
+    "tags": ["business", "meetings", "essential"]
+  },
+  {
+    "id": "B2-U10-V010",
+    "word": "las relaciones",
+    "translation": "relationships / connections (key Mexican business concept)",
+    "pronunciation_hint": "lahs reh-lah-SYON-ehs",
+    "part_of_speech": "noun (cultural business concept)",
+    "example_sentence": "En los negocios mexicanos, las relaciones son lo primero.",
+    "example_translation": "In Mexican business, relationships come first.",
+    "audio_file": "B2/unit-10/relaciones.mp3",
+    "tags": ["business", "culture", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U10-V011",
+    "word": "la factura",
+    "translation": "invoice (FALSE COGNATE — not 'factory')",
+    "pronunciation_hint": "lah fahk-TOO-rah",
+    "part_of_speech": "noun (false cognate warning)",
+    "example_sentence": "Por favor, envíeme la factura a la brevedad.",
+    "example_translation": "Please send me the invoice as soon as possible.",
+    "audio_file": "B2/unit-10/factura.mp3",
+    "tags": ["business", "finance", "false-cognate", "essential"]
+  },
+  {
+    "id": "B2-U10-V012",
+    "word": "superar las expectativas",
+    "translation": "to exceed expectations",
+    "pronunciation_hint": "soo-peh-RAHR lahs eks-pek-tah-TEE-vahs",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "Los resultados del trimestre superaron las expectativas.",
+    "example_translation": "The quarterly results exceeded expectations.",
+    "audio_file": "B2/unit-10/superar-expectativas.mp3",
+    "tags": ["business", "performance", "essential"]
+  }
+]

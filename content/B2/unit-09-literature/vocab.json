@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B2-U09-V001",
+    "word": "el laberinto de la soledad",
+    "translation": "The Labyrinth of Solitude (Octavio Paz, 1950)",
+    "pronunciation_hint": "el lah-beh-REEN-toh deh lah soh-leh-DAHD",
+    "part_of_speech": "proper noun / literary title",
+    "example_sentence": "El laberinto de la soledad es una obra clave para entender la identidad mexicana.",
+    "example_translation": "The Labyrinth of Solitude is a key work for understanding Mexican identity.",
+    "audio_file": "B2/unit-09/laberinto-soledad.mp3",
+    "tags": ["literature", "paz", "mexico", "essential"]
+  },
+  {
+    "id": "B2-U09-V002",
+    "word": "la máscara",
+    "translation": "the mask (Paz's concept of the social mask Mexicans wear)",
+    "pronunciation_hint": "lah MAHS-kah-rah",
+    "part_of_speech": "noun (literary/cultural concept)",
+    "example_sentence": "Según Paz, la máscara protege al mexicano de la vulnerabilidad.",
+    "example_translation": "According to Paz, the mask protects the Mexican from vulnerability.",
+    "audio_file": "B2/unit-09/mascara.mp3",
+    "tags": ["literature", "paz", "cultural-concept", "essential"]
+  },
+  {
+    "id": "B2-U09-V003",
+    "word": "la trama",
+    "translation": "plot",
+    "pronunciation_hint": "lah TRAH-mah",
+    "part_of_speech": "noun (literary term)",
+    "example_sentence": "La trama de la novela es compleja pero fascinante.",
+    "example_translation": "The plot of the novel is complex but fascinating.",
+    "audio_file": "B2/unit-09/trama.mp3",
+    "tags": ["literary-term", "narrative", "essential"]
+  },
+  {
+    "id": "B2-U09-V004",
+    "word": "el desenlace",
+    "translation": "ending / resolution / denouement",
+    "pronunciation_hint": "el deh-sehn-LAH-seh",
+    "part_of_speech": "noun (literary term)",
+    "example_sentence": "El desenlace de la obra sorprendió a todos.",
+    "example_translation": "The ending of the work surprised everyone.",
+    "audio_file": "B2/unit-09/desenlace.mp3",
+    "tags": ["literary-term", "narrative", "essential"]
+  },
+  {
+    "id": "B2-U09-V005",
+    "word": "conmover",
+    "translation": "to move emotionally / to touch deeply",
+    "pronunciation_hint": "kon-moh-VEHR",
+    "part_of_speech": "verb",
+    "example_sentence": "La poesía de Sor Juana me conmueve profundamente.",
+    "example_translation": "Sor Juana's poetry moves me deeply.",
+    "audio_file": "B2/unit-09/conmover.mp3",
+    "tags": ["literary-term", "emotion", "essential"]
+  },
+  {
+    "id": "B2-U09-V006",
+    "word": "evocar",
+    "translation": "to evoke / to call to mind",
+    "pronunciation_hint": "eh-voh-KAHR",
+    "part_of_speech": "verb",
+    "example_sentence": "El poema evoca recuerdos de la infancia.",
+    "example_translation": "The poem evokes memories of childhood.",
+    "audio_file": "B2/unit-09/evocar.mp3",
+    "tags": ["literary-term", "poetry", "essential"]
+  },
+  {
+    "id": "B2-U09-V007",
+    "word": "la estrofa",
+    "translation": "stanza",
+    "pronunciation_hint": "lah ehs-TROH-fah",
+    "part_of_speech": "noun (poetry term)",
+    "example_sentence": "El poema tiene cuatro estrofas de cuatro versos cada una.",
+    "example_translation": "The poem has four stanzas of four lines each.",
+    "audio_file": "B2/unit-09/estrofa.mp3",
+    "tags": ["poetry-term", "literary-term"]
+  },
+  {
+    "id": "B2-U09-V008",
+    "word": "el simbolismo",
+    "translation": "symbolism",
+    "pronunciation_hint": "el seem-boh-LEES-moh",
+    "part_of_speech": "noun (literary term)",
+    "example_sentence": "El simbolismo del agua en la novela es muy rico.",
+    "example_translation": "The symbolism of water in the novel is very rich.",
+    "audio_file": "B2/unit-09/simbolismo.mp3",
+    "tags": ["literary-term", "analysis"]
+  },
+  {
+    "id": "B2-U09-V009",
+    "word": "la obra trata de",
+    "translation": "the work is about / deals with",
+    "pronunciation_hint": "lah OH-brah TRAH-tah deh",
+    "part_of_speech": "verb phrase (literary analysis expression)",
+    "example_sentence": "La obra trata de la búsqueda de identidad en el México moderno.",
+    "example_translation": "The work deals with the search for identity in modern Mexico.",
+    "audio_file": "B2/unit-09/obra-trata-de.mp3",
+    "tags": ["literary-analysis", "expression", "essential"]
+  },
+  {
+    "id": "B2-U09-V010",
+    "word": "el trasfondo",
+    "translation": "backdrop / background context",
+    "pronunciation_hint": "el trahs-FOHN-doh",
+    "part_of_speech": "noun",
+    "example_sentence": "El trasfondo histórico de la novela es la Revolución Mexicana.",
+    "example_translation": "The historical backdrop of the novel is the Mexican Revolution.",
+    "audio_file": "B2/unit-09/trasfondo.mp3",
+    "tags": ["literary-term", "analysis"]
+  },
+  {
+    "id": "B2-U09-V011",
+    "word": "me dejó pensando",
+    "translation": "it left me thinking / it gave me a lot to think about",
+    "pronunciation_hint": "meh deh-HOH pehn-SAHN-doh",
+    "part_of_speech": "verb phrase (expressing literary impact)",
+    "example_sentence": "Pedro Páramo me dejó pensando durante semanas.",
+    "example_translation": "Pedro Páramo left me thinking for weeks.",
+    "audio_file": "B2/unit-09/me-dejo-pensando.mp3",
+    "tags": ["expression", "literary-opinion", "essential"]
+  },
+  {
+    "id": "B2-U09-V012",
+    "word": "el verso libre",
+    "translation": "free verse (poetry without fixed rhyme or meter)",
+    "pronunciation_hint": "el VEHR-soh LEE-breh",
+    "part_of_speech": "noun phrase (poetry term)",
+    "example_sentence": "Mucha poesía mexicana moderna está escrita en verso libre.",
+    "example_translation": "Much modern Mexican poetry is written in free verse.",
+    "audio_file": "B2/unit-09/verso-libre.mp3",
+    "tags": ["poetry-term", "literary-term"]
+  }
+]

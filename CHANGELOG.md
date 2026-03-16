@@ -5,24 +5,27 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-03-16
+
+### Added
+- B2 Units 9–12 complete — B2 now fully done (12/12 units)
+  - Unit 9 — Mexican Literature & Poetry (`unit-09-literature`)
+  - Unit 10 — Business Spanish (`unit-10-business-spanish`)
+  - Unit 11 — Social Issues & Current Events (`unit-11-social-issues`)
+  - Unit 12 — B2 Review & Checkpoint (`unit-12-review`)
+- `CourseMapPage.jsx` updated — B2 fully wired, `partialContent` removed, "Coming soon" badge removed from B2, all 12 units active with sequential unlock
+
 ## [0.4.2] - 2026-03-16
 
 ### Added
-- B2 Unit 5 — Vocabulary Expansion Strategies (`unit-05-vocabulary-expansion`)
-- B2 Unit 6 — Mexican Media & Pop Culture (`unit-06-media-culture`)
-- B2 Unit 7 — Argumentation & Persuasion (`unit-07-argumentation`)
-- B2 Unit 8 — Nuanced Expressions & Register (`unit-08-nuanced-expressions`)
-- `CourseMapPage.jsx` updated — B2 availableUnits bumped from 4 to 8; badge shows "8/12 units available"
+- B2 Units 5–8 (vocabulary expansion, media & pop culture, argumentation, nuanced expressions & register)
+- `CourseMapPage.jsx` updated — B2 availableUnits bumped to 8
 
 ## [0.4.1] - 2026-03-16
 
 ### Added
-- B2 Unit 1 — Past Subjunctive (`unit-01-subjunctive-past`)
-- B2 Unit 2 — Advanced Subjunctive Uses (`unit-02-subjunctive-advanced`)
-- B2 Unit 3 — If-Clauses / Si Clauses (`unit-03-if-clauses`)
-- B2 Unit 4 — Complex Sentences & Connectors (`unit-04-complex-sentences`)
+- B2 Units 1–4 (past subjunctive, advanced subjunctive, si clauses, complex sentences & connectors)
 - B2 level wired into `CourseMapPage.jsx` — unlock gated on `B1-unit-12-review`
-- B2 units 5–12 display as coming soon within the level; badge shows "4/12 units available"
 
 ## [0.4.0] - 2026-03-15
 
