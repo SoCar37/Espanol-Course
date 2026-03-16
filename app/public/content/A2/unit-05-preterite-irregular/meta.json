@@ -1,0 +1,15 @@
+{
+  "id": "A2-U05",
+  "title": "Preterite Tense — Irregular Verbs",
+  "level": "A2",
+  "unit": 5,
+  "slug": "preterite-irregular",
+  "estimated_minutes": 30,
+  "topics": ["preterite tense", "irregular verbs", "past tense", "ser", "ir", "tener", "hacer"],
+  "prereqs": ["A2-U04"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

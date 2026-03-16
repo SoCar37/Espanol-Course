@@ -1,0 +1,101 @@
+{
+  "id": "A2-U07-Q",
+  "title": "Unit 7 Checkpoint Quiz — Preterite vs. Imperfect",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U07-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which tense sets the 'background scene' in a past story?",
+      "options": ["imperfect", "preterite", "present", "future"],
+      "answer": 0,
+      "explanation": "The imperfect describes ongoing states, background conditions, and habitual actions — it sets the stage. The preterite delivers the plot events."
+    },
+    {
+      "id": "A2-U07-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct tenses: ___ (leer) cuando ___ (sonar) el timbre.",
+      "options": ["Leía / sonó", "Leí / sonaba", "Leía / sonaba", "Leí / sonó"],
+      "answer": 0,
+      "explanation": "Ongoing background action (reading) = imperfect: leía. Interrupting event (doorbell rang) = preterite: sonó."
+    },
+    {
+      "id": "A2-U07-Q003",
+      "type": "multiple_choice",
+      "prompt": "What does 'Conocí a mi esposa en una fiesta' mean?",
+      "options": [
+        "I met my wife (for the first time) at a party.",
+        "I used to know my wife at a party.",
+        "My wife and I went to a party.",
+        "I was at a party with my wife."
+      ],
+      "answer": 0,
+      "explanation": "'Conocer' in the preterite means to meet someone for the first time. This is a completed, specific event — the moment of first meeting."
+    },
+    {
+      "id": "A2-U07-Q004",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses BOTH tenses?",
+      "options": [
+        "Eran las tres cuando llegó mi papá.",
+        "Fueron las tres cuando llegaba mi papá.",
+        "Eran las tres cuando llegaba mi papá.",
+        "Fueron las tres cuando llegó mi papá."
+      ],
+      "answer": 0,
+      "explanation": "Time (eran) = imperfect. The arrival (llegó) = preterite, specific completed event. This is the natural combination."
+    },
+    {
+      "id": "A2-U07-Q005",
+      "type": "multiple_choice",
+      "prompt": "'De niño siempre comía en casa de mi abuela.' What does this sentence describe?",
+      "options": [
+        "A habitual past action (imperfect)",
+        "A specific event that happened once (preterite)",
+        "A future plan",
+        "A current habit"
+      ],
+      "answer": 0,
+      "explanation": "'Siempre' + childhood context + imperfect ('comía') = habitual past action. This describes something that happened regularly, not a one-time event."
+    },
+    {
+      "id": "A2-U07-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'No pude abrir la puerta' suggest, versus 'No podía abrir la puerta'?",
+      "options": [
+        "No pude = I failed to open it (specific attempt); No podía = I was unable to open it (ongoing state)",
+        "No pude = I used to not open it; No podía = I failed to open it once",
+        "Both mean exactly the same thing",
+        "No pude = I didn't want to open it; No podía = I couldn't open it"
+      ],
+      "answer": 0,
+      "explanation": "'No pude' (preterite) = I tried and failed on a specific occasion. 'No podía' (imperfect) = I was generally unable to, an ongoing condition."
+    },
+    {
+      "id": "A2-U07-Q007",
+      "type": "multiple_choice",
+      "prompt": "Which combination is WRONG?",
+      "options": [
+        "De repente + imperfect (describing a sudden event)",
+        "Mientras + imperfect (describing background action)",
+        "Ayer + preterite (specific past event)",
+        "Siempre + imperfect (habitual past)"
+      ],
+      "answer": 0,
+      "explanation": "'De repente' (suddenly) signals an abrupt, completed event — this calls for the PRETERITE, not the imperfect. Using imperfect with 'de repente' would be a tense mismatch."
+    },
+    {
+      "id": "A2-U07-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican oral storytelling, what does the shift from 'estaba yo...' to '...y entonces llegó...' signal?",
+      "options": [
+        "The shift from background setup (imperfect) to main event (preterite)",
+        "A change of subject",
+        "The end of the story",
+        "A shift from present to future"
+      ],
+      "answer": 0,
+      "explanation": "'Estaba yo' (imperfect) opens the scene. 'Y entonces llegó' (preterite) launches the main action. This is the classic two-tense storytelling rhythm in Mexican Spanish."
+    }
+  ]
+}

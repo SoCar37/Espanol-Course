@@ -1,0 +1,15 @@
+{
+  "id": "A2-U08",
+  "title": "Direct & Indirect Object Pronouns",
+  "level": "A2",
+  "unit": 8,
+  "slug": "object-pronouns",
+  "estimated_minutes": 30,
+  "topics": ["direct object pronouns", "indirect object pronouns", "lo la los las", "le les", "double object pronouns"],
+  "prereqs": ["A2-U07"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

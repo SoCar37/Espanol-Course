@@ -1,0 +1,81 @@
+[
+  {
+    "id": "A2-U05-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct preterite: Ayer ___ al doctor. (ir)",
+    "options": ["fui", "iba", "voy", "fue"],
+    "answer": 0,
+    "explanation": "The yo preterite of 'ir' is 'fui'. Note it looks the same as the preterite of 'ser' — context (al doctor) tells us this means 'I went'."
+  },
+  {
+    "id": "A2-U05-E002",
+    "type": "multiple_choice",
+    "prompt": "Which is the correct él/ella preterite of 'hacer'?",
+    "options": ["hizo", "hicó", "hació", "hacó"],
+    "answer": 0,
+    "explanation": "'Hacer' uses the i-stem 'hic-', but the c changes to z before o to keep the /s/ sound: él hizo (not hicó)."
+  },
+  {
+    "id": "A2-U05-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: No ___ dormir porque había mucho ruido. (poder, yo)",
+    "options": ["pude", "podí", "pudé", "podé"],
+    "answer": 0,
+    "explanation": "'Poder' has the u-stem 'pud-'. The yo form takes the ending -e (no accent): pude."
+  },
+  {
+    "id": "A2-U05-E004",
+    "type": "multiple_choice",
+    "prompt": "'Supe' is the yo preterite of 'saber'. In this tense it often means:",
+    "options": [
+      "I found out (learning something new)",
+      "I already knew (ongoing knowledge)",
+      "I will know",
+      "I used to know"
+    ],
+    "answer": 0,
+    "explanation": "In the preterite, 'saber' shifts meaning from general knowledge to the moment of finding something out. 'Supe' = I found out / I learned."
+  },
+  {
+    "id": "A2-U05-E005",
+    "type": "translation",
+    "prompt": "Translate: 'She told me the truth.'",
+    "options": [
+      "Ella me dijo la verdad.",
+      "Ella me decía la verdad.",
+      "Ella me dice la verdad.",
+      "Ella me dijó la verdad."
+    ],
+    "answer": 0,
+    "explanation": "'Decir' has i-stem 'dij-'. The ella preterite is 'dijo' (no accent on the o). Note: dijeron for ellos uses -eron not -ieron."
+  },
+  {
+    "id": "A2-U05-E006",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses 'dar' in the preterite?",
+    "options": [
+      "Le di un abrazo a mi abuela.",
+      "Le dé un abrazo a mi abuela.",
+      "Le dí un abrazo a mi abuela.",
+      "Le dao un abrazo a mi abuela."
+    ],
+    "answer": 0,
+    "explanation": "The yo preterite of 'dar' is 'di' — no accent mark. This is one of those short, irregular forms: di, diste, dio, dimos, dieron."
+  },
+  {
+    "id": "A2-U05-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Mis amigos ___ a la fiesta muy tarde. (venir)",
+    "options": ["vinieron", "venieron", "vinaron", "venaron"],
+    "answer": 0,
+    "explanation": "'Venir' has i-stem 'vin-'. The ellos preterite is 'vinieron'. Note: i-stem verbs use -ieron (not -aron) for ellos."
+  },
+  {
+    "id": "A2-U05-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to form a correct preterite sentence:",
+    "words": ["El", "fin", "de", "semana", "fuimos", "a", "la", "playa", "y", "lo", "pasamos", "increíble."],
+    "answer": "El fin de semana fuimos a la playa y lo pasamos increíble.",
+    "explanation": "'Fuimos' is the nosotros preterite of 'ir' (we went). 'Pasamos' is the regular nosotros preterite of 'pasar'. 'Lo pasamos increíble' is a Mexican expression meaning 'we had an amazing time'."
+  }
+]

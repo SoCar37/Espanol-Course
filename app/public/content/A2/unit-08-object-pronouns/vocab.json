@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A2-U08-V001",
+    "word": "lo / la",
+    "translation": "him / her / it (direct object, 3rd person singular)",
+    "pronunciation_hint": "loh / lah",
+    "part_of_speech": "direct object pronoun",
+    "example_sentence": "¿El libro? Lo leí la semana pasada.",
+    "example_translation": "The book? I read it last week.",
+    "audio_file": "A2/unit-08/lo-la.mp3",
+    "tags": ["pronoun", "direct-object", "essential"]
+  },
+  {
+    "id": "A2-U08-V002",
+    "word": "los / las",
+    "translation": "them (direct object, 3rd person plural)",
+    "pronunciation_hint": "lohs / lahs",
+    "part_of_speech": "direct object pronoun",
+    "example_sentence": "¿Los tacos? Los pedí con todo.",
+    "example_translation": "The tacos? I ordered them with everything.",
+    "audio_file": "A2/unit-08/los-las.mp3",
+    "tags": ["pronoun", "direct-object", "essential"]
+  },
+  {
+    "id": "A2-U08-V003",
+    "word": "me / te / nos",
+    "translation": "me / you / us (direct or indirect object)",
+    "pronunciation_hint": "meh / teh / nohs",
+    "part_of_speech": "object pronoun",
+    "example_sentence": "¿Me escuchas? Sí, te escucho.",
+    "example_translation": "Do you hear me? Yes, I hear you.",
+    "audio_file": "A2/unit-08/me-te-nos.mp3",
+    "tags": ["pronoun", "direct-object", "indirect-object", "essential"]
+  },
+  {
+    "id": "A2-U08-V004",
+    "word": "le / les",
+    "translation": "to him / to her / to you (formal) / to them (indirect object)",
+    "pronunciation_hint": "leh / lehs",
+    "part_of_speech": "indirect object pronoun",
+    "example_sentence": "Le mandé un mensaje a mi jefe.",
+    "example_translation": "I sent my boss a message.",
+    "audio_file": "A2/unit-08/le-les.mp3",
+    "tags": ["pronoun", "indirect-object", "essential"]
+  },
+  {
+    "id": "A2-U08-V005",
+    "word": "se lo / se la",
+    "translation": "it to him/her/them (double object pronoun — le/les + lo/la → se lo/la)",
+    "pronunciation_hint": "seh loh / seh lah",
+    "part_of_speech": "double object pronoun",
+    "example_sentence": "¿El regalo? Se lo di a mi mamá.",
+    "example_translation": "The gift? I gave it to my mom.",
+    "audio_file": "A2/unit-08/se-lo.mp3",
+    "tags": ["pronoun", "double-object", "essential"]
+  },
+  {
+    "id": "A2-U08-V006",
+    "word": "mandar",
+    "translation": "to send / to order (someone to do something)",
+    "pronunciation_hint": "man-DAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Te mando la dirección por WhatsApp.",
+    "example_translation": "I'll send you the address via WhatsApp.",
+    "audio_file": "A2/unit-08/mandar.mp3",
+    "tags": ["verb", "essential", "mexico"]
+  },
+  {
+    "id": "A2-U08-V007",
+    "word": "prestar",
+    "translation": "to lend",
+    "pronunciation_hint": "pres-TAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "¿Me prestas tu celular?",
+    "example_translation": "Can you lend me your phone?",
+    "audio_file": "A2/unit-08/prestar.mp3",
+    "tags": ["verb", "indirect-object"]
+  },
+  {
+    "id": "A2-U08-V008",
+    "word": "devolver",
+    "translation": "to return / to give back",
+    "pronunciation_hint": "deh-bol-BEHR",
+    "part_of_speech": "verb (-er, o→ue)",
+    "example_sentence": "Te devuelvo el dinero mañana.",
+    "example_translation": "I'll give you the money back tomorrow.",
+    "audio_file": "A2/unit-08/devolver.mp3",
+    "tags": ["verb", "direct-object"]
+  },
+  {
+    "id": "A2-U08-V009",
+    "word": "explicar",
+    "translation": "to explain",
+    "pronunciation_hint": "eks-plee-KAHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "El maestro nos explicó todo.",
+    "example_translation": "The teacher explained everything to us.",
+    "audio_file": "A2/unit-08/explicar.mp3",
+    "tags": ["verb", "indirect-object"]
+  },
+  {
+    "id": "A2-U08-V010",
+    "word": "ya le",
+    "translation": "alright / got it / okay then (Mexican expression)",
+    "pronunciation_hint": "yah leh",
+    "part_of_speech": "expression (Mexican slang)",
+    "example_sentence": "— Nos vemos a las ocho. — Ya le.",
+    "example_translation": "— See you at eight. — Got it / Alright.",
+    "audio_file": "A2/unit-08/ya-le.mp3",
+    "tags": ["expression", "mexico", "essential", "slang"]
+  },
+  {
+    "id": "A2-U08-V011",
+    "word": "échenle ganas",
+    "translation": "give it your all / go for it (Mexican expression)",
+    "pronunciation_hint": "EH-chen-leh GAH-nahs",
+    "part_of_speech": "expression",
+    "example_sentence": "¡Échenle ganas al examen!",
+    "example_translation": "Give it your all on the exam!",
+    "audio_file": "A2/unit-08/echenle-ganas.mp3",
+    "tags": ["expression", "mexico", "motivation"]
+  },
+  {
+    "id": "A2-U08-V012",
+    "word": "dar cambio",
+    "translation": "to give change (money)",
+    "pronunciation_hint": "dahr KAM-byoh",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "¿Le doy cambio de cien?",
+    "example_translation": "Shall I give you change for a hundred?",
+    "audio_file": "A2/unit-08/dar-cambio.mp3",
+    "tags": ["phrase", "shopping", "mexico"]
+  }
+]

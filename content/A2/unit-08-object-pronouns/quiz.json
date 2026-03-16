@@ -1,0 +1,101 @@
+{
+  "id": "A2-U08-Q",
+  "title": "Unit 8 Checkpoint Quiz — Direct & Indirect Object Pronouns",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U08-Q001",
+      "type": "multiple_choice",
+      "prompt": "Replace the direct object: Vi la película anoche.",
+      "options": ["La vi anoche.", "Lo vi anoche.", "Le vi anoche.", "Las vi anoche."],
+      "answer": 0,
+      "explanation": "'La película' is feminine singular → direct object pronoun 'la'. Place before the verb: La vi anoche."
+    },
+    {
+      "id": "A2-U08-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which pronoun answers 'to whom?' (indirect object)?",
+      "options": ["le", "lo", "la", "los"],
+      "answer": 0,
+      "explanation": "'Le' is the third-person singular indirect object pronoun meaning 'to him/her/you (formal)'. Lo, la, los are direct object pronouns."
+    },
+    {
+      "id": "A2-U08-Q003",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'I'm going to send it to you' (the photo = la foto)?",
+      "options": [
+        "Te la voy a mandar. / Voy a mandártela.",
+        "La te voy a mandar.",
+        "Le lo voy a mandar.",
+        "Me lo voy a mandar."
+      ],
+      "answer": 0,
+      "explanation": "Indirect (to you = te) + direct (la foto = la) = te la. Can go before the first verb (te la voy a mandar) or attach to the infinitive (mandártela)."
+    },
+    {
+      "id": "A2-U08-Q004",
+      "type": "multiple_choice",
+      "prompt": "Why does 'Le lo expliqué' become 'Se lo expliqué'?",
+      "options": [
+        "Le/les changes to se before lo/la/los/las to avoid two l-sounds.",
+        "Because 'le' is always wrong with direct objects.",
+        "Because se is always used for indirect objects.",
+        "It is a random exception."
+      ],
+      "answer": 0,
+      "explanation": "When the indirect pronoun (le/les) immediately precedes a direct pronoun (lo/la/los/las), le/les changes to 'se'. This avoids the awkward 'le lo' sound."
+    },
+    {
+      "id": "A2-U08-Q005",
+      "type": "multiple_choice",
+      "prompt": "In 'Estoy escuchándote', where is the pronoun and what does it mean?",
+      "options": [
+        "Attached to the -ando form; 'te' = you (direct object)",
+        "Before the verb; 'te' = to you (indirect object)",
+        "After the verb; 'te' = them",
+        "Attached; 'te' = me"
+      ],
+      "answer": 0,
+      "explanation": "The pronoun 'te' is attached to the -ando form (escuchándote = listening to you). It's a direct object here. Alternative: te estoy escuchando."
+    },
+    {
+      "id": "A2-U08-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which order is correct for double object pronouns?",
+      "options": [
+        "Indirect + Direct (te lo, nos la, se los)",
+        "Direct + Indirect (lo te, la nos, los se)",
+        "Either order is fine",
+        "They must always be attached to the infinitive"
+      ],
+      "answer": 0,
+      "explanation": "When using two object pronouns, the indirect ALWAYS comes first: te lo, nos la, se los. Never lo te or la nos."
+    },
+    {
+      "id": "A2-U08-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does the Mexican expression '¡Ya le!' mean?",
+      "options": [
+        "Alright! / Got it! / Okay then!",
+        "Not yet!",
+        "Give it to me!",
+        "Never mind!"
+      ],
+      "answer": 0,
+      "explanation": "'Ya le' is a very common Mexican expression of agreement or acknowledgment — roughly equivalent to 'alright', 'got it', or 'deal'. The 'le' here is an indirect object pronoun used idiomatically."
+    },
+    {
+      "id": "A2-U08-Q008",
+      "type": "multiple_choice",
+      "prompt": "In a Mexican market, '¿Se lo envuelvo?' means:",
+      "options": [
+        "Shall I wrap it for you?",
+        "Did you wrap it yourself?",
+        "Do you want to wrap it?",
+        "They wrapped it for me."
+      ],
+      "answer": 0,
+      "explanation": "'Se lo envuelvo' = shall I wrap it (lo = the item) for you (le → se). This is a classic market phrase where se replaces le, and the direct object (it) comes second."
+    }
+  ]
+}

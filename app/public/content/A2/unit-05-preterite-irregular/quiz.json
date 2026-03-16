@@ -1,0 +1,86 @@
+{
+  "id": "A2-U05-Q",
+  "title": "Unit 5 Checkpoint Quiz — Preterite Tense: Irregular Verbs",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U05-Q001",
+      "type": "multiple_choice",
+      "prompt": "What is the yo preterite of 'ir'?",
+      "options": ["fui", "iba", "voy", "iré"],
+      "answer": 0,
+      "explanation": "The yo preterite of 'ir' is 'fui'. It is identical to the yo preterite of 'ser'. Context tells you which verb is meant."
+    },
+    {
+      "id": "A2-U05-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which group do 'tener', 'estar', and 'poder' belong to in the preterite?",
+      "options": ["u-stem irregulars", "i-stem irregulars", "regular -ar verbs", "regular -er verbs"],
+      "answer": 0,
+      "explanation": "Tener (tuv-), estar (estuv-), and poder (pud-) all have irregular stems ending in -u. They share the same set of endings with no accent marks."
+    },
+    {
+      "id": "A2-U05-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is the él/ella preterite of 'hacer'?",
+      "options": ["hizo", "hicó", "hacó", "hació"],
+      "answer": 0,
+      "explanation": "'Hacer' uses the i-stem 'hic-', but changes c → z before o: él hizo. This preserves the /s/ sound."
+    },
+    {
+      "id": "A2-U05-Q004",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'We went to Oaxaca last year'?",
+      "options": [
+        "Fuimos a Oaxaca el año pasado.",
+        "Íbamos a Oaxaca el año pasado.",
+        "Vamos a Oaxaca el año pasado.",
+        "Fueron a Oaxaca el año pasado."
+      ],
+      "answer": 0,
+      "explanation": "'Fuimos' is the nosotros preterite of 'ir'. It's the correct choice for a specific, completed past trip."
+    },
+    {
+      "id": "A2-U05-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which is the correct ellos preterite of 'decir'?",
+      "options": ["dijeron", "decieron", "dijieron", "decaron"],
+      "answer": 0,
+      "explanation": "'Decir' has i-stem 'dij-'. The ellos form is 'dijeron' — note: j-stem verbs drop the i and use -eron not -ieron."
+    },
+    {
+      "id": "A2-U05-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'No quise ir' mean?",
+      "options": [
+        "I didn't want to go / I refused to go",
+        "I couldn't go",
+        "I didn't go by accident",
+        "I used to not want to go"
+      ],
+      "answer": 0,
+      "explanation": "'Querer' in the preterite (quise) implies a deliberate choice or refusal, stronger than the imperfect 'quería' (which just describes a want)."
+    },
+    {
+      "id": "A2-U05-Q007",
+      "type": "multiple_choice",
+      "prompt": "The yo preterite of 'dar' is:",
+      "options": ["di", "dé", "dí", "dao"],
+      "answer": 0,
+      "explanation": "The yo preterite of 'dar' is 'di' — no accent mark. It's one of the shortest irregular preterites."
+    },
+    {
+      "id": "A2-U05-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican storytelling, irregular preterites are very common. Which sentence is most natural?",
+      "options": [
+        "Fíjate que fui al mercado y me encontré con tu mamá.",
+        "Fíjate que iba al mercado y me encontraba con tu mamá.",
+        "Fíjate que voy al mercado y me encuentro con tu mamá.",
+        "Fíjate que iré al mercado y me encontraré con tu mamá."
+      ],
+      "answer": 0,
+      "explanation": "When recounting a specific completed event (a trip to the market and an unexpected encounter), the preterite is the natural choice: fui, encontré."
+    }
+  ]
+}

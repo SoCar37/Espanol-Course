@@ -1,0 +1,15 @@
+{
+  "id": "A2-U07",
+  "title": "Preterite vs. Imperfect",
+  "level": "A2",
+  "unit": 7,
+  "slug": "preterite-vs-imperfect",
+  "estimated_minutes": 35,
+  "topics": ["preterite", "imperfect", "past tense contrast", "storytelling", "interrupting actions"],
+  "prereqs": ["A2-U06"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.2.0"
+}

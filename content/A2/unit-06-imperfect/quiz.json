@@ -1,0 +1,91 @@
+{
+  "id": "A2-U06-Q",
+  "title": "Unit 6 Checkpoint Quiz — The Imperfect Tense",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "A2-U06-Q001",
+      "type": "multiple_choice",
+      "prompt": "What are the THREE irregular verbs in the imperfect?",
+      "options": ["ser, ir, ver", "ser, estar, ir", "tener, ser, ir", "hacer, ser, ver"],
+      "answer": 0,
+      "explanation": "Only ser, ir, and ver are irregular in the imperfect. All other verbs — including tener, hacer, and estar — follow regular patterns."
+    },
+    {
+      "id": "A2-U06-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is the nosotros imperfect of 'ir'?",
+      "options": ["íbamos", "fuimos", "vamos", "ibamos"],
+      "answer": 0,
+      "explanation": "The nosotros imperfect of 'ir' is 'íbamos' (accent on the í). Note the difference from the preterite 'fuimos' (we went, completed trip)."
+    },
+    {
+      "id": "A2-U06-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses the imperfect correctly?",
+      "options": [
+        "De niña, siempre comía tacos los domingos.",
+        "De niña, siempre comí tacos los domingos.",
+        "De niña, siempre como tacos los domingos.",
+        "De niña, siempre comerá tacos los domingos."
+      ],
+      "answer": 0,
+      "explanation": "'Siempre' + childhood habit = imperfect. 'Comía' (imperfect of comer) is correct here."
+    },
+    {
+      "id": "A2-U06-Q004",
+      "type": "multiple_choice",
+      "prompt": "What is the yo imperfect of 'ser'?",
+      "options": ["era", "fui", "soy", "sería"],
+      "answer": 0,
+      "explanation": "The yo imperfect of 'ser' is 'era'. It looks different from 'fui' (yo preterite) and 'soy' (present). 'Era' = I was / I used to be."
+    },
+    {
+      "id": "A2-U06-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which use of the imperfect is correct?",
+      "options": [
+        "Setting background scenes: Hacía frío y nevaba.",
+        "Describing a sudden event: De repente hacía frío.",
+        "Describing a one-time event: Ayer hacía a las tiendas.",
+        "None of the above."
+      ],
+      "answer": 0,
+      "explanation": "The imperfect is perfect for background descriptions and weather conditions in a past scene. 'Hacía frío y nevaba' sets the stage."
+    },
+    {
+      "id": "A2-U06-Q006",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'My grandparents had a big house'?",
+      "options": [
+        "Mis abuelos tenían una casa grande.",
+        "Mis abuelos tuvieron una casa grande.",
+        "Mis abuelos tienen una casa grande.",
+        "Mis abuelos tendrán una casa grande."
+      ],
+      "answer": 0,
+      "explanation": "An ongoing past state (having a house) uses the imperfect: tenían. The preterite 'tuvieron' would imply they had it for a specific, completed period."
+    },
+    {
+      "id": "A2-U06-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is the ellos imperfect of 'comer'?",
+      "options": ["comían", "comieron", "coman", "comerían"],
+      "answer": 0,
+      "explanation": "The ellos imperfect of -er verbs ends in -ían: comían. Don't confuse with the preterite 'comieron'."
+    },
+    {
+      "id": "A2-U06-Q008",
+      "type": "multiple_choice",
+      "prompt": "In Mexican culture, who is 'el paletero'?",
+      "options": [
+        "A street vendor who sells ice cream and popsicles",
+        "A neighborhood baker",
+        "A fruit market seller",
+        "A taco stand owner"
+      ],
+      "answer": 0,
+      "explanation": "El paletero is an iconic figure in Mexican neighborhoods — a vendor who pushes a cart selling paletas (popsicles) and ice cream, often heard before seen."
+    }
+  ]
+}

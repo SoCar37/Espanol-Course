@@ -1,0 +1,96 @@
+[
+  {
+    "id": "A2-U07-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct tenses: ___ (caminar, yo) por el parque cuando ___ (ver, yo) un accidente.",
+    "options": [
+      "Caminaba / vi",
+      "Caminé / veía",
+      "Caminaba / veía",
+      "Caminé / vi"
+    ],
+    "answer": 0,
+    "explanation": "The ongoing background action (walking) uses imperfect: caminaba. The sudden interrupting event (seeing the accident) uses preterite: vi."
+  },
+  {
+    "id": "A2-U07-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses both tenses in a story?",
+    "options": [
+      "Dormía tranquilo cuando sonó el teléfono.",
+      "Dormí tranquilo cuando sonaba el teléfono.",
+      "Dormía tranquilo cuando sonaba el teléfono.",
+      "Dormí tranquilo cuando sonó el teléfono."
+    ],
+    "answer": 0,
+    "explanation": "Ongoing background (sleeping) = imperfect (dormía). Interrupting event (phone rang) = preterite (sonó). This is the classic pattern."
+  },
+  {
+    "id": "A2-U07-E003",
+    "type": "multiple_choice",
+    "prompt": "What does 'Ayer conocí a tu hermana' mean, versus 'Conocía a tu hermana'?",
+    "options": [
+      "Conocí = I met her for the first time; Conocía = I already knew her",
+      "Conocí = I used to know her; Conocía = I met her yesterday",
+      "Both mean the same thing",
+      "Conocí = I will meet her; Conocía = I met her"
+    ],
+    "answer": 0,
+    "explanation": "'Conocer' in the preterite means to meet for the first time. In the imperfect, it means to be acquainted with (ongoing relationship). This is one of the key meaning-changing verbs."
+  },
+  {
+    "id": "A2-U07-E004",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ___ (ser) las doce de la noche y todos ___ (dormir) cuando de repente ___ (llegar) mi tío.",
+    "options": [
+      "Eran / dormían / llegó",
+      "Fueron / durmieron / llegaba",
+      "Eran / durmieron / llegó",
+      "Fueron / dormían / llegaba"
+    ],
+    "answer": 0,
+    "explanation": "Time (eran) and background state (dormían) = imperfect. The interrupting arrival (llegó) = preterite. 'De repente' is a strong preterite signal."
+  },
+  {
+    "id": "A2-U07-E005",
+    "type": "translation",
+    "prompt": "Translate: 'I wanted to call you, but I couldn't find my phone.'",
+    "options": [
+      "Quería llamarte, pero no pude encontrar mi celular.",
+      "Quise llamarte, pero no podía encontrar mi celular.",
+      "Quería llamarte, pero no podía encontrar mi celular.",
+      "Quise llamarte, pero no pude encontrar mi celular."
+    ],
+    "answer": 0,
+    "explanation": "'Quería' (imperfect) = ongoing desire. 'No pude' (preterite) = specific failure in that moment. Both A and D are defensible, but A is the most natural: the wanting was ongoing, the not-finding was the specific event."
+  },
+  {
+    "id": "A2-U07-E006",
+    "type": "multiple_choice",
+    "prompt": "In Mexican storytelling, 'Estaba yo...' is used to:",
+    "options": [
+      "Open a story by setting the background scene (imperfect)",
+      "Describe a specific completed action (preterite)",
+      "Ask a question about the past",
+      "Express surprise"
+    ],
+    "answer": 0,
+    "explanation": "'Estaba yo...' is a classic Mexican storytelling opener that sets the scene with the imperfect before the main events (preterite) unfold."
+  },
+  {
+    "id": "A2-U07-E007",
+    "type": "multiple_choice",
+    "prompt": "Which signal word most strongly calls for the preterite?",
+    "options": ["de repente", "siempre", "mientras", "a veces"],
+    "answer": 0,
+    "explanation": "'De repente' (suddenly) signals a sudden, completed event — exactly what the preterite describes. The others (siempre, mientras, a veces) all point toward the imperfect."
+  },
+  {
+    "id": "A2-U07-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a mini-story with correct tense logic:",
+    "words": ["Hacía", "frío", "y", "llovía", "cuando", "de", "repente", "vi", "un", "arcoíris."],
+    "answer": "Hacía frío y llovía cuando de repente vi un arcoíris.",
+    "explanation": "'Hacía' and 'llovía' are imperfect — background weather conditions. 'Vi' is preterite — the sudden event (seeing a rainbow). 'De repente' confirms the preterite is right."
+  }
+]

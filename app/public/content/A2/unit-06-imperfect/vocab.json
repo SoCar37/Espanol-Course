@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U06-V001",
+    "word": "era / eran",
+    "translation": "was / were (imperfect of ser)",
+    "pronunciation_hint": "EH-rah / EH-rahn",
+    "part_of_speech": "verb (imperfect of ser)",
+    "example_sentence": "Era un día muy bonito.",
+    "example_translation": "It was a very beautiful day.",
+    "audio_file": "A2/unit-06/era.mp3",
+    "tags": ["verb", "imperfect", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U06-V002",
+    "word": "iba / iban",
+    "translation": "used to go / was going (imperfect of ir)",
+    "pronunciation_hint": "EE-bah / EE-bahn",
+    "part_of_speech": "verb (imperfect of ir)",
+    "example_sentence": "Íbamos al mercado cada semana.",
+    "example_translation": "We used to go to the market every week.",
+    "audio_file": "A2/unit-06/iba.mp3",
+    "tags": ["verb", "imperfect", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U06-V003",
+    "word": "tenía",
+    "translation": "had / used to have (imperfect of tener)",
+    "pronunciation_hint": "teh-NEE-ah",
+    "part_of_speech": "verb (imperfect of tener)",
+    "example_sentence": "Cuando era niño tenía un perro.",
+    "example_translation": "When I was a child I had a dog.",
+    "audio_file": "A2/unit-06/tenia.mp3",
+    "tags": ["verb", "imperfect", "essential"]
+  },
+  {
+    "id": "A2-U06-V004",
+    "word": "vivía",
+    "translation": "used to live / was living (imperfect of vivir)",
+    "pronunciation_hint": "bee-BEE-ah",
+    "part_of_speech": "verb (imperfect of vivir)",
+    "example_sentence": "Mis abuelos vivían en Oaxaca.",
+    "example_translation": "My grandparents used to live in Oaxaca.",
+    "audio_file": "A2/unit-06/vivia.mp3",
+    "tags": ["verb", "imperfect"]
+  },
+  {
+    "id": "A2-U06-V005",
+    "word": "hacía",
+    "translation": "used to do / it was (weather) — imperfect of hacer",
+    "pronunciation_hint": "ah-SEE-ah",
+    "part_of_speech": "verb (imperfect of hacer)",
+    "example_sentence": "Hacía mucho frío ese día.",
+    "example_translation": "It was very cold that day.",
+    "audio_file": "A2/unit-06/hacia.mp3",
+    "tags": ["verb", "imperfect", "weather"]
+  },
+  {
+    "id": "A2-U06-V006",
+    "word": "veía",
+    "translation": "used to see / was watching (imperfect of ver)",
+    "pronunciation_hint": "beh-EE-ah",
+    "part_of_speech": "verb (imperfect of ver, irregular)",
+    "example_sentence": "Veíamos las estrellas desde el techo.",
+    "example_translation": "We used to watch the stars from the roof.",
+    "audio_file": "A2/unit-06/veia.mp3",
+    "tags": ["verb", "imperfect", "irregular"]
+  },
+  {
+    "id": "A2-U06-V007",
+    "word": "siempre",
+    "translation": "always",
+    "pronunciation_hint": "SYEM-preh",
+    "part_of_speech": "adverb",
+    "example_sentence": "Siempre llegaba tarde a la clase.",
+    "example_translation": "I always arrived late to class.",
+    "audio_file": "A2/unit-06/siempre.mp3",
+    "tags": ["time", "imperfect", "essential"]
+  },
+  {
+    "id": "A2-U06-V008",
+    "word": "a veces",
+    "translation": "sometimes",
+    "pronunciation_hint": "ah BEH-ses",
+    "part_of_speech": "adverb",
+    "example_sentence": "A veces comíamos en la calle.",
+    "example_translation": "Sometimes we used to eat on the street.",
+    "audio_file": "A2/unit-06/a-veces.mp3",
+    "tags": ["time", "imperfect", "essential"]
+  },
+  {
+    "id": "A2-U06-V009",
+    "word": "antes",
+    "translation": "before / in the past",
+    "pronunciation_hint": "AHN-tes",
+    "part_of_speech": "adverb",
+    "example_sentence": "Antes no había tantos carros.",
+    "example_translation": "Before, there weren't so many cars.",
+    "audio_file": "A2/unit-06/antes.mp3",
+    "tags": ["time", "imperfect"]
+  },
+  {
+    "id": "A2-U06-V010",
+    "word": "cuando era niño/a",
+    "translation": "when I was a child",
+    "pronunciation_hint": "KWAHN-doh EH-rah NEE-nyoh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Cuando era niño, jugaba en la calle.",
+    "example_translation": "When I was a child, I played in the street.",
+    "audio_file": "A2/unit-06/cuando-era-nino.mp3",
+    "tags": ["phrase", "imperfect", "essential"]
+  },
+  {
+    "id": "A2-U06-V011",
+    "word": "todos los días",
+    "translation": "every day",
+    "pronunciation_hint": "TOH-dohs lohs DEE-ahs",
+    "part_of_speech": "phrase",
+    "example_sentence": "Todos los días desayunaba con mi familia.",
+    "example_translation": "Every day I used to have breakfast with my family.",
+    "audio_file": "A2/unit-06/todos-los-dias.mp3",
+    "tags": ["time", "imperfect", "essential"]
+  },
+  {
+    "id": "A2-U06-V012",
+    "word": "el paletero",
+    "translation": "the ice cream / popsicle vendor",
+    "pronunciation_hint": "el pah-leh-TEH-roh",
+    "part_of_speech": "noun (masculine)",
+    "example_sentence": "El paletero pasaba por mi calle cada tarde.",
+    "example_translation": "The paletero used to come down my street every afternoon.",
+    "audio_file": "A2/unit-06/paletero.mp3",
+    "tags": ["noun", "mexico", "culture"]
+  },
+  {
+    "id": "A2-U06-V013",
+    "word": "en aquel entonces",
+    "translation": "back then / in those days",
+    "pronunciation_hint": "en ah-KEL en-TON-ses",
+    "part_of_speech": "phrase",
+    "example_sentence": "En aquel entonces todo era más barato.",
+    "example_translation": "Back then, everything was cheaper.",
+    "audio_file": "A2/unit-06/en-aquel-entonces.mp3",
+    "tags": ["time", "imperfect"]
+  }
+]

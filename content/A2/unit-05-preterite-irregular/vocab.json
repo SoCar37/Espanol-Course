@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A2-U05-V001",
+    "word": "fui / fue / fuimos",
+    "translation": "I went / he went / we went (ir) — also: I was / he was / we were (ser)",
+    "pronunciation_hint": "fwee / fweh / fwee-mohs",
+    "part_of_speech": "verb (preterite of ir / ser)",
+    "example_sentence": "Fui al supermercado ayer.",
+    "example_translation": "I went to the supermarket yesterday.",
+    "audio_file": "A2/unit-05/fui.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V002",
+    "word": "tuve",
+    "translation": "I had (preterite of tener)",
+    "pronunciation_hint": "TOO-beh",
+    "part_of_speech": "verb (preterite of tener)",
+    "example_sentence": "Tuve que salir temprano.",
+    "example_translation": "I had to leave early.",
+    "audio_file": "A2/unit-05/tuve.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V003",
+    "word": "estuve",
+    "translation": "I was / I stayed (preterite of estar)",
+    "pronunciation_hint": "es-TOO-beh",
+    "part_of_speech": "verb (preterite of estar)",
+    "example_sentence": "Estuve en casa todo el día.",
+    "example_translation": "I was home all day.",
+    "audio_file": "A2/unit-05/estuve.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  },
+  {
+    "id": "A2-U05-V004",
+    "word": "pude",
+    "translation": "I was able to / I could (preterite of poder)",
+    "pronunciation_hint": "POO-deh",
+    "part_of_speech": "verb (preterite of poder)",
+    "example_sentence": "No pude dormir bien anoche.",
+    "example_translation": "I couldn't sleep well last night.",
+    "audio_file": "A2/unit-05/pude.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V005",
+    "word": "supe",
+    "translation": "I found out / I knew (preterite of saber)",
+    "pronunciation_hint": "SOO-peh",
+    "part_of_speech": "verb (preterite of saber)",
+    "example_sentence": "Supe la verdad ayer.",
+    "example_translation": "I found out the truth yesterday.",
+    "audio_file": "A2/unit-05/supe.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  },
+  {
+    "id": "A2-U05-V006",
+    "word": "hice",
+    "translation": "I did / I made (preterite of hacer)",
+    "pronunciation_hint": "EE-seh",
+    "part_of_speech": "verb (preterite of hacer)",
+    "example_sentence": "Hice ejercicio esta mañana.",
+    "example_translation": "I exercised this morning.",
+    "audio_file": "A2/unit-05/hice.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V007",
+    "word": "hizo",
+    "translation": "he/she did / made (preterite of hacer)",
+    "pronunciation_hint": "EE-soh",
+    "part_of_speech": "verb (preterite of hacer, él/ella form)",
+    "example_sentence": "¿Qué hizo ella con el dinero?",
+    "example_translation": "What did she do with the money?",
+    "audio_file": "A2/unit-05/hizo.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V008",
+    "word": "vine",
+    "translation": "I came (preterite of venir)",
+    "pronunciation_hint": "BEE-neh",
+    "part_of_speech": "verb (preterite of venir)",
+    "example_sentence": "Vine tan pronto como pude.",
+    "example_translation": "I came as soon as I could.",
+    "audio_file": "A2/unit-05/vine.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  },
+  {
+    "id": "A2-U05-V009",
+    "word": "dije",
+    "translation": "I said / I told (preterite of decir)",
+    "pronunciation_hint": "DEE-heh",
+    "part_of_speech": "verb (preterite of decir)",
+    "example_sentence": "Le dije la verdad.",
+    "example_translation": "I told him/her the truth.",
+    "audio_file": "A2/unit-05/dije.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V010",
+    "word": "traje",
+    "translation": "I brought (preterite of traer)",
+    "pronunciation_hint": "TRAH-heh",
+    "part_of_speech": "verb (preterite of traer)",
+    "example_sentence": "Traje comida para todos.",
+    "example_translation": "I brought food for everyone.",
+    "audio_file": "A2/unit-05/traje.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  },
+  {
+    "id": "A2-U05-V011",
+    "word": "di / dio",
+    "translation": "I gave / he gave (preterite of dar)",
+    "pronunciation_hint": "dee / dyoh",
+    "part_of_speech": "verb (preterite of dar)",
+    "example_sentence": "Le di las llaves a mi hermano.",
+    "example_translation": "I gave my brother the keys.",
+    "audio_file": "A2/unit-05/di.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  },
+  {
+    "id": "A2-U05-V012",
+    "word": "vi / vio",
+    "translation": "I saw / he saw (preterite of ver)",
+    "pronunciation_hint": "bee / byoh",
+    "part_of_speech": "verb (preterite of ver)",
+    "example_sentence": "Vi una película increíble anoche.",
+    "example_translation": "I saw an incredible movie last night.",
+    "audio_file": "A2/unit-05/vi.mp3",
+    "tags": ["verb", "preterite", "irregular", "essential"]
+  },
+  {
+    "id": "A2-U05-V013",
+    "word": "quise",
+    "translation": "I wanted / I tried (preterite of querer)",
+    "pronunciation_hint": "KEE-seh",
+    "part_of_speech": "verb (preterite of querer)",
+    "example_sentence": "No quise decir eso.",
+    "example_translation": "I didn't mean to say that.",
+    "audio_file": "A2/unit-05/quise.mp3",
+    "tags": ["verb", "preterite", "irregular"]
+  }
+]

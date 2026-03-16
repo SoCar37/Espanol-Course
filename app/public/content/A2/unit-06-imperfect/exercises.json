@@ -1,0 +1,76 @@
+[
+  {
+    "id": "A2-U06-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct imperfect: Cuando era niña, ___ mucho. (jugar, yo)",
+    "options": ["jugaba", "jugué", "juego", "jugaré"],
+    "answer": 0,
+    "explanation": "Habitual childhood activities use the imperfect. The yo imperfect of 'jugar' (-ar verb) is 'jugaba'."
+  },
+  {
+    "id": "A2-U06-E002",
+    "type": "multiple_choice",
+    "prompt": "Which verb is NOT irregular in the imperfect?",
+    "options": ["tener", "ser", "ir", "ver"],
+    "answer": 0,
+    "explanation": "Only three verbs are irregular in the imperfect: ser, ir, and ver. 'Tener' is completely regular: tenía, tenías, tenía, teníamos, tenían."
+  },
+  {
+    "id": "A2-U06-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Mis abuelos ___ en un rancho en Jalisco. (vivir)",
+    "options": ["vivían", "vivieron", "viven", "vivirán"],
+    "answer": 0,
+    "explanation": "An ongoing past state (where grandparents used to live) uses the imperfect. The ellos imperfect of -ir verbs ends in -ían: vivían."
+  },
+  {
+    "id": "A2-U06-E004",
+    "type": "multiple_choice",
+    "prompt": "What does 'Eran las dos de la tarde' mean?",
+    "options": [
+      "It was two in the afternoon.",
+      "They were two in the afternoon.",
+      "It is two in the afternoon.",
+      "It was going to be two."
+    ],
+    "answer": 0,
+    "explanation": "Time in past narratives uses the imperfect of ser. 'Eran las dos' = It was two o'clock. Plural because 'las horas' is implied."
+  },
+  {
+    "id": "A2-U06-E005",
+    "type": "translation",
+    "prompt": "Translate: 'I was studying while my sister was watching TV.'",
+    "options": [
+      "Yo estudiaba mientras mi hermana veía la tele.",
+      "Yo estudié mientras mi hermana vio la tele.",
+      "Yo estudiaba mientras mi hermana vio la tele.",
+      "Yo estudié mientras mi hermana veía la tele."
+    ],
+    "answer": 0,
+    "explanation": "Two simultaneous ongoing background actions both use the imperfect: estudiaba and veía. If both were completed events, you'd use the preterite — but here neither is the 'main' completed event."
+  },
+  {
+    "id": "A2-U06-E006",
+    "type": "multiple_choice",
+    "prompt": "Which time expression signals the imperfect?",
+    "options": ["generalmente", "ayer", "de repente", "hace tres días"],
+    "answer": 0,
+    "explanation": "'Generalmente' (generally/usually) signals habitual past action → imperfect. 'Ayer', 'de repente', and 'hace tres días' signal specific completed events → preterite."
+  },
+  {
+    "id": "A2-U06-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the imperfect of 'ir': Todos los veranos ___ a la playa con mi familia. (nosotros)",
+    "options": ["íbamos", "fuimos", "vamos", "iremos"],
+    "answer": 0,
+    "explanation": "'Ir' is irregular in the imperfect. The nosotros form is 'íbamos'. This describes a repeated annual trip — exactly what the imperfect is for."
+  },
+  {
+    "id": "A2-U06-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to describe a childhood memory:",
+    "words": ["Cuando", "era", "niño,", "el", "paletero", "siempre", "pasaba", "por", "mi", "calle."],
+    "answer": "Cuando era niño, el paletero siempre pasaba por mi calle.",
+    "explanation": "'Era' is the imperfect of ser (I was). 'Pasaba' is the imperfect of pasar (used to pass). Both describe habitual past situations — perfect for the imperfect tense."
+  }
+]

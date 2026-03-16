@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A2-U07-V001",
+    "word": "de repente",
+    "translation": "suddenly",
+    "pronunciation_hint": "deh reh-PEN-teh",
+    "part_of_speech": "adverb",
+    "example_sentence": "De repente escuché un ruido en la calle.",
+    "example_translation": "Suddenly I heard a noise in the street.",
+    "audio_file": "A2/unit-07/de-repente.mp3",
+    "tags": ["time", "preterite", "storytelling"]
+  },
+  {
+    "id": "A2-U07-V002",
+    "word": "mientras",
+    "translation": "while / meanwhile",
+    "pronunciation_hint": "MYEN-trahs",
+    "part_of_speech": "conjunction",
+    "example_sentence": "Leía mientras esperaba el camión.",
+    "example_translation": "I was reading while I waited for the bus.",
+    "audio_file": "A2/unit-07/mientras.mp3",
+    "tags": ["conjunction", "imperfect", "storytelling", "essential"]
+  },
+  {
+    "id": "A2-U07-V003",
+    "word": "entonces",
+    "translation": "then / at that point",
+    "pronunciation_hint": "en-TON-ses",
+    "part_of_speech": "adverb",
+    "example_sentence": "Estaba durmiendo y entonces sonó la alarma.",
+    "example_translation": "I was sleeping and then the alarm went off.",
+    "audio_file": "A2/unit-07/entonces.mp3",
+    "tags": ["time", "preterite", "storytelling", "essential"]
+  },
+  {
+    "id": "A2-U07-V004",
+    "word": "conocer (preterite)",
+    "translation": "to meet for the first time (preterite) vs. to know/be acquainted with (imperfect)",
+    "pronunciation_hint": "koh-noh-SEHR",
+    "part_of_speech": "verb",
+    "example_sentence": "Ayer conocí a la nueva maestra.",
+    "example_translation": "Yesterday I met the new teacher (for the first time).",
+    "audio_file": "A2/unit-07/conocer.mp3",
+    "tags": ["verb", "meaning-change", "preterite", "imperfect"]
+  },
+  {
+    "id": "A2-U07-V005",
+    "word": "saber (preterite vs. imperfect)",
+    "translation": "to find out (preterite) vs. to know (imperfect)",
+    "pronunciation_hint": "sah-BEHR",
+    "part_of_speech": "verb",
+    "example_sentence": "Sabía que era difícil, pero lo intenté.",
+    "example_translation": "I knew it was difficult, but I tried.",
+    "audio_file": "A2/unit-07/saber.mp3",
+    "tags": ["verb", "meaning-change", "preterite", "imperfect"]
+  },
+  {
+    "id": "A2-U07-V006",
+    "word": "detener(se)",
+    "translation": "to stop (oneself) / to halt",
+    "pronunciation_hint": "deh-teh-NEHR-seh",
+    "part_of_speech": "reflexive verb",
+    "example_sentence": "Me detuve cuando escuché mi nombre.",
+    "example_translation": "I stopped when I heard my name.",
+    "audio_file": "A2/unit-07/detenerse.mp3",
+    "tags": ["verb", "preterite", "storytelling"]
+  },
+  {
+    "id": "A2-U07-V007",
+    "word": "voltear",
+    "translation": "to turn around (Mexican Spanish)",
+    "pronunciation_hint": "bol-teh-AHR",
+    "part_of_speech": "verb (-ar)",
+    "example_sentence": "Volteé y vi a mi amigo.",
+    "example_translation": "I turned around and saw my friend.",
+    "audio_file": "A2/unit-07/voltear.mp3",
+    "tags": ["verb", "preterite", "mexico", "storytelling"]
+  },
+  {
+    "id": "A2-U07-V008",
+    "word": "en ese momento",
+    "translation": "at that moment",
+    "pronunciation_hint": "en EH-seh moh-MEN-toh",
+    "part_of_speech": "phrase",
+    "example_sentence": "En ese momento supe que algo estaba mal.",
+    "example_translation": "At that moment I realized something was wrong.",
+    "audio_file": "A2/unit-07/en-ese-momento.mp3",
+    "tags": ["time", "preterite", "storytelling"]
+  },
+  {
+    "id": "A2-U07-V009",
+    "word": "estaba yo...",
+    "translation": "I was... (Mexican storytelling opener)",
+    "pronunciation_hint": "es-TAH-bah yoh",
+    "part_of_speech": "phrase",
+    "example_sentence": "Estaba yo en el mercado cuando vi algo increíble.",
+    "example_translation": "I was at the market when I saw something incredible.",
+    "audio_file": "A2/unit-07/estaba-yo.mp3",
+    "tags": ["phrase", "imperfect", "mexico", "storytelling"]
+  },
+  {
+    "id": "A2-U07-V010",
+    "word": "caerle mal",
+    "translation": "to make someone sick / to not agree with someone (food)",
+    "pronunciation_hint": "kah-EHR-leh mahl",
+    "part_of_speech": "expression",
+    "example_sentence": "Comí mariscos y me cayeron muy mal.",
+    "example_translation": "I ate seafood and it made me really sick.",
+    "audio_file": "A2/unit-07/caerle-mal.mp3",
+    "tags": ["expression", "mexico", "food"]
+  },
+  {
+    "id": "A2-U07-V011",
+    "word": "vacío/a",
+    "translation": "empty",
+    "pronunciation_hint": "bah-SEE-oh",
+    "part_of_speech": "adjective",
+    "example_sentence": "Las calles estaban vacías a esa hora.",
+    "example_translation": "The streets were empty at that hour.",
+    "audio_file": "A2/unit-07/vacio.mp3",
+    "tags": ["adjective", "description"]
+  },
+  {
+    "id": "A2-U07-V012",
+    "word": "contar cuentos",
+    "translation": "to tell stories",
+    "pronunciation_hint": "kon-TAHR KWEN-tohs",
+    "part_of_speech": "verb phrase",
+    "example_sentence": "A mi abuela le encantaba contar cuentos.",
+    "example_translation": "My grandmother loved to tell stories.",
+    "audio_file": "A2/unit-07/contar-cuentos.mp3",
+    "tags": ["phrase", "culture", "mexico"]
+  }
+]

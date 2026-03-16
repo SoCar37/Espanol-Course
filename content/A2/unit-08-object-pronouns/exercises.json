@@ -1,0 +1,86 @@
+[
+  {
+    "id": "A2-U08-E001",
+    "type": "multiple_choice",
+    "prompt": "Replace the direct object: Compré los tamales en el mercado.",
+    "options": ["Los compré en el mercado.", "Les compré en el mercado.", "Le compré en el mercado.", "La compré en el mercado."],
+    "answer": 0,
+    "explanation": "'Los tamales' is masculine plural, so the direct object pronoun is 'los'. Place it before the conjugated verb: Los compré."
+  },
+  {
+    "id": "A2-U08-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses an indirect object pronoun?",
+    "options": [
+      "Le mandé un mensaje a mi hermana.",
+      "La mandé un mensaje a mi hermana.",
+      "Lo mandé un mensaje a mi hermana.",
+      "Les mandé un mensaje a mi hermana."
+    ],
+    "answer": 0,
+    "explanation": "A message is sent *to* someone — that's an indirect object. 'Le' = to her. The noun 'a mi hermana' is added for clarity, which is common in Spanish."
+  },
+  {
+    "id": "A2-U08-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¿El libro? ___ presté a mi amigo la semana pasada.",
+    "options": ["Se lo", "Lo le", "Le lo", "Se la"],
+    "answer": 0,
+    "explanation": "Direct object (el libro = lo) + indirect object (a mi amigo = le) together. Le + lo → se lo. The indirect always comes first: se lo presté."
+  },
+  {
+    "id": "A2-U08-E004",
+    "type": "multiple_choice",
+    "prompt": "Where does the object pronoun go in: 'Voy a llamarte'?",
+    "options": [
+      "Attached to the infinitive (llamarte) OR before the first verb (te voy a llamar) — both correct",
+      "Only before the first verb: te voy a llamar",
+      "Only attached to the infinitive: voy a llamarte",
+      "After the complete verb phrase: voy a llamar te"
+    ],
+    "answer": 0,
+    "explanation": "When a pronoun goes with an infinitive, you can either attach it to the infinitive (llamarte) or place it before the conjugated verb (te voy a llamar). Both are equally correct."
+  },
+  {
+    "id": "A2-U08-E005",
+    "type": "translation",
+    "prompt": "Translate using object pronouns: 'She explained it to us.' (the lesson = la lección)",
+    "options": [
+      "Nos la explicó.",
+      "La nos explicó.",
+      "Se la explicó.",
+      "Le la explicó."
+    ],
+    "answer": 0,
+    "explanation": "Indirect (to us = nos) + direct (la lección = la) = nos la. Indirect always comes first. 'Se' only replaces 'le/les', not 'nos'."
+  },
+  {
+    "id": "A2-U08-E006",
+    "type": "multiple_choice",
+    "prompt": "Why do we say 'Se lo dije' instead of 'Le lo dije'?",
+    "options": [
+      "When le/les is followed by lo/la/los/las, le/les changes to se to avoid two l-sounds together.",
+      "Because 'le' is wrong here.",
+      "Because 'se' is always used with indirect objects.",
+      "It is a random exception with no rule."
+    ],
+    "answer": 0,
+    "explanation": "'Le lo' is hard to say — two l-sounds collide. Spanish avoids this by changing le/les → se when followed by lo/la/los/las. So: se lo dije, se la mandé, se los compré."
+  },
+  {
+    "id": "A2-U08-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete the market exchange: — ¿___ envuelvo el regalo? — Sí, por favor.",
+    "options": ["Se lo", "Lo le", "Le lo", "Lo"],
+    "answer": 0,
+    "explanation": "The vendor is asking: 'Shall I wrap it (lo = el regalo) for you (le → se)?' Combined: Se lo envuelvo. This se is not reflexive — it replaces le."
+  },
+  {
+    "id": "A2-U08-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange to form a natural exchange using object pronouns:",
+    "words": ["¿El", "celular?", "Te", "lo", "devuelvo", "mañana,", "te", "lo", "prometo."],
+    "answer": "¿El celular? Te lo devuelvo mañana, te lo prometo.",
+    "explanation": "'Te lo devuelvo' = I'll return it (lo = el celular) to you (te). 'Te lo prometo' = I promise it to you. Both use indirect (te) + direct (lo) correctly."
+  }
+]

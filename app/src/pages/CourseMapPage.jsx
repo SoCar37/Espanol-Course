@@ -26,10 +26,14 @@ const COURSE_STRUCTURE = [
     description: 'Past tenses, reflexive verbs, common expressions, everyday vocabulary',
     color: 'from-purple-500 to-pink-500',
     units: [
-      { id: 'unit-01-present-tense',    title: 'Present Tense Review & Stem-Changers' },
-      { id: 'unit-02-reflexive-verbs',  title: 'Reflexive Verbs & Daily Routines' },
-      { id: 'unit-03-ser-estar',        title: 'Ser vs. Estar — Deep Dive' },
-      { id: 'unit-04-preterite-regular', title: 'Preterite Tense — Regular Verbs' },
+      { id: 'unit-01-present-tense',        title: 'Present Tense Review & Stem-Changers' },
+      { id: 'unit-02-reflexive-verbs',      title: 'Reflexive Verbs & Daily Routines' },
+      { id: 'unit-03-ser-estar',            title: 'Ser vs. Estar — Deep Dive' },
+      { id: 'unit-04-preterite-regular',    title: 'Preterite Tense — Regular Verbs' },
+      { id: 'unit-05-preterite-irregular',  title: 'Preterite Tense — Irregular Verbs' },
+      { id: 'unit-06-imperfect',            title: 'The Imperfect Tense' },
+      { id: 'unit-07-preterite-vs-imperfect', title: 'Preterite vs. Imperfect' },
+      { id: 'unit-08-object-pronouns',      title: 'Direct & Indirect Object Pronouns' },
     ],
     comingSoon: false,
     partialContent: true,
@@ -72,7 +76,6 @@ export default function CourseMapPage() {
                     const isComplete = !!progress?.complete
                     let isAvailable = false
                     if (levelData.level === 'A2' && index === 0) {
-                      // First A2 unit unlocks only after A1 is complete
                       const lastA1Key = 'A1-unit-10-review'
                       const lastA1Progress = getUnitProgress(lastA1Key)
                       isAvailable = !!lastA1Progress?.complete
