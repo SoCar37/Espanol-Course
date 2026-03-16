@@ -291,14 +291,31 @@ This block goes after the `B2 && index === 0` block and before the `index === 0`
 
 ## Next steps (in priority order)
 
+### Critical path to v1.0.0 public launch
+**C1 content → Placement test → README/CONTRIBUTING review → Public launch**
+
+### All remaining work
+
+#### v0.5.x — C1 content (next 3 sessions)
 1. **C1 content** — 10 units. Unit list locked (see above). Use same 4-per-session approach:
    - Session 1 (units 1–4): version `v0.5.1`
    - Session 2 (units 5–8): version `v0.5.2`
    - Session 3 (units 9–10 + handoff): version `v0.6.0` (C1 complete milestone)
    - All `meta.json` files in a session use that session's version string.
-2. **Fix deprecated meta tag** — in `app/index.html`, change `apple-mobile-web-app-capable` to `mobile-web-app-capable`
-3. **Audio** — requires Google Cloud TTS account setup
-4. **Placement test** — planned for end of v1.0
+
+#### v0.6.x — Pre-launch polish
+2. **Fix deprecated meta tag** — in `app/index.html`, change `apple-mobile-web-app-capable` to `mobile-web-app-capable` (one-line manual fix)
+3. **Placement test** — not yet built. Should determine starting level (A1–B2) and unlock accordingly. Planned for end of v0.6.x before v1.0.0.
+4. **README.md update** — current README reflects early scaffold. Before public launch, update to reflect full course scope (A1–C1, 56 units), live URL, and how to contribute.
+5. **CONTRIBUTING.md review** — written for early-stage development. Review and update before public launch.
+
+#### v1.0.0 — Public launch
+6. **Final QA pass** on live site at `https://SoCar37.github.io/Espanol-Course` before announcing
+
+#### Post-launch (do not block v1.0.0 on these)
+7. **Audio** — Google Cloud TTS Neural2 es-MX. Generator script already exists at `tools/generate-audio.py`. Blocked on Google Cloud account setup. Run against all vocab files across all levels.
+8. **Analytics** — Plausible designated for post-launch. Do not add before v1.0.0.
+9. **Supabase accounts** — Full user account system (sync progress across devices, leaderboards). Deferred to v2.0.0.
 
 ---
 
