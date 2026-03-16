@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B1-U01-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct subjunctive form: Quiero que tú ___ más agua. (beber)",
+    "options": ["bebas", "bebes", "beber", "bebías"],
+    "answer": 0,
+    "explanation": "'Querer que' triggers the subjunctive. -ER verbs use -A endings: bebo → beb- → bebas (tú form)."
+  },
+  {
+    "id": "B1-U01-E002",
+    "type": "multiple_choice",
+    "prompt": "Which sentence correctly uses the subjunctive?",
+    "options": [
+      "Es importante que llegues temprano.",
+      "Es importante que llegas temprano.",
+      "Es importante llegar temprano tú.",
+      "Es importante que llegaste temprano."
+    ],
+    "answer": 0,
+    "explanation": "Impersonal expressions like 'es importante que' trigger the subjunctive. 'Llegues' is the tú subjunctive of llegar."
+  },
+  {
+    "id": "B1-U01-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: No creo que él ___ razón. (tener)",
+    "options": ["tenga", "tiene", "tenía", "tuvo"],
+    "answer": 0,
+    "explanation": "'No creer que' expresses doubt and triggers the subjunctive. 'Tener' has irregular yo: tengo → tenga (él subjunctive)."
+  },
+  {
+    "id": "B1-U01-E004",
+    "type": "multiple_choice",
+    "prompt": "When do you use the subjunctive instead of the infinitive?",
+    "options": [
+      "When there are two different subjects in the sentence",
+      "When you want to talk about the past",
+      "When the sentence has 'que' anywhere in it",
+      "Always after the verb 'querer'"
+    ],
+    "answer": 0,
+    "explanation": "The key rule: use the subjunctive when the subject of the main clause is DIFFERENT from the subject of the subordinate clause. One subject = infinitive. Two subjects = subjunctive."
+  },
+  {
+    "id": "B1-U01-E005",
+    "type": "translation",
+    "prompt": "Translate: 'I hope there's enough food.'",
+    "options": [
+      "Espero que haya suficiente comida.",
+      "Espero que hay suficiente comida.",
+      "Espero haya suficiente comida.",
+      "Espero que habrá suficiente comida."
+    ],
+    "answer": 0,
+    "explanation": "'Esperar que' triggers subjunctive. 'Haber' → subjunctive: haya (there is/are). Don't use 'hay' (indicative) after subjunctive triggers."
+  },
+  {
+    "id": "B1-U01-E006",
+    "type": "multiple_choice",
+    "prompt": "What is the subjunctive of 'ir' for nosotros?",
+    "options": ["vayamos", "vamos", "fuéramos", "iremos"],
+    "answer": 0,
+    "explanation": "'Ir' is fully irregular in the subjunctive: vaya, vayas, vaya, vayamos, vayan. Don't confuse with the present indicative 'vamos'."
+  },
+  {
+    "id": "B1-U01-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the correct subjunctive: Me alegra que tú ___ bien. (estar)",
+    "options": ["estés", "estás", "estabas", "estarás"],
+    "answer": 0,
+    "explanation": "Emotional expressions trigger the subjunctive. 'Estar' is irregular in the subjunctive: esté, estés, esté, estemos, estén."
+  },
+  {
+    "id": "B1-U01-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a correct subjunctive sentence:",
+    "words": ["Ojalá", "que", "todo", "salga", "bien", "y", "que", "haya", "mucha", "comida."],
+    "answer": "Ojalá que todo salga bien y que haya mucha comida.",
+    "explanation": "'Ojalá que' always triggers subjunctive. 'Salga' is subjunctive of salir (salgo → salg- → salga). 'Haya' is subjunctive of haber. Two independent subjunctive clauses joined by 'y'."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "B1-U01",
+  "title": "Introduction to the Subjunctive",
+  "level": "B1",
+  "unit": 1,
+  "slug": "subjunctive-intro",
+  "estimated_minutes": 35,
+  "topics": ["subjunctive mood", "present subjunctive", "wishes", "doubt", "emotion", "impersonal expressions"],
+  "prereqs": ["A2-U12"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

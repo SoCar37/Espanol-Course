@@ -1,0 +1,145 @@
+[
+  {
+    "id": "B1-U01-V001",
+    "word": "ojalá",
+    "translation": "hopefully / I hope / God willing",
+    "pronunciation_hint": "oh-hah-LAH",
+    "part_of_speech": "interjection (always triggers subjunctive)",
+    "example_sentence": "Ojalá que todo salga bien.",
+    "example_translation": "Hopefully everything turns out well.",
+    "audio_file": "B1/unit-01/ojala.mp3",
+    "tags": ["subjunctive", "essential", "mexico"]
+  },
+  {
+    "id": "B1-U01-V002",
+    "word": "esperar que",
+    "translation": "to hope that / to wait for",
+    "pronunciation_hint": "es-peh-RAHR keh",
+    "part_of_speech": "verb phrase (triggers subjunctive)",
+    "example_sentence": "Espero que llegues a tiempo.",
+    "example_translation": "I hope you arrive on time.",
+    "audio_file": "B1/unit-01/esperar-que.mp3",
+    "tags": ["subjunctive", "trigger", "essential"]
+  },
+  {
+    "id": "B1-U01-V003",
+    "word": "querer que",
+    "translation": "to want (someone) to",
+    "pronunciation_hint": "keh-REHR keh",
+    "part_of_speech": "verb phrase (triggers subjunctive)",
+    "example_sentence": "Quiero que me digas la verdad.",
+    "example_translation": "I want you to tell me the truth.",
+    "audio_file": "B1/unit-01/querer-que.mp3",
+    "tags": ["subjunctive", "trigger", "essential"]
+  },
+  {
+    "id": "B1-U01-V004",
+    "word": "dudar que",
+    "translation": "to doubt that",
+    "pronunciation_hint": "doo-DAHR keh",
+    "part_of_speech": "verb phrase (triggers subjunctive)",
+    "example_sentence": "Dudo que sea verdad.",
+    "example_translation": "I doubt it's true.",
+    "audio_file": "B1/unit-01/dudar-que.mp3",
+    "tags": ["subjunctive", "trigger", "doubt"]
+  },
+  {
+    "id": "B1-U01-V005",
+    "word": "es importante que",
+    "translation": "it's important that",
+    "pronunciation_hint": "es eem-por-TAHN-teh keh",
+    "part_of_speech": "impersonal expression (triggers subjunctive)",
+    "example_sentence": "Es importante que comas bien.",
+    "example_translation": "It's important that you eat well.",
+    "audio_file": "B1/unit-01/es-importante.mp3",
+    "tags": ["subjunctive", "trigger", "impersonal", "essential"]
+  },
+  {
+    "id": "B1-U01-V006",
+    "word": "es posible que",
+    "translation": "it's possible that",
+    "pronunciation_hint": "es poh-SEE-bleh keh",
+    "part_of_speech": "impersonal expression (triggers subjunctive)",
+    "example_sentence": "Es posible que llueva esta tarde.",
+    "example_translation": "It's possible that it will rain this afternoon.",
+    "audio_file": "B1/unit-01/es-posible.mp3",
+    "tags": ["subjunctive", "trigger", "impersonal"]
+  },
+  {
+    "id": "B1-U01-V007",
+    "word": "me alegra que",
+    "translation": "I'm glad that",
+    "pronunciation_hint": "meh ah-LEH-grah keh",
+    "part_of_speech": "emotional expression (triggers subjunctive)",
+    "example_sentence": "Me alegra que estés aquí.",
+    "example_translation": "I'm glad you're here.",
+    "audio_file": "B1/unit-01/me-alegra.mp3",
+    "tags": ["subjunctive", "trigger", "emotion"]
+  },
+  {
+    "id": "B1-U01-V008",
+    "word": "que te vaya bien",
+    "translation": "may things go well for you (farewell)",
+    "pronunciation_hint": "keh teh BAH-yah BYEN",
+    "part_of_speech": "expression (subjunctive of ir)",
+    "example_sentence": "Fue un placer. Que te vaya bien.",
+    "example_translation": "It was a pleasure. Take care / May things go well.",
+    "audio_file": "B1/unit-01/que-te-vaya-bien.mp3",
+    "tags": ["subjunctive", "expression", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U01-V009",
+    "word": "no creer que",
+    "translation": "to not think/believe that (triggers subjunctive)",
+    "pronunciation_hint": "noh kreh-EHR keh",
+    "part_of_speech": "verb phrase (triggers subjunctive)",
+    "example_sentence": "No creo que tenga razón.",
+    "example_translation": "I don't think he's right.",
+    "audio_file": "B1/unit-01/no-creer.mp3",
+    "tags": ["subjunctive", "trigger", "doubt"]
+  },
+  {
+    "id": "B1-U01-V010",
+    "word": "es una lástima que",
+    "translation": "it's a shame that",
+    "pronunciation_hint": "es OO-nah LAHS-tee-mah keh",
+    "part_of_speech": "impersonal expression (triggers subjunctive)",
+    "example_sentence": "Es una lástima que no puedas venir.",
+    "example_translation": "It's a shame you can't come.",
+    "audio_file": "B1/unit-01/es-una-lastima.mp3",
+    "tags": ["subjunctive", "trigger", "emotion"]
+  },
+  {
+    "id": "B1-U01-V011",
+    "word": "haya",
+    "translation": "there is/are (subjunctive of haber)",
+    "pronunciation_hint": "AH-yah",
+    "part_of_speech": "verb (subjunctive of haber, irregular)",
+    "example_sentence": "Espero que haya tiempo.",
+    "example_translation": "I hope there's time.",
+    "audio_file": "B1/unit-01/haya.mp3",
+    "tags": ["subjunctive", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U01-V012",
+    "word": "vaya",
+    "translation": "goes / may go (subjunctive of ir)",
+    "pronunciation_hint": "BAH-yah",
+    "part_of_speech": "verb (subjunctive of ir, irregular)",
+    "example_sentence": "No quiero que se vaya.",
+    "example_translation": "I don't want him/her to leave.",
+    "audio_file": "B1/unit-01/vaya.mp3",
+    "tags": ["subjunctive", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U01-V013",
+    "word": "sea",
+    "translation": "is / may be (subjunctive of ser)",
+    "pronunciation_hint": "SEH-ah",
+    "part_of_speech": "verb (subjunctive of ser, irregular)",
+    "example_sentence": "Ojalá que sea un buen día.",
+    "example_translation": "I hope it's a good day.",
+    "audio_file": "B1/unit-01/sea.mp3",
+    "tags": ["subjunctive", "irregular", "essential"]
+  }
+]

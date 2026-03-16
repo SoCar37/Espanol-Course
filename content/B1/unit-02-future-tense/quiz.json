@@ -1,0 +1,91 @@
+{
+  "id": "B1-U02-Q",
+  "title": "Unit 2 Checkpoint Quiz — The Future Tense",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U02-Q001",
+      "type": "multiple_choice",
+      "prompt": "How do you form the simple future of regular verbs?",
+      "options": [
+        "Add future endings directly to the infinitive",
+        "Drop the -ar/-er/-ir and add endings",
+        "Use the yo form and add endings",
+        "Add endings to the preterite stem"
+      ],
+      "answer": 0,
+      "explanation": "The simple future is unique — you add endings directly to the full infinitive (not a stem). Hablar → hablaré, comer → comeré, vivir → viviré."
+    },
+    {
+      "id": "B1-U02-Q002",
+      "type": "multiple_choice",
+      "prompt": "What is the future of 'hacer' for él?",
+      "options": ["hará", "hacerá", "hazerá", "haceré"],
+      "answer": 0,
+      "explanation": "'Hacer' uses irregular stem 'har-'. Él form: hará. Full paradigm: haré, harás, hará, haremos, harán."
+    },
+    {
+      "id": "B1-U02-Q003",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'there will be' in Spanish?",
+      "options": ["habrá", "será", "tendrá", "estará"],
+      "answer": 0,
+      "explanation": "'Haber' in future → 'habrá' (there will be). It's always impersonal third-person singular, same as the present 'hay'."
+    },
+    {
+      "id": "B1-U02-Q004",
+      "type": "multiple_choice",
+      "prompt": "Someone says '¿Cuántos años tendrá?' What are they doing?",
+      "options": [
+        "Speculating / wondering about someone's age right now",
+        "Asking a direct question about the future",
+        "Talking about a past age",
+        "Making a promise"
+      ],
+      "answer": 0,
+      "explanation": "The future tense expresses probability or conjecture about the present. '¿Cuántos años tendrá?' = How old do you think he is? / I wonder how old he is."
+    },
+    {
+      "id": "B1-U02-Q005",
+      "type": "multiple_choice",
+      "prompt": "Which verb does NOT have an irregular future stem?",
+      "options": ["hablar", "tener", "hacer", "decir"],
+      "answer": 0,
+      "explanation": "'Hablar' is completely regular in the future: hablaré, hablarás, hablará... The others are all irregular: tendr-, har-, dir-."
+    },
+    {
+      "id": "B1-U02-Q006",
+      "type": "multiple_choice",
+      "prompt": "In everyday Mexican Spanish, which is preferred for near-future plans?",
+      "options": [
+        "Ir a + infinitive (voy a comer)",
+        "Simple future (comeré)",
+        "Present tense (como)",
+        "Either is equally common"
+      ],
+      "answer": 0,
+      "explanation": "In informal Mexican speech, 'ir a + infinitive' is strongly preferred for near-future plans. The simple future sounds more formal and is more common in writing or predictions."
+    },
+    {
+      "id": "B1-U02-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'si Dios quiere' mean and when is it used?",
+      "options": [
+        "'God willing' — added to future plans to acknowledge uncertainty",
+        "'If God exists' — a philosophical statement",
+        "'As God wants' — a command",
+        "'God knows' — expressing complete ignorance"
+      ],
+      "answer": 0,
+      "explanation": "'Si Dios quiere' (God willing) is a very common Mexican expression added after future plans. It reflects a cultural acknowledgment that the future is uncertain and not entirely in our hands."
+    },
+    {
+      "id": "B1-U02-Q008",
+      "type": "multiple_choice",
+      "prompt": "What is the nosotros future of 'venir'?",
+      "options": ["vendremos", "venimos", "vendríamos", "vendramos"],
+      "answer": 0,
+      "explanation": "'Venir' uses irregular stem 'vendr-'. Nosotros form: vendremos. All future endings: -é, -ás, -á, -emos, -án."
+    }
+  ]
+}

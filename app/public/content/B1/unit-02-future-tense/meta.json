@@ -1,0 +1,15 @@
+{
+  "id": "B1-U02",
+  "title": "The Future Tense",
+  "level": "B1",
+  "unit": 2,
+  "slug": "future-tense",
+  "estimated_minutes": 30,
+  "topics": ["future tense", "ir a + infinitive", "future irregular verbs", "predictions", "plans"],
+  "prereqs": ["B1-U01"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

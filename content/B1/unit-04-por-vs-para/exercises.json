@@ -1,0 +1,76 @@
+[
+  {
+    "id": "B1-U04-E001",
+    "type": "multiple_choice",
+    "prompt": "Choose por or para: Compré este regalo ___ mi hermana.",
+    "options": ["para", "por", "a", "de"],
+    "answer": 0,
+    "explanation": "'Para' is used for recipients — the person something is intended for. 'Compré este regalo para mi hermana' = I bought this gift for my sister (she's the recipient)."
+  },
+  {
+    "id": "B1-U04-E002",
+    "type": "multiple_choice",
+    "prompt": "Choose por or para: Gracias ___ tu ayuda.",
+    "options": ["por", "para", "con", "de"],
+    "answer": 0,
+    "explanation": "'Por' expresses cause or reason. 'Gracias por tu ayuda' = Thank you for your help (because of your help). 'Por' always follows 'gracias'."
+  },
+  {
+    "id": "B1-U04-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Viví en Guadalajara ___ dos años antes de mudarme a la CDMX.",
+    "options": ["por", "para", "desde", "hasta"],
+    "answer": 0,
+    "explanation": "'Por' expresses duration of time. 'Por dos años' = for two years. 'Para' would indicate a deadline or purpose, not duration."
+  },
+  {
+    "id": "B1-U04-E004",
+    "type": "multiple_choice",
+    "prompt": "What is the difference between these two sentences?\nA: Lo hice para ti.\nB: Lo hice por ti.",
+    "options": [
+      "A = I did it for you (as the recipient/beneficiary); B = I did it because of you / for your sake",
+      "A = I did it because of you; B = I did it for you as a gift",
+      "They mean exactly the same thing",
+      "A uses future; B uses past"
+    ],
+    "answer": 0,
+    "explanation": "'Para ti' = you are the intended recipient or beneficiary. 'Por ti' = you are the reason/cause — I did it on your behalf or because of you. This is the classic por/para contrast."
+  },
+  {
+    "id": "B1-U04-E005",
+    "type": "translation",
+    "prompt": "Translate: 'I'm leaving for Cancún next week.'",
+    "options": [
+      "Salgo para Cancún la próxima semana.",
+      "Salgo por Cancún la próxima semana.",
+      "Voy por Cancún la próxima semana.",
+      "Salgo a Cancún la próxima semana."
+    ],
+    "answer": 0,
+    "explanation": "'Para' marks destination when leaving for a place. 'Salgo para Cancún' = I'm leaving for Cancún. 'Salgo por Cancún' would mean I'm passing through Cancún."
+  },
+  {
+    "id": "B1-U04-E006",
+    "type": "multiple_choice",
+    "prompt": "Choose por or para: Te mando los documentos ___ correo electrónico.",
+    "options": ["por", "para", "con", "en"],
+    "answer": 0,
+    "explanation": "'Por' indicates means of communication or transmission. 'Por correo electrónico' = by email. Similarly: por teléfono, por WhatsApp, por correo."
+  },
+  {
+    "id": "B1-U04-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ___ ser la primera vez, lo hiciste muy bien.",
+    "options": ["Para", "Por", "Con", "De"],
+    "answer": 0,
+    "explanation": "'Para' + context expresses an unexpected or surprising quality. 'Para ser la primera vez' = For it being the first time / Given that it's your first time. This structure often signals a compliment."
+  },
+  {
+    "id": "B1-U04-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a correct sentence using both por and para:",
+    "words": ["Compré", "esto", "para", "ti", "por", "solo", "cien", "pesos", "en", "el", "tianguis."],
+    "answer": "Compré esto para ti por solo cien pesos en el tianguis.",
+    "explanation": "'Para ti' = for you (recipient). 'Por cien pesos' = for a hundred pesos (exchange/price). Both prepositions used correctly in the same sentence."
+  }
+]

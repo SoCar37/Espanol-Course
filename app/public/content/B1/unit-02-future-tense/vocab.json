@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U02-V001",
+    "word": "tendré",
+    "translation": "I will have (future of tener)",
+    "pronunciation_hint": "ten-DREH",
+    "part_of_speech": "verb (future of tener, irregular stem: tendr-)",
+    "example_sentence": "Tendré una reunión mañana a las nueve.",
+    "example_translation": "I will have a meeting tomorrow at nine.",
+    "audio_file": "B1/unit-02/tendre.mp3",
+    "tags": ["verb", "future", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U02-V002",
+    "word": "podré",
+    "translation": "I will be able to (future of poder)",
+    "pronunciation_hint": "poh-DREH",
+    "part_of_speech": "verb (future of poder, irregular stem: podr-)",
+    "example_sentence": "No podré ir a la fiesta este sábado.",
+    "example_translation": "I won't be able to go to the party this Saturday.",
+    "audio_file": "B1/unit-02/podre.mp3",
+    "tags": ["verb", "future", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U02-V003",
+    "word": "haré",
+    "translation": "I will do / make (future of hacer)",
+    "pronunciation_hint": "ah-REH",
+    "part_of_speech": "verb (future of hacer, irregular stem: har-)",
+    "example_sentence": "Haré todo lo posible para ayudarte.",
+    "example_translation": "I will do everything possible to help you.",
+    "audio_file": "B1/unit-02/hare.mp3",
+    "tags": ["verb", "future", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U02-V004",
+    "word": "diré",
+    "translation": "I will say / tell (future of decir)",
+    "pronunciation_hint": "dee-REH",
+    "part_of_speech": "verb (future of decir, irregular stem: dir-)",
+    "example_sentence": "Te diré la verdad cuando llegues.",
+    "example_translation": "I will tell you the truth when you arrive.",
+    "audio_file": "B1/unit-02/dire.mp3",
+    "tags": ["verb", "future", "irregular"]
+  },
+  {
+    "id": "B1-U02-V005",
+    "word": "saldré",
+    "translation": "I will leave / go out (future of salir)",
+    "pronunciation_hint": "sal-DREH",
+    "part_of_speech": "verb (future of salir, irregular stem: saldr-)",
+    "example_sentence": "Saldré del trabajo a las seis.",
+    "example_translation": "I will leave work at six.",
+    "audio_file": "B1/unit-02/saldre.mp3",
+    "tags": ["verb", "future", "irregular"]
+  },
+  {
+    "id": "B1-U02-V006",
+    "word": "vendré",
+    "translation": "I will come (future of venir)",
+    "pronunciation_hint": "ben-DREH",
+    "part_of_speech": "verb (future of venir, irregular stem: vendr-)",
+    "example_sentence": "Vendré a tu casa el viernes.",
+    "example_translation": "I will come to your house on Friday.",
+    "audio_file": "B1/unit-02/vendre.mp3",
+    "tags": ["verb", "future", "irregular"]
+  },
+  {
+    "id": "B1-U02-V007",
+    "word": "habrá",
+    "translation": "there will be (future of haber)",
+    "pronunciation_hint": "ah-BRAH",
+    "part_of_speech": "verb (future of haber, irregular stem: habr-)",
+    "example_sentence": "Habrá mucha gente en el concierto.",
+    "example_translation": "There will be a lot of people at the concert.",
+    "audio_file": "B1/unit-02/habra.mp3",
+    "tags": ["verb", "future", "irregular", "essential"]
+  },
+  {
+    "id": "B1-U02-V008",
+    "word": "será",
+    "translation": "it will be / it's probably (future of ser — also used for probability)",
+    "pronunciation_hint": "seh-RAH",
+    "part_of_speech": "verb (future of ser)",
+    "example_sentence": "¿Quién toca? — Será el vecino.",
+    "example_translation": "Who's knocking? — It's probably the neighbor.",
+    "audio_file": "B1/unit-02/sera.mp3",
+    "tags": ["verb", "future", "probability", "essential"]
+  },
+  {
+    "id": "B1-U02-V009",
+    "word": "el año que viene",
+    "translation": "next year",
+    "pronunciation_hint": "el AH-nyoh keh BYEH-neh",
+    "part_of_speech": "phrase",
+    "example_sentence": "El año que viene viviremos en Guadalajara.",
+    "example_translation": "Next year we will live in Guadalajara.",
+    "audio_file": "B1/unit-02/el-ano-que-viene.mp3",
+    "tags": ["time", "future", "essential"]
+  },
+  {
+    "id": "B1-U02-V010",
+    "word": "si Dios quiere",
+    "translation": "God willing / hopefully (Mexican expression)",
+    "pronunciation_hint": "see DYOHS KYEH-reh",
+    "part_of_speech": "expression",
+    "example_sentence": "Nos veremos el domingo, si Dios quiere.",
+    "example_translation": "We'll see each other Sunday, God willing.",
+    "audio_file": "B1/unit-02/si-dios-quiere.mp3",
+    "tags": ["expression", "future", "mexico", "culture"]
+  },
+  {
+    "id": "B1-U02-V011",
+    "word": "en el futuro",
+    "translation": "in the future",
+    "pronunciation_hint": "en el foo-TOO-roh",
+    "part_of_speech": "phrase",
+    "example_sentence": "En el futuro habrá más carros eléctricos.",
+    "example_translation": "In the future there will be more electric cars.",
+    "audio_file": "B1/unit-02/en-el-futuro.mp3",
+    "tags": ["time", "future"]
+  },
+  {
+    "id": "B1-U02-V012",
+    "word": "querré",
+    "translation": "I will want (future of querer)",
+    "pronunciation_hint": "keh-RREH",
+    "part_of_speech": "verb (future of querer, irregular stem: querr-)",
+    "example_sentence": "Algún día querré tener mi propio negocio.",
+    "example_translation": "Someday I will want to have my own business.",
+    "audio_file": "B1/unit-02/querre.mp3",
+    "tags": ["verb", "future", "irregular"]
+  }
+]

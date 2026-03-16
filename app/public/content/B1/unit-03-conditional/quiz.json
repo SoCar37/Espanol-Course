@@ -1,0 +1,101 @@
+{
+  "id": "B1-U03-Q",
+  "title": "Unit 3 Checkpoint Quiz — The Conditional Tense",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U03-Q001",
+      "type": "multiple_choice",
+      "prompt": "What are the conditional endings in Spanish?",
+      "options": [
+        "-ía, -ías, -ía, -íamos, -ían (added to the infinitive or irregular stem)",
+        "-é, -ás, -á, -emos, -án",
+        "-aba, -abas, -aba, -ábamos, -aban",
+        "-ra, -ras, -ra, -ramos, -ran"
+      ],
+      "answer": 0,
+      "explanation": "Conditional endings all contain -ía: -ía, -ías, -ía, -íamos, -ían. They're added to the infinitive (regular) or irregular stem (same stems as future)."
+    },
+    {
+      "id": "B1-U03-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which is the most polite request for a favor?",
+      "options": [
+        "¿Podrías ayudarme?",
+        "¿Puedes ayudarme?",
+        "Ayúdame.",
+        "Necesito tu ayuda."
+      ],
+      "answer": 0,
+      "explanation": "'¿Podrías...?' (conditional) is more polite than '¿Puedes...?' (present indicative). The conditional creates social distance that reads as deference and courtesy."
+    },
+    {
+      "id": "B1-U03-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is the yo conditional of 'salir'?",
+      "options": ["saldría", "saldrá", "salía", "saldré"],
+      "answer": 0,
+      "explanation": "'Salir' uses irregular stem 'saldr-'. Yo conditional: saldría. Compare: future = saldré, conditional = saldría."
+    },
+    {
+      "id": "B1-U03-Q004",
+      "type": "multiple_choice",
+      "prompt": "'Quisiera un agua, por favor.' What is this an example of?",
+      "options": [
+        "A polite request using the conditional of querer",
+        "An imperfect tense request",
+        "A subjunctive expression",
+        "A future tense request"
+      ],
+      "answer": 0,
+      "explanation": "'Quisiera' is the yo conditional of 'querer' — it means 'I would like'. Using the conditional instead of 'quiero' (I want) makes requests significantly more polite."
+    },
+    {
+      "id": "B1-U03-Q005",
+      "type": "multiple_choice",
+      "prompt": "Complete: Si tuviera más dinero, ___ por toda Latinoamérica. (viajar)",
+      "options": ["viajaría", "viajaré", "viajara", "viajo"],
+      "answer": 0,
+      "explanation": "In if-clauses, the pattern is: Si + imperfect subjunctive (tuviera) + conditional (viajaría). The conditional describes what WOULD happen."
+    },
+    {
+      "id": "B1-U03-Q006",
+      "type": "multiple_choice",
+      "prompt": "The irregular stems for the future and conditional are:",
+      "options": [
+        "The same (e.g. tendr-, har-, podr-)",
+        "Different — each tense has unique stems",
+        "The same as the preterite stems",
+        "Only irregular in the future, not the conditional"
+      ],
+      "answer": 0,
+      "explanation": "The future and conditional share the same irregular stems: tendr-, vendr-, podr-, sabr-, har-, dir-, saldr-, pondr-, querr-, habr-. Learn them once, use them for both tenses."
+    },
+    {
+      "id": "B1-U03-Q007",
+      "type": "multiple_choice",
+      "prompt": "A waiter says '¿Le gustaría algo más?' What are they asking?",
+      "options": [
+        "Would you like anything else?",
+        "Did you like everything?",
+        "What did you like most?",
+        "Would you like the check?"
+      ],
+      "answer": 0,
+      "explanation": "'¿Le gustaría algo más?' uses the conditional of 'gustar' (to please/like) — 'Would you like anything else?' It's a standard polite service phrase in Mexican restaurants."
+    },
+    {
+      "id": "B1-U03-Q008",
+      "type": "multiple_choice",
+      "prompt": "What does 'Me dijo que vendría' mean?",
+      "options": [
+        "He told me he would come.",
+        "He told me he will come.",
+        "He told me he came.",
+        "He told me he used to come."
+      ],
+      "answer": 0,
+      "explanation": "The conditional is used in reported speech to express what someone said they WOULD do. 'Vendría' (conditional of venir) = would come. This is called the conditional in reported speech."
+    }
+  ]
+}

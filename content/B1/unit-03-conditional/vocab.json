@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U03-V001",
+    "word": "quisiera",
+    "translation": "I would like (polite conditional of querer)",
+    "pronunciation_hint": "kee-SYEH-rah",
+    "part_of_speech": "verb (conditional of querer)",
+    "example_sentence": "Quisiera una mesa para dos, por favor.",
+    "example_translation": "I would like a table for two, please.",
+    "audio_file": "B1/unit-03/quisiera.mp3",
+    "tags": ["verb", "conditional", "polite", "essential"]
+  },
+  {
+    "id": "B1-U03-V002",
+    "word": "podría",
+    "translation": "could / would be able to (conditional of poder)",
+    "pronunciation_hint": "poh-DREE-ah",
+    "part_of_speech": "verb (conditional of poder)",
+    "example_sentence": "¿Podría hablar más despacio, por favor?",
+    "example_translation": "Could you speak more slowly, please?",
+    "audio_file": "B1/unit-03/podria.mp3",
+    "tags": ["verb", "conditional", "polite", "essential"]
+  },
+  {
+    "id": "B1-U03-V003",
+    "word": "haría",
+    "translation": "would do / make (conditional of hacer)",
+    "pronunciation_hint": "ah-REE-ah",
+    "part_of_speech": "verb (conditional of hacer)",
+    "example_sentence": "¿Qué harías con un millón de pesos?",
+    "example_translation": "What would you do with a million pesos?",
+    "audio_file": "B1/unit-03/haria.mp3",
+    "tags": ["verb", "conditional", "hypothetical", "essential"]
+  },
+  {
+    "id": "B1-U03-V004",
+    "word": "tendría",
+    "translation": "would have (conditional of tener)",
+    "pronunciation_hint": "ten-DREE-ah",
+    "part_of_speech": "verb (conditional of tener)",
+    "example_sentence": "Con más tiempo, tendría un negocio propio.",
+    "example_translation": "With more time, I would have my own business.",
+    "audio_file": "B1/unit-03/tendria.mp3",
+    "tags": ["verb", "conditional", "hypothetical"]
+  },
+  {
+    "id": "B1-U03-V005",
+    "word": "viajaría",
+    "translation": "would travel (conditional of viajar)",
+    "pronunciation_hint": "byah-hah-REE-ah",
+    "part_of_speech": "verb (conditional of viajar, regular)",
+    "example_sentence": "Si pudiera, viajaría por toda América Latina.",
+    "example_translation": "If I could, I would travel all over Latin America.",
+    "audio_file": "B1/unit-03/viajaria.mp3",
+    "tags": ["verb", "conditional", "travel"]
+  },
+  {
+    "id": "B1-U03-V006",
+    "word": "sería",
+    "translation": "would be (conditional of ser)",
+    "pronunciation_hint": "seh-REE-ah",
+    "part_of_speech": "verb (conditional of ser)",
+    "example_sentence": "¿Sería posible cambiar mi reservación?",
+    "example_translation": "Would it be possible to change my reservation?",
+    "audio_file": "B1/unit-03/seria.mp3",
+    "tags": ["verb", "conditional", "polite", "essential"]
+  },
+  {
+    "id": "B1-U03-V007",
+    "word": "viviría",
+    "translation": "would live (conditional of vivir)",
+    "pronunciation_hint": "bee-bee-REE-ah",
+    "part_of_speech": "verb (conditional of vivir, regular)",
+    "example_sentence": "Si tuviera dinero, viviría en la playa.",
+    "example_translation": "If I had money, I would live on the beach.",
+    "audio_file": "B1/unit-03/viviria.mp3",
+    "tags": ["verb", "conditional", "hypothetical"]
+  },
+  {
+    "id": "B1-U03-V008",
+    "word": "gustaría",
+    "translation": "would like / would please (conditional of gustar)",
+    "pronunciation_hint": "goos-tah-REE-ah",
+    "part_of_speech": "verb (conditional of gustar)",
+    "example_sentence": "¿Le gustaría algo más?",
+    "example_translation": "Would you like anything else?",
+    "audio_file": "B1/unit-03/gustaria.mp3",
+    "tags": ["verb", "conditional", "polite", "service"]
+  },
+  {
+    "id": "B1-U03-V009",
+    "word": "diría",
+    "translation": "would say / tell (conditional of decir)",
+    "pronunciation_hint": "dee-REE-ah",
+    "part_of_speech": "verb (conditional of decir)",
+    "example_sentence": "Yo le diría la verdad desde el principio.",
+    "example_translation": "I would tell him/her the truth from the beginning.",
+    "audio_file": "B1/unit-03/diria.mp3",
+    "tags": ["verb", "conditional", "hypothetical"]
+  },
+  {
+    "id": "B1-U03-V010",
+    "word": "vendría",
+    "translation": "would come (conditional of venir)",
+    "pronunciation_hint": "ben-DREE-ah",
+    "part_of_speech": "verb (conditional of venir)",
+    "example_sentence": "Me dijo que vendría, pero no llegó.",
+    "example_translation": "He told me he would come, but he didn't arrive.",
+    "audio_file": "B1/unit-03/vendria.mp3",
+    "tags": ["verb", "conditional"]
+  },
+  {
+    "id": "B1-U03-V011",
+    "word": "habría",
+    "translation": "there would be (conditional of haber)",
+    "pronunciation_hint": "ah-BREE-ah",
+    "part_of_speech": "verb (conditional of haber)",
+    "example_sentence": "Sin tráfico, habría menos estrés en la ciudad.",
+    "example_translation": "Without traffic, there would be less stress in the city.",
+    "audio_file": "B1/unit-03/habria.mp3",
+    "tags": ["verb", "conditional", "hypothetical"]
+  },
+  {
+    "id": "B1-U03-V012",
+    "word": "¿gustaría ver el menú?",
+    "translation": "Would you like to see the menu?",
+    "pronunciation_hint": "goos-tah-REE-ah behr el meh-NOO",
+    "part_of_speech": "service phrase",
+    "example_sentence": "Bienvenido. ¿Le gustaría ver el menú?",
+    "example_translation": "Welcome. Would you like to see the menu?",
+    "audio_file": "B1/unit-03/gustaria-menu.mp3",
+    "tags": ["phrase", "conditional", "service", "restaurant"]
+  }
+]

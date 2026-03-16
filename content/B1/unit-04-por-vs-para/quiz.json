@@ -1,0 +1,106 @@
+{
+  "id": "B1-U04-Q",
+  "title": "Unit 4 Checkpoint Quiz — Por vs. Para",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U04-Q001",
+      "type": "multiple_choice",
+      "prompt": "Which best describes when to use 'para'?",
+      "options": [
+        "Destination, purpose, deadline, recipient, opinion",
+        "Cause, duration, exchange, means, movement through",
+        "Both por and para can be used interchangeably",
+        "Para is only used for people, por for things"
+      ],
+      "answer": 0,
+      "explanation": "'Para' is forward-looking: destination (where you're headed), purpose (in order to), deadline (by when), recipient (who something is for), opinion (in my view). 'Por' covers cause, duration, exchange, means, and movement through."
+    },
+    {
+      "id": "B1-U04-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct preposition: Estudié español ___ tres horas esta mañana.",
+      "options": ["por", "para", "durante", "en"],
+      "answer": 0,
+      "explanation": "'Por' expresses duration of time. 'Por tres horas' = for three hours. 'Para' would indicate a deadline, not how long something lasted."
+    },
+    {
+      "id": "B1-U04-Q003",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses 'para' correctly?",
+      "options": [
+        "Necesito el informe para el lunes.",
+        "Caminé para el parque.",
+        "Lo compré para cien pesos.",
+        "Gracias para tu ayuda."
+      ],
+      "answer": 0,
+      "explanation": "'Para el lunes' = by Monday (deadline) → correct use of para. 'Caminé por el parque' (through the park) and 'por cien pesos' (for/at 100 pesos) require por. 'Gracias por' always uses por."
+    },
+    {
+      "id": "B1-U04-Q004",
+      "type": "multiple_choice",
+      "prompt": "What does 'Salimos para Veracruz mañana' mean?",
+      "options": [
+        "We're leaving for Veracruz tomorrow.",
+        "We're passing through Veracruz tomorrow.",
+        "We're from Veracruz.",
+        "We arrived from Veracruz."
+      ],
+      "answer": 0,
+      "explanation": "'Para' + place = destination. 'Salir para' = to leave for (a destination). Compare: 'Pasamos por Veracruz' = we passed through Veracruz (movement through = por)."
+    },
+    {
+      "id": "B1-U04-Q005",
+      "type": "multiple_choice",
+      "prompt": "'Para mí, la mejor comida mexicana es el mole.' What does 'para mí' express?",
+      "options": [
+        "In my opinion / from my perspective",
+        "The food is for me (I'll eat it)",
+        "I made the food",
+        "I'm going to get mole"
+      ],
+      "answer": 0,
+      "explanation": "'Para mí' (para + pronoun) expresses personal opinion or perspective: 'In my opinion / For me / As far as I'm concerned'. It's one of the most useful expressions for stating views."
+    },
+    {
+      "id": "B1-U04-Q006",
+      "type": "multiple_choice",
+      "prompt": "Which expression uses 'por' correctly?",
+      "options": [
+        "Te llamo por teléfono más tarde.",
+        "Voy por Oaxaca mañana (as destination).",
+        "Compré flores por mi mamá (as recipient).",
+        "Estudia por aprender (as purpose)."
+      ],
+      "answer": 0,
+      "explanation": "'Por teléfono' = by phone (means of communication) → correct. Going to Oaxaca as destination = 'para'. Flowers for mom as recipient = 'para'. Studying in order to learn = 'para aprender'."
+    },
+    {
+      "id": "B1-U04-Q007",
+      "type": "multiple_choice",
+      "prompt": "What does 'por las dudas' mean in Mexican Spanish?",
+      "options": [
+        "Just in case",
+        "Because of the doubts",
+        "For the questions",
+        "Without a doubt"
+      ],
+      "answer": 0,
+      "explanation": "'Por las dudas' is a common Mexican expression meaning 'just in case'. It's equivalent to 'por si acaso'. Both use 'por' to express a precautionary reason."
+    },
+    {
+      "id": "B1-U04-Q008",
+      "type": "multiple_choice",
+      "prompt": "What is the difference between 'Lo hice para ti' and 'Lo hice por ti'?",
+      "options": [
+        "Para ti = I did it for you (you're the beneficiary); Por ti = I did it because of you / for your sake",
+        "Para ti = I did it because of you; Por ti = you're the recipient",
+        "They mean exactly the same thing",
+        "Para is past tense; por is present tense"
+      ],
+      "answer": 0,
+      "explanation": "This is the classic por/para contrast. 'Para ti' = you are the intended recipient or beneficiary. 'Por ti' = you are the cause or motivation — I did it on your behalf or because of you."
+    }
+  ]
+}

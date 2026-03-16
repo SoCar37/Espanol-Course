@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B1-U03-E001",
+    "type": "multiple_choice",
+    "prompt": "What is the yo conditional of 'comer'?",
+    "options": ["comería", "comeré", "comí", "comería"],
+    "answer": 0,
+    "explanation": "Regular conditional: infinitive + -ía ending. Comer + ía = comería. Don't confuse with the future (comeré) — conditional endings all contain -ía."
+  },
+  {
+    "id": "B1-U03-E002",
+    "type": "multiple_choice",
+    "prompt": "Which is the most polite way to order a coffee?",
+    "options": [
+      "Quisiera un café, por favor.",
+      "Dame un café.",
+      "Quiero un café.",
+      "Un café."
+    ],
+    "answer": 0,
+    "explanation": "'Quisiera' (conditional of querer = I would like) is the most polished and polite way to make a request. 'Dame' is blunt. 'Quiero' is neutral. 'Un café' alone is too abrupt."
+  },
+  {
+    "id": "B1-U03-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¿___ posible cambiar mi vuelo? (ser, conditional)",
+    "options": ["Sería", "Será", "Es", "Sea"],
+    "answer": 0,
+    "explanation": "The conditional of 'ser' is 'sería'. '¿Sería posible...?' = Would it be possible...? — a polite, formal request structure."
+  },
+  {
+    "id": "B1-U03-E004",
+    "type": "multiple_choice",
+    "prompt": "¿Qué harías con un millón de pesos? Choose the best answer:",
+    "options": [
+      "Viajaría por todo México y compraría una casa.",
+      "Viajo por todo México y compro una casa.",
+      "Viajé por todo México y compré una casa.",
+      "Viajaré por todo México y compraré una casa."
+    ],
+    "answer": 0,
+    "explanation": "The question uses the conditional (harías), so the answer should also use the conditional (viajaría, compraría) — describing what you WOULD do hypothetically."
+  },
+  {
+    "id": "B1-U03-E005",
+    "type": "translation",
+    "prompt": "Translate politely: 'Could you speak more slowly?'",
+    "options": [
+      "¿Podría hablar más despacio?",
+      "¿Puedes hablar más despacio?",
+      "Habla más despacio.",
+      "¿Puede hablar más despacio?"
+    ],
+    "answer": 0,
+    "explanation": "'¿Podría...?' (conditional of poder) is more polite than '¿Puede...?' (present indicative). Both are grammatically correct but the conditional adds a layer of courtesy."
+  },
+  {
+    "id": "B1-U03-E006",
+    "type": "multiple_choice",
+    "prompt": "What is the conditional of 'hacer' for ellos?",
+    "options": ["harían", "hacerían", "hicieran", "harán"],
+    "answer": 0,
+    "explanation": "'Hacer' uses irregular stem 'har-' in both the future and conditional. Ellos conditional: harían. Don't confuse with harán (future)."
+  },
+  {
+    "id": "B1-U03-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete: Me dijo que ___ a las ocho, pero nunca llegó. (venir, conditional)",
+    "options": ["vendría", "vendrá", "vino", "venía"],
+    "answer": 0,
+    "explanation": "When reporting what someone said they WOULD do, use the conditional. 'Me dijo que vendría' = He told me he would come. This is called the conditional in reported speech."
+  },
+  {
+    "id": "B1-U03-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a polite restaurant request:",
+    "words": ["Quisiera", "una", "mesa", "para", "cuatro,", "y", "¿nos", "podría", "traer", "el", "menú?"],
+    "answer": "Quisiera una mesa para cuatro, y ¿nos podría traer el menú?",
+    "explanation": "'Quisiera' (conditional of querer = I would like) + 'podría' (conditional of poder = could you) — both conditional forms used for maximum politeness in a restaurant setting."
+  }
+]

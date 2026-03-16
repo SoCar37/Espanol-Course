@@ -1,0 +1,15 @@
+{
+  "id": "B1-U03",
+  "title": "The Conditional Tense",
+  "level": "B1",
+  "unit": 3,
+  "slug": "conditional",
+  "estimated_minutes": 30,
+  "topics": ["conditional tense", "hypothetical", "politeness", "if clauses", "would"],
+  "prereqs": ["B1-U02"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}

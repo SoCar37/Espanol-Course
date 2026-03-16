@@ -1,0 +1,81 @@
+[
+  {
+    "id": "B1-U02-E001",
+    "type": "multiple_choice",
+    "prompt": "What is the yo future form of 'hablar'?",
+    "options": ["hablaré", "hablaría", "hablé", "hablaré"],
+    "answer": 0,
+    "explanation": "Regular future: add endings to the infinitive. Hablar + é = hablaré. The accent mark on the é is essential."
+  },
+  {
+    "id": "B1-U02-E002",
+    "type": "multiple_choice",
+    "prompt": "Which verb has the irregular future stem 'tendr-'?",
+    "options": ["tener", "tender", "tentar", "tender"],
+    "answer": 0,
+    "explanation": "'Tener' uses the irregular stem 'tendr-' in the future: tendré, tendrás, tendrá, tendremos, tendrán."
+  },
+  {
+    "id": "B1-U02-E003",
+    "type": "fill_in_blank",
+    "prompt": "Complete: ¿Cuándo ___ a visitarme? (poder, tú)",
+    "options": ["podrás", "puedes", "pudiste", "podías"],
+    "answer": 0,
+    "explanation": "'Poder' has irregular future stem 'podr-'. Tú form: podrás. The question asks about a future visit."
+  },
+  {
+    "id": "B1-U02-E004",
+    "type": "multiple_choice",
+    "prompt": "Someone knocks at the door. You say '¿Quién será?' What do you mean?",
+    "options": [
+      "I wonder who it is / Who could it be?",
+      "Who will it be in the future?",
+      "Who was it?",
+      "I know exactly who it is."
+    ],
+    "answer": 0,
+    "explanation": "The future tense can express probability or conjecture about the present. '¿Quién será?' = I wonder who it is / Who could that be? — not a literal future question."
+  },
+  {
+    "id": "B1-U02-E005",
+    "type": "translation",
+    "prompt": "Translate: 'There will be a lot of traffic tomorrow.'",
+    "options": [
+      "Habrá mucho tráfico mañana.",
+      "Hay mucho tráfico mañana.",
+      "Habrías mucho tráfico mañana.",
+      "Había mucho tráfico mañana."
+    ],
+    "answer": 0,
+    "explanation": "'Haber' in the future → 'habrá' (there will be). This is the impersonal third-person singular — always habrá, never habrán."
+  },
+  {
+    "id": "B1-U02-E006",
+    "type": "multiple_choice",
+    "prompt": "Which is more natural in informal Mexican speech for near-future plans?",
+    "options": [
+      "Voy a comer tacos esta noche.",
+      "Comeré tacos esta noche.",
+      "Como tacos esta noche.",
+      "Comería tacos esta noche."
+    ],
+    "answer": 0,
+    "explanation": "In everyday Mexican Spanish, 'ir a + infinitive' is strongly preferred for near-future plans. The simple future (comeré) sounds more formal or literary in conversation."
+  },
+  {
+    "id": "B1-U02-E007",
+    "type": "fill_in_blank",
+    "prompt": "Complete with the future: Nosotros ___ del aeropuerto a las cinco. (salir)",
+    "options": ["saldremos", "salimos", "salíamos", "salgamos"],
+    "answer": 0,
+    "explanation": "'Salir' has irregular future stem 'saldr-'. Nosotros form: saldremos. Note the -emos ending (same as present for -er/-ir verbs, but accent and stem differ)."
+  },
+  {
+    "id": "B1-U02-E008",
+    "type": "sentence_assembly",
+    "prompt": "Arrange into a sentence about future plans:",
+    "words": ["El", "año", "que", "viene", "viviremos", "en", "la", "Ciudad", "de", "México,", "si", "Dios", "quiere."],
+    "answer": "El año que viene viviremos en la Ciudad de México, si Dios quiere.",
+    "explanation": "'El año que viene' = next year. 'Viviremos' is the nosotros future of vivir (regular: vivir + emos). 'Si Dios quiere' is a common Mexican expression softening future plans."
+  }
+]

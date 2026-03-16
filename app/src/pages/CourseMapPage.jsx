@@ -40,7 +40,20 @@ const COURSE_STRUCTURE = [
       { id: 'unit-12-review',                  title: 'A2 Review & Checkpoint' },
     ],
   },
-  { level: 'B1', title: 'Intermediate Fluency', description: 'Subjunctive intro, future & conditional, idioms, Latin American dialects', color: 'from-pink-500 to-rose-500', units: [], comingSoon: true },
+  {
+    level: 'B1',
+    title: 'Intermediate Fluency',
+    description: 'Subjunctive intro, future & conditional, idioms, Latin American dialects',
+    color: 'from-pink-500 to-rose-500',
+    units: [
+      { id: 'unit-01-subjunctive-intro', title: 'Introduction to the Subjunctive' },
+      { id: 'unit-02-future-tense',      title: 'The Future Tense' },
+      { id: 'unit-03-conditional',       title: 'The Conditional Tense' },
+      { id: 'unit-04-por-vs-para',       title: 'Por vs. Para' },
+    ],
+    comingSoon: false,
+    partialContent: true,
+  },
   { level: 'B2', title: 'Advanced Expression', description: 'Subjunctive mastery, complex grammar, cultural context, debate & persuasion', color: 'from-rose-500 to-orange-500', units: [], comingSoon: true },
   { level: 'C1', title: 'Near-Native Proficiency', description: 'Nuanced writing, literature & media, regional variation, professional Spanish', color: 'from-orange-500 to-amber-500', units: [], comingSoon: true },
 ]
@@ -68,6 +81,7 @@ export default function CourseMapPage() {
                   </div>
                 </div>
                 {isLevelLocked && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">Coming soon</span>}
+                {levelData.partialContent && <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">More units coming soon</span>}
               </div>
               {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
@@ -80,6 +94,10 @@ export default function CourseMapPage() {
                       const lastA1Key = 'A1-unit-10-review'
                       const lastA1Progress = getUnitProgress(lastA1Key)
                       isAvailable = !!lastA1Progress?.complete
+                    } else if (levelData.level === 'B1' && index === 0) {
+                      const lastA2Key = 'A2-unit-12-review'
+                      const lastA2Progress = getUnitProgress(lastA2Key)
+                      isAvailable = !!lastA2Progress?.complete
                     } else if (index === 0) {
                       isAvailable = true
                     } else {

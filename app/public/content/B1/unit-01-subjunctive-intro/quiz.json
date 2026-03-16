@@ -1,0 +1,101 @@
+{
+  "id": "B1-U01-Q",
+  "title": "Unit 1 Checkpoint Quiz — Introduction to the Subjunctive",
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "B1-U01-Q001",
+      "type": "multiple_choice",
+      "prompt": "How do you form the present subjunctive of -AR verbs?",
+      "options": [
+        "Take the yo indicative form, drop the -o, add -e endings",
+        "Take the yo indicative form, drop the -o, add -a endings",
+        "Take the infinitive, drop -ar, add -e endings",
+        "It's the same as the present indicative"
+      ],
+      "answer": 0,
+      "explanation": "-AR verbs use 'opposite' vowel endings in the subjunctive: drop -o from yo form, add -e, -es, -e, -emos, -en. -ER/-IR verbs do the opposite: add -a endings."
+    },
+    {
+      "id": "B1-U01-Q002",
+      "type": "multiple_choice",
+      "prompt": "Which of these does NOT trigger the subjunctive?",
+      "options": [
+        "Sé que...",
+        "Espero que...",
+        "Es posible que...",
+        "Ojalá que..."
+      ],
+      "answer": 0,
+      "explanation": "'Sé que' (I know that) states a fact → indicative. The others express wishes, possibility, or hope → subjunctive. Verbs of knowing and stating fact use the indicative."
+    },
+    {
+      "id": "B1-U01-Q003",
+      "type": "multiple_choice",
+      "prompt": "What is the tú subjunctive of 'hacer'?",
+      "options": ["hagas", "haces", "harás", "hicieras"],
+      "answer": 0,
+      "explanation": "'Hacer' has irregular yo: hago → hag-. Add subjunctive endings: hagas (tú). All subjunctive forms of hacer: haga, hagas, haga, hagamos, hagan."
+    },
+    {
+      "id": "B1-U01-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        "Quiero que vengas a la fiesta.",
+        "Quiero que vienes a la fiesta.",
+        "Quiero venir tú a la fiesta.",
+        "Quiero que veniste a la fiesta."
+      ],
+      "answer": 0,
+      "explanation": "'Querer que' + different subject = subjunctive. 'Vengas' is the tú subjunctive of venir (vengo → veng- → vengas)."
+    },
+    {
+      "id": "B1-U01-Q005",
+      "type": "multiple_choice",
+      "prompt": "Why is the subjunctive NOT needed in 'Quiero comer'?",
+      "options": [
+        "There is only one subject — I want to eat (myself)",
+        "Because 'comer' is an -ER verb",
+        "Because 'querer' doesn't trigger the subjunctive",
+        "The subjunctive is optional here"
+      ],
+      "answer": 0,
+      "explanation": "When there's only ONE subject performing both actions, use the infinitive — no subjunctive needed. 'Quiero comer' = I want to eat (I = both subject). 'Quiero que comas' = I want YOU to eat (two subjects)."
+    },
+    {
+      "id": "B1-U01-Q006",
+      "type": "multiple_choice",
+      "prompt": "What does 'Que te vaya bien' mean?",
+      "options": [
+        "May things go well for you — a warm farewell",
+        "I want you to go now",
+        "How are things going for you?",
+        "You should leave soon"
+      ],
+      "answer": 0,
+      "explanation": "'Que te vaya bien' uses the subjunctive of 'ir' (vaya) to express a wish. It's one of the most common warm farewells in Mexican Spanish."
+    },
+    {
+      "id": "B1-U01-Q007",
+      "type": "multiple_choice",
+      "prompt": "What is the subjunctive form of 'ser' for ella?",
+      "options": ["sea", "es", "era", "será"],
+      "answer": 0,
+      "explanation": "'Ser' is fully irregular in the subjunctive: sea, seas, sea, seamos, sean. Don't confuse with 'es' (indicative present) or 'era' (imperfect)."
+    },
+    {
+      "id": "B1-U01-Q008",
+      "type": "multiple_choice",
+      "prompt": "Where does 'ojalá' come from and what does it always require?",
+      "options": [
+        "From Arabic 'inshallah'; it always requires the subjunctive",
+        "From Latin; it requires the indicative",
+        "From Nahuatl; it requires the infinitive",
+        "From French; no special grammar required"
+      ],
+      "answer": 0,
+      "explanation": "'Ojalá' comes from the Arabic 'inshallah' (God willing), brought to Spanish during the Moorish period. It always triggers the subjunctive and is extremely common in Mexican Spanish."
+    }
+  ]
+}

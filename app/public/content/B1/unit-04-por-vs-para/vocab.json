@@ -1,0 +1,134 @@
+[
+  {
+    "id": "B1-U04-V001",
+    "word": "por favor",
+    "translation": "please",
+    "pronunciation_hint": "por fah-BOR",
+    "part_of_speech": "expression (por)",
+    "example_sentence": "¿Me puede dar la cuenta, por favor?",
+    "example_translation": "Can you give me the check, please?",
+    "audio_file": "B1/unit-04/por-favor.mp3",
+    "tags": ["por", "expression", "essential", "polite"]
+  },
+  {
+    "id": "B1-U04-V002",
+    "word": "por eso",
+    "translation": "that's why / because of that",
+    "pronunciation_hint": "por EH-soh",
+    "part_of_speech": "connector expression (por)",
+    "example_sentence": "Llegué tarde, por eso me perdí el principio.",
+    "example_translation": "I arrived late, that's why I missed the beginning.",
+    "audio_file": "B1/unit-04/por-eso.mp3",
+    "tags": ["por", "connector", "essential"]
+  },
+  {
+    "id": "B1-U04-V003",
+    "word": "por supuesto",
+    "translation": "of course",
+    "pronunciation_hint": "por soo-PWES-toh",
+    "part_of_speech": "expression (por)",
+    "example_sentence": "— ¿Puedes ayudarme? — Por supuesto.",
+    "example_translation": "— Can you help me? — Of course.",
+    "audio_file": "B1/unit-04/por-supuesto.mp3",
+    "tags": ["por", "expression", "essential"]
+  },
+  {
+    "id": "B1-U04-V004",
+    "word": "por si acaso",
+    "translation": "just in case",
+    "pronunciation_hint": "por see ah-KAH-soh",
+    "part_of_speech": "expression (por)",
+    "example_sentence": "Lleva un paraguas por si acaso llueve.",
+    "example_translation": "Take an umbrella just in case it rains.",
+    "audio_file": "B1/unit-04/por-si-acaso.mp3",
+    "tags": ["por", "expression", "essential"]
+  },
+  {
+    "id": "B1-U04-V005",
+    "word": "para mí",
+    "translation": "in my opinion / for me",
+    "pronunciation_hint": "PAH-rah mee",
+    "part_of_speech": "expression (para)",
+    "example_sentence": "Para mí, la mejor ciudad de México es Oaxaca.",
+    "example_translation": "In my opinion, the best city in Mexico is Oaxaca.",
+    "audio_file": "B1/unit-04/para-mi.mp3",
+    "tags": ["para", "expression", "opinion", "essential"]
+  },
+  {
+    "id": "B1-U04-V006",
+    "word": "gracias por",
+    "translation": "thank you for (+ noun or infinitive)",
+    "pronunciation_hint": "GRAH-syahs por",
+    "part_of_speech": "expression (por)",
+    "example_sentence": "Gracias por venir a mi fiesta.",
+    "example_translation": "Thank you for coming to my party.",
+    "audio_file": "B1/unit-04/gracias-por.mp3",
+    "tags": ["por", "expression", "essential"]
+  },
+  {
+    "id": "B1-U04-V007",
+    "word": "por WhatsApp",
+    "translation": "via / on WhatsApp",
+    "pronunciation_hint": "por WOTS-ap",
+    "part_of_speech": "prepositional phrase (por = means)",
+    "example_sentence": "Te mando la dirección por WhatsApp.",
+    "example_translation": "I'll send you the address via WhatsApp.",
+    "audio_file": "B1/unit-04/por-whatsapp.mp3",
+    "tags": ["por", "means", "mexico", "essential"]
+  },
+  {
+    "id": "B1-U04-V008",
+    "word": "para el viernes",
+    "translation": "by Friday (deadline)",
+    "pronunciation_hint": "PAH-rah el BYEHR-nes",
+    "part_of_speech": "prepositional phrase (para = deadline)",
+    "example_sentence": "Necesito el informe para el viernes.",
+    "example_translation": "I need the report by Friday.",
+    "audio_file": "B1/unit-04/para-el-viernes.mp3",
+    "tags": ["para", "deadline", "work"]
+  },
+  {
+    "id": "B1-U04-V009",
+    "word": "por las dudas",
+    "translation": "just in case (Mexican expression)",
+    "pronunciation_hint": "por lahs DOO-dahs",
+    "part_of_speech": "expression (por, Mexican)",
+    "example_sentence": "Lleva dinero en efectivo por las dudas.",
+    "example_translation": "Bring cash just in case.",
+    "audio_file": "B1/unit-04/por-las-dudas.mp3",
+    "tags": ["por", "expression", "mexico"]
+  },
+  {
+    "id": "B1-U04-V010",
+    "word": "salir para",
+    "translation": "to leave for (destination)",
+    "pronunciation_hint": "sah-LEER PAH-rah",
+    "part_of_speech": "verb phrase (para = destination)",
+    "example_sentence": "Mañana salimos para la Ciudad de México.",
+    "example_translation": "Tomorrow we leave for Mexico City.",
+    "audio_file": "B1/unit-04/salir-para.mp3",
+    "tags": ["para", "destination", "travel"]
+  },
+  {
+    "id": "B1-U04-V011",
+    "word": "por amor",
+    "translation": "out of love / for love",
+    "pronunciation_hint": "por ah-MOR",
+    "part_of_speech": "prepositional phrase (por = reason/cause)",
+    "example_sentence": "Lo hice por amor, no por dinero.",
+    "example_translation": "I did it out of love, not for money.",
+    "audio_file": "B1/unit-04/por-amor.mp3",
+    "tags": ["por", "reason", "emotion"]
+  },
+  {
+    "id": "B1-U04-V012",
+    "word": "por teléfono",
+    "translation": "by phone / on the phone",
+    "pronunciation_hint": "por teh-LEH-foh-noh",
+    "part_of_speech": "prepositional phrase (por = means)",
+    "example_sentence": "Hablamos por teléfono una hora.",
+    "example_translation": "We talked on the phone for an hour.",
+    "audio_file": "B1/unit-04/por-telefono.mp3",
+    "tags": ["por", "means", "essential"]
+  }
+]

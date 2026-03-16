@@ -1,0 +1,15 @@
+{
+  "id": "B1-U04",
+  "title": "Por vs. Para",
+  "level": "B1",
+  "unit": 4,
+  "slug": "por-vs-para",
+  "estimated_minutes": 35,
+  "topics": ["por", "para", "prepositions", "purpose", "cause", "duration", "destination"],
+  "prereqs": ["B1-U03"],
+  "cefr_skills": ["speaking", "listening", "reading", "writing"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.3.0"
+}
