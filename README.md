@@ -3,7 +3,7 @@
 **The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
 🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-📦 **Version:** v0.1.6  
+📦 **Version:** v0.1.7  
 📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
@@ -24,9 +24,10 @@ A full A1–C1 CEFR Spanish course built as a progressive web app. Anchored in M
 | Flashcard engine with SM-2 | ✅ Working |
 | Quiz engine | ✅ Working |
 | A1 Units 1–10 content | ✅ Complete |
-| App icons | 🔜 v0.1.7 |
+| PWA app icons | ✅ Complete |
 | Audio (Google TTS Neural2) | 🔜 v0.5.0 |
 | A2 content (12 units) | 🔜 v0.2.0+ |
+| Placement test | 🔜 v1.0.0 |
 
 ---
 
@@ -67,7 +68,8 @@ npm run dev
 
 | Version | Milestone |
 |---|---|
-| v0.1.6 | A1 Units 2–10 content + sequential unlock logic |
+| v0.1.7 | PWA app icons |
+| v0.1.6 | A1 Units 2–10 content + sequential unlock |
 | v0.1.5 | Full quiz engine |
 | v0.1.4 | Exercise engine + flashcard SM-2 engine |
 | v0.1.0 | Initial scaffold |
