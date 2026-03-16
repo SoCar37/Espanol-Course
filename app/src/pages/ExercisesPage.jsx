@@ -14,9 +14,11 @@ export default function ExercisesPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // Fallback when no route params — default to A1 unit-01-greetings
   const resolvedLevel = level || 'A1';
   const resolvedUnit = unit || 'unit-01-greetings';
+
+  // Full key matches original useProgress structure e.g. "A1-unit-01-greetings"
+  const unitKey = `${resolvedLevel}-${resolvedUnit}`;
 
   useEffect(() => {
     setLoading(true);
@@ -46,14 +48,13 @@ export default function ExercisesPage() {
   }, [resolvedLevel, resolvedUnit]);
 
   const handleComplete = (score, total, xpEarned) => {
-    completeExercises(resolvedUnit, score, total, xpEarned);
+    completeExercises(unitKey, score, total, xpEarned);
   };
 
   const handleStartQuiz = () => {
     navigate(`/quiz/${resolvedLevel}/${resolvedUnit}`);
   };
 
-  // ── Loading state ────────────────────────────────────────────
   if (loading) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4">
@@ -63,7 +64,6 @@ export default function ExercisesPage() {
     );
   }
 
-  // ── Error state ──────────────────────────────────────────────
   if (error) {
     return (
       <div className="max-w-md mx-auto px-4 py-12 text-center space-y-4">
@@ -80,7 +80,6 @@ export default function ExercisesPage() {
     );
   }
 
-  // ── Main ─────────────────────────────────────────────────────
   return (
     <div className="max-w-2xl mx-auto px-4 py-6 pb-24 space-y-6">
       {/* Header */}
@@ -102,7 +101,7 @@ export default function ExercisesPage() {
       </div>
 
       {/* Already completed notice */}
-      {isExercisesComplete(resolvedUnit) && (
+      {isExercisesComplete(unitKey) && (
         <div className="flex items-center gap-3 px-4 py-3 rounded-xl bg-green-500/10 border border-green-500/30">
           <span className="text-green-400">✓</span>
           <div>

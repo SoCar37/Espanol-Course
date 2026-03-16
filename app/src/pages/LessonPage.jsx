@@ -12,9 +12,7 @@ export default function LessonPage() {
   const [error, setError] = useState(null)
   const { markLessonComplete, getUnitProgress } = useProgress()
 
-  // unit slug is just the folder name e.g. "unit-01-greetings"
-  // unitKey includes level for getUnitProgress e.g. "A1-unit-01-greetings"
-  const unitSlug = unit
+  // Full key e.g. "A1-unit-01-greetings" — matches original useProgress structure
   const unitKey = `${level?.toUpperCase()}-${unit}`
   const unitProgress = getUnitProgress(unitKey)
 
@@ -47,8 +45,7 @@ export default function LessonPage() {
   }, [level, unit])
 
   function handleLessonComplete() {
-    // Pass plain slug — no level prefix — so it matches what getUnitProgress looks up
-    markLessonComplete(unitSlug)
+    markLessonComplete(unitKey)
     navigate(`/exercises/${level?.toUpperCase()}/${unit}`)
   }
 
