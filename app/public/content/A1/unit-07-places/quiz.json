@@ -1,0 +1,13 @@
+{
+  "id":"A1-U07-Q","title":"Unit 7 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U07-Q001","type":"multiple_choice","prompt":"How do you say 'Where is the bank?'","options":["¿Cómo es el banco?","¿Dónde está el banco?","¿Cuándo está el banco?","¿Hay banco?"],"answer":1,"explanation":"¿Dónde está...? = Where is...? Use está (from estar) for location."},
+    {"id":"A1-U07-Q002","type":"multiple_choice","prompt":"What does 'a la izquierda' mean?","options":["To the right","Straight ahead","To the left","Behind"],"answer":2,"explanation":"A la izquierda = to the left. A la derecha = to the right."},
+    {"id":"A1-U07-Q003","type":"multiple_choice","prompt":"'Está a tres cuadras de aquí.' — What does this mean?","options":["It's three streets away","It's three blocks from here","It's three minutes away","It's on the third floor"],"answer":1,"explanation":"Una cuadra = one city block. Tres cuadras de aquí = three blocks from here."},
+    {"id":"A1-U07-Q004","type":"multiple_choice","prompt":"What does 'enfrente de' mean?","options":["Next to","Behind","Between","In front of"],"answer":3,"explanation":"Enfrente de = in front of / across from. Al lado de = next to. Detrás de = behind."},
+    {"id":"A1-U07-Q005","type":"multiple_choice","prompt":"Which place would you go to buy medicine?","options":["el mercado","el banco","la farmacia","la iglesia"],"answer":2,"explanation":"La farmacia = pharmacy. That's where you buy medicine in Mexico."},
+    {"id":"A1-U07-Q006","type":"multiple_choice","prompt":"What is special about Mexico City's metro stations?","options":["They are the most expensive in the world","Each station has a unique icon for navigation","They only operate on weekdays","They require a passport"],"answer":1,"explanation":"Each Mexico City metro station has a unique icon, making navigation accessible even for non-readers."},
+    {"id":"A1-U07-Q007","type":"multiple_choice","prompt":"How do you say 'Go straight' as a direction?","options":["Doble a la derecha.","Siga derecho.","Está lejos.","Vaya al banco."],"answer":1,"explanation":"Siga derecho = Go straight. Siga is the formal command form of seguir (to continue/follow)."},
+    {"id":"A1-U07-Q008","type":"multiple_choice","prompt":"What does 'lejos' mean?","options":["Near","Here","Far","There"],"answer":2,"explanation":"Lejos = far. Cerca = near. ¿Está lejos? = Is it far?"}
+  ]
+}

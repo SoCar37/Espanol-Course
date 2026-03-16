@@ -1,0 +1,15 @@
+{
+  "id": "A1-U02",
+  "title": "Numbers & Counting",
+  "level": "A1",
+  "unit": 2,
+  "slug": "numbers",
+  "estimated_minutes": 20,
+  "topics": ["numbers 0-100", "counting", "prices", "phone numbers", "age"],
+  "prereqs": ["unit-01-greetings"],
+  "cefr_skills": ["speaking", "listening", "reading"],
+  "cultural_note": true,
+  "audio_available": false,
+  "status": "draft",
+  "version": "0.1.5"
+}

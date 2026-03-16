@@ -1,0 +1,66 @@
+[
+  {
+    "id": "A1-U02-E001",
+    "type": "multiple_choice",
+    "prompt": "How do you say 'thirty-five' in Spanish?",
+    "options": ["Cuarenta y cinco", "Treinta y cinco", "Veinte y cinco", "Cincuenta y cinco"],
+    "answer": 1,
+    "explanation": "Treinta is thirty and y cinco means 'and five' — so treinta y cinco = 35."
+  },
+  {
+    "id": "A1-U02-E002",
+    "type": "multiple_choice",
+    "prompt": "Someone asks '¿Cuánto cuesta?' — what are they asking?",
+    "options": ["How old are you?", "How many do you want?", "How much does it cost?", "What is your number?"],
+    "answer": 2,
+    "explanation": "¿Cuánto cuesta? means 'How much does it cost?' — essential for shopping in Mexico."
+  },
+  {
+    "id": "A1-U02-E003",
+    "type": "fill_in_blank",
+    "prompt": "Tengo ___ años. (I am twenty years old.)",
+    "answer": "veinte",
+    "acceptable_answers": ["veinte"],
+    "explanation": "Veinte means twenty. Tengo veinte años = I am twenty years old."
+  },
+  {
+    "id": "A1-U02-E004",
+    "type": "multiple_choice",
+    "prompt": "What is the correct Spanish for the number 100?",
+    "options": ["ciento", "cien", "cientos", "cientas"],
+    "answer": 1,
+    "explanation": "Cien is used for exactly 100. Ciento is used for 101 and above (ciento uno, ciento veinte, etc.)."
+  },
+  {
+    "id": "A1-U02-E005",
+    "type": "translation",
+    "prompt": "Translate to Spanish: 'It costs fifty pesos.'",
+    "answer": "Cuesta cincuenta pesos.",
+    "acceptable_answers": ["Cuesta cincuenta pesos.", "Cuesta cincuenta pesos"],
+    "explanation": "Cuesta = it costs, cincuenta = fifty. So: Cuesta cincuenta pesos."
+  },
+  {
+    "id": "A1-U02-E006",
+    "type": "multiple_choice",
+    "prompt": "How do you say 'I am thirty years old'?",
+    "options": ["Soy treinta años.", "Tengo treinta años.", "Estoy treinta años.", "Hay treinta años."],
+    "answer": 1,
+    "explanation": "In Spanish, age is expressed with tener (to have): Tengo treinta años = I have thirty years = I am thirty years old."
+  },
+  {
+    "id": "A1-U02-E007",
+    "type": "sentence_assembly",
+    "prompt": "Arrange the words to say: 'How much does it cost?'",
+    "words": ["¿Cuánto", "cuesta?"],
+    "answer": "¿Cuánto cuesta?",
+    "explanation": "¿Cuánto cuesta? is the standard way to ask the price of something in Mexican Spanish."
+  },
+  {
+    "id": "A1-U02-E008",
+    "type": "multiple_choice",
+    "prompt": "What does 'dieciséis' mean?",
+    "options": ["Thirteen", "Fifteen", "Sixteen", "Seventeen"],
+    "answer": 2,
+    "explanation": "Dieciséis = diez (ten) + y + seis (six) = sixteen. Numbers 16-19 combine diez and the unit."
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id":"A1-U05-Q","title":"Unit 5 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U05-Q001","type":"multiple_choice","prompt":"What is the Spanish word for 'grandmother'?","options":["la tía","la abuela","la madre","la prima"],"answer":1,"explanation":"La abuela = grandmother. La tía = aunt. La prima = female cousin."},
+    {"id":"A1-U05-Q002","type":"multiple_choice","prompt":"How do you say 'my sister' in Spanish?","options":["tu hermana","su hermana","mi hermana","la hermana"],"answer":2,"explanation":"Mi = my (no accent). Mi hermana = my sister."},
+    {"id":"A1-U05-Q003","type":"multiple_choice","prompt":"Which adjective correctly describes a tall woman?","options":["alto","altos","altas","alta"],"answer":3,"explanation":"Woman is feminine, so alto becomes alta. Adjectives agree in gender and number with the noun."},
+    {"id":"A1-U05-Q004","type":"multiple_choice","prompt":"What does 'simpático' mean?","options":["Serious","Shy","Nice / friendly","Tall"],"answer":2,"explanation":"Simpático/a = nice, friendly, likeable. Es una persona muy simpática = She's a very nice person."},
+    {"id":"A1-U05-Q005","type":"multiple_choice","prompt":"How do you ask 'Do you have siblings?' informally?","options":["¿Tienes familia?","¿Tienes hermanos?","¿Cuántos hijos tienes?","¿Hay hermanos?"],"answer":1,"explanation":"¿Tienes hermanos? = Do you have siblings? Hermanos in the plural covers brothers and sisters."},
+    {"id":"A1-U05-Q006","type":"multiple_choice","prompt":"In Mexico, it is common to address older family members using...","options":["tú only","vosotros","usted as a sign of respect","first name only"],"answer":2,"explanation":"Using usted with elders — even within the family — is a sign of respect in Mexican culture."},
+    {"id":"A1-U05-Q007","type":"multiple_choice","prompt":"What is the word for 'son'?","options":["hermano","primo","sobrino","hijo"],"answer":3,"explanation":"Hijo = son. Hija = daughter. Hermano = brother. Primo = (male) cousin."},
+    {"id":"A1-U05-Q008","type":"multiple_choice","prompt":"How do you say 'Her grandfather is very old'?","options":["Mi abuelo es muy mayor.","Su abuelo es muy mayor.","Tu abuelo es muy mayor.","Nuestro abuelo es muy mayor."],"answer":1,"explanation":"Su = his/her. Su abuelo = her grandfather. Mayor = older/elderly."}
+  ]
+}

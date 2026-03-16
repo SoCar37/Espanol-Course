@@ -8,16 +8,16 @@ const COURSE_STRUCTURE = [
     description: 'Pronunciation, greetings, numbers, colors, basic present tense',
     color: 'from-indigo-500 to-purple-500',
     units: [
-      { id: 'unit-01-greetings', title: 'Greetings & Introductions', status: 'available' },
-      { id: 'unit-02-numbers',   title: 'Numbers & Counting',        status: 'locked' },
-      { id: 'unit-03-colors',    title: 'Colors & Descriptions',     status: 'locked' },
-      { id: 'unit-04-time',      title: 'Days, Months & Time',       status: 'locked' },
-      { id: 'unit-05-family',    title: 'Family & People',           status: 'locked' },
-      { id: 'unit-06-food',      title: 'Food & Drink',              status: 'locked' },
-      { id: 'unit-07-places',    title: 'Places & Directions',       status: 'locked' },
-      { id: 'unit-08-routines',  title: 'Daily Routines',            status: 'locked' },
-      { id: 'unit-09-weather',   title: 'Weather & Seasons',         status: 'locked' },
-      { id: 'unit-10-review',    title: 'A1 Review & Checkpoint',    status: 'locked' },
+      { id: 'unit-01-greetings', title: 'Greetings & Introductions' },
+      { id: 'unit-02-numbers',   title: 'Numbers & Counting' },
+      { id: 'unit-03-colors',    title: 'Colors & Descriptions' },
+      { id: 'unit-04-time',      title: 'Days, Months & Time' },
+      { id: 'unit-05-family',    title: 'Family & People' },
+      { id: 'unit-06-food',      title: 'Food & Drink' },
+      { id: 'unit-07-places',    title: 'Places & Directions' },
+      { id: 'unit-08-routines',  title: 'Daily Routines' },
+      { id: 'unit-09-weather',   title: 'Weather & Seasons' },
+      { id: 'unit-10-review',    title: 'A1 Review & Checkpoint' },
     ],
   },
   {
@@ -73,12 +73,12 @@ export default function CourseMapPage() {
       {/* Level cards */}
       <div className="space-y-6">
         {COURSE_STRUCTURE.map((levelData) => {
-          const isLocked = levelData.comingSoon
+          const isLevelLocked = levelData.comingSoon
           return (
             <section
               key={levelData.level}
               aria-label={`${levelData.level} — ${levelData.title}`}
-              className={`card ${isLocked ? 'opacity-50' : ''}`}
+              className={`card ${isLevelLocked ? 'opacity-50' : ''}`}
             >
               {/* Level header */}
               <div className="flex items-center justify-between mb-4">
@@ -95,7 +95,7 @@ export default function CourseMapPage() {
                     </p>
                   </div>
                 </div>
-                {isLocked && (
+                {isLevelLocked && (
                   <span className="text-content-secondary text-sm bg-surface-hover px-3 py-1 rounded-full">
                     Coming soon
                   </span>
@@ -103,12 +103,24 @@ export default function CourseMapPage() {
               </div>
 
               {/* Unit grid */}
-              {!isLocked && levelData.units.length > 0 && (
+              {!isLevelLocked && levelData.units.length > 0 && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
-                  {levelData.units.map((unit) => {
-                    const progress = getUnitProgress(`${levelData.level}-${unit.id}`)
-                    const isAvailable = unit.status === 'available'
-                    const isComplete = progress?.complete
+                  {levelData.units.map((unit, index) => {
+                    const unitKey = `${levelData.level}-${unit.id}`
+                    const progress = getUnitProgress(unitKey)
+                    const isComplete = !!progress?.complete
+
+                    // Unit 1 is always available
+                    // Subsequent units unlock when the previous unit's quiz is passed
+                    let isAvailable = false
+                    if (index === 0) {
+                      isAvailable = true
+                    } else {
+                      const prevUnit = levelData.units[index - 1]
+                      const prevKey = `${levelData.level}-${prevUnit.id}`
+                      const prevProgress = getUnitProgress(prevKey)
+                      isAvailable = !!prevProgress?.complete
+                    }
 
                     return (
                       <UnitCard
@@ -135,7 +147,7 @@ export default function CourseMapPage() {
 function UnitCard({ level, unit, isAvailable, isComplete, progress }) {
   const CardWrapper = isAvailable ? Link : 'div'
   const linkProps = isAvailable
-    ? { to: `/lesson/${level.toLowerCase()}/${unit.id}` }
+    ? { to: `/lesson/${level}/${unit.id}` }
     : {}
 
   return (

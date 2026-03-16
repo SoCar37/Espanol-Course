@@ -1,0 +1,13 @@
+{
+  "id":"A1-U03-Q","title":"Unit 3 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U03-Q001","type":"multiple_choice","prompt":"What is the Mexican Spanish word for brown?","options":["marrón","rojizo","café","tierra"],"answer":2,"explanation":"Café means brown in Mexico — the same word as coffee."},
+    {"id":"A1-U03-Q002","type":"multiple_choice","prompt":"Which adjective correctly describes 'la manzana' (the apple) as red?","options":["rojo","roja","rojos","rojas"],"answer":1,"explanation":"Manzana is feminine, so rojo becomes roja."},
+    {"id":"A1-U03-Q003","type":"multiple_choice","prompt":"How do you say 'the green books'?","options":["los libros verde","los libros verdes","los libros verdos","el libro verde"],"answer":1,"explanation":"Verdes is the plural of verde — add -es for colors ending in -e."},
+    {"id":"A1-U03-Q004","type":"multiple_choice","prompt":"Which color does NOT change for gender?","options":["rojo","blanco","amarillo","azul"],"answer":3,"explanation":"Azul ends in a consonant, so it doesn't change for gender. Only the plural form changes: azules."},
+    {"id":"A1-U03-Q005","type":"multiple_choice","prompt":"How do you ask 'What color is it?' in Spanish?","options":["¿Qué color tienes?","¿Cómo es el color?","¿De qué color es?","¿Cuál color es?"],"answer":2,"explanation":"¿De qué color es? is the standard way to ask what color something is."},
+    {"id":"A1-U03-Q006","type":"multiple_choice","prompt":"'Los carros blancos' — how many cars?","options":["One","Two","More than one","Unknown"],"answer":2,"explanation":"Los and blancos are both plural, confirming there are multiple cars."},
+    {"id":"A1-U03-Q007","type":"multiple_choice","prompt":"Which sentence correctly says 'The sky is blue'?","options":["El cielo es azula.","El cielo es azules.","El cielo es azul.","El cielo es azulo."],"answer":2,"explanation":"Azul doesn't change for gender — it stays azul for both masculine and feminine singular nouns."},
+    {"id":"A1-U03-Q008","type":"multiple_choice","prompt":"What does 'grande' mean?","options":["Pretty","Old","Big","Expensive"],"answer":2,"explanation":"Grande means big or large. It doesn't change for gender but becomes grandes in the plural."}
+  ]
+}

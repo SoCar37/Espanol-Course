@@ -1,0 +1,16 @@
+{
+  "id": "A1-U02-Q",
+  "title": "Unit 2 Checkpoint Quiz",
+  "passing_score": 70,
+  "version": "0.1.5",
+  "questions": [
+    { "id": "A1-U02-Q001", "type": "multiple_choice", "prompt": "How do you say 'forty-two' in Spanish?", "options": ["Treinta y dos", "Cuarenta y dos", "Cincuenta y dos", "Veinte y dos"], "answer": 1, "explanation": "Cuarenta is forty and dos is two — cuarenta y dos = 42." },
+    { "id": "A1-U02-Q002", "type": "multiple_choice", "prompt": "Which phrase means 'How much does it cost?'", "options": ["¿Cuántos años tienes?", "¿Cuánto cuesta?", "¿Cómo estás?", "¿Cuál es tu número?"], "answer": 1, "explanation": "¿Cuánto cuesta? = How much does it cost? Essential for shopping." },
+    { "id": "A1-U02-Q003", "type": "multiple_choice", "prompt": "How do you express your age in Spanish?", "options": ["Soy + number + años", "Tengo + number + años", "Estoy + number + años", "Hay + number + años"], "answer": 1, "explanation": "Age in Spanish uses tener (to have): Tengo 25 años = I am 25 years old." },
+    { "id": "A1-U02-Q004", "type": "multiple_choice", "prompt": "What is 'cien' in English?", "options": ["Ten", "Fifty", "One hundred", "One thousand"], "answer": 2, "explanation": "Cien = 100 exactly. Note: ciento is used for 101 and above." },
+    { "id": "A1-U02-Q005", "type": "multiple_choice", "prompt": "How do you say 'seventy-eight' in Spanish?", "options": ["Setenta y ocho", "Ochenta y siete", "Sesenta y ocho", "Noventa y ocho"], "answer": 0, "explanation": "Setenta = 70, ocho = 8. Setenta y ocho = 78." },
+    { "id": "A1-U02-Q006", "type": "multiple_choice", "prompt": "What does 'quince' mean?", "options": ["Five", "Twelve", "Fifteen", "Twenty"], "answer": 2, "explanation": "Quince = 15. It's also famous in the quinceañera — the celebration of a girl's 15th birthday in Mexican culture." },
+    { "id": "A1-U02-Q007", "type": "multiple_choice", "prompt": "How do Mexicans typically say phone numbers?", "options": ["One digit at a time", "In groups of three", "In pairs of two digits", "All at once"], "answer": 2, "explanation": "In Mexico, phone numbers are typically said in pairs: 55-12-34-56 = cincuenta y cinco, doce, treinta y cuatro, cincuenta y seis." },
+    { "id": "A1-U02-Q008", "type": "multiple_choice", "prompt": "What is 'treinta y tres' in numerals?", "options": ["23", "33", "43", "13"], "answer": 1, "explanation": "Treinta = 30, tres = 3. Treinta y tres = 33." }
+  ]
+}

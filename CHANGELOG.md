@@ -7,77 +7,66 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.1.6] - 2026-03-15
+
+### Added
+- A1 Units 2–10 full content — 45 new files (lesson.md, vocab.json, exercises.json, quiz.json, meta.json per unit)
+  - Unit 02: Numbers & Counting
+  - Unit 03: Colors & Descriptions
+  - Unit 04: Days, Months & Time
+  - Unit 05: Family & People
+  - Unit 06: Food & Drink
+  - Unit 07: Places & Directions
+  - Unit 08: Daily Routines
+  - Unit 09: Weather & Seasons
+  - Unit 10: A1 Review & Checkpoint
+- All content files placed in both `/content/A1/` and `/app/public/content/A1/` as required
+- Sequential unit unlock logic — each unit unlocks only after the previous unit's quiz is passed
+- Unit 1 remains always available as the entry point
+
+### Changed
+- `CourseMapPage.jsx` — unlock logic now dynamic based on localStorage progress; removed hardcoded `status: 'locked'` from unit definitions; link now uses correct case for level in URL
+
+---
+
 ## [0.1.5] - 2026-03-15
 
 ### Added
 - Full quiz engine — `QuizPage.jsx` loads `quiz.json` dynamically
-- Segmented progress bar across the top, running score counter during quiz
-- Answer feedback per question — green/correct, red/incorrect with explanation shown
-- Pass screen (≥70%) — score ring, +50 XP, unit marked complete, links to course map and flashcards
-- Fail screen (<70%) — score ring, "Try again" resets quiz, "Review lesson" link
-- Quiz locked behind exercise completion — redirects to exercises if not yet done
+- Segmented progress bar and running score counter during quiz
+- Pass screen (≥70%) — score ring, +50 XP, unit marked complete
+- Fail screen (<70%) — score ring, Try Again, Review Lesson link
+- Quiz locked behind exercise completion
 
 ### Changed
-- `App.jsx` — `/quiz/:level/:unit` now points to `QuizPage` instead of `ExercisesPage`
+- `App.jsx` — `/quiz/:level/:unit` now points to `QuizPage`
 
 ---
 
 ## [0.1.4] - 2026-03-15
 
 ### Added
-- Full exercise engine — loads exercises dynamically from `exercises.json`
-- Four exercise type components: `MultipleChoice`, `FillInBlank`, `Translation`, `SentenceAssembly`
-- Segmented progress bar and running score counter during exercises
-- Wrong answer behavior: explanation shown, must correct before advancing
-- Results summary screen after exercises — score ring, XP earned, "Start Quiz" button
-- Flashcard engine — loads vocab dynamically from `vocab.json`
-- SM-2 spaced repetition algorithm — `app/src/utils/sm2.js`
-- Per-card scheduling in localStorage — Easy 4+ days, Hard tomorrow, Missed same session
-- English → Spanish card direction with pronunciation hint badge
-- "Come back tomorrow" completion screen with session stats
-- Parameterized routes: `/exercises/:level/:unit`, `/quiz/:level/:unit`, `/flashcards/:level/:unit`
-
-### Changed
-- `ExercisesPage.jsx` — fully rewritten with dynamic engine
-- `FlashcardsPage.jsx` — fully rewritten with vocab.json loading and SM-2
-- `LessonPage.jsx` — Complete Lesson button navigates directly to exercises
-- `App.jsx` — all routes parameterized
-- `useProgress.js` — restored original unit-keyed structure, added SM-2 vocab functions
+- Full exercise engine with four question types
+- SM-2 flashcard engine loading from vocab.json
+- Parameterized routes for exercises, quiz, flashcards
 
 ### Fixed
-- Complete Lesson button silently failing due to mismatched key format
-- Flashcard crash on load — card read before vocab finished loading
-- vocab.json 404 due to inconsistent level casing
-- Word bank empty in sentence assembly — was reading `options`, json uses `words`
+- Complete Lesson button, word bank in sentence assembly, flashcard crash on load
 
 ---
 
 ## [0.1.3] - 2026-03-15
-
 ### Fixed
-- Unit folder path mismatch — unit IDs now match folder names exactly
-
----
+- Unit folder path mismatch
 
 ## [0.1.2] - 2026-03-15
-
 ### Fixed
-- Content serving — files committed to `app/public/content/`
-
----
+- Content serving from app/public/content
 
 ## [0.1.1] - 2026-03-15
-
 ### Fixed
-- `deploy.yml` — content files copied before build step
-
----
+- deploy.yml content copy before build
 
 ## [0.1.0] - 2026-03-15
-
 ### Added
-- Initial scaffold — React + Vite + Tailwind CSS
-- Five pages, dark theme, Poppins font, mobile layout
-- A1 Unit 1 Greetings full content
-- GitHub Actions CI/CD, PWA manifest
-- MIT license (app), CC BY-SA 4.0 (content)
+- Initial scaffold, A1 Unit 1 content, GitHub Actions CI/CD, PWA manifest

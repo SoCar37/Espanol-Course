@@ -1,0 +1,13 @@
+{
+  "id":"A1-U04-Q","title":"Unit 4 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U04-Q001","type":"multiple_choice","prompt":"Which is correct for 'It's one o'clock'?","options":["Son las una.","Es las una.","Es la una.","Son la una."],"answer":2,"explanation":"Only 1:00 uses Es la una — all other hours use Son las."},
+    {"id":"A1-U04-Q002","type":"multiple_choice","prompt":"What does 'el fin de semana' mean?","options":["The end of the month","The weekend","The holiday","The last day"],"answer":1,"explanation":"El fin de semana = the weekend (literally 'the end of the week')."},
+    {"id":"A1-U04-Q003","type":"multiple_choice","prompt":"How do you say 'It's eight-thirty'?","options":["Son las ocho y cuarto.","Son las ocho y media.","Es la ocho y media.","Son las ocho menos media."],"answer":1,"explanation":"Y media means half past. Son las ocho y media = 8:30."},
+    {"id":"A1-U04-Q004","type":"multiple_choice","prompt":"Days of the week in Spanish are...","options":["Always capitalized","Never capitalized","Capitalized on Monday only","Capitalized on weekends"],"answer":1,"explanation":"Unlike English, days of the week and months are not capitalized in Spanish unless they start a sentence."},
+    {"id":"A1-U04-Q005","type":"multiple_choice","prompt":"What is the Mexican word that can mean 'right now' OR 'in a while'?","options":["ya","ahora","ahorita","luego"],"answer":2,"explanation":"Ahorita is uniquely Mexican — its meaning (now, soon, or eventually) depends entirely on context and tone."},
+    {"id":"A1-U04-Q006","type":"multiple_choice","prompt":"Which month is 'agosto'?","options":["June","July","August","September"],"answer":2,"explanation":"Agosto = August. Remember: months are not capitalized in Spanish."},
+    {"id":"A1-U04-Q007","type":"multiple_choice","prompt":"How do you say 'at three in the afternoon'?","options":["son las tres tarde","a las tres de la tarde","es la tres de la tarde","a la tres por la tarde"],"answer":1,"explanation":"A las tres de la tarde = at three in the afternoon. Use a las for 'at [time]'."},
+    {"id":"A1-U04-Q008","type":"multiple_choice","prompt":"What day comes before 'domingo' (Sunday)?","options":["viernes","lunes","jueves","sábado"],"answer":3,"explanation":"The week ends: ...viernes, sábado, domingo. Sábado (Saturday) comes before domingo (Sunday)."}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id":"A1-U06-Q","title":"Unit 6 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U06-Q001","type":"multiple_choice","prompt":"Which is correct: 'I like beans'?","options":["Me gusta los frijoles.","Me gustan los frijoles.","Me gusto frijoles.","Gusto me los frijoles."],"answer":1,"explanation":"Frijoles is plural, so use me gustan. Me gusta is for singular nouns."},
+    {"id":"A1-U06-Q002","type":"multiple_choice","prompt":"How do you ask for the check in Mexico?","options":["¿Dónde está el menú?","Quiero más comida.","La cuenta, por favor.","¿Cuánto cuesta el taco?"],"answer":2,"explanation":"La cuenta, por favor = The bill, please. Waiters in Mexico don't bring it automatically."},
+    {"id":"A1-U06-Q003","type":"multiple_choice","prompt":"What does 'rico' mean when describing food?","options":["Spicy","Expensive","Delicious","Cold"],"answer":2,"explanation":"Rico/a = delicious when talking about food. ¡Está muy rico! = It's very delicious!"},
+    {"id":"A1-U06-Q004","type":"multiple_choice","prompt":"How do you say 'I want a water, please'?","options":["Me gusta un agua, por favor.","Quiero un agua, por favor.","Tomo un agua, por favor.","Un agua, gracias, por favor."],"answer":1,"explanation":"Quiero = I want. Quiero un agua, por favor is the standard way to order."},
+    {"id":"A1-U06-Q005","type":"multiple_choice","prompt":"What is '¡Buen provecho!'?","options":["A Mexican dish","What you say when someone sneezes","What you say to wish someone an enjoyable meal","A greeting used only at breakfast"],"answer":2,"explanation":"¡Buen provecho! = Enjoy your meal! Said when someone starts eating — equivalent to 'bon appétit'."},
+    {"id":"A1-U06-Q006","type":"multiple_choice","prompt":"Which drink is typically called 'refresco' in Mexico?","options":["Coffee","Water","Juice","Soda / soft drink"],"answer":3,"explanation":"Refresco = soda or soft drink in Mexican Spanish. Coca-Cola and other sodas are all refrescos."},
+    {"id":"A1-U06-Q007","type":"multiple_choice","prompt":"How do you say 'Do you like coffee?' informally?","options":["¿Le gusta el café?","¿Te gusta el café?","¿Me gusta el café?","¿Gusta el café?"],"answer":1,"explanation":"¿Te gusta...? = Do you like...? (informal). Le gusta is formal/third person."},
+    {"id":"A1-U06-Q008","type":"multiple_choice","prompt":"What UNESCO recognition does Mexican cuisine have?","options":["World Heritage Site","Intangible Cultural Heritage","Best Cuisine Award","Global Food Tradition"],"answer":1,"explanation":"Mexican cuisine is recognized by UNESCO as an Intangible Cultural Heritage — one of only a few national cuisines with this distinction."}
+  ]
+}

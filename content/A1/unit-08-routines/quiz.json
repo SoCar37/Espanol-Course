@@ -1,0 +1,13 @@
+{
+  "id":"A1-U08-Q","title":"Unit 8 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U08-Q001","type":"multiple_choice","prompt":"Which is the correct reflexive pronoun for 'yo'?","options":["se","te","me","nos"],"answer":2,"explanation":"Me is the reflexive pronoun for yo (I). Me despierto = I wake up."},
+    {"id":"A1-U08-Q002","type":"multiple_choice","prompt":"What is 'trabajar' conjugated as for 'ustedes'?","options":["trabajas","trabajo","trabajan","trabajamos"],"answer":2,"explanation":"For ustedes, -ar verbs take -an: trabajan. This is the standard plural you form in Mexico."},
+    {"id":"A1-U08-Q003","type":"multiple_choice","prompt":"How do you say 'I go to bed at eleven'?","options":["Me acuesto a las once.","Te acuestas a las once.","Me levanto a las once.","Duermo a las once."],"answer":0,"explanation":"Me acuesto = I go to bed (reflexive). A las once = at eleven."},
+    {"id":"A1-U08-Q004","type":"multiple_choice","prompt":"What time is the main meal (la comida) typically eaten in Mexico?","options":["7-8am","12-1pm","2-4pm","7-8pm"],"answer":2,"explanation":"La comida, the main meal, is typically eaten between 2-4pm in Mexico — later than in most other countries."},
+    {"id":"A1-U08-Q005","type":"multiple_choice","prompt":"What does 'primero... luego...' express?","options":["Location","Sequence of actions","Preferences","Questions"],"answer":1,"explanation":"Primero = first, luego = then/afterwards. They describe the sequence of a routine."},
+    {"id":"A1-U08-Q006","type":"multiple_choice","prompt":"Which sentence correctly says 'You (informal) study every day'?","options":["Estudias todos los días.","Estudio todos los días.","Estudia todos los días.","Estudiamos todos los días."],"answer":0,"explanation":"Tú form of estudiar is estudias. Todos los días = every day."},
+    {"id":"A1-U08-Q007","type":"multiple_choice","prompt":"What does 'por la tarde' mean?","options":["In the morning","At night","In the afternoon","Yesterday"],"answer":2,"explanation":"Por la tarde = in the afternoon. Por la mañana = in the morning. Por la noche = at night."},
+    {"id":"A1-U08-Q008","type":"multiple_choice","prompt":"Which verb means 'to have breakfast'?","options":["almorzar","cenar","desayunar","comer"],"answer":2,"explanation":"Desayunar = to have breakfast. Almorzar = to have lunch. Cenar = to have dinner."}
+  ]
+}

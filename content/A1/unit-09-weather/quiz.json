@@ -1,0 +1,13 @@
+{
+  "id":"A1-U09-Q","title":"Unit 9 Checkpoint Quiz","passing_score":70,"version":"0.1.5",
+  "questions":[
+    {"id":"A1-U09-Q001","type":"multiple_choice","prompt":"Which verb is used in most weather expressions like 'hace calor'?","options":["ser","estar","tener","hacer"],"answer":3,"explanation":"Hacer is used in most weather expressions: hace calor, hace frío, hace sol, hace viento."},
+    {"id":"A1-U09-Q002","type":"multiple_choice","prompt":"How do you say 'It's cloudy'?","options":["Hace nublado.","Está nublado.","Es nublado.","Hay nublado."],"answer":1,"explanation":"Está nublado uses estar. Some weather expressions use estar, not hacer — especially states."},
+    {"id":"A1-U09-Q003","type":"multiple_choice","prompt":"What does 'la temporada de lluvias' mean?","options":["The storm season","The rainy season","The dry season","The cold season"],"answer":1,"explanation":"La temporada de lluvias = the rainy season. Lluvias comes from lluvia (rain)."},
+    {"id":"A1-U09-Q004","type":"multiple_choice","prompt":"How do you ask 'What's the weather like today?'","options":["¿Qué tiempo hace hoy?","¿Cómo está el tiempo hoy?","¿Hay sol hoy?","¿Cuál tiempo es hoy?"],"answer":0,"explanation":"¿Qué tiempo hace? = What's the weather like? It's the standard weather question in Spanish."},
+    {"id":"A1-U09-Q005","type":"multiple_choice","prompt":"Which season is 'el invierno'?","options":["Spring","Summer","Autumn","Winter"],"answer":3,"explanation":"El invierno = winter. La primavera = spring. El verano = summer. El otoño = autumn."},
+    {"id":"A1-U09-Q006","type":"multiple_choice","prompt":"'Está lloviendo' — what tense/form is this?","options":["Simple present","Preterite","Present continuous (estar + gerund)","Future"],"answer":2,"explanation":"Está lloviendo = It is raining — present continuous using estar + gerund (-iendo ending)."},
+    {"id":"A1-U09-Q007","type":"multiple_choice","prompt":"Mexico measures temperature in...","options":["Fahrenheit","Celsius","Kelvin","Both Celsius and Fahrenheit equally"],"answer":1,"explanation":"Mexico uses Celsius. A typical comfortable day in Mexico City is around 20-22°C."},
+    {"id":"A1-U09-Q008","type":"multiple_choice","prompt":"What does 'fresco' mean in a weather context?","options":["Hot","Stormy","Cool / fresh","Windy"],"answer":2,"explanation":"Fresco = cool/fresh. Por las noches está fresco = In the evenings it's cool. Not as cold as frío."}
+  ]
+}
