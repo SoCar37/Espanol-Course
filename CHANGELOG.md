@@ -5,6 +5,14 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.4] - 2026-03-16
+
+### Changed
+- `FlashcardsPage.jsx` — global due queue replaces per-unit default. Flashcards now loads vocab from all completed units (`complete: true`) and surfaces whatever is due across all of them. Units unlocked by placement test but not completed (`placementUnlocked` only) are excluded. Empty state shown when no units are complete yet.
+
+### Fixed
+- Flashcard nav button no longer silently defaults to A1 Unit 1 regardless of user level
+
 ## [0.7.3] - 2026-03-16
 
 ### Changed
