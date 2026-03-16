@@ -20,6 +20,10 @@ export default function FlashcardsPage() {
   const [error, setError] = useState(null)
   const [done, setDone] = useState(false)
 
+  // Define card here so handleRate can always see it
+  const card = dueCards[currentIndex]
+  const total = dueCards.length
+
   // Load vocab.json
   useEffect(() => {
     setLoading(true)
@@ -68,15 +72,12 @@ export default function FlashcardsPage() {
         const rest = prev.filter((_, i) => i !== currentIndex)
         return [...rest, card]
       })
-      // Don't advance index — next card is already at currentIndex
     } else {
-      // Good/Hard/Easy — advance or finish
+      // Hard/Good/Easy — remove card, finish if none left
       setDueCards(prev => {
         const rest = prev.filter((_, i) => i !== currentIndex)
         if (rest.length === 0) {
           setTimeout(() => setDone(true), 300)
-        } else {
-          // currentIndex stays the same — next card fills in
         }
         return rest
       })
@@ -160,10 +161,7 @@ export default function FlashcardsPage() {
   }
 
   // Guard — don't render card UI if card isn't ready yet
-  const card = dueCards[currentIndex]
   if (!card) return null
-
-  const total = dueCards.length
 
   // ── Main flashcard view ──────────────────────────────────────
   return (
