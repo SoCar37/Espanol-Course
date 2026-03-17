@@ -292,8 +292,8 @@ export default function FlashcardsPage() {
         />
       </div>
 
-      {/* Pronunciation hint */}
-      {card.pronunciation_hint && (
+      {/* Pronunciation hint — only shown on Spanish side */}
+      {isFlipped && card.pronunciation_hint && (
         <div className="flex justify-center mb-3">
           <span className="text-xs font-medium text-slate-400 bg-slate-800 border border-slate-700 px-3 py-1 rounded-full">
             🔊 {card.pronunciation_hint}

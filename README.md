@@ -3,7 +3,7 @@
 **The most complete free Spanish course for English speakers seeking fluency in Mexican Spanish.**
 
 🌐 **Live:** [SoCar37.github.io/Espanol-Course](https://SoCar37.github.io/Espanol-Course)  
-📦 **Version:** v0.7.5  
+📦 **Version:** v0.7.6  
 📄 **License:** App — MIT · Content — CC BY-SA 4.0
 
 ---
@@ -71,8 +71,10 @@ npm run dev
 
 | Version | Milestone |
 |---|---|
+| v0.7.6 | Fix flashcard pronunciation hint visibility |
 | v0.7.5 | Fix exercise scoring — first-attempt only |
 | v0.7.4 | Flashcards — global due queue across all completed units |
+| v0.7.6 | Fix flashcard pronunciation hint visibility |
 | v0.7.5 | Fix exercise scoring — first-attempt only |
 | v0.7.4 | Flashcards — global due queue across all completed units |
 | v0.7.3 | CONTRIBUTING.md rewritten for public launch |

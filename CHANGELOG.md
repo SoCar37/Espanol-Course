@@ -5,6 +5,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.6] - 2026-03-17
+
+### Fixed
+- Flashcards — pronunciation hint now hidden until card is flipped to Spanish side, preventing it from giving away the answer on the English front face
+
 ## [0.7.5] - 2026-03-16
 
 ### Fixed
