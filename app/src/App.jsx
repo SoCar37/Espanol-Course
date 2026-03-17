@@ -25,7 +25,6 @@ export default function App() {
 
         {/* Exercises */}
         <Route path="/exercises/:level/:unit" element={<ExercisesPage />} />
-        <Route path="/exercises" element={<Navigate to="/exercises/A1/unit-01-greetings" replace />} />
 
         {/* Quiz */}
         <Route path="/quiz/:level/:unit" element={<QuizPage />} />

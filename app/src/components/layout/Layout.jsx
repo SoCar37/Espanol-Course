@@ -4,7 +4,6 @@ import { NavLink, useLocation } from 'react-router-dom'
 const NAV_ITEMS = [
   { path: '/',           label: 'Course',     icon: '📚', ariaLabel: 'Course map' },
   { path: '/flashcards', label: 'Flashcards', icon: '🃏', ariaLabel: 'Flashcard drills' },
-  { path: '/exercises',  label: 'Exercises',  icon: '✏️',  ariaLabel: 'Exercises' },
   { path: '/progress',   label: 'Progress',   icon: '📊', ariaLabel: 'Your progress' },
 ]
 

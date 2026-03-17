@@ -5,6 +5,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.7] - 2026-03-17
+
+### Removed
+- Exercises tab removed from main nav (Layout.jsx) and fallback route removed from App.jsx — exercises are accessed through the lesson flow only (Lesson → Exercises → Quiz)
+
 ## [0.7.6] - 2026-03-17
 
 ### Fixed
