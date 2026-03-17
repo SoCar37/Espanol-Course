@@ -1,9 +1,10 @@
 // src/components/exercises/MultipleChoice.jsx
 import { useState } from 'react';
 
-export default function MultipleChoice({ exercise, onAnswer }) {
+export default function MultipleChoice({ exercise, onAnswer, onAdvance }) {
   const [selected, setSelected] = useState(null);
   const [submitted, setSubmitted] = useState(false);
+  const [firstAttemptDone, setFirstAttemptDone] = useState(false);
 
   const isCorrect = selected === exercise.answer;
 
@@ -16,9 +17,21 @@ export default function MultipleChoice({ exercise, onAnswer }) {
   const handleSubmit = () => {
     if (selected === null) return;
     setSubmitted(true);
+
     if (selected === exercise.answer) {
-      // brief delay so user sees green before advancing
-      setTimeout(() => onAnswer(true), 800);
+      // Correct — report to engine then advance
+      if (!firstAttemptDone) {
+        onAnswer(true);
+      } else {
+        // Correct on retry — advance without re-scoring
+        setTimeout(() => onAdvance(), 800);
+      }
+    } else {
+      // Wrong — report on first attempt only, then show retry
+      if (!firstAttemptDone) {
+        setFirstAttemptDone(true);
+        onAnswer(false);
+      }
     }
   };
 

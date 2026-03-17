@@ -1,20 +1,20 @@
 // src/components/exercises/SentenceAssembly.jsx
 import { useState, useEffect } from 'react';
 
-export default function SentenceAssembly({ exercise, onAnswer }) {
+export default function SentenceAssembly({ exercise, onAnswer, onAdvance }) {
   const [available, setAvailable] = useState([]);
   const [assembled, setAssembled] = useState([]);
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
+  const [firstAttemptDone, setFirstAttemptDone] = useState(false);
 
   useEffect(() => {
-    // exercise.options is the shuffled word bank
-    // Shuffle them on mount so they aren't in answer order
     const words = [...(exercise.words || exercise.options || [])];
     setAvailable(shuffle(words.map((w, i) => ({ word: w, id: i }))));
     setAssembled([]);
     setSubmitted(false);
     setIsCorrect(false);
+    setFirstAttemptDone(false);
   }, [exercise.id]);
 
   const shuffle = (arr) => {
@@ -40,15 +40,27 @@ export default function SentenceAssembly({ exercise, onAnswer }) {
     setSubmitted(false);
   };
 
+  const normalize = (str) =>
+    str.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[¿¡.,!?]/g, '').replace(/\s+/g, ' ');
+
   const handleSubmit = () => {
     if (assembled.length === 0) return;
     const userSentence = assembled.map((t) => t.word).join(' ');
-    // answer for sentence_assembly is the correct sentence string
     const correct = normalize(userSentence) === normalize(String(exercise.answer));
     setIsCorrect(correct);
     setSubmitted(true);
+
     if (correct) {
-      setTimeout(() => onAnswer(true), 900);
+      if (!firstAttemptDone) {
+        onAnswer(true);
+      } else {
+        setTimeout(() => onAdvance(), 900);
+      }
+    } else {
+      if (!firstAttemptDone) {
+        setFirstAttemptDone(true);
+        onAnswer(false);
+      }
     }
   };
 
@@ -59,9 +71,6 @@ export default function SentenceAssembly({ exercise, onAnswer }) {
     setSubmitted(false);
     setIsCorrect(false);
   };
-
-  const normalize = (str) =>
-    str.trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[¿¡.,!?]/g, '').replace(/\s+/g, ' ');
 
   return (
     <div className="space-y-5">
@@ -113,7 +122,6 @@ export default function SentenceAssembly({ exercise, onAnswer }) {
         </div>
       </div>
 
-      {/* Feedback */}
       {submitted && !isCorrect && (
         <div className="rounded-xl border border-red-500/40 bg-red-500/10 p-4 space-y-3">
           <p className="text-red-300 font-semibold">✗ Not quite — check the word order</p>

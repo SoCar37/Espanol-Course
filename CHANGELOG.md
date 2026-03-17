@@ -5,6 +5,13 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.5] - 2026-03-16
+
+### Fixed
+- Exercise scoring bug — score now reflects first-attempt correctness only. Previously, retrying a wrong answer and eventually getting it right would count as correct, inflating scores. The retry UI is unchanged; only scoring is affected.
+- Fix applied consistently across all four exercise types: MultipleChoice, FillInBlank, Translation, SentenceAssembly
+- ExerciseEngine now passes `onAdvance` prop to exercise components so correct retries still advance without re-scoring
+
 ## [0.7.4] - 2026-03-16
 
 ### Changed

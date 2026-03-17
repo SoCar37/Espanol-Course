@@ -1,10 +1,11 @@
 // src/components/exercises/Translation.jsx
 import { useState, useRef, useEffect } from 'react';
 
-export default function Translation({ exercise, onAnswer }) {
+export default function Translation({ exercise, onAnswer, onAdvance }) {
   const [value, setValue] = useState('');
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
+  const [firstAttemptDone, setFirstAttemptDone] = useState(false);
   const textareaRef = useRef(null);
 
   useEffect(() => {
@@ -31,8 +32,18 @@ export default function Translation({ exercise, onAnswer }) {
     const correct = checkCorrect(value);
     setIsCorrect(correct);
     setSubmitted(true);
+
     if (correct) {
-      setTimeout(() => onAnswer(true), 800);
+      if (!firstAttemptDone) {
+        onAnswer(true);
+      } else {
+        setTimeout(() => onAdvance(), 800);
+      }
+    } else {
+      if (!firstAttemptDone) {
+        setFirstAttemptDone(true);
+        onAnswer(false);
+      }
     }
   };
 
@@ -50,25 +61,21 @@ export default function Translation({ exercise, onAnswer }) {
     }
   };
 
-  // Detect direction: Spanish→English or English→Spanish
   const isSpanishToEnglish = /[áéíóúüñ¿¡]/i.test(exercise.prompt) ||
     exercise.prompt.toLowerCase().includes('translate') === false;
 
   return (
     <div className="space-y-5">
-      {/* Direction label */}
       <div className="flex items-center gap-2 text-xs font-semibold text-slate-400 uppercase tracking-widest">
         <span className={isSpanishToEnglish ? 'text-indigo-400' : 'text-slate-400'}>Español</span>
         <span className="text-slate-600">→</span>
         <span className={!isSpanishToEnglish ? 'text-indigo-400' : 'text-slate-400'}>English</span>
       </div>
 
-      {/* Source phrase */}
       <div className="border-l-4 border-indigo-500 pl-4 py-1">
         <p className="text-xl font-semibold text-white">{exercise.prompt}</p>
       </div>
 
-      {/* Translation input */}
       <div>
         <label className="block text-xs font-semibold text-slate-400 uppercase tracking-widest mb-2">
           Your translation
@@ -82,17 +89,15 @@ export default function Translation({ exercise, onAnswer }) {
           placeholder="Type your translation... (Enter to submit)"
           rows={2}
           className={`w-full px-4 py-3 rounded-xl border-2 bg-slate-800 text-white placeholder-slate-500 outline-none resize-none transition-all duration-200 font-medium
-            ${
-              submitted
-                ? isCorrect
-                  ? 'border-green-500 bg-green-500/10'
-                  : 'border-red-500 bg-red-500/10'
-                : 'border-slate-600 focus:border-indigo-500'
+            ${submitted
+              ? isCorrect
+                ? 'border-green-500 bg-green-500/10'
+                : 'border-red-500 bg-red-500/10'
+              : 'border-slate-600 focus:border-indigo-500'
             }`}
         />
       </div>
 
-      {/* Feedback */}
       {submitted && !isCorrect && (
         <div className="rounded-xl border border-red-500/40 bg-red-500/10 p-4 space-y-3">
           <p className="text-red-300 font-semibold">✗ Not quite</p>

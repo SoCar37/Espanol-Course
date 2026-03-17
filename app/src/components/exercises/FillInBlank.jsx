@@ -1,17 +1,17 @@
 // src/components/exercises/FillInBlank.jsx
 import { useState, useRef, useEffect } from 'react';
 
-export default function FillInBlank({ exercise, onAnswer }) {
+export default function FillInBlank({ exercise, onAnswer, onAdvance }) {
   const [value, setValue] = useState('');
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
+  const [firstAttemptDone, setFirstAttemptDone] = useState(false);
   const inputRef = useRef(null);
 
   useEffect(() => {
     inputRef.current?.focus();
   }, []);
 
-  // Normalize: trim, lowercase, remove accent marks for comparison
   const normalize = (str) =>
     str
       .trim()
@@ -19,12 +19,14 @@ export default function FillInBlank({ exercise, onAnswer }) {
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '');
 
-  // answer may be a string or array of accepted answers
   const checkCorrect = (input) => {
     const answers = Array.isArray(exercise.answer) ? exercise.answer : [exercise.answer];
-    // For fill-in-blank, answer field is a string of the correct word
-    // Also accept the answer index if it's MCQ-style (shouldn't be, but guard)
-    if (typeof answers[0] === 'number') return false;
+    if (typeof answers[0] === 'number') {
+      // MCQ-style answer index — check against options array
+      return answers.includes(exercise.options?.indexOf(
+        exercise.options?.find(o => normalize(o) === normalize(input))
+      ));
+    }
     return answers.some((a) => normalize(String(a)) === normalize(input));
   };
 
@@ -33,8 +35,19 @@ export default function FillInBlank({ exercise, onAnswer }) {
     const correct = checkCorrect(value);
     setIsCorrect(correct);
     setSubmitted(true);
+
     if (correct) {
-      setTimeout(() => onAnswer(true), 800);
+      if (!firstAttemptDone) {
+        onAnswer(true);
+      } else {
+        // Correct on retry — advance without re-scoring
+        setTimeout(() => onAdvance(), 800);
+      }
+    } else {
+      if (!firstAttemptDone) {
+        setFirstAttemptDone(true);
+        onAnswer(false);
+      }
     }
   };
 
@@ -49,12 +62,10 @@ export default function FillInBlank({ exercise, onAnswer }) {
     if (e.key === 'Enter') handleSubmit();
   };
 
-  // Split prompt on ___ to show inline blank
   const parts = exercise.prompt.split('___');
 
   return (
     <div className="space-y-5">
-      {/* Prompt with inline blank visualization */}
       <div className="text-lg font-medium text-white leading-relaxed">
         {parts.length > 1 ? (
           <span>
@@ -69,7 +80,6 @@ export default function FillInBlank({ exercise, onAnswer }) {
         )}
       </div>
 
-      {/* Input */}
       <div className="relative">
         <input
           ref={inputRef}
@@ -80,17 +90,15 @@ export default function FillInBlank({ exercise, onAnswer }) {
           disabled={submitted && isCorrect}
           placeholder="Type your answer..."
           className={`w-full px-4 py-3 rounded-xl border-2 bg-slate-800 text-white placeholder-slate-500 outline-none transition-all duration-200 font-medium
-            ${
-              submitted
-                ? isCorrect
-                  ? 'border-green-500 bg-green-500/10'
-                  : 'border-red-500 bg-red-500/10'
-                : 'border-slate-600 focus:border-indigo-500'
+            ${submitted
+              ? isCorrect
+                ? 'border-green-500 bg-green-500/10'
+                : 'border-red-500 bg-red-500/10'
+              : 'border-slate-600 focus:border-indigo-500'
             }`}
         />
       </div>
 
-      {/* Feedback */}
       {submitted && !isCorrect && (
         <div className="rounded-xl border border-red-500/40 bg-red-500/10 p-4 space-y-3">
           <p className="text-red-300 font-semibold flex items-center gap-2">
