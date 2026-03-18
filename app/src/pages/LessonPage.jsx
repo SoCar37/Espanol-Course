@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { useProgress } from '../hooks/useProgress'
 
 export default function LessonPage() {
@@ -88,6 +89,7 @@ export default function LessonPage() {
       {/* Lesson content */}
       <article className="prose-lesson" aria-label="Lesson content">
         <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
           components={{
             h2: ({children}) => (
               <h2 className="text-xl font-semibold text-content-primary mt-8 mb-3">{children}</h2>

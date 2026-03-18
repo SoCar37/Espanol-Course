@@ -5,6 +5,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.7.8] - 2026-03-17
+
+### Fixed
+- Lesson tables now render correctly — added `remark-gfm` plugin to `LessonPage.jsx`. Previously markdown tables displayed as raw pipe characters; they now render as styled HTML tables across all units.
+
 ## [0.7.7] - 2026-03-17
 
 ### Removed
